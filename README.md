@@ -7,3 +7,9 @@ This repository is a fork of that bill to make it easier for anyone to contribut
 You can read the bill in either markdown or PDF format:
 - [RFIA.md](RFIA.md)
 - [RFIA.pdf](RFIA.pdf)
+
+## Contributing
+
+To propose changes to the bill, edit the [RFIA.md](RFIA.md) file. To convert the markdown to a PDF, you can use a tool like [pandoc](https://pandoc.org/).
+
+`pandoc RFIA.md -s -o RFIA.pdf`
