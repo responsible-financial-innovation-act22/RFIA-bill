@@ -17,7 +17,7 @@ A bill to provide for responsible financial innovation and to bring digital asse
 
 &nbsp;
 
-*TABLE OF CONTENTS*
+## *TABLE OF CONTENTS*
 
 &nbsp;
 
@@ -166,7 +166,7 @@ Sec.809.Advisory Committee on Financial Innovation.
 
 # TITLE I—DEFINITIONS
 
-SEC. 101. DEFINITIONS.
+## SEC. 101. DEFINITIONS.
 
 (a) In General.—Subtitle VI of title 31, United States Code, is amended by adding after chapter 97 the following:
 
@@ -290,7 +290,7 @@ SEC. 101. DEFINITIONS.
 
 # TITLE II—RESPONSIBLE TAXATION OF DIGITAL ASSETS
 
-SEC. 201. GAIN FROM DISPOSITION OF DIGITAL ASSETS.
+## SEC. 201. GAIN FROM DISPOSITION OF DIGITAL ASSETS.
 
 (a) In General.—Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139I the following new section:
 
@@ -326,7 +326,7 @@ Any increase determined under the preceding sentence shall be rounded to the nea
 
 &nbsp;
 
-SEC. 202. INFORMATION REPORTING REQUIREMENTS IMPOSED ON BROKERS WITH RESPECT TO DIGITAL ASSETS.
+## SEC. 202. INFORMATION REPORTING REQUIREMENTS IMPOSED ON BROKERS WITH RESPECT TO DIGITAL ASSETS.
 
 (a) Clarification of Definition of Broker.—Section 6045(c)(1)(D) of the Internal Revenue Code of 1986 is amended to read as follows:
 
@@ -352,7 +352,7 @@ SEC. 202. INFORMATION REPORTING REQUIREMENTS IMPOSED ON BROKERS WITH RESPECT TO 
 
 &nbsp;
 
-SEC. 203. SOURCES OF INCOME.
+## SEC. 203. SOURCES OF INCOME.
 
 (a) In General.—Paragraph (2) of section 864(b) of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (C) as subparagraph (D) and by inserting after subparagraph (B) the following new subparagraph:
 
@@ -376,7 +376,7 @@ SEC. 203. SOURCES OF INCOME.
 
 &nbsp;
 
-SEC. 204. DECENTRALIZED AUTONOMOUS ORGANIZATIONS.
+## SEC. 204. DECENTRALIZED AUTONOMOUS ORGANIZATIONS.
 
 (a) In General.—Section 7701(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
 
@@ -402,7 +402,7 @@ SEC. 204. DECENTRALIZED AUTONOMOUS ORGANIZATIONS.
 
 &nbsp;
 
-SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
+## SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
 
 (a) In General.—Subsection (a) of section 1058 of the Internal Revenue Code of 1986 is amended by striking "(as defined in section 1236(c))".
 
@@ -424,7 +424,7 @@ SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
 
 &nbsp;
 
-SEC. 206. IMPLEMENTING EFFECTIVE IRS GUIDANCE.
+## SEC. 206. IMPLEMENTING EFFECTIVE IRS GUIDANCE.
 
 (a) In General.—Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary’s delegate) shall adopt guidance relating to the following:
 
@@ -442,7 +442,7 @@ SEC. 206. IMPLEMENTING EFFECTIVE IRS GUIDANCE.
 
 &nbsp;
 
-SEC. 207. ANALYSIS OF RETIREMENT INVESTING IN DIGITAL ASSETS.
+## SEC. 207. ANALYSIS OF RETIREMENT INVESTING IN DIGITAL ASSETS.
 
 (a) Not later than March 1, 2023, the Comptroller General of the United States shall conduct a study and provide a report to the entities specified in subsection (b) regarding the following issues relating to retirement investing in digital assets:
 
@@ -478,7 +478,7 @@ SEC. 207. ANALYSIS OF RETIREMENT INVESTING IN DIGITAL ASSETS.
 
 &nbsp;
 
-SEC. 208. DIGITAL ASSET MINING AND STAKING.
+## SEC. 208. DIGITAL ASSET MINING AND STAKING.
 
 (a) In General.—Section 451 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
 
@@ -488,7 +488,7 @@ SEC. 208. DIGITAL ASSET MINING AND STAKING.
 
 &nbsp;
 
-SEC. 209. CONFORMING AMENDMENTS.
+## SEC. 209. CONFORMING AMENDMENTS.
 
 (a) Charitable Contributions.—
 
@@ -534,7 +534,7 @@ SEC. 209. CONFORMING AMENDMENTS.
 
 # TITLE III—RESPONSIBLE SECURITIES INNOVATION
 
-SEC. 301. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
+## SEC. 301. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
 
 Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the following:
 
@@ -706,7 +706,7 @@ Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amende
 
 &nbsp;
 
-SEC. 302. TERMINATION OF SPECIFIED PERIODIC DISCLOSURE REQUIREMENTS.
+## SEC. 302. TERMINATION OF SPECIFIED PERIODIC DISCLOSURE REQUIREMENTS.
 
 Section 41 of the Securities Exchange Act of 1934, as added by section 301 of this Act, is amended by adding at the end the following:
 
@@ -740,13 +740,13 @@ Section 41 of the Securities Exchange Act of 1934, as added by section 301 of th
 
 &nbsp;
 
-SEC. 303. GUIDANCE RELATING TO SATISFACTORY CONTROL LOCATION.
+## SEC. 303. GUIDANCE RELATING TO SATISFACTORY CONTROL LOCATION.
 
 Not later than 180 days after the date of the enactment of this Act, the Securities and Exchange Commission (referred to in this title as the "Commission") shall issue guidance relating to section 240.15c3–3 of title 17, Code of Federal Regulations, or any successor regulation, providing that the requirement to designate a satisfactory control location for a digital asset that is, or may represent ownership of, a security may be satisfied by protecting the digital asset through commercially reasonable cybersecurity practices to maintain control of sufficient private key material to transfer control of the digital asset to another person, or to cause another person to obtain control of the digital asset, including by means of a smart contract that generates private key material without the involvement of a natural person.
 
 &nbsp;
 
-SEC. 304. CUSTODY AND CUSTOMER PROTECTION RULES.
+## SEC. 304. CUSTODY AND CUSTOMER PROTECTION RULES.
 
 (a) In General.—
 
@@ -780,7 +780,7 @@ SEC. 304. CUSTODY AND CUSTOMER PROTECTION RULES.
 
 # TITLE IV—RESPONSIBLE COMMODITIES INNOVATION
 
-SEC. 401. DEFINITIONS.
+## SEC. 401. DEFINITIONS.
 
 Section 1a of the Commodity Exchange Act (7 U.S.C. 1a) is amended—
 
@@ -848,7 +848,7 @@ Section 1a of the Commodity Exchange Act (7 U.S.C. 1a) is amended—
 
 &nbsp;
 
-SEC. 402. REPORTING AND RECORDKEEPING.
+## SEC. 402. REPORTING AND RECORDKEEPING.
 
 Section 4g of the Commodity Exchange Act (7 U.S.C. 6g) is amended—
 
@@ -858,7 +858,7 @@ Section 4g of the Commodity Exchange Act (7 U.S.C. 6g) is amended—
 
 &nbsp;
 
-SEC. 403. CFTC JURISDICTION OVER DIGITAL ASSET TRANSACTIONS.
+## SEC. 403. CFTC JURISDICTION OVER DIGITAL ASSET TRANSACTIONS.
 
 (a) Commission Jurisdiction Over Retail Digital Asset Transactions.—
 
@@ -1000,7 +1000,7 @@ SEC. 403. CFTC JURISDICTION OVER DIGITAL ASSET TRANSACTIONS.
 
 &nbsp;
 
-SEC. 404. REGISTRATION OF DIGITAL ASSET EXCHANGES.
+## SEC. 404. REGISTRATION OF DIGITAL ASSET EXCHANGES.
 
 (a) In General.—The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 5h the following:
 
@@ -1348,7 +1348,7 @@ SEC. 404. REGISTRATION OF DIGITAL ASSET EXCHANGES.
 
 &nbsp;
 
-SEC. 405. VIOLATIONS.
+## SEC. 405. VIOLATIONS.
 
 Section 9 of the Commodity Exchange Act (7 U.S.C. 13) is amended—
 
@@ -1362,7 +1362,7 @@ Section 9 of the Commodity Exchange Act (7 U.S.C. 13) is amended—
 
 &nbsp;
 
-SEC. 406. MARKET REPORTS.
+## SEC. 406. MARKET REPORTS.
 
 Section 16(a) of the Commodity Exchange Act (7 U.S.C. 20(a)) is amended—
 
@@ -1372,7 +1372,7 @@ Section 16(a) of the Commodity Exchange Act (7 U.S.C. 20(a)) is amended—
 
 &nbsp;
 
-SEC. 407. BANKRUPTCY TREATMENT OF DIGITAL ASSETS.
+## SEC. 407. BANKRUPTCY TREATMENT OF DIGITAL ASSETS.
 
 (a) In General.—Section 20(a) of the Commodity Exchange Act (7 U.S.C. 24(a)) is amended in paragraphs (1) and (2) by inserting "digital assets," after “securities,” each place it appears.
 
@@ -1450,7 +1450,7 @@ SEC. 407. BANKRUPTCY TREATMENT OF DIGITAL ASSETS.
 
 &nbsp;
 
-SEC. 408. IDENTIFIED BANKING PRODUCTS.
+## SEC. 408. IDENTIFIED BANKING PRODUCTS.
 
 Section 206(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended—
 
@@ -1464,7 +1464,7 @@ Section 206(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended—
 
 &nbsp;
 
-SEC. 409. FINANCIAL INSTITUTIONS DEFINITION.
+## SEC. 409. FINANCIAL INSTITUTIONS DEFINITION.
 
 Section 5312(c)(1) of title 31, United States Code, is amended by adding at the end the following:
 
@@ -1472,7 +1472,7 @@ Section 5312(c)(1) of title 31, United States Code, is amended by adding at the 
 
 &nbsp;
 
-SEC. 410. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
+## SEC. 410. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
 
 The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following:
 
@@ -1540,7 +1540,7 @@ The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end 
 
 # TITLE V—RESPONSIBLE CONSUMER PROTECTION
 
-SEC. 501. RESPONSIBLE CONSUMER PROTECTION.
+## SEC. 501. RESPONSIBLE CONSUMER PROTECTION.
 
 Chapter 98 of title 31, United States Code, as added by section 101(a) of this Act, is amended by adding at the end the following:
 
@@ -1628,7 +1628,7 @@ Chapter 98 of title 31, United States Code, as added by section 101(a) of this A
 
 &nbsp;
 
-SEC. 502. SOURCE CODE VERSION OF DIGITAL ASSETS.
+## SEC. 502. SOURCE CODE VERSION OF DIGITAL ASSETS.
 
 Chapter 98 of title 31, United States Code, as amended by section 501 of this Act, is amended by adding at the end the following:
 
@@ -1654,7 +1654,7 @@ Chapter 98 of title 31, United States Code, as amended by section 501 of this Ac
 
 &nbsp;
 
-SEC. 503. SETTLEMENT FINALITY.
+## SEC. 503. SETTLEMENT FINALITY.
 
 Chapter 98 of title 31, United States Code, as amended by section 502 of this Act, is amended by adding at the end the following:
 
@@ -1672,7 +1672,7 @@ Chapter 98 of title 31, United States Code, as amended by section 502 of this Ac
 
 &nbsp;
 
-SEC. 504. NOTICE TO CUSTOMERS; ENFORCEMENT.
+## SEC. 504. NOTICE TO CUSTOMERS; ENFORCEMENT.
 
 Chapter 98 of title 31, United States Code, as amended by section 503 of this Act, is amended by adding at the end the following:
 
@@ -1688,7 +1688,7 @@ Chapter 98 of title 31, United States Code, as amended by section 503 of this Ac
 
 &nbsp;
 
-SEC. 505. RIGHT TO INDIVIDUAL MANAGEMENT OF DIGITAL ASSETS.
+## SEC. 505. RIGHT TO INDIVIDUAL MANAGEMENT OF DIGITAL ASSETS.
 
 Chapter 98 of title 31, United States Code, as amended by section 504 of this Act, is amended by adding at the end the following:
 
@@ -1702,7 +1702,7 @@ Chapter 98 of title 31, United States Code, as amended by section 504 of this Ac
 
 "(2) restrict a person from freely entering into an agreement for digital asset services with a third party.".
 
-SEC. 506. TECHNICAL AND CONFORMING AMENDMENTS.
+## SEC. 506. TECHNICAL AND CONFORMING AMENDMENTS.
 
 The table of sections of chapter 98, as added by section 101(a) of this Act, is amended by adding at the end the following:
 
@@ -1720,7 +1720,7 @@ The table of sections of chapter 98, as added by section 101(a) of this Act, is 
 
 # TITLE VI—RESPONSIBLE PAYMENTS INNOVATION
 
-SEC. 601. ISSUANCE OF PAYMENT STABLECOINS.
+## SEC. 601. ISSUANCE OF PAYMENT STABLECOINS.
 
 Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470) is amended by adding at the end the following:
 
@@ -1826,13 +1826,13 @@ Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113
 
 &nbsp;
 
-SEC. 602. SANCTIONS COMPLIANCE RESPONSIBILITIES OF PAYMENT STABLECOIN ISSUERS.
+## SEC. 602. SANCTIONS COMPLIANCE RESPONSIBILITIES OF PAYMENT STABLECOIN ISSUERS.
 
 Not later than 120 days after the date of the enactment of this Act, the Secretary of the Treasury shall adopt final guidance clarifying the sanctions compliance responsibilities and liability of an issuer of a payment stablecoin with respect to downstream transactions relating to the stablecoin that take place after the stablecoin is first provided to a customer of the issuer.
 
 &nbsp;
 
-SEC. 603. USE OF THE OFFICIAL DIGITAL CURRENCY OF THE PEOPLE’S REPUBLIC OF CHINA ON GOVERNMENT DEVICES.
+## SEC. 603. USE OF THE OFFICIAL DIGITAL CURRENCY OF THE PEOPLE’S REPUBLIC OF CHINA ON GOVERNMENT DEVICES.
 
 (a) Definitions.—In this section—
 
@@ -1846,7 +1846,7 @@ SEC. 603. USE OF THE OFFICIAL DIGITAL CURRENCY OF THE PEOPLE’S REPUBLIC OF CHI
 
 &nbsp;
 
-SEC. 604. CERTIFICATE OF AUTHORITY TO COMMENCE BANKING.
+## SEC. 604. CERTIFICATE OF AUTHORITY TO COMMENCE BANKING.
 
 Section 5169 of the Revised Statutes (12 U.S.C. 27) is amended—
 
@@ -1890,7 +1890,7 @@ Section 5169 of the Revised Statutes (12 U.S.C. 27) is amended—
 
 &nbsp;
 
-SEC. 605. HOLDING COMPANY SUPERVISION OF COVERED DEPOSITORY INSTITUTIONS.
+## SEC. 605. HOLDING COMPANY SUPERVISION OF COVERED DEPOSITORY INSTITUTIONS.
 
 The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended—
 
@@ -1938,7 +1938,7 @@ The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended—
 
 &nbsp;
 
-SEC. 606. IMPLEMENTATION RULES TO PRESERVE ADEQUATE COMPETITION IN PAYMENT STABLECOINS.
+## SEC. 606. IMPLEMENTATION RULES TO PRESERVE ADEQUATE COMPETITION IN PAYMENT STABLECOINS.
 
 (a) In General.—The application of a non-depository trust company or the holder of a State license that only persons engaged in digital asset activities may obtain, which was chartered or issued under the laws of a State or the National Bank Act before the date of enactment of this Act, to receive a charter as a depository institution and to operate under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), as added by section 604 of this Act, shall be decided upon by the Comptroller of the Currency before an application for a charter to operate under that section from another entity that is filed on or after the date of enactment of this Act.
 
@@ -1948,7 +1948,7 @@ SEC. 606. IMPLEMENTATION RULES TO PRESERVE ADEQUATE COMPETITION IN PAYMENT STABL
 
 &nbsp;
 
-SEC. 607. FINANCIAL CRIMES ENFORCEMENT NETWORK INNOVATION LABORATORY.
+## SEC. 607. FINANCIAL CRIMES ENFORCEMENT NETWORK INNOVATION LABORATORY.
 
 Section 310 of title 31, United States Code, is amended by adding at the end the following:
 
@@ -1966,13 +1966,13 @@ Section 310 of title 31, United States Code, is amended by adding at the end the
 
 # TITLE VII—RESPONSIBLE BANKING INNOVATION
 
-SEC. 701. STUDY ON USE OF DISTRIBUTED LEDGER TECHNOLOGY FOR REDUCTION OF RISK IN DEPOSITORY INSTITUTIONS.
+## SEC. 701. STUDY ON USE OF DISTRIBUTED LEDGER TECHNOLOGY FOR REDUCTION OF RISK IN DEPOSITORY INSTITUTIONS.
 
 Not later than 180 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall complete a study and submit to the Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report regarding the manner in which distributed ledger technology may reduce risk for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), including settlement risk, operational risk and capital requirements.
 
 &nbsp;
 
-SEC. 702. ELIGIBILITY FOR FEDERAL RESERVE SERVICES TO DEPOSITORY INSTITUTIONS.
+## SEC. 702. ELIGIBILITY FOR FEDERAL RESERVE SERVICES TO DEPOSITORY INSTITUTIONS.
 
 (a) Findings.—Congress finds the following:
 
@@ -2006,13 +2006,13 @@ SEC. 702. ELIGIBILITY FOR FEDERAL RESERVE SERVICES TO DEPOSITORY INSTITUTIONS.
 
 &nbsp;
 
-SEC. 703. ROUTING TRANSIT NUMBER ISSUANCE.
+## SEC. 703. ROUTING TRANSIT NUMBER ISSUANCE.
 
 Not later than 2 years after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall assume responsibility for issuing routing transit numbers to depository institutions for all purposes relating to the clearing of transactions and the services required to be made available to all depository institutions under section 11A of the Federal Reserve Act (12 U.S.C. 248a).
 
 &nbsp;
 
-SEC. 704. CLARIFYING APPLICATION REVIEW TIMES WITH RESPECT TO THE FEDERAL BANKING AGENCIES.
+## SEC. 704. CLARIFYING APPLICATION REVIEW TIMES WITH RESPECT TO THE FEDERAL BANKING AGENCIES.
 
 Section 343 of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4807) is amended by striking subsection (a) and inserting the following:
 
@@ -2034,7 +2034,7 @@ Section 343 of the Riegle Community Development and Regulatory Improvement Act o
 
 &nbsp;
 
-SEC. 705. EXAMINATION STANDARDS FOR DIGITAL ASSET ACTIVITIES.
+## SEC. 705. EXAMINATION STANDARDS FOR DIGITAL ASSET ACTIVITIES.
 
 (a) In General.—Not later than 18 months after the date of enactment of this Act, the Federal Financial Institutions Examination Council, in consultation with the Financial Crimes Enforcement Network, shall publish final guidance and examiner handbooks for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), on the following topics related to digital assets:
 
@@ -2054,7 +2054,7 @@ SEC. 705. EXAMINATION STANDARDS FOR DIGITAL ASSET ACTIVITIES.
 
 &nbsp;
 
-SEC. 706. ASSET CUSTODY FOR DEPOSITORY INSTITUTIONS AND CERTAIN OTHER ENTITIES.
+## SEC. 706. ASSET CUSTODY FOR DEPOSITORY INSTITUTIONS AND CERTAIN OTHER ENTITIES.
 
 (a) Findings.—Congress finds the following:
 
@@ -2080,7 +2080,7 @@ SEC. 706. ASSET CUSTODY FOR DEPOSITORY INSTITUTIONS AND CERTAIN OTHER ENTITIES.
 
 &nbsp;
 
-SEC. 707. REPUTATION RISK; REQUIREMENTS FOR ACCOUNT TERMINATION REQUESTS AND ORDERS.
+## SEC. 707. REPUTATION RISK; REQUIREMENTS FOR ACCOUNT TERMINATION REQUESTS AND ORDERS.
 
 (a) Reputation Risk.—An appropriate Federal banking agency may not formally or informally request or order a depository institution to terminate a specific customer account or group of customer accounts unless the agency has a valid reason for such request or order, consistent with subsections (b) and (c).
 
@@ -2136,7 +2136,7 @@ SEC. 707. REPUTATION RISK; REQUIREMENTS FOR ACCOUNT TERMINATION REQUESTS AND ORD
 
 &nbsp;
 
-SEC. 708. CONFORMING AMENDMENTS.
+## SEC. 708. CONFORMING AMENDMENTS.
 
 (a) Federal Deposit Insurance Act.—Section 12 of the Federal Deposit Insurance Act (12 U.S.C. 1822) is amended by adding at the end the following:
 
@@ -2172,7 +2172,7 @@ SEC. 708. CONFORMING AMENDMENTS.
 
 # TITLE VIII—RESPONSIBLE INTERAGENCY COORDINATION
 
-SEC. 801. TIMELINE FOR INTERPRETIVE GUIDANCE ISSUED BY FEDERAL FINANCIAL AGENCIES.
+## SEC. 801. TIMELINE FOR INTERPRETIVE GUIDANCE ISSUED BY FEDERAL FINANCIAL AGENCIES.
 
 (a) In General.—Title 31, United States Code, is amended by adding after chapter 98, as added by section 101(a) of this Act, the following:
 
@@ -2220,7 +2220,7 @@ SEC. 801. TIMELINE FOR INTERPRETIVE GUIDANCE ISSUED BY FEDERAL FINANCIAL AGENCIE
 
 &nbsp;
 
-SEC. 802. INTERSTATE SANDBOX ACTIVITIES.
+## SEC. 802. INTERSTATE SANDBOX ACTIVITIES.
 
 (a) In General.—Chapter 99 of title 31, United States Code, as added by section 701 of this Act, is amended by adding at the end the following:
 
@@ -2292,7 +2292,7 @@ SEC. 802. INTERSTATE SANDBOX ACTIVITIES.
 
 &nbsp;
 
-SEC. 803. STATE MONEY TRANSMISSION COORDINATION RELATING TO DIGITAL ASSETS.
+## SEC. 803. STATE MONEY TRANSMISSION COORDINATION RELATING TO DIGITAL ASSETS.
 
 (a) In General.—In order to increase uniformity, reduce regulatory burden, and enhance consumer protection, the States, through the Conference of State Bank Supervisors and the Money Transmission Regulators Association, shall, not later than 2 years after the date of enactment of this Act, ensure uniform treatment of digital assets for the purposes of state money transmission laws on the following matters:
 
@@ -2312,7 +2312,7 @@ SEC. 803. STATE MONEY TRANSMISSION COORDINATION RELATING TO DIGITAL ASSETS.
 
 &nbsp;
 
-SEC. 804. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
+## SEC. 804. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
 
 Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470), as amended by section 601 of this Act, is amended by adding at the end the following:
 
@@ -2354,7 +2354,7 @@ Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113
 
 &nbsp;
 
-SEC. 805. ANALYSIS OF DECENTRALIZED FINANCE MARKETS AND TECHNOLOGIES.
+## SEC. 805. ANALYSIS OF DECENTRALIZED FINANCE MARKETS AND TECHNOLOGIES.
 
 Not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury, in consultation with the Commodity Futures Trading Commission, Securities and Exchange Commission, and private sector developers and participants in decentralized protocols, digital assets, and digital asset exchanges, shall—
 
@@ -2376,7 +2376,7 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
 
 &nbsp;
 
-SEC. 806. ANALYSIS OF ENERGY CONSUMPTION IN DIGITAL ASSET MARKETS.
+## SEC. 806. ANALYSIS OF ENERGY CONSUMPTION IN DIGITAL ASSET MARKETS.
 
 (a) In General.—Each year, the Federal Energy Regulatory Commission, in consultation with the Commodity Futures Trading Commission and Securities and Exchange Commission, shall analyze the following topics with respect to digital asset markets:
 
@@ -2396,7 +2396,7 @@ SEC. 806. ANALYSIS OF ENERGY CONSUMPTION IN DIGITAL ASSET MARKETS.
 
 &nbsp;
 
-SEC. 807. ANALYSIS OF SELF-REGULATION AND REGISTERED DIGITAL ASSET ASSOCIATIONS.
+## SEC. 807. ANALYSIS OF SELF-REGULATION AND REGISTERED DIGITAL ASSET ASSOCIATIONS.
 
 (a) In General.—Not later than 180 days after the date of enactment of this Act, the Commodity Futures Trading Commission and Securities and Exchange Commission, in consultation with digital asset intermediaries, as defined in section 9801 of title 31, United States Code, as added by section 101 of this Act, and standard-setting associations representing the digital asset industry, shall conduct a study and submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives a report setting forth principles for self-regulation for digital asset markets and a proposal for the establishment of registered digital asset associations for digital asset markets based on delegated authority from the Commodity Futures Trading Commission and Securities and Exchange Commission to facilitate innovative, efficient, and orderly markets for digital assets in accordance with this Act, and the amendments made by this Act, including—
 
@@ -2430,7 +2430,7 @@ SEC. 807. ANALYSIS OF SELF-REGULATION AND REGISTERED DIGITAL ASSET ASSOCIATIONS.
 
 &nbsp;
 
-SEC. 808. CYBERSECURITY STANDARDS FOR DIGITAL ASSET INTERMEDIARIES.
+## SEC. 808. CYBERSECURITY STANDARDS FOR DIGITAL ASSET INTERMEDIARIES.
 
 (a) Definition.—In this section, the term "digital asset intermediary" has the meaning given the term in section 9801 of title 31, United States Code, as added by section 101 of this Act.
 
@@ -2450,7 +2450,7 @@ SEC. 808. CYBERSECURITY STANDARDS FOR DIGITAL ASSET INTERMEDIARIES.
 
 &nbsp;
 
-SEC. 809. ADVISORY COMMITTEE ON FINANCIAL INNOVATION.
+## SEC. 809. ADVISORY COMMITTEE ON FINANCIAL INNOVATION.
 
 (a) Establishment.—There is established the Advisory Committee on Financial Innovation (in this section referred to as the "Committee").
 
