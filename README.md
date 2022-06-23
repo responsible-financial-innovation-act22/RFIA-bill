@@ -1,2553 +1,2985 @@
 # RFIA-bill
-# Lummis-Gillibrand Responsible Financial Innovation Act (S. 4356)
-
-*117th Congress, 2d Session*
-
-*Bill Status: https://www.congress.gov/bill/117th-congress/senate-bill/4356* 
-
-*Section-by-Section Overview: https://www.lummis.senate.gov/wp-content/uploads/Lummis-Gillibrand-Section-by-Section-Final.pdf* 
-
-&nbsp;
-
-A bill to provide for responsible financial innovation and to bring digital assets within the regulatory perimeter.
-
-&nbsp;
-
-*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
-
-&nbsp;
-
-*TABLE OF CONTENTS*
-
-&nbsp;
-
-*TITLE I—DEFINITIONS*
-
-Sec.101.Definitions.
-
-&nbsp;
-
-*TITLE II—RESPONSIBLE TAXATION OF DIGITAL ASSETS*
-
-Sec.201.Gain from disposition of digital assets.
-
-Sec.202.Information reporting requirements imposed on brokers with respect to digital assets.
-
-Sec.203.Sources of income.
-
-Sec.204.Decentralized autonomous organizations.
-
-Sec.205.Tax treatment of digital asset lending agreements and related matters.
-
-Sec.206.Implementing effective IRS guidance.
-
-Sec.207.Analysis of retirement investing in digital assets.
-
-Sec.208.Digital asset mining and staking.
-
-Sec.209.Conforming amendments.
-
-&nbsp;
-
-*TITLE III—RESPONSIBLE SECURITIES INNOVATION*
-
-Sec.301.Securities offerings involving certain intangible assets.
-
-Sec.302.Termination of specified periodic disclosure requirements.
-
-Sec.303.Guidance relating to satisfactory control location.
-
-Sec.304.Custody and customer protection rules.
-
-&nbsp;
-
-*TITLE IV—RESPONSIBLE COMMODITIES INNOVATION*
-
-Sec.401.Definitions.
-
-Sec.402.Reporting and recordkeeping.
-
-Sec.403.CFTC jurisdiction over digital asset transactions.
-
-Sec.404.Registration of digital asset exchanges.
-
-Sec.405.Violations.
-
-Sec.406.Market reports.
-
-Sec.407.Bankruptcy treatment of digital assets.
-
-Sec.408.Identified banking products.
-
-Sec.409.Financial institutions definition.
-
-Sec.410.Offsetting the costs of digital asset regulation.
-
-
-&nbsp;
-
-
-*TITLE V—RESPONSIBLE CONSUMER PROTECTION*
-
-Sec.501.Responsible consumer protection.
-
-Sec.502.Source code version of digital assets.
-
-Sec.503.Settlement finality.
-
-Sec.504.Notice to customers; enforcement.
-
-Sec.505.Right to individual management of digital assets.
-
-Sec.506.Technical and conforming amendments.
-
-&nbsp;
-
-*TITLE VI—RESPONSIBLE PAYMENTS INNOVATION*
-
-Sec.601.Issuance of payment stablecoins.
-
-Sec.602.Sanctions compliance responsibilities of payment stablecoin issuers.
-
-Sec.603.Use of the official digital currency of the People’s Republic of China on Government devices.
-
-Sec.604.Certificate of authority to commence banking.
-
-Sec.605.Holding company supervision of covered depository institutions.
-
-Sec.606.Implementation rules to preserve adequate competition in payment stablecoins.
-
-Sec.607.Financial Crimes Enforcement Network Innovation Laboratory.
-
-&nbsp;
-
-*TITLE VII—RESPONSIBLE BANKING INNOVATION*
-
-Sec.701.Study on use of distributed ledger technology for reduction of risk in depository institutions.
-
-Sec.702.Eligibility for Federal Reserve services to depository institutions.
-
-Sec.703.Routing transit number issuance.
-
-Sec.704.Clarifying application review times with respect to the Federal banking agencies.
-
-Sec.705.Examination standards for digital asset activities.
-
-Sec.706.Asset custody for depository institutions and certain other entities.
-
-Sec.707.Reputation risk; requirements for account termination requests and orders.
-
-Sec.708.Conforming amendments.
-
-&nbsp;
-
-*TITLE VIII—RESPONSIBLE INTERAGENCY COORDINATION*
-
-Sec.801.Timeline for interpretive guidance issued by Federal financial agencies.
-
-Sec.802.Interstate sandbox activities.
-
-Sec.803.State money transmission coordination relating to digital assets.
-
-Sec.804.Information sharing among Federal and State financial regulators.
-
-Sec.805.Analysis of decentralized finance markets and technologies.
-
-Sec.806.Analysis of energy consumption in digital asset markets.
-
-Sec.807.Analysis of self-regulation and registered digital asset associations.
-
-Sec.808.Cybersecurity standards for digital asset intermediaries.
-
-Sec.809.Advisory Committee on Financial Innovation.
-
-&nbsp;
-
-
-# TITLE I—DEFINITIONS
-
-SEC. 101. DEFINITIONS.
-
-(a) In General.—Subtitle VI of title 31, United States Code, is amended by adding after chapter 97 the following:
-
-"CHAPTER 98—DIGITAL ASSETS
-
-"Sec.
-
-"9801. Definitions.
-
-"9801. Definitions
-
-"In this chapter:
-
-"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)).
-
-"(2) Digital asset.—The term ‘digital asset’
-
-"(A) means a natively electronic asset that—
-
-"(i) confers economic, proprietary, or access rights or powers; and
-
-"(ii) is recorded using cryptographically secured distributed ledger technology, or any similar analogue; and
-
-"(B) includes—
-
-"(i) virtual currency and ancillary assets in accordance with section 2(c)(2)(F) of the Commodity Exchange Act;
-
-"(ii) payment stablecoins in accordance with section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a); and
-
-"(iii) any other security or commodity that meets the requirements of subparagraph (A).
-
-"(3) Digital asset intermediary.—The term ‘digital asset intermediary’—
-
-"(A) means—
-
-"(i) a person who holds a license, registration, or other similar authorization, as specified by this chapter, the Commodity Exchange Act (7 U.S.C. 1 et seq.), the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Corporation of Foreign Bondholders Act, 1933 (15 U.S.C. 77bb et seq.), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), the Investment Advisers Act of 1940 (15 U.S.C. 80b–1), and the Omnibus Small Business Capital Formation Act of 1980 (15 U.S.C. 80c), that may conduct market activities relating in digital assets; or
-
-"(ii) a person who is required by law to hold a license, registration, or other similar authorization described in clause (i); and
-
-"(B) includes—
-
-"(i) a person who holds a license, registration, or other similar authorization under State or Federal law that issues a payment stablecoin; and
-
-"(ii) a person who is required by law to hold a license, registration, or other similar authorization described in clause (i); and
-
-"(C) does not include a depository institution.
-
-"(4) Distributed ledger technology.—The term ‘distributed ledger technology’ means technology that enables the operation and use of a ledger that—
-
-"(A) is shared across a set of distributed nodes that participate in a network and store a complete or partial replica of the ledger;
-
-"(B) is synchronized between the nodes;
-
-"(C) has data appended to the ledger by following the specified consensus mechanism of the ledger;
-
-"(D) may be accessible to anyone or restricted to a subset of participants; and
-
-"(E) may require participants to have authorization to perform certain actions or require no authorization.
-
-"(5) Payment stablecoin.—The term ‘payment stablecoin’ means a digital asset that is—
-
-"(A) redeemable, on demand, on a 1-to-1 basis for instruments denominated in United States dollars;
-
-"(B) defined as legal tender under section 5103 or under the laws of a foreign country (excluding digital assets);
-
-"(C) issued by a business entity;
-
-"(D) accompanied by a statement from the issuer that the asset is redeemable, as specified in subparagraph (A), from the issuer or another identified person;
-
-"(E) backed by 1 or more financial assets (excluding other digital assets), consistent with subparagraph (A); and
-
-"(F) intended to be used as a medium of exchange.
-
-"(6) Person who provides digital asset services.—The term ‘person who provides digital asset services’ means—
-
-"(A) a digital asset intermediary;
-
-"(B) a financial institution, as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a);
-
-"(C) any other person conducting digital asset activities pursuant to a Federal or State charter, license, registration, or other similar authorization; and
-
-"(D) any person who is required by law to hold a license, registration, or other similar authorization described in subparagraph (C).
-
-"(7) Security.—The term ‘security’ has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
-
-"(8) Smart contract.—The term ‘smart contract’—
-
-"(A) means—
-
-"(i) computer code deployed to a distributed ledger technology network that executes an instruction based on the occurrence or nonoccurrence of specified conditions; or
-
-"(ii) any similar analogue; and
-
-"(B) includes taking possession or control of a digital asset and transferring the asset or issuing executable instructions for these actions.
-
-"(9) Source code version.—The term ‘source code version’—
-
-"(A) means the source code version comprising a digital asset; and
-
-"(B) does not include software used to manage or facilitate transactions in a digital asset.
-
-"(10) Virtual currency.—The term ‘virtual currency’—
-
-"(A) means a digital asset that—
-
-"(i) is used primarily as a medium of exchange, unit of account, store of value, or any combination of such functions;
-
-"(ii) is not legal tender, as described in section 5103; and
-
-"(iii) does not derive value from or is backed by an underlying financial asset (except other digital assets); and
-
-"(B) includes a digital asset, consistent with subparagraph (A) that is accompanied by a statement from the issuer that a denominated or pegged value will be maintained and be available upon redemption from the issuer or other identified person, based solely on a smart contract.".
-
-(b) Technical and Conforming Amendment.—The table of contents for subtitle VI of title 31, United States Code, is amended by adding at the end the following:
-
-"98.Digital assets
-
-9801".
-
-&nbsp;
-
-# TITLE II—RESPONSIBLE TAXATION OF DIGITAL ASSETS
-
-SEC. 201. GAIN FROM DISPOSITION OF DIGITAL ASSETS.
-
-(a) In General.—Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139I the following new section:
-
-"SEC. 139J. GAIN OR LOSS FROM SALE OR EXCHANGE OF VIRTUAL CURRENCY.
-
-"(a) In General.—Gross income shall not include gain or loss from the sale or exchange of virtual currency in a personal transaction (as defined in section 988(e)(3)) for goods and services.
-
-"(b) Limitation.—
-
-"(1) In general.—The amount of gain or loss excluded from gross income under subsection (a) with respect to a sale or exchange shall not exceed $200.
-
-"(2) Aggregation rule.—For purposes of this subsection, all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as one sale or exchange.
-
-"(c) Other Sales or Exchanges.—Subsection (a) shall not apply to sales or exchanges in which virtual currency is sold or exchanged for cash, cash equivalents, digital assets (as defined in section 9801 of title 31, United States Code), or other securities or commodities.
-
-"(d) Virtual Currency.—For purposes of this section, the term ‘virtual currency’ has the meaning given such term in section 9801 of title 31, United States Code.
-
-"(e) Inflation Adjustment.—In the case of any taxable year beginning in a calendar year after 2023, the dollar amount in subsection (b) shall be increased by an amount equal to—
-
-"(1) such dollar amount, multiplied by
-
-"(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 2022’ for ‘calendar year 2016’ in subparagraph (A)(ii) thereof.
-
-Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.".
-
-(b) Clerical Amendment.—The table of sections for part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 139I the following new item:
-
-"Sec.139J.Gain or loss from sale or exchange of virtual currency.".
-
-(c) Reporting of Gains or Losses.—The Secretary shall issue regulations providing for information returns on virtual currency transactions for which gain or loss is recognized.
-
-(d) Effective Date.—The amendments made by this section shall apply to transactions entered into after December 31, 2022.
-
-&nbsp;
-
-SEC. 202. INFORMATION REPORTING REQUIREMENTS IMPOSED ON BROKERS WITH RESPECT TO DIGITAL ASSETS.
-
-(a) Clarification of Definition of Broker.—Section 6045(c)(1)(D) of the Internal Revenue Code of 1986 is amended to read as follows:
-
-"(D) any person who (for consideration) stands ready in the ordinary course of a trade or business to effect sales of digital assets at the direction of their customers.".
-
-(b) Reporting of Digital Assets.—
-
-(1) Brokers.—
-
-(A) Definition of digital asset.—Section 6045(g)(3)(D) of the Internal Revenue Code of 1986 is amended to read as follows:
-
-"(D) Digital asset.—The term ‘digital asset’ has the meaning given such term in section 9801 of title 31, United States Code.".
-
-(B) Applicable date.—Section 6045(g)(3)(C)(iii) of such Code is amended to read as follows:
-
-"(iii) January 1, 2025, in the case of any specified security which is a digital asset, and".
-
-(2) Furnishing of information.—Section 6045A(d) of such Code is amended to read as follows:
-
-"(d) Return Requirement for Certain Transfers of Digital Assets Not Otherwise Subject to Reporting.—Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such broker) during a calendar year of a covered security which is a digital asset from an account wholly controlled and maintained by such broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a). Information reported by brokers under this section shall be limited to customer information that is voluntarily provided by the customer and held by the broker for a legitimate business purpose.".
-
-(c) Effective Dates.—The amendments made by this section shall apply to returns required to be filed and statements required to be furnished after December 31, 2025.
-
-&nbsp;
-
-SEC. 203. SOURCES OF INCOME.
-
-(a) In General.—Paragraph (2) of section 864(b) of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (C) as subparagraph (D) and by inserting after subparagraph (B) the following new subparagraph:
-
-"(C) Digital assets.—
-
-"(i) In general.—Trading in digital assets through a resident broker, commission agent, custodian, digital asset exchange, or other independent agent.
-
-"(ii) Trading for taxpayer’s own account.—Trading in digital assets for the taxpayer’s own account, whether by the taxpayer or the taxpayer’s employees or through a resident broker, commission agent, custodian, digital asset exchange, or other agent, and whether or not any such employee or agent has discretionary authority to make decisions in effecting the transactions. This clause shall not apply in the case of a dealer in digital assets.
-
-"(iii) Definitions.—For purposes of this subparagraph—
-
-"(I) Digital asset exchange.—The term ‘digital asset exchange’ means a centralized or decentralized platform which facilitates the transfer of digital assets.
-
-"(II) Digital asset.—The term ‘digital asset’ has the meaning given such term in section 9801 of title 31, United States Code.
-
-"(iv) Limitation.—This subparagraph shall apply only if the digital assets are of a kind customarily dealt in on a digital asset exchange and if the transaction is of a kind customarily consummated at such exchange.".
-
-(b) Conforming Amendment.—Subparagraph (D) of section 864(b)(2) of the Internal Revenue Code of 1986, as redesignated by subsection (a), is amended by striking "(A)(i) and (B)(i)" and inserting “(A)(i), (B)(i), and (C)(i)”.
-
-(c) Effective Date.—The amendments made by this section shall apply to sales and exchanges after December 31, 2022.
-
-&nbsp;
-
-SEC. 204. DECENTRALIZED AUTONOMOUS ORGANIZATIONS.
-
-(a) In General.—Section 7701(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
-
-"(51) Decentralized autonomous organizations.—
-
-"(A) In general.—The default classification of a decentralized autonomous organization shall be as a business entity which is not a disregarded entity.
-
-"(B) Classification of other activities.—The following shall not be considered a business activity of such organization for purposes of determining whether such organization is described in section 501(c)(7):
-
-"(i) Treasury management, including mining and staking of digital assets (as defined in section 9801 of title 31, United States Code).
-
-"(ii) Raising funds for a charitable purpose.
-
-"(C) Decentralized autonomous organization.—The term ‘decentralized autonomous organization’ means an organization—
-
-"(i) which utilizes smart contracts (as defined in section 9801 of title 31, United States Code) to effectuate collective action for a business, commercial, charitable, or similar entity,
-
-"(ii) governance of which is achieved primarily on a distributed basis, and
-
-"(iii) which is properly incorporated or organized under the laws of a State or foreign jurisdiction as a decentralized autonomous organization, cooperative, foundation, or any similar entity.".
-
-(b) Effective Date.—Except as provided by subsection (c), the amendments made by this section shall apply to taxable years beginning after December 31, 2022.
-
-&nbsp;
-
-SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
-
-(a) In General.—Subsection (a) of section 1058 of the Internal Revenue Code of 1986 is amended by striking "(as defined in section 1236(c))".
-
-(b) Fixed Term.—Paragraph (1) of subsection (b) of section 1058 of the Internal Revenue Code of 1986 is amended by inserting ", including a fixed-term transfer that occurs in the ordinary course of a securities lending or investment management business" after “transferred”.
-
-(c) Basis.—Subsection (c) of section 1058 of the Internal Revenue Code of 1986 is amended by adding at the end the following: "All appropriate basis adjustments to an agreement under subsection (b) shall be made, as determined by the Secretary, including upon the return of the lent securities to the taxpayer.".
-
-(d) Securities.—Section 1058 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsections:
-
-"(d) Securities.—For purposes of this section, the term ‘securities’ has the meaning given such term by section 1236(c), except that such term includes any digital asset (as defined in section 9801 of title 31, United States Code) and, with respect to a digital asset, does not require a call option.
-
-"(e) Income.—An amount equal to the income which would otherwise accrue to the lender but for a lending transaction under this section shall be included in gross income of the lender.".
-
-(e) Rule of Construction.—Nothing in this section shall be construed to create any inference with respect to the classification of any digital asset as security under the Securities Act of 1933 (15 U.S.C. 77a et seq.) or the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
-
-(f) Rulemaking Authority.—The Secretary of the Treasury (or the Secretary’s delegate) may adopt rules to implement this section, including the application of this section to forks, airdrops, and similar subsidiary value.
-
-(g) Effective Date.—The amendments made by this section shall apply to sales and exchanges after December 31, 2022.
-
-&nbsp;
-
-SEC. 206. IMPLEMENTING EFFECTIVE IRS GUIDANCE.
-
-(a) In General.—Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary’s delegate) shall adopt guidance relating to the following:
-
-(1) Classification of forks, airdrops, and similar subsidiary value as taxable, contingent upon the affirmative claim and disposition of the subsidiary value by a taxpayer. Such guidance shall also permit a taxpayer to provide notification through an annual return or other appropriate means to the Internal Revenue Service relating to claim and disposition of, or disclaimer of, subsidiary value.
-
-(2) Merchant acceptance of digital assets and the tax treatment of payments and receipts, consistent with the amendments made by section 80603 of the Infrastructure Investment and Jobs Act, as amended by section 203.
-
-(3) Treatment of digital asset mining and staking, including mining and staking rewards, in which income is not realized until disposition of the assets produced or received in connection with such activity, in accordance with section 451(l) of the Internal Revenue Code of 1986 (as added by this Act).
-
-(4) Classification of charitable contributions greater than $5,000 of digital assets which are traded on established financial markets as contributions of readily valued property not requiring a qualified appraisal for purposes of section 170(f)(11)(A) of the Internal Revenue Code of 1986, as amended by this Act.
-
-(5) Characterization of payment stablecoins (as defined in section 9801 of title 31, United States Code) as indebtedness.
-
-(b) Effective Date.—The guidance adopted under this section shall be applicable on a prospective basis for taxable years beginning after December 31, 2023.
-
-&nbsp;
-
-SEC. 207. ANALYSIS OF RETIREMENT INVESTING IN DIGITAL ASSETS.
-
-(a) Not later than March 1, 2023, the Comptroller General of the United States shall conduct a study and provide a report to the entities specified in subsection (b) regarding the following issues relating to retirement investing in digital assets:
-
-(1) Potential benefits to diversification and return of an investor’s retirement portfolio.
-
-(2) Appropriate asset allocations, including among other alternative investments.
-
-(3) Consumer education, financial literacy and investment advisor training relating to digital assets.
-
-(4) Risk.
-
-(5) Legal and operational barriers to effective retirement investing in digital assets.
-
-(6) Any other topic determined to be material by the Comptroller General relating to retirement investing in digital assets.
-
-(b) The Comptroller General shall provide the report required by subsection (a) to the following:
-
-(1) The Committee on Banking, Housing, and Urban Affairs of the Senate.
-
-(2) The Committee on Finance of the Senate.
-
-(3) The Committee on Health, Education, Labor, and Pensions of the Senate.
-
-(4) The Committee on Financial Services of the House of Representatives.
-
-(5) The Committee on Ways and Means of the House of Representatives.
-
-(6) The Committee on Education and Labor of the House of Representatives.
-
-(7) The Secretary of the Treasury.
-
-(8) The Secretary of Labor.
-
-&nbsp;
-
-SEC. 208. DIGITAL ASSET MINING AND STAKING.
-
-(a) In General.—Section 451 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
-
-"(l) Deferral of Income Recognition for Digital Asset Activities.—In the case of a taxpayer who conducts digital asset mining or staking activities, the amount of income relating to such activities shall not be included in the gross income of the taxpayer until the taxable year of the disposition of the assets produced or received in connection with the mining or staking activities.".
-
-(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2022.
-
-&nbsp;
-
-SEC. 209. CONFORMING AMENDMENTS.
-
-(a) Charitable Contributions.—
-
-(1) In general.—Subclause (I) of section 170(f)(11)(A)(ii) of the Internal Revenue Code of 1986 is amended by inserting ", digital assets (as defined in section 9801 of title 31, United States Code)" after “6050L(a)(2)(B))”.
-
-(2) Effective date.—The amendment made by this subsection shall apply to taxable years beginning after December 31, 2022.
-
-(b) Other Conforming Amendments.—
-
-(1) In general.—Title 31, United States Code, is amended—
-
-(A) in section 5312(a)(2)—
-
-(i) by redesignating subparagraphs (A) through (Z) as clauses (i) through (xxvi), respectively;
-
-(ii) in the matter preceding clause (i), as so designated, by striking "‘institution’ means—" and inserting “‘institution'—
-
-"(A) means—";
-
-(iii) in clause (xxvi), as so designated, by striking the period at the end and inserting "; and"; and
-
-(iv) by adding at the end the following:
-
-"(B) does not include a decentralized autonomous organization, as defined in section 7701(a) of the Internal Revenue Code of 1986."; and
-
-(B) in section 5336(a)(11)(B)(2)—
-
-(i) by redesignating clause (xxv) as clause (xxvi); and
-
-(ii) by adding after clause (xxv) the following:
-
-"(xxv) A decentralized autonomous organization, as defined in section 7701(a) of the Internal Revenue Code of 1986; and".
-
-(2) Anti-money laundering act of 2020.—Section 6110(a) of the Anti-Money Laundering Act of 2020 (division F of Public Law 116–283) is amended by striking paragraph (1) and inserting the following:
-
-"(A) by redesignating clauses (xxv) and (xxvi) as clauses (xxvi) and (xxvii), respectively, and adjust the margins accordingly; and
-
-"(B) by inserting after clause (xxiv) the following:
-
-"‘(Y) a person engaged in the trade of antiquities, including an advisor, consultant, or any other person who engages as a business in the solicitation or the sale of antiquities, subject to regulations prescribed by the Secretary;’.".
-
-&nbsp;
-
-# TITLE III—RESPONSIBLE SECURITIES INNOVATION
-
-SEC. 301. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
-
-Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the following:
-
-"SEC. 41. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
-
-"(a) Definitions.—In this section:
-
-"(1) Ancillary asset.—
-
-"(A) In general.—The term ‘ancillary asset’ means an intangible, fungible asset that is offered, sold, or otherwise provided to a person in connection with the purchase and sale of a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)).
-
-"(B) Exclusion.—The term ‘ancillary asset’ does not include an asset that provides the holder of the asset with any of the following rights in a business entity:
-
-"(i) A debt or equity interest in that entity.
-
-"(ii) Liquidation rights with respect to that entity.
-
-"(iii) An entitlement to an interest or dividend payment from that entity.
-
-"(iv) A profit or revenue share in that entity solely from the entrepreneurial or managerial efforts of others.
-
-"(v) Any other financial interest in that entity.
-
-"(2) Foreign private issuer.—The term ‘foreign private issuer’ means a foreign issuer, other than a foreign government, except that the term does not include a foreign issuer that, as of the last business day of the most recently completed fiscal quarter of the issuer, satisfies the following conditions:
-
-"(A) More than 50 percent of the outstanding voting securities of the issuer are directly or indirectly owned by residents of the United States.
-
-"(B) Any of the following:
-
-"(i) The majority of the executive officers or directors of the issuer are citizens or residents of the United States.
-
-"(ii) More than 50 percent of the assets of the issuer are located in the United States.
-
-"(iii) The business of the issuer is principally administered in the United States.
-
-"(b) Disclosure Requirements.—
-
-"(1) Initial compliance with specified periodic disclosure requirements.—Subject to paragraphs (4) and (5), an issuer engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides or proposes to provide any holder of the security with an ancillary asset, shall be subject to the periodic disclosure requirements under subsection (c) for the 1-year period beginning on the date that is 180 days after the first date on which the security is offered, sold, or otherwise provided by the issuer, if—
-
-"(A) the average daily aggregate value of all ancillary assets offered, sold, or otherwise provided by the issuer in relation to the offer, sale, or provision of the security in all spot markets open to the public in the United States (based on the knowledge of the issuer after due inquiry) is greater than $5,000,000 for the 180-day period immediately succeeding the date of that first offer, sale, or provision; and
-
-"(B) during the 180-day period described in subparagraph (A), the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
-
-"(2) Ongoing compliance with specified periodic disclosure requirements.—Subject to paragraphs (4) and (5), an issuer that is engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of the security with an ancillary asset in connection with the acquisition of the security, shall be subject to the periodic disclosure requirements under subsection (c) for a given fiscal year of that issuer, if, in the immediately preceding fiscal year of the issuer (or any portion thereof)—
-
-"(A) the average daily aggregate value of all trading in the ancillary asset in all spot markets open to the public in the United States was greater than $5,000,000, based on the knowledge of the issuer after due inquiry; and
-
-"(B) the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
-
-"(3) Transition rule.—Subject to paragraphs (4) and (5), an issuer that is engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of the security with an ancillary asset before January 1, 2023, in connection with the acquisition of the security shall be subject to the periodic disclosure requirements under subsection (c) beginning in the first fiscal year of the issuer that begins on or after that date, if, in the immediately preceding fiscal year of the issuer—
-
-"(A) the average daily aggregate value of trading in the ancillary asset in all spot markets open to the public for which trading volume is generally available was greater than $5,000,000, based on the knowledge of the issuer after due inquiry; and
-
-"(B) the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
-
-"(4) Treatment of ancillary assets.—
-
-"(A) In general.—Notwithstanding any other provision of law, if an issuer issues a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), is subject to paragraph (1), (2), or (3), and is in compliance with the periodic disclosure requirements under subsection (c), an ancillary asset provided directly or indirectly by the issuer shall be presumed—
-
-"(i) to be a commodity, consistent with section 2(c)(2)(F) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)(F)); and
-
-"(ii) not to be a security under—
-
-"(I) section 3(a);
-
-"(II) such section 2(a)(1);
-
-"(III) section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a));
-
-"(IV) section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)); or
-
-"(V) any applicable provision of State law.
-
-"(B) Other persons.—A person who is not an issuer, an entity controlled by an issuer (including a person that acquires an ancillary asset from such an issuer for the purpose of resale or distribution of the ancillary asset), or a person acting at the direction or on the behalf of an issuer shall be not required to treat an ancillary asset provided by an issuer as a security under this Act or any provision of law described in subparagraph (A)(ii).
-
-"(C) Exception.—
-
-"(i) In general.—Subparagraph (A) shall not apply to an ancillary asset if a court of the United States of competent jurisdiction, after an appropriate proceeding, issues an order finding that there is not a substantial basis for the presumption that the ancillary asset is a commodity and not a security under subparagraph (A).
-
-"(ii) Rules of construction.—Nothing in this subparagraph shall be construed to preclude the Commission from entering into a settlement agreement relating to violations or alleged violations of this section. Compliance under this section shall not be used in any administrative or judicial proceeding that an ancillary asset is a security.
-
-"(5) Calculation.—For the purposes of paragraphs (1), (2), and (3), the calculation of daily aggregate value shall be based on data disclosed by spot markets or otherwise available to the public for inspection.
-
-"(c) Specified Periodic Disclosure Requirements.—If an issuer is subject to paragraph (1), (2), or (3) of subsection (b), the issuer shall furnish, or cause the relevant affiliate to furnish, to the Commission, on a semi-annual basis, information that the Commission may, by rule, require relating to the issuer and any relevant ancillary asset, as necessary or appropriate in the public interest or for the protection of investors, which shall be exclusively comprised of the following:
-
-"(1) Basic corporate information regarding the issuer, including the following:
-
-"(A) The experience of the issuer in developing assets similar to the ancillary asset.
-
-"(B) If the issuer has previously provided ancillary assets to purchasers of securities, information on the subsequent history of those previously provided ancillary assets, including price history, if the information is publicly available.
-
-"(C) The activities that the issuer has taken in the relevant disclosure period, and is projecting to take in the 1-year period following the submission of the disclosure, with respect to promoting the use, value, or resale of the ancillary asset (including any activity to facilitate the creation or maintenance of a trading market for the ancillary asset and any network or system that utilizes the ancillary asset).
-
-"(D) The anticipated cost of the activities of the issuer in subparagraph (C) and whether the issuer has unencumbered, liquid funds equal to that amount.
-
-"(E) To the extent the ancillary asset involves the use of a particular technology, the experience of the issuer with the use of that technology.
-
-"(F) The backgrounds of the board of directors (or equivalent body), senior management, and key employees of the issuer, the experience or functions of whom are material to the value of the ancillary asset, as well as any personnel changes relating to the issuer during the period covered by the disclosure.
-
-"(G) A description of the assets and liabilities of the issuer, to the extent material to the value of the ancillary asset.
-
-"(H) A description of any legal proceedings in which the issuer is engaged (including inquiries by governmental agencies into the activities of the issuer), to the extent material to the value of the ancillary asset.
-
-"(I) Risk factors relating to the impact of the issuer on, or unique knowledge relating to, the value of the ancillary asset.
-
-"(J) Information relating to ownership of the ancillary asset by—
-
-"(i) persons owning not less than 10 percent of any class of equity security of the issuer; and
-
-"(ii) the management of the issuer.
-
-"(K) Information relating to transactions involving the ancillary asset by the issuer with related persons, promoters, and control persons.
-
-"(L) Recent sales or similar dispositions of ancillary assets by the issuer and affiliates of the issuer.
-
-"(M) Purchases or similar dispositions of ancillary assets by the issuer and affiliates of the issuer.
-
-"(N) A going concern statement from the chief financial officer of the issuer or equivalent official, signed under penalty of perjury, stating whether the issuer maintains the financial resources to continue business as a going concern for the 1-year period following the submission of the disclosure, absent a material change in circumstances.
-
-"(2) Information relating to the ancillary asset, including the following:
-
-"(A) A general description of the ancillary asset, including the standard unit of measure with respect to the ancillary asset, the intended or known functionality and uses of the ancillary asset, the market for the ancillary asset, other assets or services that may compete with the ancillary asset, and the total supply of the ancillary asset or the manner and rate of the ongoing production or creation of the ancillary asset.
-
-"(B) If ancillary assets have been offered, sold, or otherwise provided by the issuer to investors, intermediaries, or resellers, a description of the amount of assets offered, sold, or provided, the terms of each such transaction, and any contractual or other restrictions on the resale of the assets by intermediaries.
-
-"(C) If ancillary assets were distributed without charge, a description of each distribution, including the identity of any recipient that received more than 5 percent of the total amount of the ancillary assets in any such distribution.
-
-"(D) The amount of ancillary assets owned by the issuer.
-
-"(E) For the 1-year period following the submission of the disclosure, a description of the plans of the issuer to support (or to cease supporting) the use or development of the ancillary asset, including markets for the ancillary asset and each platform or system that uses the ancillary asset.
-
-"(F) Each third party not affiliated with the issuer, the activities of which may have a material impact on the value of the ancillary asset.
-
-"(G) Risk factors known to the issuer that may limit demand for, or interest in, the ancillary asset.
-
-"(H) The names and locations of the markets in which the ancillary asset is known by the issuer to be available for sale or purchase.
-
-"(I) To the extent available to the issuer, the average daily price for a constant unit of value of the ancillary asset during the relevant reporting period, as well as the 12-month high and low prices for the ancillary asset.
-
-"(J) If applicable, information relating to any external audit of the code and functionality of the ancillary asset, including the entity performing the audit and the experience of the entity in conducting similar audits.
-
-"(K) If applicable, any third-party valuation report or economic analysis regarding the ancillary asset or the projected market of the ancillary asset, which shall include the entity performing the valuation or analysis and the experience of the entity in conducting similar reports or analyses.
-
-"(L) If the ancillary asset is intangible, information relating to custody by the owner of the ancillary asset or a third party.
-
-"(M) Information on intellectual property rights claimed or disputed relating to the ancillary asset.
-
-"(N) A description of the technology underlying the ancillary asset.
-
-"(O) Any material tax considerations applicable to owning, storing, using, or trading the ancillary asset.
-
-"(P) Any material legal or regulatory considerations applicable to owning, storing, using, or trading the ancillary asset, including any legal proceeding that may impact the value of the ancillary asset.
-
-"(Q) Any other material factor or information that may impact the value of the ancillary asset and about which the issuer is reasonably aware.
-
-"(d) Application to Successor Entities and Certain Affiliates.—
-
-"(1) In general.—If an issuer would otherwise be subject to specified periodic disclosure requirements under subsection (c) and is no longer in operation, any successor entity that directly or indirectly received not less than 50 percent of the proceeds raised by the sale of the related securities of that issuer, and that is engaged in entrepreneurial or managerial efforts that primarily determine the value of the applicable ancillary asset, shall furnish, or cause to be furnished, to the Commission the information required under that subsection.
-
-"(2) Certain affiliates.—If an entity controlled by an issuer is subject to specified periodic disclosure requirements under subsection (c) and is engaged in entrepreneurial or managerial efforts that primarily determine the value of an ancillary asset, the entity may furnish to the Commission the information required under that subsection.
-
-"(e) Voluntary Disclosure.—An issuer that is not subject to the specified periodic disclosure requirements under subsection (c) and that offers or sells a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of that security with an ancillary asset in connection with the acquisition of the security may voluntarily furnish to the Commission the information required under that subsection if the issuer believes that it is reasonably likely that the issuer will become subject to those requirements in the future.
-
-"(f) Exemptions.—The Commission may, by order, exempt an ancillary asset from the specified periodic disclosure requirements under subsection (c) if the Commission determines that the public policy goals of disclosure and consumer protection are not satisfied by requiring disclosures relating to an ancillary asset.
-
-"(g) Rule of Construction.—If an issuer fails to comply with a provision of this section, an ancillary asset provided by the issuer shall not be presumed to be a security under a provision of law described in subsection (b)(4)(A)(ii), solely because of such failure.
-
-"(h) Rules.—The Commission may adopt rules and guidance to implement this section, consistent with the statutory intent of this section.".
-
-&nbsp;
-
-SEC. 302. TERMINATION OF SPECIFIED PERIODIC DISCLOSURE REQUIREMENTS.
-
-Section 41 of the Securities Exchange Act of 1934, as added by section 301 of this Act, is amended by adding at the end the following:
-
-"(i) Termination of Specified Periodic Disclosure Requirements.—
-
-"(1) In general.—The obligation of an issuer to furnish the information required under subsection (c) shall terminate on the date that is 90 days, or such shorter period as the Commission may determine, after the date on which the issuer files a certification described in paragraph (2).
-
-"(2) Certification.—
-
-"(A) In general.—A certification filed under paragraph (1) shall be supported by reasonable evidence, based on the knowledge of the issuer filing the certification, after due inquiry, that—
-
-"(i) the average daily aggregate value of all trading in the applicable ancillary asset in all spot markets open to the public in the United States in the 12-month period preceding the date on which the certification is filed was not greater than $5,000,000; or
-
-"(ii) during the 12-month period preceding the date on which the certification is filed, neither the applicable issuer, nor any entity controlled by the applicable issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
-
-"(B) Denial.—
-
-"(i) In general.—Subject to subparagraph (C)(ii), the Commission may, by majority vote and after notice and opportunity for hearing, deny a certification filed under paragraph (1) if the Commission finds that the certification is not supported by substantial evidence.
-
-"(ii) Effect.—The denial, under clause (i), of a certification filed under paragraph (1)—
-
-"(I) shall terminate the certification so filed; and
-
-"(II) shall not prevent the applicable issuer from filing another certification under paragraph (1), if the re-filed certification is filed not earlier than 180 days after the date on which the original certification is denied.
-
-"(C) Pending status.—
-
-"(i) In general.—Termination of the disclosure requirements described in paragraph (1) applicable to an issuer that has filed a certification under that paragraph shall be deferred pending review by the Commission of the evidence supporting the certification.
-
-"(ii) Effect of delay.—If, as of the date that is 90 days after receiving a certification filed under paragraph (1), the Commission has not requested additional evidence with respect to the certification from the applicable issuer, the disclosure obligations that are the subject of the certification shall terminate.".
-
-&nbsp;
-
-SEC. 303. GUIDANCE RELATING TO SATISFACTORY CONTROL LOCATION.
-
-Not later than 180 days after the date of the enactment of this Act, the Securities and Exchange Commission (referred to in this title as the "Commission") shall issue guidance relating to section 240.15c3–3 of title 17, Code of Federal Regulations, or any successor regulation, providing that the requirement to designate a satisfactory control location for a digital asset that is, or may represent ownership of, a security may be satisfied by protecting the digital asset through commercially reasonable cybersecurity practices to maintain control of sufficient private key material to transfer control of the digital asset to another person, or to cause another person to obtain control of the digital asset, including by means of a smart contract that generates private key material without the involvement of a natural person.
-
-&nbsp;
-
-SEC. 304. CUSTODY AND CUSTOMER PROTECTION RULES.
-
-(a) In General.—
-
-(1) Modernization of existing rules and adoption of new rules.—Not later than 18 months after the date of enactment of this Act, the Commission shall—
-
-(A) complete the multi-year study of the Commission with respect to the modernization of the rules of the Commission relating to customer protection (section 240.15c3–3 of title 17, Code of Federal Regulations) and custody of securities, digital assets, and client funds (section 275.206(4)–2 of title 17, Code of Federal Regulations); and
-
-(B) consistent with the results of the study described in subparagraph (A), adopt final rules relating to the issues described in paragraph (2).
-
-(2) Contents.—The final rules adopted under paragraph (1)(B) shall address the following concepts:
-
-(A) Investor protection and education with respect to digital assets.
-
-(B) Digital assets, distributed ledger technology, and use of collaborative custody or multi-signature arrangements, including distribution of private key material and resulting obligations.
-
-(C) Changes in market structure and asset characteristics, including disuse of physical securities and assets and appropriate custodial methods for electronically native assets.
-
-(D) Reduction of regulatory burden.
-
-(E) Use of technology to facilitate regulatory compliance and risk management.
-
-(F) Parity of State- and nationally-chartered banks, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)), with respect to asset custody in a manner consistent with that Act (15 U.S.C. 80b–1 et seq.) and other existing law.
-
-(G) Standards under which an issuer of an unregistered digital asset that is, or may represent ownership of, a security is not required to utilize a registered transfer agent.
-
-(H) Specification of the digital assets which constitute client funds under section 275.206(4)–2 of title 17, Code of Federal Regulations.
-
-(b) Digital Assets and Securities.—Not later than 270 days after the date of enactment of this Act, the Commission shall adopt final guidance permitting, for the purposes of section 240.15c3–3(b) of title 17, Code of Federal Regulations, a broker or a dealer to perform, within the same legal entity, both trading and custodial activities relating to fully-paid and excess margin digital assets, including virtual currency and digital assets that are securities or may represent ownership of securities, in addition to traditional securities, client funds, and other assets permitted by the Commission to be within the control of a broker or dealer.
-
-&nbsp;
-
-# TITLE IV—RESPONSIBLE COMMODITIES INNOVATION
-
-SEC. 401. DEFINITIONS.
-
-Section 1a of the Commodity Exchange Act (7 U.S.C. 1a) is amended—
-
-(1) in paragraph (9), by striking "and frozen concentrated orange juice" and inserting “frozen concentrated orange juice, and a digital asset (consistent with section 2(c)(2)(F))”;
-
-(2) by inserting after paragraph (15) the following:
-
-"(15A) Digital asset.—
-
-"(A) In general.—Except as provided in subparagraph (B), the term ‘digital asset’ has the meaning given the term in section 9801 of title 31, United States Code.
-
-"(B) Exclusion.—The term ‘digital asset’ does not include an asset that provides the holder of the asset with any of the following rights in a business entity:
-
-"(i) A debt or equity interest in that entity.
-
-"(ii) Liquidation rights with respect to that entity.
-
-"(iii) An entitlement to an interest or dividend payment from that entity.
-
-"(iv) A profit or revenue share in that entity derived solely from the entrepreneurial or managerial efforts of others.
-
-"(v) Any other financial interest in that entity.
-
-"(15B) Digital asset exchange.—The term ‘digital asset exchange’ means a trading facility that lists for trading at least 1 digital asset.";
-
-(3) in paragraph (28)(A)(i)—
-
-(A) in subclause (I)—
-
-(i) in item (aa)—
-
-(I) in subitem (EE), by striking "or" at the end; and
-
-(II) by adding at the end the following:
-
-"(GG) the purchase or sale of a digital asset that is traded on or subject to the rules of a registered entity;";
-
-(ii) in item (bb), by striking "and" and inserting “or”; and
-
-(iii) by adding at the end the following:
-
-"(cc) acting as a counterparty to any cash or spot agreement, contract, or transaction involving a digital asset with a person who is not an eligible contract participant, unless the activity is—
-
-"(AA) conducted in compliance with the laws of the State in which the activity occurs;
-
-"(BB) subject to regulation by another Federal authority; or
-
-"(CC) separately regulated under this Act; and"; and
-
-(B) in subclause (II), by striking "items (aa) or (bb)" and inserting “item (aa), (bb), or (cc)”;
-
-(4) by inserting after paragraph (39) the following:
-
-"(39A) Registered digital asset exchange.—The term ‘registered digital asset exchange’ means a digital asset exchange registered under section 5i."; and
-
-(5) in paragraph (40)—
-
-(A) in subparagraph (E), by striking "and" at the end;
-
-(B) by redesignating subparagraph (F) as subparagraph (G); and
-
-(C) by inserting after subparagraph (E) the following:
-
-"(F) a registered digital asset exchange; and".
-
-&nbsp;
-
-SEC. 402. REPORTING AND RECORDKEEPING.
-
-Section 4g of the Commodity Exchange Act (7 U.S.C. 6g) is amended—
-
-(1) in subsection (a), by inserting "digital assets or" before “commodities”; and
-
-(2) in subsection (d), in the second sentence, by striking "commodity futures." and inserting “commodities.”.
-
-&nbsp;
-
-SEC. 403. CFTC JURISDICTION OVER DIGITAL ASSET TRANSACTIONS.
-
-(a) Commission Jurisdiction Over Retail Digital Asset Transactions.—
-
-(1) In general.—Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)) is amended—
-
-(A) in subparagraph (D)(ii)—
-
-(i) in subclause (III), in the matter preceding item (aa), by inserting "of a commodity, other than a digital asset," before “that”;
-
-(ii) by redesignating subclauses (IV) and (V) as subclauses (V) and (VI), respectively; and
-
-(iii) by inserting after subclause (III) the following:
-
-"(IV) a contract of sale of a digital asset that—
-
-"(aa) results in actual delivery within 2 days or such other period as the Commission may determine by rule based upon the typical commercial practice in cash or spot markets for the digital asset involved; or
-
-"(bb) is executed on or subject to the rules of a registered digital asset exchange or with a registered futures commission merchant;"; and
-
-(B) by adding at the end the following:
-
-"(F) Commission jurisdiction over digital asset transactions.—
-
-"(i) In general.—
-
-"(I) Jurisdiction.—Subject to sections 6d and 12(e) and section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a), the Commission shall have exclusive jurisdiction over any agreement, contract, or transaction involving a contract of sale of a digital asset in interstate commerce, including ancillary assets (consistent with section 41(b)(4) of the Securities Exchange Act of 1934), except that specified periodic reporting requirements made by an issuer which provided the holder of the security with an ancillary asset under that section, and the security that constitutes an investment contract (within the meaning of section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1))), shall remain within the jurisdiction of the Securities and Exchange Commission.
-
-"(II) Fungibility requirement.—The Commission shall only exercise jurisdiction over an agreement, contract, or transaction involving a contract of sale of a digital asset that is fungible, which shall not include digital collectibles and other unique digital assets.
-
-"(ii) Withholding of rulemaking authority over certain transactions.—Notwithstanding clause (i), this subparagraph shall not be interpreted to permit the Commission to issue any rule regarding any agreement, contract, or transaction that is not offered, solicited, traded, facilitated, executed, cleared, reported, or otherwise dealt in—
-
-"(I) on or subject to the rules of a registered entity; or
-
-"(II) by any other entity registered by the Commission.
-
-"(iii) Limitation.—Clause (i) shall not apply to custodial activities with respect to a digital asset of an entity supervised or regulated by a State or other Federal regulatory agency.".
-
-(2) Conforming amendment.—Section 2(a)(1)(A) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)(A)) is amended, in the first sentence, by striking "section 19 of this Act" and inserting “subsection (c)(2)(F) or section 19”.
-
-(b) Segregation of Digital Assets.—Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is amended by adding at the end the following:
-
-"(i) Segregation of Digital Assets.—
-
-"(1) Holding of customer assets.—
-
-"(A) In general.—Each futures commission merchant shall hold customer money, assets, and property in a manner to minimize the customer’s risk of loss of, or unreasonable delay in the access to, the money, assets, and property.
-
-"(B) Custodian.—A futures commission merchant shall hold the property of a customer of the futures commission merchant with a licensed, chartered, or registered entity subject to regulation by 1 of the following agencies:
-
-"(i) The Commission.
-
-"(ii) The Securities and Exchange Commission.
-
-"(iii) An appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)).
-
-"(iv) A State bank supervisor (as defined in that section).
-
-"(v) An appropriate foreign governmental authority in the home country of the custodian.
-
-"(2) Segregation of funds.—
-
-"(A) Definition of digital asset customer.—In this paragraph, the term ‘digital asset customer’ means a customer involved in a cash or spot, leveraged, margined, or financed digital asset transaction in which the futures commission merchant is acting as the counterparty.
-
-"(B) Requirements.—
-
-"(i) In general.—A futures commission merchant shall treat and deal with all money, assets, and property of any digital asset customer received as belonging to the customer.
-
-"(ii) Commingling prohibited.—Money, assets, and property of a digital asset customer described in clause (i)—
-
-"(I) shall be separately accounted for; and
-
-"(II) shall not be—
-
-"(aa) commingled with the funds of the futures commission merchant; or
-
-"(bb) used to margin, secure, or guarantee any trades or accounts of any customer or person other than the person for whom the money, assets, or property are held.
-
-"(C) Exceptions.—
-
-"(i) Use of funds.—
-
-"(I) In general.—Notwithstanding subparagraph (B), money, assets, and property of a digital asset customer may, for convenience, be commingled and deposited in the same account or accounts with an entity described in paragraph (1)(B).
-
-"(II) Withdrawal.—Notwithstanding subparagraph (B), the share of the money, assets, and property described in subclause (I) as in the normal course of business is necessary to margin, guarantee, secure, transfer, adjust, or settle a digital asset transaction with a registered entity may be withdrawn and applied to those purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with the digital asset transaction.
-
-"(ii) Commission action.—Notwithstanding subparagraph (B), in accordance with such terms and conditions as the Commission may prescribe by rule or order, any money, assets, or property of a digital asset customer may be commingled and deposited in customer accounts with any other money, assets, or property received by the futures commission merchant and required by the Commission to be separately accounted for and treated and dealt with as belonging to the digital asset customer.
-
-"(D) Permitted investments.—Money of a digital asset customer may be invested—
-
-"(i) in—
-
-"(I) obligations of the United States;
-
-"(II) general obligations of any State or of any political subdivision of a State;
-
-"(III) obligations fully guaranteed as to principal and interest by the United States; or
-
-"(IV) any other investment that the Commission may by rule prescribe; and
-
-"(ii) in accordance with such rules and subject to such conditions as the Commission may prescribe.
-
-"(E) Prohibition.—It shall be unlawful for any person, including any derivatives clearing organization or depository institution, that has received any money, assets, or property for deposit in a separate account or accounts as required by subparagraph (B) to hold, dispose of, or use any of the money, assets, or property that belongs to the depositing futures commission merchant or any person other than the digital asset customer of the futures commission merchant.
-
-"(3) Customer right to opt out.—
-
-"(A) In general.—A customer shall have the right to waive any requirement under this subsection by affirmatively electing, in writing to the futures commission merchant, to waive the requirement.
-
-"(B) Limitations.—The Commission may, by rule, establish notice and disclosure requirements, segregation requirements, investment limitations, and other rules relating to the waiving of any requirement under this subsection that are reasonably necessary to protect customers, including eligible contract participants, non-eligible contract participants, and any other class of customers.".
-
-(c) Limitation on Futures Commission Merchants Acting as a Counterparty in Digital Asset Transactions.—Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) (as amended by subsection (b)) is amended by adding at the end the following:
-
-"(j) Limitation on Futures Commission Merchants Acting as a Counterparty in Digital Asset Transactions.—A registered futures commission merchant shall not act as a counterparty in any agreement, contract, or transaction involving a digital asset that has not been listed for trading on a registered digital asset exchange.".
-
-(d) Common Provisions Applicable to Registered Entities.—Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–2) is amended—
-
-(1) in subsection (a)(1), by striking "5(d) and 5b(c)(2)" and inserting “5(d), 5b(c)(2), and 5i(c)”;
-
-(2) in subsection (b), by inserting "registered digital asset exchange," before “derivatives” each place it appears; and
-
-(3) in subsection (c)—
-
-(A) in paragraph (2), by inserting "or participants" before “(in a”;
-
-(B) in paragraph (4)(B), by striking "1a(10)" and inserting “1a(9)”; and
-
-(C) in paragraph (5), by adding at the end the following:
-
-"(D) Special rules for the listing of certain digital assets.—
-
-"(i) In general.—In the case of listing for trading a digital asset that has not previously been listed for trading on another registered entity—
-
-"(I) paragraphs (2) and (3) shall apply as if the listing were a rule; and
-
-"(II) paragraph (2) shall be applied by substituting ‘20 business days’ for ‘10 business days’.
-
-"(ii) Transitional extension.—During the 1-year period beginning on the date of the registration of the first digital asset exchange, the Commission shall have an additional 20 business days to review any certification under clause (i).
-
-"(iii) Consideration of comments.—In conducting a review under clause (i), the Commission shall consider any comments provided by the Securities and Exchange Commission with respect to the legal classification of a digital asset.".
-
-&nbsp;
-
-SEC. 404. REGISTRATION OF DIGITAL ASSET EXCHANGES.
-
-(a) In General.—The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 5h the following:
-
-"SEC. 5i. REGISTRATION OF DIGITAL ASSET EXCHANGES.
-
-"(a) Definition of Customer.—In this section, the term ‘customer’ means any person that maintains an account for the trading of digital assets directly with a registered digital asset exchange (other than a person that is owned or controlled, directly or indirectly, by the registered digital asset exchange) on behalf of the person or any other person.
-
-"(b) Registration.—
-
-"(1) In general.—Any trading facility that offers or seeks to offer a market in digital assets may register with the Commission as a digital asset exchange by submitting to the Commission an application in such form and containing such information as the Commission may require for the purpose of making the determinations required for approval under subsections (d) and (f).
-
-"(2) Deemed registration.—A registered designated contract market or registered swap execution facility that fulfills the requirements of this section may elect to be considered a registered digital asset exchange, in such form and manner as the Commission shall prescribe.
-
-"(3) Additional registration.—A registered digital asset exchange shall be registered with the Secretary of the Treasury as a money services business.
-
-"(c) Trading.—
-
-"(1) In general.—A registered digital asset exchange may make available for trading any digital asset that is not readily susceptible to manipulation, subject to this subsection.
-
-"(2) Rules governing margined or leveraged trading.—The Commission may make, promulgate, and enforce such additional rules governing margined, leveraged, or financed transactions as are reasonably necessary to protect market participants and promote the orderly settlement of transactions with respect to—
-
-"(A) disclosure;
-
-"(B) recordkeeping;
-
-"(C) capital, margin, and other financial resources;
-
-"(D) reporting;
-
-"(E) business conduct;
-
-"(F) documentation; and
-
-"(G) such other matters as the Commission determines to be necessary.
-
-"(3) Prohibition on trading derivatives products.—Registration as a digital asset exchange shall not permit a trading facility to offer any contract of sale of a commodity for future delivery, option, or swap for trading without also being registered as a designated contract market or swap execution facility.
-
-"(d) Core Principles for Digital Asset Exchanges.—
-
-"(1) Compliance with core principles.—
-
-"(A) In general.—To be registered, and maintain registration, as a digital asset exchange, the registered digital asset exchange shall comply with—
-
-"(i) the core principles described in this subsection; and
-
-"(ii) any requirement that the Commission may impose by rule pursuant to section 8a(5).
-
-"(B) Reasonable discretion of digital asset exchange.—Unless otherwise determined by the Commission by rule, a registered digital asset exchange described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the registered digital asset exchange complies with the core principles described in this subsection.
-
-"(2) Compliance with rules.—A registered digital asset exchange shall—
-
-"(A) establish and enforce compliance with 1 or more rules of the registered digital asset exchange, including—
-
-"(i) the terms and conditions of the trades traded or processed on or through the registered digital asset exchange; and
-
-"(ii) any limitation on access to the registered digital asset exchange;
-
-"(B) establish and enforce compliance with trading, trade processing, and participation rules that will deter abuses and have the capacity to detect, investigate, and enforce violations of those rules, including means—
-
-"(i) to provide market participants with impartial access to the market; and
-
-"(ii) to capture information that may be used in establishing whether rule violations have occurred; and
-
-"(C) establish rules governing the operation of the registered digital asset exchange, including rules specifying trading procedures to be used in entering and executing orders traded or posted on the registered digital asset exchange.
-
-"(3) Digital assets not readily susceptible to manipulation.—
-
-"(A) In general.—A registered digital asset exchange shall permit trading only in assets that are not readily susceptible to manipulation.
-
-"(B) Listing restrictions.—A registered digital asset exchange shall not permit trading in a digital asset if it is reasonably likely that—
-
-"(i) the transaction history of the digital asset can be fraudulently altered by any person or group of persons acting collectively; or
-
-"(ii) the functionality or operation of the digital asset can be materially altered by any person or group of persons under common control.
-
-"(C) Considerations.—In assessing a digital asset under this paragraph, a registered digital asset exchange shall consider—
-
-"(i) the purpose and use of the digital asset;
-
-"(ii) the creation or release process of the digital asset;
-
-"(iii) the consensus mechanism of the digital asset;
-
-"(iv) the governance structure of the digital asset;
-
-"(v) the participation and distribution of the digital asset;
-
-"(vi) the current and proposed functionality of the digital asset;
-
-"(vii) the legal classification of the digital asset; and
-
-"(viii) any other factor required by the Commission.
-
-"(4) Treatment of customer assets.—
-
-"(A) Required standards and procedures.—A registered digital asset exchange shall establish standards and procedures that are designed to protect and ensure the safety of customer money, assets, and property.
-
-"(B) Holding of customer assets.—
-
-"(i) In general.—A registered digital asset exchange shall hold customer money, assets, and property in a manner to minimize the customer’s risk of loss of, or unreasonable delay in the access to, the money, assets, and property.
-
-"(ii) Segregation of funds.—
-
-"(I) In general.—A registered digital asset exchange shall treat and deal with all money, assets, and property of any customer received as belonging to the customer.
-
-"(II) Commingling prohibited.—Money, assets, and property of a customer described in subclause (I)—
-
-"(aa) shall be separately accounted for; and
-
-"(bb) shall not be—
-
-"(AA) commingled with the funds of the registered digital asset exchange; or
-
-"(BB) used to margin, secure, or guarantee any trades or accounts of any customer or person other than the person for whom the money, assets, or property are held.
-
-"(iii) Exceptions.—
-
-"(I) Use of funds.—
-
-"(aa) In general.—Notwithstanding clause (ii), money, assets, and property of customers of a registered digital asset exchange may, for convenience, be commingled and deposited with an entity described in section 4d(i)(1)(B).
-
-"(bb) Withdrawal.—Notwithstanding clause (ii), the share of the money, assets, and property described in item (aa) as in the normal course of business is necessary to margin, guarantee, secure, transfer, adjust, or settle a digital asset transaction with a registered entity may be withdrawn and applied to those purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with the digital asset transaction.
-
-"(II) Commission action.—Notwithstanding clause (ii), in accordance with such terms and conditions as the Commission may prescribe by rule or order, any money, assets, or property of the customers of a registered digital asset exchange may be commingled and deposited in customer accounts with any other money, assets, or property received by the registered digital asset exchange and required by the Commission to be separately accounted for and treated and dealt with as belonging to the customer of the registered digital asset exchange.
-
-"(C) Permitted investments.—Money described in subparagraph (B)(ii)(I) may be invested—
-
-"(i) in—
-
-"(I) obligations of the United States;
-
-"(II) general obligations of any State or of any political subdivision of a State;
-
-"(III) obligations fully guaranteed as to principal and interest by the United States; or
-
-"(IV) any other investment that the Commission may by rule prescribe; and
-
-"(ii) in accordance with such rules and subject to such conditions as the Commission may prescribe.
-
-"(D) Misuse of customer property.—It shall be unlawful—
-
-"(i) for any registered digital asset exchange that has received any customer money, assets, or property for custody to dispose of, or use any of the money, assets, or property as belonging to the registered digital asset exchange; or
-
-"(ii) for any other person, including any other registered digital asset exchange or custodian that has received any customer money, assets, or property for deposit, to hold, dispose of, or use any of the money, assets, or property as belonging to—
-
-"(I) the registered digital asset exchange that deposited the money, assets, or property; or
-
-"(II) any person other than the customers of the registered digital asset exchange.
-
-"(E) Customer right to opt out.—
-
-"(i) In general.—A customer shall have the right to waive any requirement under subparagraph (B) by affirmatively electing, in writing to the registered digital asset exchange, to waive the requirement.
-
-"(ii) Limitations.—The Commission may, by rule, establish notice and disclosure requirements, segregation requirements, investment limitations, and other rules relating to the waiving of any requirement under this paragraph that is reasonably necessary to protect customers, including eligible contract participants, non-eligible contract participants, or any other class of customers.
-
-"(5) Monitoring of trading and trade processing.—
-
-"(A) In general.—A registered digital asset exchange shall provide a competitive, open, and efficient market and mechanism for executing transactions that protects the price discovery process of trading on the registered digital asset exchange.
-
-"(B) Protection of markets and market participants.—A registered digital asset exchange shall establish and enforce compliance with rules—
-
-"(i) to protect markets and market participants from abusive practices committed by any party, including abusive practices committed by a party acting as an agent for a participant; and
-
-"(ii) to promote fair and equitable trading on the registered digital asset exchange.
-
-"(C) Procedures and monitoring.—A registered digital asset exchange shall—
-
-"(i) establish and enforce compliance with rules or terms and conditions defining, or specifications detailing—
-
-"(I) trading procedures to be used in entering and executing orders traded on or through the facilities of the registered digital asset exchange; and
-
-"(II) procedures for trade processing of digital assets on or through the facilities of the registered digital asset exchange; and
-
-"(ii) monitor trading in digital assets to prevent manipulation, price distortion, and disruptions of the delivery or cash settlement process through surveillance, and compliance, including methods for conducting real-time monitoring of trading and comprehensive and accurate trade reconstructions.
-
-"(6) Ability to obtain information.—A registered digital asset exchange shall—
-
-"(A) establish and enforce rules that will allow the registered digital asset exchange to obtain any necessary information to perform any of the functions described in this section;
-
-"(B) provide the information to the Commission on request; and
-
-"(C) have the capacity to carry out such international information-sharing agreements as the Commission may require.
-
-"(7) Emergency authority.—A registered digital asset exchange shall adopt rules to provide for the exercise of emergency authority, in consultation or cooperation with the Commission or a registered entity, as is necessary and appropriate, including the authority to facilitate the liquidation or transfer of open positions in any digital asset or to suspend or curtail trading in a digital asset.
-
-"(8) Reporting requirements.—
-
-"(A) In general.—A registered digital asset exchange shall provide to the Commission information that is determined by the Commission to be necessary to perform any responsibility of the Commission under this Act.
-
-"(B) Timely publication of trading information.—
-
-"(i) In general.—
-
-"(I) Publication.—A registered digital asset exchange shall make public timely information on price, trading volume, and other trading data on digital assets to the extent prescribed by the Commission.
-
-"(II) Accessibility.—A registered digital asset exchange may make trading data freely accessible to the public under rules established by the Commission.
-
-"(ii) Capacity of digital asset exchange.—A registered digital asset exchange shall be required to have the capacity to electronically capture and transmit trade information with respect to transactions executed on the registered digital asset exchange.
-
-"(9) Recordkeeping and reporting.—
-
-"(A) In general.—A registered digital asset exchange shall—
-
-"(i) maintain records of all activities relating to the business of the registered digital asset exchange, including a complete audit trail, in a form and manner acceptable to the Commission for a period of 5 years;
-
-"(ii) report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this Act; and
-
-"(iii) keep any records relating to ancillary assets open to inspection and examination by the Securities and Exchange Commission.
-
-"(B) Information-sharing.—Subject to section 8, and on request, the Commission shall share information collected under subparagraph (A) with—
-
-"(i) a self-regulatory organization;
-
-"(ii) the Securities and Exchange Commission;
-
-"(iii) an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813));
-
-"(iv) a State bank supervisor (as defined in that section);
-
-"(v) a State securities or commodities regulator;
-
-"(vi) the Financial Stability Oversight Council;
-
-"(vii) the Department of Justice; and
-
-"(viii) any other person that the Commission determines to be appropriate, including—
-
-"(I) foreign financial supervisors (including foreign futures authorities);
-
-"(II) foreign central banks; and
-
-"(III) foreign ministries.
-
-"(C) Confidentiality agreement.—Before the Commission may share information with any entity described in subparagraph (B), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 8 relating to the information on digital asset transactions that is provided.
-
-"(D) Providing information.—Each registered digital asset exchange shall provide to the Commission (including any designee of the Commission) information under subparagraph (A) in such form and at such frequency as is required by the Commission.
-
-"(10) Antitrust considerations.—Unless necessary or appropriate to achieve the purposes of this Act, a registered digital asset exchange shall not—
-
-"(A) adopt any rules or take any actions that result in any unreasonable restraint of trade; or
-
-"(B) impose any material anticompetitive burden on trading.
-
-"(11) Conflicts of interest.—A registered digital asset exchange shall—
-
-"(A) establish and enforce rules to minimize conflicts of interest in the decisionmaking process of the registered digital asset exchange; and
-
-"(B) establish a process for resolving conflicts of interest described in subparagraph (A).
-
-"(12) Financial resources.—
-
-"(A) In general.—A registered digital asset exchange shall have adequate financial, operational, and managerial resources, as determined by the Commission, to discharge each responsibility of the registered digital asset exchange.
-
-"(B) Minimum amount of financial resources.—A registered digital asset exchange shall possess financial resources that, at a minimum, exceed the total amount that would enable the registered digital asset exchange to conduct an orderly wind-down of the activities of the registered digital asset exchange.
-
-"(C) Additional financial resources for leverage trading.—The Commission may require such additional financial resources as are necessary to enable a registered digital asset exchange that offers margined, leveraged, or financed transactions to fulfill the customer obligations of the registered digital asset exchange.
-
-"(13) Governance fitness standards.—
-
-"(A) Governance arrangements.—A registered digital asset exchange shall establish governance arrangements that are transparent to fulfill public interest requirements.
-
-"(B) Fitness standards.—A registered digital asset exchange shall establish and enforce appropriate fitness standards for—
-
-"(i) directors;
-
-"(ii) any individual or entity with direct access to the settlement activities of the registered digital asset exchange;
-
-"(iii) any individual or entity with direct access to any custodian affiliated with the registered digital asset exchange;
-
-"(iv) any entity offering affiliated services for the registered digital asset exchange; and
-
-"(v) any party affiliated with any individual or entity described in clauses (i) through (iv).
-
-"(14) System safeguards.—A registered digital asset exchange shall—
-
-"(A) establish and maintain a program of risk analysis and oversight to identify and minimize sources of operational and security risks, through the development of appropriate controls and procedures and automated systems that—
-
-"(i) are reliable and secure; and
-
-"(ii) have adequate scalable capacity;
-
-"(B) establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for—
-
-"(i) the timely recovery and resumption of operations; and
-
-"(ii) the fulfillment of the responsibilities and obligations of the registered digital asset exchange; and
-
-"(C) periodically conduct tests to verify that the backup resources of the registered digital asset exchange are sufficient to ensure continued—
-
-"(i) order processing and trade matching;
-
-"(ii) price reporting;
-
-"(iii) market surveillance; and
-
-"(iv) maintenance of a comprehensive and accurate audit trail.
-
-"(e) Appointment of Trustee.—
-
-"(1) In general.—If a proceeding under section 5e results in the suspension or revocation of the registration of a digital asset exchange, or if a digital asset exchange withdraws from registration, the Commission, after providing notice to the digital asset exchange, may apply to the district court of the United States for the judicial district in which the digital asset exchange is located for the appointment of a trustee.
-
-"(2) Assumption of jurisdiction.—If the Commission applies to a court for appointment of a trustee under paragraph (1)—
-
-"(A) the court may take exclusive jurisdiction over—
-
-"(i) the digital asset exchange; and
-
-"(ii) the records and assets of the digital asset exchange, wherever those records and assets are located; and
-
-"(B) if the court takes jurisdiction under subparagraph (A), the court shall appoint the Commission, or a person designated by the Commission, as trustee with power to take possession and continue to operate or terminate the operations of the digital asset exchange in an orderly manner for the protection of customers, subject to such terms and conditions as the court may prescribe.
-
-"(f) Custodian.—A registered digital asset exchange shall deposit with an entity described in section 4d(i)(1)(B) each digital asset that is—
-
-"(1) the property of a customer of the registered digital asset exchange;
-
-"(2) required to be held by the registered digital asset exchange under subsection (c)(2) or (d)(12); or
-
-"(3) otherwise required by the Commission to be so held to reasonably protect customers or promote the public interest.
-
-"(g) Exemptions.—
-
-"(1) In general.—To promote responsible economic or financial innovation and fair competition, or protect customers, the Commission may exempt, either unconditionally or on stated terms or conditions or for stated periods, and retroactively, prospectively, or both, a registered digital asset exchange from the requirements of this section, if the Commission determines that—
-
-"(A) the exemption—
-
-"(i) will be consistent with the public interest and the purposes of this Act; and
-
-"(ii) will not have a material adverse effect on the ability of the Commission or the registered digital asset exchange to discharge duties under this Act; or
-
-"(B) the registered digital asset exchange is subject to comparable, comprehensive regulation by the appropriate government authorities in the home country of the registered digital asset exchange.
-
-"(2) Process.—The Commission may grant an exemption under paragraph (1)—
-
-"(A) on the initiative of the Commission; or
-
-"(B) after receiving an application for the exemption by the registered digital asset exchange.
-
-"(h) Jurisdiction.—Notwithstanding any other provision of law, the Commission shall have exclusive jurisdiction over the regulation and all other activities of a registered digital asset exchange.
-
-"(i) Implementation.—The Commission may prescribe rules to implement this section.".
-
-(b) Certain Digital Asset Exchange Functions Not Sufficient to Trigger Requirement to Register as Futures Commission Merchant.—Section 4f(c) of the Commodity Exchange Act (7 U.S.C. 6f(c)) is amended by adding at the end the following:
-
-"(12) Clarification of Scope of Registration Requirement.—A registered digital asset exchange shall not be required to register as a futures commission merchant for any activity for which the registered digital asset exchange is regulated under section 5i.".
-
-&nbsp;
-
-SEC. 405. VIOLATIONS.
-
-Section 9 of the Commodity Exchange Act (7 U.S.C. 13) is amended—
-
-(1) in subsection (a)(2), by striking "subsection 4c" and inserting “section 4c”; and
-
-(2) in subsection (e)—
-
-(A) in paragraph (1), by inserting "contracts for the sale of digital assets," after “options thereon,”; and
-
-(B) in paragraph (2), by inserting "or contracts for the sale of digital assets" after “options thereon”.
-
-&nbsp;
-
-SEC. 406. MARKET REPORTS.
-
-Section 16(a) of the Commodity Exchange Act (7 U.S.C. 20(a)) is amended—
-
-(1) in the first sentence, by striking "which are the subject of futures contracts," and inserting “under the jurisdiction of the Commission,”; and
-
-(2) in the second sentence, by striking "futures markets." and inserting “markets under the jurisdiction of the Commission.”.
-
-&nbsp;
-
-SEC. 407. BANKRUPTCY TREATMENT OF DIGITAL ASSETS.
-
-(a) In General.—Section 20(a) of the Commodity Exchange Act (7 U.S.C. 24(a)) is amended in paragraphs (1) and (2) by inserting "digital assets," after “securities,” each place it appears.
-
-(b) Commodity Broker Definition.—Section 101(6) of title 11, United States Code, is amended by inserting "registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," before “foreign”.
-
-(c) Commodities Contracts.—Section 556 of title 11, United States Code, is amended by inserting "a registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," before “a contract”.
-
-(d) Contractual Rights.—Section 561 of title 11, United States Code, is amended by inserting "registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," after “designated under the Commodity Exchange Act” each place it appears.
-
-(e) Definitions.—Section 761 of title 11, United States Code, is amended—
-
-(1) in paragraph (4)—
-
-(A) in subparagraph (A), by inserting "digital asset or a" before “commodity”;
-
-(B) in subparagraph (I), by striking "or" at the end;
-
-(C) in subparagraph (J), by adding "or" at the end; and
-
-(D) by adding at the end the following:
-
-"(K) a contract for the sale of a digital asset by a registered digital asset exchange;"; and
-
-(2) in paragraph (10)—
-
-(A) in the matter preceding subparagraph (A)—
-
-(i) by inserting "a digital asset," after “a security,”; and
-
-(ii) by inserting "digital asset," after “cash, security,”;
-
-(B) in subparagraph (A)—
-
-(i) in clause (vi), by inserting "a digital asset," after “a security,”; and
-
-(ii) in clause (vii)—
-
-(I) by inserting "or a digital asset" before “held as property”;
-
-(II) by inserting "or digital asset" after “such security”; and
-
-(III) by inserting "or digital asset" after “based on a security”; and
-
-(C) in subparagraph (B)—
-
-(i) by striking "not including property" and inserting “not including—
-
-"(i) property";
-
-(ii) in clause (i), as so designated, by adding "and" at the end; and
-
-(iii) by adding at the end the following:
-
-"(ii) money, assets, or property with respect to which any requirement under subsection (i) of section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is waived pursuant to paragraph (3) of that subsection, or any requirement under subparagraph (B) of paragraph (4) of section 5i(d) of that Act is waived pursuant to subparagraph (E) of that paragraph;".
-
-(f) Voidable Transfers.—Section 764(b)(1) of title 11, United States Code, is amended by inserting ", digital assets" before “, or other property”.
-
-(g) Treatment of Customer Property.—Section 766 of title 11, United States Code, is amended—
-
-(1) in subsection (b)(1), by striking "physical commodity underlying" and inserting “commodity underlying”;
-
-(2) in subsection (c), by inserting "digital asset," before “or commodity contract” each place the term appears;
-
-(3) in subsection (d), by inserting "digital asset," before “or commodity contract” each place the term appears;
-
-(4) in subsection (f)—
-
-(A) in striking "and other property" and inserting “digital assets, and other property”; and
-
-(B) by striking "or property" and inserting “, digital assets, or property”;
-
-(5) in subsection (g), by striking "security or property" and inserting “security, digital asset, or property”; and
-
-(6) in subsection (h)(2), by inserting "digital assets," after “customer securities,”.
-
-&nbsp;
-
-SEC. 408. IDENTIFIED BANKING PRODUCTS.
-
-Section 206(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended—
-
-(1) in paragraph (5)(B)(ii), by striking "or" at the end;
-
-(2) in paragraph (6), by striking the period at the end and inserting "; or"; and
-
-(3) by adding at the end the following:
-
-"(7) a payment stablecoin issued by a depository institution under section 722A.".
-
-&nbsp;
-
-SEC. 409. FINANCIAL INSTITUTIONS DEFINITION.
-
-Section 5312(c)(1) of title 31, United States Code, is amended by adding at the end the following:
-
-"(B) A registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act.".
-
-&nbsp;
-
-SEC. 410. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
-
-The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following:
-
-"SEC. 24. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
-
-"(a) Recovery of Certain Costs of Annual Appropriation.—
-
-"(1) In general.—Effective beginning October 1, 2023, the Commission may, by rule, collect fees—
-
-"(A) to fund expenses relating to regulation of digital asset cash and spot markets; and
-
-"(B) that are designed to recover the costs to the Federal Government of the annual appropriation to the Commission by Congress.
-
-"(2) Registered entities.—Fees under paragraph (1) shall only be imposed—
-
-"(A) on registered entities engaged in cash or spot digital asset activities; and
-
-"(B) in relation to the regulation of those activities under this Act.
-
-"(3) Fee rates.—Fees under paragraph (1) shall—
-
-"(A) be strictly related to the cost to the Commission of the regulation of digital asset cash and spot markets;
-
-"(B) be reduced for newly registered entities with less than $100,000,000 in daily trading volume; and
-
-"(C)(i) minimize negative impacts on market liquidity; and
-
-"(ii) maintain the efficiency, competitiveness, and financial integrity of digital asset markets.
-
-"(4) Collection of fees.—The Commission shall collect fees under this subsection in such manner and within such time as may be specified by the Commission by rule.
-
-"(b) Fee Rate Orders.—
-
-"(1) In general.—Not later than 60 days after the date on which a law providing a regular appropriation to the Commission for a fiscal year is enacted, the Commission shall adopt an order setting rates for fees to be collected under subsection (a) for that fiscal year.
-
-"(2) Publication.—The Commission shall publish in the Federal Register the order adopted under paragraph (1), including—
-
-"(A) projections on which the fees are based; and
-
-"(B) an explanation of the method used for calculating applicable fee rates.
-
-"(c) Deposit of Fees.—
-
-"(1) Offsetting collections.—Fees collected under subsection (a) for any fiscal year—
-
-"(A) shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission; and
-
-"(B) shall not be collected or available for obligation for any fiscal year except to the extent provided in advance in appropriation Acts.
-
-"(2) General revenues prohibited.—No fees collected under subsection (a) shall be deposited and credited as general revenue of the Treasury.
-
-"(d) Lapse of Appropriations.—If a regular appropriation to the Commission has not been enacted on the first day of a fiscal year, the Commission shall continue to collect fees under this section at the rates in effect on September 30 of the preceding fiscal year.
-
-"(e) Limitations.—
-
-"(1) Leveraged, margined, or financed transactions.—Nothing in this section authorizes the imposition of fees on a registered entity relating to leveraged, margined, or financed transactions under this Act, including those activities relating to digital assets.
-
-"(2) Other appropriations.—Notwithstanding any other provision of law, the Commission may use appropriations otherwise made available by law to fund expenses relating to the regulation of digital asset cash and spot markets.
-
-"(f) Ceiling on Fees.—Unless otherwise provided by law, fees collected under this section shall not exceed $30,000,000.
-
-"(g) Authorization Required.—The authority under this section to impose and collect fees shall only be in effect during a period that a legislative authorization of the Commission is in effect, as otherwise provided by law.".
-
-&nbsp;
-
-# TITLE V—RESPONSIBLE CONSUMER PROTECTION
-
-SEC. 501. RESPONSIBLE CONSUMER PROTECTION.
-
-Chapter 98 of title 31, United States Code, as added by section 101(a) of this Act, is amended by adding at the end the following:
-
-"9802. Consumer protection standards for digital assets
-
-"(a) In General.—A person or protocol that provides digital asset services shall ensure that the scope of permissible transactions that may be undertaken with customer digital assets is disclosed clearly in a customer agreement.
-
-"(b) Notice.—A person who provides digital asset services shall provide clear notice to each customer, and require acknowledgment, of the following:
-
-"(1) Prior to the implementation of any updates, material source code version changes relating to digital assets, except in emergencies, which may include security vulnerabilities.
-
-"(2) Whether customer digital assets are segregated from other customer assets and the manner of segregation.
-
-"(3) How the assets of the customer would be treated in a bankruptcy or insolvency scenario and the risks of loss.
-
-"(4) The time period and manner in which the person is obligated to return the digital asset of the customer upon the request of the customer.
-
-"(5) Applicable fees.
-
-"(6) The dispute resolution process of the person.
-
-"(c) Subsidiary Proceeds.—
-
-"(1) Definitions.—In this subsection:
-
-"(A) Subsidiary proceeds.—The term ‘subsidiary proceeds’ includes forks, airdrops, staking, and other gains that accrue to a digital asset through market transactions, use as a financial asset, or being held in custody or safekeeping by a person who provides digital asset services.
-
-"(B) Terms of service.—The term ‘agreement’ includes the standard terms of service of the person who provides digital asset services.
-
-"(2) Accrual to customer.—Except as otherwise specified by an agreement with a customer, all ancillary or subsidiary proceeds relating to digital asset services provided to a customer shall accrue to the benefit of the customer in accordance with paragraph (3).
-
-"(3) Election.—A person who provides digital asset services may elect not to collect certain subsidiary proceeds if the election is disclosed in an agreement with the customer.
-
-"(4) Withdrawal.—A customer may withdraw digital assets in a method that permits the collection of the subsidiary proceeds.
-
-"(5) Agreement.—A person who provides digital asset services shall enter into an agreement with a customer, if desired by the customer, regarding the manner in which to invest subsidiary proceeds or other gains attributable to the digital assets of the customer.
-
-"(d) Lending Arrangements.—A person who provides digital asset services shall ensure any lending arrangements relating to digital assets are—
-
-"(1) clearly disclosed to customers before any lending services take place;
-
-"(2) subject to the affirmative consent of the customer;
-
-"(3) fully enforceable as a matter of commercial law;
-
-"(4) accompanied by full disclosures of applicable terms and risks, yield, and the manner in which the yield is calculated;
-
-"(5) accompanied by appropriate disclosures relating to collateral requirements and policies, including—
-
-"(A) haircuts and overcollateralization requirements;
-
-"(B) collateral the person accepts when calling for additional collateral from a customer, including collateral substitution;
-
-"(C) whether customer collateral is commingled with the collateral of other customers or of the person; and
-
-"(D) how customer collateral is invested, and whether the yield belongs to the customer or to the person;
-
-"(6) accompanied by disclosures of mark-to-market and monitoring arrangements, including—
-
-"(A) the frequency of mark-to-market monitoring and how frequently the person will call for additional collateral from a customer;
-
-"(B) the time period in which the customer must supply additional collateral to the person after a collateral call; and
-
-"(C) whether the person permits failures to deliver such collateral, and in the event of a failure to deliver the period of time in which the customer must cure the failure to deliver before the customer’s position is closed; and
-
-"(7) compliant with all applicable Federal and State laws.
-
-"(e) Rehypothecation.—
-
-"(1) Definition.—In this subsection, the term ‘rehypothecation’ means the pledging of an asset as collateral for a financial transaction by a person after the pledging of the asset as collateral by a customer of that person.
-
-"(2) Rehypothecation.—Before rehypothecating a digital asset, a person who provides digital asset services to a customer shall clearly disclose policies on rehypothecation to customers, including a clear definition of rehypothecation that is accessible to consumers. The person who provides digital asset services to a customer shall obtain affirmative consent and consider the following factors to appropriately mitigate risk relating to rehypothecation:
-
-"(A) The liquidity and volatility of a digital asset.
-
-"(B) Past failures to deliver a particular digital asset.
-
-"(C) Concentration risk.
-
-"(D) Whether an issuer or lender of last resort relating to a digital asset exists, including for virtual currency with a finite supply.
-
-"(E) The capital, leverage and market position of the person.
-
-"(F) The legal obligations of the person to customers and other persons in the market who provide digital asset services.".
-
-&nbsp;
-
-SEC. 502. SOURCE CODE VERSION OF DIGITAL ASSETS.
-
-Chapter 98 of title 31, United States Code, as amended by section 501 of this Act, is amended by adding at the end the following:
-
-"9803. Source code version of digital assets
-
-"(a) In General.—A customer and a person who provides digital asset services shall, at the initiation of a contractual relationship, agree in writing regarding the source code version the person will use for each digital asset and the treatment of each asset under the law, including securities and commodities laws and the Uniform Commercial Code applicable to the transaction.
-
-"(b) Determination.—A person who provides digital asset services—
-
-"(1) may periodically determine whether to implement a source code version that uses validation rules different than those of the source code version specified in a customer agreement, including in circumstances where it is not possible to predict in advance whether utilization of the different source code version will be in the best interests of the customer;
-
-"(2) shall consider the nature of proposed changes to source code versions with potential effects resulting from third-party actors that may create different source code versions resulting in new networks that could create economic value for customers;
-
-"(3) shall not be required to support digital assets and source code versions that the person has not entered into an agreement with customers to support; and
-
-"(4) shall not capriciously redefine a digital asset or the corresponding source code or alter customer agreements with respect to this subsection.
-
-"(c) Standards.— A person who provides digital asset services—
-
-"(1) shall adopt and maintain standards for changes to digital asset source code versions that use differing validation rules than those of the source code version specified in the customer agreement, which shall include customer notice and approval, as appropriate based on the circumstances; and
-
-"(2) may specify differing standards based on source code changes which occur as the result of emergencies, including security vulnerabilities.".
-
-&nbsp;
-
-SEC. 503. SETTLEMENT FINALITY.
-
-Chapter 98 of title 31, United States Code, as amended by section 502 of this Act, is amended by adding at the end the following:
-
-"9804. Settlement finality
-
-"To promote legal certainty and customer protection, a person who provides digital asset services and a customer shall agree on the terms of settlement finality for all transactions, including the following:
-
-"(1) The conditions under which a digital asset may be deemed fully transferred, provided that these legal conditions may diverge from operational conditions under which digital assets are considered transferred, based on the distributed and probabilistic nature of digital assets.
-
-"(2) The exact moment of transfer of a digital asset.
-
-"(3) The discharge of any obligations upon transfer of a digital asset.
-
-"(4) Conformity to applicable provisions of the Uniform Commercial Code.".
-
-&nbsp;
-
-SEC. 504. NOTICE TO CUSTOMERS; ENFORCEMENT.
-
-Chapter 98 of title 31, United States Code, as amended by section 503 of this Act, is amended by adding at the end the following:
-
-"9805. Notice to customers; enforcement
-
-"(a) In General.—In providing disclosures and carrying out other duties under this chapter, a person who provides digital asset services in or affecting interstate commerce shall have a duty to provide higher standards of customer notice and acknowledgment if there is likely to be a material impact on the economic value of the digital asset of a customer.
-
-"(b) Enforcement of Standards.—The standards under this chapter shall be enforced in an appropriate manner, commensurate with other customer protection standards—
-
-"(1) in the case of a digital asset intermediary, by the Federal or State licensing, registration, or chartering authority of the intermediary; and
-
-"(2) in the case of a depository institution or other financial institution, by the appropriate State or Federal banking supervisor.".
-
-&nbsp;
-
-SEC. 505. RIGHT TO INDIVIDUAL MANAGEMENT OF DIGITAL ASSETS.
-
-Chapter 98 of title 31, United States Code, as amended by section 504 of this Act, is amended by adding at the end the following:
-
-"9806. Right to individual management of digital assets
-
-"(a) In General.—Except as otherwise required by law, no person shall be required to use an intermediary for the safekeeping of digital assets legally owned, and possessed or controlled, by that person.
-
-"(b) Rule of Construction.—This section shall not be construed to—
-
-"(1) permit a person to engage in market activity for which authorization is required under Federal or State law; or
-
-"(2) restrict a person from freely entering into an agreement for digital asset services with a third party.".
-
-SEC. 506. TECHNICAL AND CONFORMING AMENDMENTS.
-
-The table of sections of chapter 98, as added by section 101(a) of this Act, is amended by adding at the end the following:
-
-"9802. Consumer protection standards for digital assets.
-
-"9803. Source code version of digital assets.
-
-"9804. Settlement finality.
-
-"9805. Notice to customers; enforcement.
-
-"9806. Right to individual management of digital assets.".
-
-&nbsp;
-
-# TITLE VI—RESPONSIBLE PAYMENTS INNOVATION
-
-SEC. 601. ISSUANCE OF PAYMENT STABLECOINS.
-
-Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470) is amended by adding at the end the following:
-
-"SEC. 722A. ISSUANCE OF PAYMENT STABLECOINS.
-
-"(a) In General.—A depository institution may issue, redeem, and conduct all incidental activities relating to payment stablecoins in accordance with this section.
-
-"(b) Required Payment Stablecoin Assets.—A depository institution shall maintain high-quality liquid assets under this section equal to not less than 100 percent of the face amount of the liabilities of the institution on payment stablecoins issued by the institution. In the case of an insured depository institution described in subsection (m)(1)(A) that engages in on-balance sheet lending activities, assets under this subsection shall equal not less than 100 percent of the face amount of the liabilities of the institution on payment stablecoins issued by the institution, with the assets held in balances at a Federal Reserve bank (which may include a segregated balance account), or, in the case of foreign withdrawable reserves, at a foreign central bank, in a special, custodial, or trust account, other off-balance sheet account, or in another equivalent manner that ensures the segregation of the assets in the event of receivership. An insured depository institution may segregate the issuance and management of payment stablecoins into a separate depository institution affiliate under the same holding company structure. Eligible high-quality liquid assets under this section shall be comprised of the following:
-
-"(1) United States coins and currency and any other instrument that is legal tender, as defined in section 5103 of title 31, United States Code.
-
-"(2) Demand deposits at a depository institution, except that deposits in an insured depository institution shall not exceed the limit of deposit or share insurance available for that account, which may include pass through insurance, or shall be maintained in a special, custodial, or trust account or other off-balance sheet account held by the insured depository institution.
-
-"(3) Balances held at a Federal Reserve bank, which may be held in a master account or segregated balance account.
-
-"(4) Foreign withdrawable reserves, as defined in section 249.3 of title 12, Code of Federal Regulations, consistent with any foreign unit of account in which the payment stablecoin is denominated or pegged.
-
-"(5) A security that is issued by, or unconditionally guaranteed as to the timely payment of principal and interest by, the Department of the Treasury, with an original maturity of 1 year or less.
-
-"(6) A reserve repurchase agreement relating to a security described in paragraph (5).
-
-"(7) Any other high-quality, liquid asset determined to be consistent with safe and sound banking practices, as determined by the appropriate Federal banking agency or State bank supervisor.
-
-"(c) Disclosures.—Not later than 10 business days after the end of each month, a depository institution shall disclose, in a publicly accessible manner, a summary description of the assets backing the payment stablecoin, the value of the assets, and the number of outstanding payment stablecoins, as of the last day of the month. Such explanation shall be filed with the appropriate Federal banking agency or State bank supervisor under penalty of perjury by the chief financial officer of the institution. The depository institution shall also report on the summary description any instances in which the institution failed to comply with any requirement of subsection (b). As applicable, the appropriate Federal banking agency or State bank supervisor shall, as part of a regular examination of the depository institution, at the frequency otherwise required by law, verify the composition of the assets and the accuracy of the summary descriptions made under this subsection and reports under subsection (d).
-
-"(d) Call Report.—As applicable, the appropriate Federal banking agency or State bank supervisor shall require a depository institution that issues a payment stablecoin to report, in detail, on the composition of the assets in each periodic report of condition, or in an alternative format approved by the Federal Financial Institutions Examination Council, at the frequency otherwise required by law.
-
-"(e) Permission.—A depository institution shall, as applicable, obtain permission from the appropriate Federal banking agency or State bank supervisor, with an application submitted not less than 6 months before intended issuance of the payment stablecoin, but which may be submitted as part of a charter application. As part of an application under this section, a depository institution shall develop a tailored recovery and resolution plan, consistent with the standards adopted under subsection (k)(1)(F), that would permit the orderly resumption of a safe and sound operation or the orderly wind-down of operations in the event of distress, including the redemption of all outstanding payment stablecoins. The application shall also contain a draft customer agreement, flow of funds explanation, a robust information technology plan and operational design of the payment stablecoin. As applicable, the appropriate Federal banking agency or State bank supervisor shall render a decision on the application within 4 months of the date of filing, and shall approve the application unless—
-
-"(1) the payment stablecoin activities are not likely to be able to operate in a safe and sound manner;
-
-"(2) the depository institution does not have the required resources and expertise to manage the operation of the payment stablecoin, commensurate with the size and scale of projected operations; or
-
-"(3) the depository institution does not have required policies and procedures relating to material areas of the operation of the payment stablecoin activities.
-
-"(f) Redemption of Payment Stablecoins.—Upon the demand of a customer, a depository institution shall redeem an outstanding payment stablecoin at par in the coins, currency, or other instruments that are legal tender, as defined in section 5103 of title 31, United States Code, or the similar laws of the jurisdiction of the unit of account in which the payment stablecoin is denominated or to which the value of the payment stablecoin is pegged. A depository institution may redeem a payment stablecoin issued by another depository institution at par, upon demand. The Board of Governors of the Federal Reserve System, through the Federal Reserve banks, shall provide for the clearing and settlement of payment stablecoin liabilities among depository institutions under this section and shall ensure competitive equality in all clearing, settlement and related services. A depository institution shall also assess its ability to fulfill large redemptions without placing downward pressure on the market value of the payment stablecoin.
-
-"(g) Collateral Availability in the Capital Markets.—The appropriate Federal banking agencies, in consultation with State bank supervisors, the Securities and Exchange Commission, and Commodity Futures Trading Commission, shall monitor use of the high-quality liquid assets authorized under subsection (b) and the impact on collateral availability and the efficient functioning of the capital markets.
-
-"(h) Receivership Priority.—In the event of the receivership of a depository institution that has issued a payment stablecoin under this section, a person that has a valid claim on a payment stablecoin issued by that institution shall have priority over all other claims on the institution with respect to any required payment stablecoin assets, including claims with respect to insured deposits, other than administrative costs incurred by the appropriate Federal banking agency or State bank supervisor, as applicable, relating to the receivership of the institution, if applicable. Consistent with subsection (f), a depository institution that redeems a payment stablecoin issued by a depository institution in receivership shall be considered to have a valid claim, with corresponding priority under this subsection, on a payment stablecoin issued by the institution in receivership.
-
-"(i) Incidental Activities.—A depository institution may conduct all incidental activities relating to the issuance and redemption of payment stablecoins, which shall include the following:
-
-"(1) Management of required payment stablecoin assets in accordance with subsection (b).
-
-"(2) Making a market in payment stablecoins.
-
-"(3) Custodial services.
-
-"(4) Settlement and clearing.
-
-"(5) Post-trade services.
-
-"(6) All other activities consistent with a safe and sound operation, as determined by the appropriate Federal banking agency or State bank supervisor.
-
-"(j) Applicability of Gramm-leach-bliley Data Privacy Provisions.—Title V of the Gramm-Leach-Bliley Act (12 U.S.C. 6801 et seq.) shall apply to the payment stablecoin activities of a depository institution under this section.
-
-"(k) Rules.—
-
-"(1) In general.—The appropriate Federal banking agencies, in consultation with State bank supervisors, shall adopt rules to implement this section, including—
-
-"(A) capital treatment for depository institutions described in subsection (m)(1) in accordance with paragraph (2);
-
-"(B) liquidity, leverage, and interest rate risk;
-
-"(C) third-party service provider activities—
-
-"(i) including custodial wallet providers; and
-
-"(ii) not including licensing or capital requirements for third-party service providers;
-
-"(D) management practices with respect to required payment stablecoin assets;
-
-"(E) appropriate operational, compliance, and information technology risk management;
-
-"(F) tailored recovery and resolution standards relating to payment stablecoins; and
-
-"(G) any other material topic.
-
-"(2) Significant differences.—In accordance with section 5169(c)(3)(A) of the Revised Statutes, in determining capital and leverage requirements applicable to a depository institution that has no material assets other than required payment stablecoin assets under this section—
-
-"(A) the depository institution shall not be subject to section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371); and
-
-"(B) the appropriate Federal banking agencies shall take into account the significant differences between the risks of the assets of the institution and those of depository institutions with assets that consist primarily of commercial or consumer loans.
-
-"(l) Non-depository Institution Payment Stablecoin Issuers.—Nothing in this section shall be construed to prohibit an entity operating under a state or Federal charter or license that is not a depository institution from issuing and redeeming a payment stablecoin and conducting all activities related to the management of such payment stablecoin consistent with a safe and sound operation, as determined by the appropriate regulator of the entity. The entity shall—
-
-"(1) be subject to the requirements of subsections (b) and (c); and
-
-"(2) redeem an outstanding payment stablecoin at par in the coins, currency, or other instruments that are legal tender, as defined in section 5103, or the similar laws of the jurisdiction of the unit of account in which the payment stablecoin is denominated or to which the value of the payment stablecoin is pegged.
-
-"(m) Definitions.—In this section:
-
-"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)) and includes—
-
-"(A) an insured depository institution; or
-
-"(B) a depository institution operating under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), or a substantially similar State law, which is exclusively engaged in issuing payment stablecoins, providing safekeeping, trust or custodial services, or activities incidental to the foregoing.
-
-"(2) Payment stablecoin.—The term ‘payment stablecoin’ has the meaning given the term in section 9801 of title 31, United States Code.
-
-"(3) Segregated balance account.—The term ‘segregated balance account’ includes an account of a depository institution with a Federal Reserve bank or a foreign central bank to which only required payment stablecoin assets are credited.".
-
-&nbsp;
-
-SEC. 602. SANCTIONS COMPLIANCE RESPONSIBILITIES OF PAYMENT STABLECOIN ISSUERS.
-
-Not later than 120 days after the date of the enactment of this Act, the Secretary of the Treasury shall adopt final guidance clarifying the sanctions compliance responsibilities and liability of an issuer of a payment stablecoin with respect to downstream transactions relating to the stablecoin that take place after the stablecoin is first provided to a customer of the issuer.
-
-&nbsp;
-
-SEC. 603. USE OF THE OFFICIAL DIGITAL CURRENCY OF THE PEOPLE’S REPUBLIC OF CHINA ON GOVERNMENT DEVICES.
-
-(a) Definitions.—In this section—
-
-(1) the term "digital yuan" means the official central bank digital currency of the People’s Republic of China;
-
-(2) the term "executive agency" has the meaning given that term in section 133 of title 41, United States Code; and
-
-(3) the term "information technology" has the meaning given that term in section 11101 of title 40, United States Code.
-
-(b) Use of Digital Yuan.—Not later than 60 days after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, the Director of the Cybersecurity and Infrastructure Security Agency, the Director of National Intelligence, and the Secretary of Defense, and consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code, shall develop standards and guidelines for executive agencies which require adequate security measures for use of the digital yuan on Government information technology devices.
-
-&nbsp;
-
-SEC. 604. CERTIFICATE OF AUTHORITY TO COMMENCE BANKING.
-
-Section 5169 of the Revised Statutes (12 U.S.C. 27) is amended—
-
-(1) in subsection (a), in the third sentence, by striking "to those of a trust company and activities related thereto." and inserting the following: “to—
-
-"(1) those of a trust company and fiduciary activities related thereto; or
-
-"(2) those of a depository institution required to maintain assets valued at not less than 100 percent of the deposits of the institution, for the purposes of issuing a payment stablecoin (as defined in section 9801 of title 31, United States Code) and activities related thereto consistent with subsection (c) of this section and without the requirement to maintain deposit insurance under the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.)."; and
-
-(2) by adding at the end the following:
-
-"(c)(1) Notwithstanding any other provision of law, a National Bank Association described in subsection (a) may not engage in maturity transformation or facilitate consumer lending through third parties.
-
-"(2) Restrictions on affiliate transactions applicable for insured depository institutions shall apply to such depository institutions.
-
-"(3) The Comptroller of the Currency, in close consultation with the Board of Governors of the Federal Reserve System and State bank supervisors, shall develop the following:
-
-"(A) A simplified capital framework based on the following:
-
-"(i) Payment system risk.
-
-"(ii) The greater of—
-
-"(I) all projected costs of receivership; or
-
-"(II) 3 years of projected operating expenses.
-
-"(B) Appropriate standards for the depository institution to develop a community contribution plan, which may include consumer education, financial literacy, charitable donations, volunteerism, job training and internships or similar involvement.
-
-"(C) A tailored recovery and resolution plan that would permit the orderly resumption of a safe and sound operation or the orderly wind-down of operations relating to a payment stablecoin in the event of distress.
-
-"(D) Tailored holding company supervision, as specified by section 15 of the Bank Holding Company Act of 1956.
-
-"(4) In designing the simplified capital framework required by paragraph (3)(A), the Comptroller of the Currency—
-
-"(A) shall not subject depository institutions to the standards of section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371); and
-
-"(B) shall take into account the significant differences between the risks of the assets of the institution and those of depository institutions with assets that consist primarily of commercial or consumer loans.
-
-"(d) The Comptroller of the Currency may promulgate rules to carry out this section.".
-
-&nbsp;
-
-SEC. 605. HOLDING COMPANY SUPERVISION OF COVERED DEPOSITORY INSTITUTIONS.
-
-The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended—
-
-(1) in section 2(c) (12 U.S.C. 1841(c)), strike paragraph (2) and insert the following:
-
-"(2) Exceptions.—The term ‘bank’ does not include a covered depository institution subject to tailored holding company supervision under section 15."; and
-
-(2) by adding at the end the following:
-
-"SEC. 15. TAILORED HOLDING COMPANY SUPERVISION FOR COVERED DEPOSITORY INSTITUTIONS.
-
-"(a) Definitions.—In this section:
-
-"(1) Appropriate banking supervisor.—The term ‘appropriate banking supervisor’ means the Comptroller of the Currency, a State bank supervisor, in the case of a State member bank, the Board, or in the case of an insured bank, the Federal Deposit Insurance Corporation, as applicable.
-
-"(2) Controlling interest.—The term ‘controlling interest’ means a circumstance when a person, directly or indirectly, or acting through or in concert with 1 or more persons-
-
-"(A) owns, controls, or has the power to vote 25 percent or more of any class of voting securities of a covered depository institution;
-
-"(B) controls in any manner the election of a majority of the directors of the covered depository institution; or
-
-"(C) has the power to exercise a controlling influence over the management or policies of the covered depository institution.
-
-"(3) Covered depository institution.—The term ‘covered depository institution’ means a depository institution operating under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), or a substantially similar State law, other than a bank, as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), or an insured depository institution, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), which is exclusively engaged in issuing payment stablecoins, providing safekeeping, trust or custodial services, or activities incidental to the foregoing.
-
-"(b) Controlling Interest.—A person with a controlling interest in a covered depository institution shall—
-
-"(1) submit annual audited financial statements and other information as otherwise reasonably required by the appropriate banking supervisor; and
-
-"(2) provide a description of all affiliated or parent entities and their relationships with the institution, including annual updates.
-
-"(c) Tax Allocation Agreement.—The appropriate banking supervisor may require a legal entity with a controlling interest in a covered depository institution to execute a tax allocation agreement with the institution that—
-
-"(1) expressly states that an agency relationship exists between the person and the institution with respect to tax assets generated by the institution, and that the assets are held in trust by the person for the benefit of the institution and will be promptly remitted to the institution; and
-
-"(2) may provide that the amount and timing of any payments or refunds to the institution by the person should be no less favorable than if the institution were a separate taxpayer.
-
-"(d) Prohibition on Controlling Interests.—A person that is a commercial firm, as defined in section 602 of the Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010 (12 U.S.C. 1815 note), may not obtain a controlling interest in a covered depository institution.
-
-"(e) Public Interest.—If the appropriate banking supervisor finds that it is in the public interest and has reasonable cause to believe it is necessary to protect the customers of a covered depository institution, the supervisor may—
-
-"(1) conduct an examination of a legal entity with a controlling interest in a covered depository institution or otherwise require information from the person; and
-
-"(2) require a person with a controlling interest in a covered depository institution to divest or sever their relationship with the institution, if necessary to maintain safety and soundness.".
-
-&nbsp;
-
-SEC. 606. IMPLEMENTATION RULES TO PRESERVE ADEQUATE COMPETITION IN PAYMENT STABLECOINS.
-
-(a) In General.—The application of a non-depository trust company or the holder of a State license that only persons engaged in digital asset activities may obtain, which was chartered or issued under the laws of a State or the National Bank Act before the date of enactment of this Act, to receive a charter as a depository institution and to operate under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), as added by section 604 of this Act, shall be decided upon by the Comptroller of the Currency before an application for a charter to operate under that section from another entity that is filed on or after the date of enactment of this Act.
-
-(b) Application.—The application of a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1853(a)), chartered before the date of enactment of this Act to become a State member bank in the Federal Reserve System or for access to Federal Reserve services under section 11A of the Federal Reserve Act (12 U.S.C. 248a) shall be decided upon by the Board of Governors of the Federal Reserve System, or a Federal Reserve bank, as applicable, before any application to become a State member bank or for Federal Reserve services from any other entity which seeks to operate as a covered depository institution and which is filed on or after the date of enactment of this Act.
-
-(c) Decision.—The applications described in subsections (a) and (b) of this section shall be decided upon by the appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) or Federal Reserve bank, as applicable, before an insured depository institution in operation before the enactment date of this Act may issue a payment stablecoin in accordance with section 722A of the Gramm-Leach Bliley Act, as added by section 601 of this Act.
-
-&nbsp;
-
-SEC. 607. FINANCIAL CRIMES ENFORCEMENT NETWORK INNOVATION LABORATORY.
-
-Section 310 of title 31, United States Code, is amended by adding at the end the following:
-
-"(m) Innovation Laboratory.—
-
-"(1) In general.—There is established within the Financial Crimes Enforcement Network an Innovation Laboratory to promote regulatory dialogue, data sharing between the Financial Crimes Enforcement Network and financial companies, and an assessment of potential changes in law, rules, or policies to facilitate the appropriate supervision of financial technology and the laws under the jurisdiction of the agency.
-
-"(2) Chief innovation officer.—The innovation officer appointed under section 6208 of the Anti-Money Laundering Act of 2020 (31 U.S.C. 5311 note) by the Director of the Financial Crimes Enforcement Network shall manage the Innovation Laboratory.
-
-"(3) Duties.—The Innovation Laboratory, as appropriate, shall study changes in financial technology and make recommendations to Congress, the Secretary, and the Director for appropriate changes in laws, rules, or policies that can more effectively facilitate the supervision of financial technology with respect to the laws under the jurisdiction of the Financial Crimes Enforcement Network, including digital assets, distributed ledger technology and decentralized finance.
-
-"(4) Pilot projects.—The Innovation Laboratory, as appropriate, shall conduct pilot projects with financial companies to more effectively facilitate the supervision of financial technology, consistent with applicable law.".
-
-&nbsp;
-
-# TITLE VII—RESPONSIBLE BANKING INNOVATION
-
-SEC. 701. STUDY ON USE OF DISTRIBUTED LEDGER TECHNOLOGY FOR REDUCTION OF RISK IN DEPOSITORY INSTITUTIONS.
-
-Not later than 180 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall complete a study and submit to the Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report regarding the manner in which distributed ledger technology may reduce risk for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), including settlement risk, operational risk and capital requirements.
-
-&nbsp;
-
-SEC. 702. ELIGIBILITY FOR FEDERAL RESERVE SERVICES TO DEPOSITORY INSTITUTIONS.
-
-(a) Findings.—Congress finds the following:
-
-(1) Final settlement of transactions in central bank money reduces risk in the financial system, including through the reduction of counterparty exposure.
-
-(2) Digital assets settle with finality in seconds or minutes, whereas traditional financial transactions may take days to settle.
-
-(3) This mismatch in the settlement window of digital assets and traditional financial assets creates risk in the economy that may be reduced through the ability of depository institutions to simultaneously conduct digital asset transactions and settle, with finality, the United States dollar component of these transactions.
-
-(4) The Federal Reserve Act specifies that a depository institution, as defined in section 19(b)(1) of that Act (12 U.S.C. 461(b)(1)), upon receiving a charter from the Office of the Comptroller of the Currency, National Credit Union Administration or State bank supervisor, is required to be made available services from Federal Reserve banks under section 11A of the Federal Reserve Act (12 U.S.C. 248a), including currency and coin services, wire transfer services, automated clearinghouse services and settlement services.
-
-(5) Numerous Federal courts have found that the provision of services to depository institutions under section 11A of the Federal Reserve Act (12 U.S.C. 248a) is a ministerial duty imposed by Congress with respect to all depository institutions.
-
-(6) The Board of Governors of the Federal Reserve System has long interpreted the Federal Reserve Act to mean that the Federal Reserve banks must provide services to all depository institutions, noting that it has a duty "to ensure the provision of payment services to all depository institutions on an equitable basis, and to do so in an atmosphere of competitive fairness".
-
-(7) The Federal Reserve banks have, on occasion, provided services to non-depository, non-insured institutions without appropriate statutory authority.
-
-(8) Certain novel legal positions that conflict with or frustrate these precedents are not in the best traditions of the Federal Reserve Act, our dual banking system, and the imperatives of Congress.
-
-(9) The statutory independence of the Board of Governors and the Federal Reserve banks under the Constitution of the United States is properly rooted in absolute fidelity to the laws enacted by Congress.
-
-(10) It is appropriate for Congress to reaffirm its existing statutory intent to ensure that all depository institutions may access services under the Federal Reserve Act "on an equitable basis, and to do so in an atmosphere of competitive fairness".
-
-(b) Pricing of Services.—Section 11A of the Federal Reserve Act (12 U.S.C. 248a) is amended by adding at the end the following:
-
-"(f) A Federal Reserve bank shall provide a segregated balance account to a depository institution upon the request of any institution that receives services under this section.".
-
-(c) Deposits; Exchange and Collection; Member and Nonmember Banks or Other Depository Institutions; Charges.—Section 13 of the Federal Reserve Act (12 U.S.C. 342) is amended to read as follows:
-
-"Any Federal Reserve bank shall receive from any of its member banks or other depository institutions, and from the United States, deposits of current funds in lawful money, national-bank notes, Federal reserve notes, or checks, and drafts, payable upon presentation or other items, and also, for collection, maturing notes and bills; or, solely for purposes of exchange or of collection, shall receive from other Federal Reserve banks deposits of current funds in lawful money, national-bank notes, or checks upon other Federal Reserve banks, and checks and drafts, payable upon presentation within its district or other items, and maturing notes and bills payable within its district; or, solely for the purposes of exchange or of collection, shall receive from any non-member bank or trust company or other depository institution deposits of current funds in lawful money, national-bank notes, Federal reserve notes, checks and drafts payable upon presentation or other items, or maturing notes and bills: Provided, Such nonmember bank or trust company or other depository institutions maintains with the Federal Reserve bank of its district a balance in such amount as the Board determines taking into account items in transit, services provided by the Federal Reserve bank, and other factors as the Board may deem appropriate: Provided further, That nothing in this or any other section of this Act shall be construed as prohibiting a member or nonmember bank or other depository institution from making reasonable charges, to be determined and regulated by the Board of Governors, but in no case to exceed 10 cents per $100 or fraction thereof, based on the total of checks and drafts presented at any one time, for collection or payment of checks and drafts and remission therefor by exchange or otherwise; but no such charges shall be made against the Federal Reserve banks.".
-
-&nbsp;
-
-SEC. 703. ROUTING TRANSIT NUMBER ISSUANCE.
-
-Not later than 2 years after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall assume responsibility for issuing routing transit numbers to depository institutions for all purposes relating to the clearing of transactions and the services required to be made available to all depository institutions under section 11A of the Federal Reserve Act (12 U.S.C. 248a).
-
-&nbsp;
-
-SEC. 704. CLARIFYING APPLICATION REVIEW TIMES WITH RESPECT TO THE FEDERAL BANKING AGENCIES.
-
-Section 343 of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4807) is amended by striking subsection (a) and inserting the following:
-
-"(a) Final Action.—
-
-"(1) Definition.—In this subsection, the term ‘completed application’—
-
-"(A) means the information requested by the Federal banking agency at the outset of an application through application forms or similar means; and
-
-"(B) does not include supplemental information requested by the agency after filing of an application.
-
-"(2) Action.—Each Federal banking agency, including Federal Reserve banks, shall take final action on any application to the agency before the end of the 1-year period beginning on the date on which a completed application is received by the agency.
-
-"(b) Report.—Each Federal banking agency, including the Federal Reserve banks, shall annually report to Congress a list of the applications that have been pending for 9 months or longer since the date of the initial application filed by an applicant. Such list—
-
-"(1) shall disclose the reason why the application has not yet been approved or denied by the Federal banking agency; and
-
-"(2) shall not contain confidential supervisory information.".
-
-&nbsp;
-
-SEC. 705. EXAMINATION STANDARDS FOR DIGITAL ASSET ACTIVITIES.
-
-(a) In General.—Not later than 18 months after the date of enactment of this Act, the Federal Financial Institutions Examination Council, in consultation with the Financial Crimes Enforcement Network, shall publish final guidance and examiner handbooks for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), on the following topics related to digital assets:
-
-(1) Anti-money laundering, customer identification, beneficial ownership, and sanctions compliance, including with respect to payment stablecoin activities and subsidiary value (as defined in section 9802(c) of title 31, United States Code).
-
-(2) Custody.
-
-(3) Fiduciary and capital markets activities.
-
-(4) Information technology standards.
-
-(5) Payment system risk.
-
-(6) Consumer protection.
-
-(b) Final Guidance.—Not later than 18 months after the date of enactment of this Act, Securities and Exchange Commission and Commodity Futures Trading Commission, in consultation with the Financial Crimes Enforcement Network, shall publish final guidance and examiner handbooks relating to digital asset intermediaries regarding the topics described in paragraphs (1) and (4) of subsection (a).
-
-&nbsp;
-
-SEC. 706. ASSET CUSTODY FOR DEPOSITORY INSTITUTIONS AND CERTAIN OTHER ENTITIES.
-
-(a) Findings.—Congress finds the following:
-
-(1) The laws surrounding custody of financial assets is largely customary, uncodified, and poorly understood.
-
-(2) Lack of uniformity amongst various jurisdictions’ laws relating to custody has largely not been addressed by regulators, can contribute to risk, and is producing uncertainty for innovators.
-
-(3) Codifying basic principles around custody of financial assets will reduce systemic risk, clearly define the rights and duties of both custodian and customer, and contribute to a more uniform and effective banking system.
-
-(b) Definition.—In this section, the term "custody" means the safekeeping, servicing and management of customer financial assets, including currency, securities and commodities, on an off-balance sheet basis.
-
-(c) Custody.—
-
-(1) In general.—Except as provided in paragraph (2), custody of financial assets is accomplished by a bailment and established by a written customer agreement. Custody shall not be a fiduciary or trust activity unless the custodian is providing substantial discretionary services with respect to an account, including through investment advice or investment discretion, and the custodian owes a customer a higher standard of care or duty with respect to the customer of that account.
-
-(2) Exception.—A custodian and customer may establish a legal relationship other than a bailment pursuant to a written customer agreement.
-
-(d) Proper Documentation.—A custodial account shall be properly documented in a customer agreement, with a clearly defined legal relationship between the custodian and customer. Custodial assets shall be properly identified and segregated from the assets of the custodian, with proper documentation of asset segregation.
-
-(e) Not Assets or Liabilities.—Assets properly held in a custodial account under this section are not assets or liabilities of the custodian and shall be maintained on an off-balance sheet basis, including for the purpose of accounting treatment for the custodian and the customers of the custodian, notwithstanding the form in which the assets are maintained.
-
-(f) Applicability.—This section shall apply to depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), and non-depository trust companies chartered under section 5169 of the Revised Statutes (12 U.S.C. 27).
-
-&nbsp;
-
-SEC. 707. REPUTATION RISK; REQUIREMENTS FOR ACCOUNT TERMINATION REQUESTS AND ORDERS.
-
-(a) Reputation Risk.—An appropriate Federal banking agency may not formally or informally request or order a depository institution to terminate a specific customer account or group of customer accounts unless the agency has a valid reason for such request or order, consistent with subsections (b) and (c).
-
-(b) No Restriction.—An appropriate Federal banking agency shall not restrict or discourage a depository institution from entering into or maintaining a banking relationship with a specific customer or group of customers based on reputation risk, including through the examinations and ratings of the depository institution.
-
-(c) Treatment of National Security Threats.—If an appropriate Federal banking agency believes a specific customer or group of customers is, or acting as a conduit for, an entity which—
-
-(1) poses a threat to national security;
-
-(2) is involved in terrorist financing;
-
-(3) is an agency of the Government of Iran, North Korea, Syria, or any country listed from time to time on the State Sponsors of Terrorism list;
-
-(4) is located in, or is subject to the jurisdiction of, any country specified in paragraph (3); or
-
-(5) does business with any entity described in paragraph (3) or (4), unless the appropriate Federal banking agency determines that the customer or group of customers has used due diligence to avoid doing business with that entity, such belief shall satisfy the requirement under subsection (a).
-
-(d) Notice Requirement.—
-
-(1) In general.—If an appropriate Federal banking agency formally requests or orders a depository institution to terminate a specific customer account or a group of customer accounts, the agency shall—
-
-(A) provide such request or order to the institution in writing; and
-
-(B) accompany such request or order with a written justification for why such termination is needed, including any specific laws or rules the agency believes are being violated by the customer or group of customers.
-
-(2) Justification requirement.—Consistent with subsection (b), the justification described in paragraph (1)(B) may not be based on reputation risk to the depository institution.
-
-(e) Customer Notice.—
-
-(1) Notice required.—Except as provided under paragraph (2) or as otherwise prohibited from being disclosed by law, if an appropriate Federal banking agency orders a depository institution to terminate a specific customer account or a group of customer accounts, the depository institution shall inform the specific customer or group of customers of the justification for the customer’s account termination described under subsection (b).
-
-(2) Notice prohibited.—
-
-(A) Notice prohibited in cases of national security.—If an appropriate Federal banking agency requests or orders a depository institution to terminate a specific customer account or a group of customer accounts based on a belief that the customer or customers pose a threat to national security, or are otherwise described under subsection (a)(2), neither the depository institution nor the appropriate Federal banking agency may inform the customer or customers of the justification for the customer’s account termination.
-
-(B) Notice prohibited in other cases.—If an appropriate Federal banking agency determines that the notice required under paragraph (1) may interfere with an authorized criminal investigation, neither the depository institution nor the appropriate Federal banking agency may inform the specific customer or group of customers of the justification for the customer’s account termination.
-
-(f) Reporting Requirement.—Each appropriate Federal banking agency shall issue an annual report to Congress stating—
-
-(1) the aggregate number of specific customer accounts that the agency requested or ordered a depository institution to terminate during the previous year; and
-
-(2) the legal authority on which the agency relied in making such requests and orders and the frequency on which the agency relied on each such authority.
-
-(g) Definitions.—In this section:
-
-(1) Appropriate federal banking agency.—The term "appropriate Federal banking agency" means—
-
-(A) the appropriate Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); and
-
-(B) the National Credit Union Administration, in the case of an insured credit union.
-
-(2) Depository institution.—The term "depository institution" has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)).
-
-&nbsp;
-
-SEC. 708. CONFORMING AMENDMENTS.
-
-(a) Federal Deposit Insurance Act.—Section 12 of the Federal Deposit Insurance Act (12 U.S.C. 1822) is amended by adding at the end the following:
-
-"(g) Appointment of Receiver.—
-
-"(1) Definition.—In this subsection, the term ‘covered depository institution’ has the meaning given the term in section 15(a) of the Bank Holding Company Act of 1956.
-
-"(2) Appointment.—The Corporation may be appointed as receiver of a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956.
-
-"(3) Premiums.—A covered depository institution may not be charged deposit insurance premiums for the purpose of this subsection, but the Corporation may use the capital of the covered depository institution to fund the costs of the receivership.
-
-"(4) Rules.—The Corporation may promulgate rules to carry out this subsection, which shall—
-
-"(A) be substantially consistent with the rules for receivership of an insured depository institution; and
-
-"(B) account for the limited activities, capital, and the required tailored recovery and resolution plan of the covered depository institution.".
-
-(b) Federal Reserve Act.—The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended—
-
-(1) in section 19(b)(1)(A) (12 U.S.C. 461(b)(1)(A))—
-
-(A) in clause (vi), by striking "and" at the end;
-
-(B) in clause (vii), by striking the period at the end and inserting "; and"; and
-
-(C) by adding at the end the following:
-
-"(viii) a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956."; and
-
-(2) in the first undesignated paragraph of section 9 (12 U.S.C. 321), in the first sentence, by inserting ", covered depository institutions, as defined in section 15(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1853(a))," after “Plan banks”.
-
-&nbsp;
-
-# TITLE VIII—RESPONSIBLE INTERAGENCY COORDINATION
-
-SEC. 801. TIMELINE FOR INTERPRETIVE GUIDANCE ISSUED BY FEDERAL FINANCIAL AGENCIES.
-
-(a) In General.—Title 31, United States Code, is amended by adding after chapter 98, as added by section 101(a) of this Act, the following:
-
-"CHAPTER 99—RESPONSIBLE INTERAGENCY COORDINATION
-
-"Sec.
-
-"9901. Timeline for interpretive guidance issues by Federal financial agencies.
-
-"9902. Interstate sandbox activities.
-
-"9901. Timeline for interpretive guidance issues by Federal financial agencies
-
-"(a) In General.—In this section:
-
-"(1) Federal financial regulator.—The term ‘Federal financial regulator’ means—
-
-"(A) Board of Governors of the Federal Reserve System and the Federal Reserve banks;
-
-"(B) Commodity Futures Trading Commission;
-
-"(C) Department of the Treasury;
-
-"(D) Federal Deposit Insurance Corporation;
-
-"(E) Federal Housing Finance Agency;
-
-"(F) National Credit Union Administration;
-
-"(G) Office of the Comptroller of the Currency;
-
-"(H) Consumer Financial Protection Bureau; and
-
-"(I) Securities and Exchange Commission.
-
-"(2) Requesting person.—The term ‘requesting person’—
-
-"(A) means any entity that is required to be chartered, licensed, supervised or registered by that agency; and
-
-"(B) includes State agencies and self-regulatory organizations.
-
-"(b) Response.—Not later than 180 days after filing a written request for individualized interpretive guidance with respect to the application of a statute, rule or policy under the jurisdiction of a Federal financial regulator, the agency shall provide a final, complete and written response to the requesting person. This subsection shall not apply to requests for guidance that the Federal financial regulator determine lack substance.
-
-"(c) Other Matters.—With respect to matters delegated or otherwise under the jurisdiction of self-regulatory organizations, including national securities exchanges, boards of trade, and similar entities, the self-regulatory organization shall be subject to the same requirements as a Federal financial regulator under this section.".
-
-&nbsp;
-
-SEC. 802. INTERSTATE SANDBOX ACTIVITIES.
-
-(a) In General.—Chapter 99 of title 31, United States Code, as added by section 701 of this Act, is amended by adding at the end the following:
-
-"9902. Interstate sandbox activities
-
-"(a) Definitions.—In this section:
-
-"(1) Federal financial regulator.—The term ‘Federal financial regulator’ means the Federal agency described in section 9901(a)(1) that would typically exercise jurisdiction over the product or service made available in the State financial regulatory sandbox, or the Department of the Treasury, in the case of a matter only within the jurisdiction of a State.
-
-"(2) Financial company.—The term ‘financial company’ means a business entity primarily engaged in activities that are financial in nature, as described in section 4(k)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(4)).
-
-"(3) Host state.—The term ‘host State’ means a State in which a financial company is not operating in the State financial regulatory sandbox of that State.
-
-"(4) Innovative.—The term ‘innovative’ means new or emerging technology, or new uses of existing technology, that—
-
-"(A) provides a financial product, service, business model, or delivery mechanism to the public; and
-
-"(B) has no substantially comparable, widely available analogue in common use in the United States.
-
-"(5) State financial regulator.—The term ‘State financial regulator’ includes State agencies that regulate, supervise, or license banks, trust companies, credit unions, consumer credit, consumer protection, money transmission, securities, commodities, and similar areas.
-
-"(6) State financial regulatory sandbox.—The term ‘State financial regulator sandbox’ means a program created under State law that allows a financial company to make an innovative financial product or service available to customers within that State during a defined period in order to permit regulatory dialogue, data sharing amongst regulators and financial companies, and to promote an assessment of potential changes in law, rule, or policy to facilitate the appropriate supervision of financial technology.
-
-"(b) Business Conducted.—Upon joint approval under subsection (d), a financial company in good standing in a State financial regulatory sandbox and operating for not less than 6 months in that sandbox program, may do business across State lines under the standards of this section. If approved, the state financial regulator and the Federal financial regulator may agree upon reasonable adjustments to the number of customers that may be served, increased bonding or collateral requirements, and similar conditions which may be appropriate for conducting business nationally.
-
-"(c) State Sandbox Requirements.—A State financial regulatory sandbox shall contain the following components for financial companies to be eligible to do business across State lines under this section:
-
-"(1) A limited sandbox period of not more than 24 months.
-
-"(2) Consumer protection requirements, which may include disclosures, bonding, insurance requirements, and financial literacy programs for specified consumers.
-
-"(3) Authority to conduct examinations of the financial company.
-
-"(4) A background investigation of the financial company and its officers, directors, members, managers and key employees, prior to commencing business.
-
-"(d) Decision.—Upon submission of an application by a financial company to conduct business across State lines under subsection (b), the State financial regulator and Federal financial regulator shall jointly issue a decision within 120 days with respect to that application, irrespective of any supplemental information with respect to the application that may be requested after initial filing. The Federal financial regulator shall have the authority to conduct a joint examination of any financial company doing business under this section.
-
-"(e) Factors.—The State financial regulator and Federal financial regulator shall consider the following factors in rendering a decision on the application:
-
-"(1) Whether the product or service offered may be offered in a safe and sound manner across State lines.
-
-"(2) Whether the management and capital of the financial company is commensurate with the scale of the company.
-
-"(3) Risk management plans of the financial company.
-
-"(4) Conduct of the financial company to date in the State regulatory sandbox, and any past regulatory actions, including actions against officers, directors, members, managers and key employees.
-
-"(5) Plans for consumer education and financial literacy, including partnerships with local educational institutions and community colleges to provide financial literacy classes or resources.
-
-"(6) Other factors determined by the State and Federal financial regulators to be material.
-
-"(f) Election.—A host State may elect not to permit financial companies operating under this section to do business in their State through issuance of an executive order by the Governor of that State.
-
-"(g) Innovative.—A product or service made available under this section through a State financial regulatory sandbox shall be innovative.
-
-"(h) Rules of Construction.—This section shall not be construed to extend to permit—
-
-"(1) a financial company to engage in any activities for which a charter, license, registration or for which permission would be required under Federal or State law but for the innovative financial product or service being offered by the company, except to the extent the financial company would be required to obtain a charter, license or other authorization required in a host State;
-
-"(2) failure to comply with any applicable portion of State law required by the State financial regulatory sandbox, or failure to comply with any applicable portion of Federal law, unless authorized on a limited basis by the Federal financial regulator to achieve the purposes of this section and the State financial regulatory sandbox; or
-
-"(3) lending activities in excess of the maximum statutory rate of interest permissible in a State.".
-
-(b) Technical and Conforming Amendment.—The table of contents for subtitle VI of title 31, United States Code, as amended by section 101(b) of this Act, is amended by adding at the end the following:
-
-"99.Responsible interagency coordination
-
-9901".
-
-&nbsp;
-
-SEC. 803. STATE MONEY TRANSMISSION COORDINATION RELATING TO DIGITAL ASSETS.
-
-(a) In General.—In order to increase uniformity, reduce regulatory burden, and enhance consumer protection, the States, through the Conference of State Bank Supervisors and the Money Transmission Regulators Association, shall, not later than 2 years after the date of enactment of this Act, ensure uniform treatment of digital assets for the purposes of state money transmission laws on the following matters:
-
-(1) Whether digital assets are subject to money transmission licensing requirements, as appropriate, which shall include the exchange of digital assets for legal tender.
-
-(2) Treatment of payment stablecoins.
-
-(3) Non-applicability to persons or software that engage in validation of transactions, non-custodial wallet providers, or software or hardware development.
-
-(4) Tangible net worth and permissible investment requirements.
-
-(5) Disclosures, reporting, and recordkeeping.
-
-(6) Common examination and examiner training standards, including common customer identification, anti-money laundering, and sanctions best practices developed in consultation with the Financial Crimes Enforcement Network and the Office of Foreign Assets Control.
-
-(b) Regulations.—If the Director of the Bureau of Consumer Financial Protection determines that a State does not have the requirements of subsection (a) in effect by law (including regulations) that are substantively consistent with the requirements of the several States on the date that is 2 years after the date of enactment of this section, the Director shall adopt rules applicable to that State that achieve the purposes of subsection (a) and that are consistent with the standards adopted in the States that have the requirements of subsection (a) in effect. The Director may extend the deadline under this section for not more than 1 year if a State has shown a good faith effort towards implementation. The Director may promulgate regulations to monitor State compliance with this subsection.
-
-&nbsp;
-
-SEC. 804. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
-
-Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470), as amended by section 601 of this Act, is amended by adding at the end the following:
-
-"SEC. 722B. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
-
-"(a) Confidentiality.—Notwithstanding any other provision of law, any requirement under Federal or State law regarding the privacy or confidentiality of any information or materials exchanged among financial regulators and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to any State or Federal financial regulator.
-
-"(b) Non Applicability of Certain Requirements.—Information or material that is subject to privilege or confidentiality under subsection (a) shall not be subject to—
-
-"(1) disclosure under any Federal or State law governing the disclosure to the public of information held by an officer or an agency of the Federal Government or the respective State; or
-
-"(2) subpoena or discovery, or admission into evidence, in any private civil action or administrative process, unless with respect to any privilege held by the Nationwide Mortgage Licensing System and Registry or the Director with respect to such information or material, the person to whom such information or material pertains waives that privilege, in whole or in part, based on the discretion of such person.
-
-"(c) Coordination With Other Law.—Any State or Federal law, including any State open records law, relating to the disclosure of confidential supervisory information or any information or material described in subsection (a) that is inconsistent with subsection (a) shall be superseded by the requirements of such provision to the extent the State or Federal law provides less confidentiality or a weaker privilege.
-
-"(d) Conference of State Bank Supervisors.—The Conference of State Bank Supervisors shall be considered the agent of the State financial regulators for the purposes of sharing information under this provision.
-
-"(e) Definition.—In this section, the term ‘financial regulator’ means—
-
-"(1) the Board of Governors of the Federal Reserve System and the Federal Reserve banks;
-
-"(2) the Commodity Futures Trading Commission;
-
-"(3) the Department of the Treasury, including the Financial Crimes Enforcement Network and the Office of Foreign Assets Control;
-
-"(4) the Federal Deposit Insurance Corporation;
-
-"(5) the Federal Housing Finance Agency;
-
-"(6) the National Credit Union Administration;
-
-"(7) the Office of the Comptroller of the Currency;
-
-"(8) the Bureau of Consumer Financial Protection;
-
-"(9) the Securities and Exchange Commission; and
-
-"(10) State agencies that regulate, supervise, or license banks, trust companies, credit unions, consumer credit, consumer protection, money transmission, securities, commodities, and similar areas.".
-
-&nbsp;
-
-SEC. 805. ANALYSIS OF DECENTRALIZED FINANCE MARKETS AND TECHNOLOGIES.
-
-Not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury, in consultation with the Commodity Futures Trading Commission, Securities and Exchange Commission, and private sector developers and participants in decentralized protocols, digital assets, and digital asset exchanges, shall—
-
-(1) analyze the market position of decentralized finance technologies with respect to digital assets; and
-
-(2) submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives a report on—
-
-(A) current development and use of decentralized finance protocols in the United States and other countries;
-
-(B) opportunities, benefits, and challenges relating to decentralized finance protocols and self-custody of digital assets;
-
-(C) a comparison of operational friction, fees, liquidity and trading opportunities in decentralized finance protocols, digital asset markets, and traditional markets;
-
-(D) transparency, prevention of manipulation, and customer protection;
-
-(E) cybersecurity and resiliency; and
-
-(F) ensuring the accuracy of information regarding the underlying smart contracts of a decentralized finance protocol and the transactions facilitated by such contracts, as the information appears on a website or other similar means relating to the protocol.
-
-&nbsp;
-
-SEC. 806. ANALYSIS OF ENERGY CONSUMPTION IN DIGITAL ASSET MARKETS.
-
-(a) In General.—Each year, the Federal Energy Regulatory Commission, in consultation with the Commodity Futures Trading Commission and Securities and Exchange Commission, shall analyze the following topics with respect to digital asset markets:
-
-(1) Energy consumption for mining and staking of digital asset transactions.
-
-(2) The effect of energy consumption described in paragraph (1) on national, regional, and local energy prices.
-
-(3) The effects of mining and staking of digital asset transactions on baseload power levels.
-
-(4) The use of renewable energy sources, including use of nonrenewable sources that would otherwise be wasted, and a comparison of digital asset market energy consumption with the financial services industry and economy as a whole.
-
-(5) The sources and reliability of the data used under this subsection.
-
-(6) A process for regulated entities to make information publicly available regarding energy consumption, including sources of energy and amount, and, if appropriate, recommendations to Congress to establish such a process.
-
-(b) Report.—Not later than December 31 of each year, the Federal Energy Regulatory Commission shall submit to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives a report containing the analysis required by subsection (a).
-
-&nbsp;
-
-SEC. 807. ANALYSIS OF SELF-REGULATION AND REGISTERED DIGITAL ASSET ASSOCIATIONS.
-
-(a) In General.—Not later than 180 days after the date of enactment of this Act, the Commodity Futures Trading Commission and Securities and Exchange Commission, in consultation with digital asset intermediaries, as defined in section 9801 of title 31, United States Code, as added by section 101 of this Act, and standard-setting associations representing the digital asset industry, shall conduct a study and submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives a report setting forth principles for self-regulation for digital asset markets and a proposal for the establishment of registered digital asset associations for digital asset markets based on delegated authority from the Commodity Futures Trading Commission and Securities and Exchange Commission to facilitate innovative, efficient, and orderly markets for digital assets in accordance with this Act, and the amendments made by this Act, including—
-
-(1) standard setting, corporate transparency requirements, and rulemaking relating to digital asset market conduct;
-
-(2) regular consultation between the Commodity Futures Trading Commission and Securities and Exchange Commission with respect to rules governing digital asset market conduct and the governance of registered digital asset associations;
-
-(3) appropriate investigatory and disciplinary powers of registered digital asset associations and registered digital asset exchanges, respectively;
-
-(4) the authority of digital asset intermediaries to conduct activities relating to traditional assets;
-
-(5) consumer education and financial literacy;
-
-(6) professional accreditation and education;
-
-(7) market surveillance and oversight, including use of technology to facilitate shared trade practices and market surveillance;
-
-(8) risk-based examination authority;
-
-(9) dispute resolution and arbitration;
-
-(10) membership of registered digital asset association members in other self-regulatory organizations and mutual recognition and acceptance of rules and examination reports amongst self-regulatory organizations;
-
-(11) voluntary and compulsory membership structures;
-
-(12) the initial determination of the legal classification of a digital asset by a registered digital asset association, subject to oversight by the Commodity Futures Trading Commission and Securities and Exchange Commission; and
-
-(13) the funding of registered digital asset associations based on fees.
-
-(b) Interim Rule.—Not later than August 1, 2022, the Commodity Futures Trading Commission and Securities and Exchange Commission shall jointly adopt an interim final rule specifying the scope of the study under subsection (a), including topics of discussion and questions for digital asset intermediaries and associations representing the digital asset industry, and setting forth not fewer than 3 public meetings for staff of the Commodity Futures Trading Commission and the Securities and Exchange Commission to receive public comment. The interim final rule shall establish a comment period of not less than 120 days prior to publication of the report under subsection (a) and contain draft legislative text for the creation of registered digital asset associations by Congress.
-
-&nbsp;
-
-SEC. 808. CYBERSECURITY STANDARDS FOR DIGITAL ASSET INTERMEDIARIES.
-
-(a) Definition.—In this section, the term "digital asset intermediary" has the meaning given the term in section 9801 of title 31, United States Code, as added by section 101 of this Act.
-
-(b) Requirement.—Not later than 18 months after the date of enactment of this Act, the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Secretary of the Treasury and the Director of the National Institute of Standards and Technology, shall develop comprehensive, principles-based guidance relating to cybersecurity for digital asset intermediaries that account for, with respect to such a digital asset intermediary—
-
-(1) the internal governance, and organizational culture, of the cybersecurity program of the digital asset intermediary;
-
-(2) security operations of the digital asset intermediary, including threat identification, incident response, and mitigation;
-
-(3) risk identification and measurement by the digital asset intermediary;
-
-(4) the mitigation of risk by the digital asset intermediary, including policies of the digital asset intermediary, controls implemented by the digital asset intermediary, change management with respect to the digital asset intermediary, and the supply chain integrity of the digital asset intermediary;
-
-(5) assurance provided by, and testing conducted by, the digital asset intermediary, including penetration testing and independent audits so conducted; and
-
-(6) the potential for digital asset intermediaries to be used to facilitate illicit activities, including sanctions avoidance.
-
-&nbsp;
-
-SEC. 809. ADVISORY COMMITTEE ON FINANCIAL INNOVATION.
-
-(a) Establishment.—There is established the Advisory Committee on Financial Innovation (in this section referred to as the "Committee").
-
-(b) Membership.—
-
-(1) Composition.—The Committee shall be composed of 10 members, as follows:
-
-(A) 2 members appointed by the President from the financial technology industry.
-
-(B) 4 members appointed by the President with specializations in consumer protection, consumer education, financial literacy, or financial inclusion.
-
-(C) A commissioner from the Securities and Exchange Commission, as designated by the Chair of the Commission.
-
-(D) A commissioner from the Commodity Futures Trading Commission, as designated by the Chair of the Commission.
-
-(E) A member of the Board of Governors of the Federal Reserve System, as designated by the Chair of the Board.
-
-(F) A State financial regulator, as jointly designated by the National Association of State Securities Administrators and the Conference of State Bank Supervisors.
-
-(2) Political affiliation.—Not more than 4 of the members of the Committee shall be from the same political party.
-
-(3) Appointment date.—The appointments of the members of the Committee shall be made not later than 60 days after the date of enactment of this Act.
-
-(4) Period of appointment; vacancies.—
-
-(A) In general.—A member of the Committee shall be appointed for a term of 4 years.
-
-(B) Vacancies.—A vacancy in the Committee—
-
-(i) shall not affect the powers of the Committee; and
-
-(ii) shall be filled in the same manner as the original appointment.
-
-(5) Meetings.—
-
-(A) Initial meeting.—Not later than 60 days after the date on which all members of the Committee have been appointed, the Committee shall hold its first meeting.
-
-(B) Frequency.—The Committee shall meet at the call of the Chair.
-
-(C) Quorum.—A majority of the members of the Committee shall constitute a quorum, but a lesser number of members may hold hearings.
-
-(6) Chairperson.—The members described in subparagraphs (C) and (D) of paragraph (1) shall alternate, on a yearly basis, as Chairperson of the Committee, with the member described in such subparagraph (D) serving as the Chair for the 1-year period following establishment of the Committee.
-
-(c) Duties.—
-
-(1) Matters studied.—The matters studied by the Committee shall include—
-
-(A) digital assets;
-
-(B) consumer education and financial literacy;
-
-(C) market structure in the securities and commodities markets;
-
-(D) banking, payments and settlement;
-
-(E) consumer credit;
-
-(F) financial inclusion, including reducing the cost of financial services for all people of the United States and promoting access to those services;
-
-(G) efficiency in the financial system;
-
-(H) reduction of systemic risk;
-
-(I) competition in financial services; and
-
-(J) the State-Federal partnership in financial services regulation.
-
-(2) Report.—On an annual basis, or as otherwise determined necessary by the Chair of the Committee, the Committee shall report to the President and to Congress on, and provide recommendations for legislation, regulation, and supervision relating to innovation in, the matters studied under paragraph (1).
-
-(d) Powers.—
-
-(1) Hearings.—The Committee shall hold not less than 2 hearings per calendar year to hear from interested parties and to discuss the work of the Committee.
-
-(2) Information from federal agencies.—
-
-(A) In general.—The Committee may secure directly from a Federal department or agency such information as the Committee considers necessary to carry out this section.
-
-(B) Furnishing information.—On request of the Chair of the Committee, the head of the department or agency shall furnish the information to the Committee.
-
-(3) Postal services.—The Committee may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-
-(e) Compensation.—
-
-(1) In general.—All members of the Committee shall serve without compensation in addition to that received for their services as officers or employees of the United States, and all other members of the Committee shall serve without compensation.
-
-(2) Travel expenses.—Each member of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code, while away from their homes or regular places of business in performance of services for the Council.
-
-(f) Staff.—
-
-(1) In general.—The Chair of the Committee may, without regard to the civil service laws (including regulations), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Committee to perform its duties, except that the employment of an executive director shall be subject to confirmation by the Committee.
-
-(2) Compensation.—The Chair of the Committee may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of that title.
-
-(g) Detail of Government Employees.—A Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
-
-(h) Procurement of Temporary and Intermittent Services.—The Chair of the Committee may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
-
-(i) Termination.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
-
-(j) Authorization of Appropriations.—There is authorized to be appropriated to the Committee to carry out this section $2,000,000 for fiscal year 2023, to remain available through fiscal year 2024.
+# yacin's Responsible Financial Innovation Act (S. 4356)
+
+*117th CONGRESS, 1st session*
+
+*Bill Status: https://www.congress.gov/bill/117th-congress/house-bill/1976
+
+                                H. R. 1976
+
+  To establish an improved Medicare for All national health insurance
+                                program.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 17, 2021
+
+Ms. Jayapal (for herself, Ms. Adams, Ms. Barragan, Ms. Bass, Mr. Beyer,
+   Mr. Blumenauer, Ms. Bonamici, Mr. Bowman, Mr. Brendan F. Boyle of
+  Pennsylvania, Mr. Brown, Ms. Bush, Mr. Carbajal, Mr. Cardenas, Mr.
+     Carson, Mr. Cartwright, Ms. Chu, Mr. Cicilline, Ms. Clark of
+  Massachusetts, Ms. Clarke of New York, Mr. Cleaver, Mr. Cohen, Mr.
+ Deutch, Mr. Danny K. Davis of Illinois, Mr. DeFazio, Ms. DeGette, Mr.
+    DeSaulnier, Mrs. Dingell, Mr. Doggett, Mr. Michael F. Doyle of
+Pennsylvania, Ms. Escobar, Mr. Espaillat, Ms. Lois Frankel of Florida,
+Mr. Gallego, Mr. Garcia of Illinois, Mr. Gomez, Mr. Green of Texas, Mr.
+   Grijalva, Mr. Harder of California, Mr. Hastings, Mrs. Hayes, Mr.
+   Higgins of New York, Mr. Huffman, Ms. Jackson Lee, Ms. Jacobs of
+   California, Mr. Jeffries, Mr. Johnson of Georgia, Mr. Jones, Mr.
+  Kahele, Mr. Keating, Ms. Kelly of Illinois, Mr. Khanna, Mr. Kildee,
+ Mrs. Kirkpatrick, Mr. Langevin, Mrs. Lawrence, Ms. Lee of California,
+ Ms. Leger Fernandez, Mr. Levin of Michigan, Mr. Levin of California,
+   Mr. Lieu, Mr. Lowenthal, Mrs. Carolyn B. Maloney of New York, Mr.
+     McGovern, Mr. McNerney, Mr. Meeks, Ms. Meng, Mr. Nadler, Mrs.
+Napolitano, Mr. Neguse, Ms. Newman, Ms. Norton, Ms. Ocasio-Cortez, Ms.
+ Omar, Mr. Panetta, Mr. Payne, Mr. Perlmutter, Ms. Pingree, Mr. Pocan,
+Ms. Porter, Ms. Pressley, Mr. Raskin, Ms. Roybal-Allard, Mr. Rush, Mr.
+  Sablan, Ms. Sanchez, Mr. Sarbanes, Ms. Schakowsky, Mr. Schiff, Mr.
+ Scott of Virginia, Mr. Sherman, Mr. Smith of Washington, Ms. Speier,
+Mr. Swalwell, Mr. Takano, Mr. Thompson of Mississippi, Mr. Thompson of
+ California, Ms. Titus, Ms. Tlaib, Mr. Tonko, Mr. Torres of New York,
+ Mrs. Trahan, Mr. Vargas, Mr. Veasey, Ms. Velazquez, Ms. Waters, Mrs.
+   Watson Coleman, Mr. Welch, Ms. Wild, Ms. Williams of Georgia, Ms.
+  Wilson of Florida, Mr. Yarmuth, Mr. Pallone, and Mr. Price of North
+  Carolina) introduced the following bill; which was referred to the
+Committee on Energy and Commerce, and in addition to the Committees on
+Ways and Means, Education and Labor, Rules, Oversight and Reform, Armed
+Services, and the Judiciary, for a period to be subsequently determined
+ by the Speaker, in each case for consideration of such provisions as
+        fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+
+  To establish an improved Medicare for All national health insurance
+                                program.
+
+    Be it enacted by the Senate and House of Representatives of the
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Medicare for All
+Act of 2021''.
+    (b) Table of Contents.--The table of contents of this Act is as
+follows:
+
+Sec. 1. Short title; table of contents.
+   TITLE I--ESTABLISHMENT OF THE MEDICARE FOR ALL PROGRAM; UNIVERSAL
+                          COVERAGE; ENROLLMENT
+
+Sec. 101. Establishment of the Medicare for All Program.
+Sec. 102. Universal coverage.
+Sec. 103. Freedom of choice.
+Sec. 104. Non-discrimination.
+Sec. 105. Enrollment.
+Sec. 106. Effective date of benefits.
+Sec. 107. Prohibition against duplicating coverage.
+  TITLE II--COMPREHENSIVE BENEFITS, INCLUDING PREVENTIVE BENEFITS AND
+                      BENEFITS FOR LONG-TERM CARE
+
+Sec. 201. Comprehensive benefits.
+Sec. 202. No cost-sharing; other limitations.
+Sec. 203. Exclusions and limitations.
+Sec. 204. Coverage of long-term care services.
+                   TITLE III--PROVIDER PARTICIPATION
+
+Sec. 301. Provider participation and standards; whistleblower
+                            protections.
+Sec. 302. Qualifications for providers.
+Sec. 303. Use of private contracts.
+                        TITLE IV--ADMINISTRATION
+
+             Subtitle A--General Administration Provisions
+
+Sec. 401. Administration.
+Sec. 402. Consultation.
+Sec. 403. Regional administration.
+Sec. 404. Beneficiary ombudsman.
+Sec. 405. Conduct of related health programs.
+                Subtitle B--Control Over Fraud and Abuse
+
+Sec. 411. Application of Federal sanctions to all fraud and abuse under
+                            the Medicare for All Program.
+                      TITLE V--QUALITY ASSESSMENT
+
+Sec. 501. Quality standards.
+Sec. 502. Addressing health care disparities.
+      TITLE VI--HEALTH BUDGET; PAYMENTS; COST CONTAINMENT MEASURES
+
+                         Subtitle A--Budgeting
+
+Sec. 601. National health budget.
+                   Subtitle B--Payments to Providers
+
+Sec. 611. Payments to institutional providers based on global budgets.
+Sec. 612. Payment to individual providers through fee-for-service.
+Sec. 613. Ensuring accurate valuation of services under the Medicare
+                            physician fee schedule.
+Sec. 614. Payment prohibitions; capital expenditures; special projects.
+Sec. 615. Office of Health Equity.
+Sec. 616. Office of Primary Care.
+Sec. 617. Payments for prescription drugs and approved devices and
+                            equipment.
+                TITLE VII--UNIVERSAL MEDICARE TRUST FUND
+
+Sec. 701. Universal Medicare Trust Fund.
+  TITLE VIII--CONFORMING AMENDMENTS TO THE EMPLOYEE RETIREMENT INCOME
+                          SECURITY ACT OF 1974
+
+Sec. 801. Prohibition of employee benefits duplicative of benefits
+                            under the Medicare for All Program;
+                            coordination in case of workers'
+                            compensation.
+Sec. 802. Application of continuation coverage requirements under ERISA
+                            and certain other requirements relating to
+                            group health plans.
+Sec. 803. Effective date of title.
+               TITLE IX--ADDITIONAL CONFORMING AMENDMENTS
+
+Sec. 901. Relationship to existing Federal health programs.
+Sec. 902. Sunset of provisions related to the State Exchanges.
+Sec. 903. Sunset of provisions related to pay for performance programs.
+                          TITLE X--TRANSITION
+
+ Subtitle A--Medicare for All Transition Over 2 Years and Transitional
+                             Buy-In Option
+
+Sec. 1001. Medicare for all transition over two years.
+Sec. 1002. Establishment of the Medicare transition buy-in.
+               Subtitle B--Transitional Medicare Reforms
+
+Sec. 1011. Eliminating the 24-month waiting period for Medicare
+                            coverage for individuals with disabilities.
+Sec. 1012. Ensuring continuity of care.
+                        TITLE XI--MISCELLANEOUS
+
+Sec. 1101. Definitions.
+Sec. 1102. Rules of construction.
+Sec. 1103. No use of resources for law enforcement of certain
+                            registration requirements.
+
+   TITLE I--ESTABLISHMENT OF THE MEDICARE FOR ALL PROGRAM; UNIVERSAL
+                          COVERAGE; ENROLLMENT
+
+SEC. 101. ESTABLISHMENT OF THE MEDICARE FOR ALL PROGRAM.
+
+    There is hereby established a national health insurance program to
+provide comprehensive protection against the costs of health care and
+health-related services, in accordance with the standards specified in,
+or established under, this Act.
+
+SEC. 102. UNIVERSAL COVERAGE.
+
+    (a) In General.--Every individual who is a resident of the United
+States is entitled to benefits for health care services under this Act.
+The Secretary shall promulgate a rule that provides criteria for
+determining residency for eligibility purposes under this Act.
+    (b) Treatment of Other Individuals.--The Secretary may make
+eligible for benefits for health care services under this Act other
+individuals not described in subsection (a), and regulate the
+eligibility of such individuals, to ensure that every person in the
+United States has access to health care. In regulating such
+eligibility, the Secretary shall ensure that individuals are not
+allowed to travel to the United States for the sole purpose of
+obtaining health care items and services provided under the program
+established under this Act.
+
+SEC. 103. FREEDOM OF CHOICE.
+
+    Any individual entitled to benefits under this Act may obtain
+health services from any institution, agency, or individual qualified
+to participate under this Act.
+
+SEC. 104. NON-DISCRIMINATION.
+
+    (a) In General.--No person shall, on the basis of race, color,
+national origin, age, disability, marital status, citizenship status,
+primary language use, genetic conditions, previous or existing medical
+conditions, religion, or sex, including sex stereotyping, gender
+identity, sexual orientation, and pregnancy and related medical
+conditions (including termination of pregnancy), be excluded from
+participation in or be denied the benefits of the program established
+under this Act (except as expressly authorized by this Act for purposes
+of enforcing eligibility standards described in section 102), or be
+subject to any reduction of benefits or other discrimination by any
+participating provider (as defined in section 301), or any entity
+conducting, administering, or funding a health program or activity,
+including contracts of insurance, pursuant to this Act.
+    (b) Claims of Discrimination.--
+            (1) In general.--The Secretary shall establish a procedure
+        for adjudication of administrative complaints alleging a
+        violation of subsection (a).
+            (2) Jurisdiction.--Any person aggrieved by a violation of
+        subsection (a) by a covered entity may file suit in any
+        district court of the United States having jurisdiction of the
+        parties. A person may bring an action under this paragraph
+        concurrently as such administrative remedies as established in
+        paragraph (1).
+            (3) Damages.--If the court finds a violation of subsection
+        (a), the court may grant compensatory and punitive damages,
+        declaratory relief, injunctive relief, attorneys' fees and
+        costs, or other relief as appropriate.
+    (c) Continued Application of Laws.--Nothing in this title (or an
+amendment made by this title) shall be construed to invalidate or
+otherwise limit any of the rights, remedies, procedures, or legal
+standards available to individuals aggrieved under section 1557 of the
+Patient Protection and Affordable Care Act (42 U.S.C. 18116), title VI
+of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title VII of
+the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), title IX of the
+Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 504 of
+the Rehabilitation Act of 1973 (29 U.S.C. 794), or the Age
+Discrimination Act of 1975 (42 U.S.C. 611 et seq.). Nothing in this
+title (or an amendment to this title) shall be construed to supersede
+State laws that provide additional protections against discrimination
+on any basis described in subsection (a).
+
+SEC. 105. ENROLLMENT.
+
+    (a) In General.--The Secretary shall provide a mechanism for the
+enrollment of individuals eligible for benefits under this Act. The
+mechanism shall--
+            (1) include a process for the automatic enrollment of
+        individuals at the time of birth in the United States (or upon
+        establishment of residency in the United States);
+            (2) provide for the enrollment, as of the dates described
+        in section 106, of all individuals who are eligible to be
+        enrolled as of such dates, as applicable; and
+            (3) include a process for the enrollment of individuals
+        made eligible for health care services under section 102(b).
+    (b) Issuance of Universal Medicare Cards.--In conjunction with an
+individual's enrollment for benefits under this Act, the Secretary
+shall provide for the issuance of a Universal Medicare card that shall
+be used for purposes of identification and processing of claims for
+benefits under this program. The card shall not include an individual's
+Social Security number.
+
+SEC. 106. EFFECTIVE DATE OF BENEFITS.
+
+    (a) In General.--Except as provided in subsection (b), benefits
+shall first be available under this Act for items and services
+furnished 2 years after the date of the enactment of this Act.
+    (b) Coverage for Certain Individuals.--
+            (1) In general.--For any eligible individual who--
+                    (A) has not yet attained the age of 19 as of the
+                date that is 1 year after the date of the enactment of
+                this Act; or
+                    (B) has attained the age of 55 as of the date that
+                is 1 year after the date of the enactment of this Act,
+        benefits shall first be available under this Act for items and
+        services furnished as of such date.
+            (2) Option to continue in other coverage during transition
+        period.--Any person who is eligible to receive benefits as
+        described in paragraph (1) may opt to maintain any coverage
+        described in section 901, private health insurance coverage, or
+        coverage offered pursuant to subtitle A of title X (including
+        the amendments made by such subtitle) until the date described
+        in subsection (a).
+
+SEC. 107. PROHIBITION AGAINST DUPLICATING COVERAGE.
+
+    (a) In General.--Beginning on the effective date described in
+section 106(a), it shall be unlawful for--
+            (1) a private health insurer to sell health insurance
+        coverage that duplicates the benefits provided under this Act;
+        or
+            (2) an employer to provide benefits for an employee, former
+        employee, or the dependents of an employee or former employee
+        that duplicate the benefits provided under this Act.
+    (b) Construction.--Nothing in this Act shall be construed as
+prohibiting the sale of health insurance coverage for any additional
+benefits not covered by this Act, including additional benefits that an
+employer may provide to employees or their dependents, or to former
+employees or their dependents.
+
+  TITLE II--COMPREHENSIVE BENEFITS, INCLUDING PREVENTIVE BENEFITS AND
+                      BENEFITS FOR LONG-TERM CARE
+
+SEC. 201. COMPREHENSIVE BENEFITS.
+
+    (a) In General.--Subject to the other provisions of this title and
+titles IV through IX, individuals enrolled for benefits under this Act
+are entitled to have payment made by the Secretary to an eligible
+provider for the following items and services if medically necessary or
+appropriate for the maintenance of health or for the diagnosis,
+treatment, or rehabilitation of a health condition:
+            (1) Hospital services, including inpatient and outpatient
+        hospital care, including 24-hour-a-day emergency services and
+        inpatient prescription drugs.
+            (2) Ambulatory patient services.
+            (3) Primary and preventive services, including chronic
+        disease management.
+            (4) Prescription drugs and medical devices, including
+        outpatient prescription drugs, medical devices, and biological
+        products.
+            (5) Mental health and substance use treatment services,
+        including inpatient care.
+            (6) Laboratory and diagnostic services.
+            (7) Comprehensive reproductive, maternity, and newborn
+        care.
+            (8) Oral health, audiology, and vision services.
+            (9) Rehabilitative and habilitative services and devices.
+            (10) Emergency services and transportation.
+            (11) Early and periodic screening, diagnostic, and
+        treatment services, as described in sections 1902(a)(10)(A),
+        1902(a)(43), 1905(a)(4)(B), and 1905(r) of the Social Security
+        Act (42 U.S.C. 1396a(a)(10)(A); 1396a(a)(43); 1396d(a)(4)(B);
+        1396d(r)).
+            (12) Necessary transportation to receive health care
+        services for persons with disabilities, older individuals with
+        functional limitations, or low-income individuals (as
+        determined by the Secretary).
+            (13) Long-term care services and support (as described in
+        section 204).
+            (14) Hospice care.
+            (15) Services provided by a licensed marriage and family
+        therapist or a licensed mental health counselor.
+    (b) Revision.--The Secretary shall, at least annually, and on a
+regular basis, evaluate whether the benefits package should be improved
+to promote the health of beneficiaries, account for changes in medical
+practice or new information from medical research, or respond to other
+relevant developments in health science, and shall make recommendations
+to Congress regarding any such improvements. Such recommendations may
+not include a recommendation to eliminate any benefit.
+    (c) Hearings.--
+            (1) In general.--The Committee on Energy and Commerce and
+        the Committee on Ways and Means of the House of Representatives
+        shall, not less frequently than annually, hold a hearing on the
+        recommendations submitted by the Secretary under subsection
+        (b).
+            (2) Exercise of rulemaking authority.--Paragraph (1) is
+        enacted--
+                    (A) as an exercise of rulemaking power of the House
+                of Representatives, and, as such, shall be considered
+                as part of the rules of the House, and such rules shall
+                supersede any other rule of the House only to the
+                extent that rule is inconsistent therewith; and
+                    (B) with full recognition of the constitutional
+                right of either House to change such rules (so far as
+                relating to the procedure in such House) at any time,
+                in the same manner, and to the same extent as in the
+                case of any other rule of the House.
+    (d) Complementary and Integrative Medicine.--
+            (1) In general.--In carrying out subsection (b), the
+        Secretary shall consult with the persons described in paragraph
+        (2) with respect to--
+                    (A) identifying specific complementary and
+                integrative medicine practices that are appropriate to
+                include in the benefits package; and
+                    (B) identifying barriers to the effective provision
+                and integration of such practices into the delivery of
+                health care, and identifying mechanisms for overcoming
+                such barriers.
+            (2) Consultation.--In accordance with paragraph (1), the
+        Secretary shall consult with--
+                    (A) the Director of the National Center for
+                Complementary and Integrative Health;
+                    (B) the Commissioner of Food and Drugs;
+                    (C) institutions of higher education, private
+                research institutes, and individual researchers with
+                extensive experience in complementary and alternative
+                medicine and the integration of such practices into the
+                delivery of health care;
+                    (D) nationally recognized providers of
+                complementary and integrative medicine; and
+                    (E) such other officials, entities, and individuals
+                with expertise on complementary and integrative
+                medicine as the Secretary determines appropriate.
+    (e) States May Provide Additional Benefits.--Individual States may
+provide additional benefits for the residents of such States, as
+determined by such State, and may provide benefits to individuals not
+eligible for benefits under this Act, at the expense of the State,
+subject to the requirements specified in section 1102.
+
+SEC. 202. NO COST-SHARING; OTHER LIMITATIONS.
+
+    (a) In General.--The Secretary shall ensure that no cost-sharing,
+including deductibles, coinsurance, copayments, or similar charges, is
+imposed on an individual for any benefits provided under this Act.
+    (b) No Balance Billing.--No provider may impose a charge to an
+enrolled individual for covered services for which benefits are
+provided under this Act.
+    (c) No Prior Authorization.--Benefits provided under this Act shall
+be covered without any need for any prior authorization determination
+and without any limitation applied through the use of step therapy
+protocols.
+
+SEC. 203. EXCLUSIONS AND LIMITATIONS.
+
+    (a) In General.--Benefits for items and services are not available
+under this Act unless the items and services meet the standards
+developed by the Secretary pursuant to section 201(a).
+    (b) Treatment of Experimental Items and Services and Drugs.--
+            (1) In general.--In applying subsection (a), the Secretary
+        shall make national coverage determinations with respect to
+        items and services that are experimental in nature. Such
+        determinations shall be consistent with the national coverage
+        determination process as defined in section 1869(f)(1)(B) of
+        the Social Security Act (42 U.S.C. 1395ff(f)(1)(B)).
+            (2) Appeals process.--The Secretary shall establish a
+        process by which individuals can appeal coverage decisions. The
+        process shall, as much as is feasible, follow the process for
+        appeals under the Medicare program described in section 1869 of
+        the Social Security Act (42 U.S.C. 1395ff).
+    (c) Application of Practice Guidelines.--
+            (1) In general.--In the case of items and services for
+        which the Department of Health and Human Services has
+        recognized a national practice guideline, such items and
+        services shall be deemed to meet the standards specified in
+        section 201(a) if they have been provided in accordance with
+        such guideline. For purposes of this subsection, an item or
+        service not provided in accordance with a practice guideline
+        shall be deemed to have been provided in accordance with the
+        guideline if the health care provider providing the item or
+        service--
+                    (A) exercised appropriate professional judgment in
+                accordance with the laws and requirements of the State
+                in which such item or service is furnished in deviating
+                from the guideline;
+                    (B) acted in the best interest of the individual
+                receiving the item or service; and
+                    (C) acted in a manner consistent with the
+                individual's wishes.
+            (2) Override of standards.--
+                    (A) In general.--An individual's treating physician
+                or other health care professional authorized to
+                exercise independent professional judgment in
+                implementing a patient's medical or nursing care plan
+                in accordance with the scope of practice, licensure,
+                and other law of the State where items and services are
+                to be furnished may override practice standards
+                established pursuant to section 201(a) or practice
+                guidelines described in paragraph (1), including such
+                standards and guidelines that are implemented by a
+                provider through the use of health information
+                technology, such as electronic health record
+                technology, clinical decision support technology, and
+                computerized order entry programs.
+                    (B) Limitation.--An override described in
+                subparagraph (A) shall, in the professional judgment of
+                such physician, nurse, or health care professional,
+                be--
+                            (i) consistent with such physician's,
+                        nurse's, or health care professional's
+                        determination of medical necessity and
+                        appropriateness or nursing assessment;
+                            (ii) in the best interests of the
+                        individual; and
+                            (iii) consistent with the individual's
+                        wishes.
+
+SEC. 204. COVERAGE OF LONG-TERM CARE SERVICES.
+
+    (a) In General.--Subject to the other provisions of this Act,
+individuals enrolled for benefits under this Act are entitled to the
+following long-term services and supports and to have payment made by
+the Secretary to an eligible provider for such services and supports if
+medically necessary and appropriate and in accordance with the
+standards established in this Act, for maintenance of health or for
+care, services, diagnosis, treatment, or rehabilitation that is related
+to a medically determinable condition, whether physical or mental, of
+health, injury, or age that--
+            (1) causes a functional limitation in performing one or
+        more activities of daily living; or
+            (2) requires a similar need of assistance in performing
+        instrumental activities of daily living.
+    (b) Eligibility.--An individual shall be eligible for services and
+supports described in this section if such individual has one or more
+medically determinable conditions described in subsection (a).
+    (c) Services and Supports.--Long-term services and supports under
+this section shall be tailored to an individual's needs, as determined
+through assessment, and shall be defined by the Secretary to--
+            (1) include any long-term nursing services for the
+        enrollee, whether provided in an institution or in a home and
+        community-based setting;
+            (2) provide coverage for a broad spectrum of long-term
+        services and supports, including for home and community-based
+        services and other care provided through non-institutional
+        settings;
+            (3) provide coverage that meets the physical, mental, and
+        social needs of recipients while allowing recipients their
+        maximum possible autonomy and their maximum possible civic,
+        social, and economic participation;
+            (4) prioritize delivery of long-term services and supports
+        through home and community-based services over
+        institutionalization;
+            (5) unless an individual elects otherwise, ensure that
+        recipients will receive home and community based long-term
+        services and supports (as defined in subsection (f)(4)),
+        regardless of the individuals's type or level of disability,
+        service need, or age;
+            (6) be provided with the goal of enabling persons with
+        disabilities to receive services in the least restrictive and
+        most integrated setting appropriate to the individual's needs;
+            (7) be provided in such a manner that allows persons with
+        disabilities to maintain their independence, self-
+        determination, and dignity;
+            (8) provide long-term services and supports that are of
+        equal quality and equally accessible across geographic regions;
+        and
+            (9) ensure that long-term services and supports provide
+        recipient's the option of self-direction of services from
+        either the recipient or care coordinators of the recipient's
+        choosing.
+    (d) Public Consultation.--In developing regulations to implement
+this section, the Secretary shall consult with an advisory commission
+on long-term services and supports that includes--
+            (1) people with disabilities who use long-term services and
+        supports and older adults who use long-term services and
+        supports;
+            (2) representatives of people with disabilities and
+        representatives of older adults;
+            (3) groups that represent the diversity of the population
+        of people living with disabilities, including racial, ethnic,
+        national origin, primary language use, age, sex, including
+        gender identity and sexual orientation, geographical, and
+        socioeconomic diversity;
+            (4) providers of long-term services and supports, including
+        family attendants and family caregivers, and members of
+        organized labor;
+            (5) disability rights organizations; and
+            (6) relevant academic institutions and researchers.
+    (e) Budgeting and Payments.--Budgeting and payments for long-term
+services and supports provided under this section shall be made in
+accordance with the provisions under title VI.
+    (f) Definitions.--In this section:
+            (1) The term ``long-term services and supports'' means
+        long-term care, treatment, maintenance, or services needed to
+        support the activities of daily living and instrumental
+        activities of daily living, including home and community-based
+        services and any additional services and supports identified by
+        the Secretary to support people with disabilities to live,
+        work, and participate in their communities.
+            (2) The term ``activities of daily living'' means basic
+        personal everyday activities, including tasks such as eating,
+        toileting, grooming, dressing, bathing, and transferring.
+            (3) The term ``instrumental activities of daily living''
+        means activities related to living independently in the
+        community, including but not limited to, meal planning and
+        preparation, managing finances, shopping for food, clothing,
+        and other essential items, performing essential household
+        chores, communicating by phone or other media, and traveling
+        around and participating in the community.
+            (4) The term ``home and community-based services'' means
+        the home and community-based services that are coverable under
+        subsections (c), (d), (i), and (k) of section 1915 of the
+        Social Security Act (42 U.S.C. 1396n), and as defined by the
+        Secretary, including as defined in the home and community-based
+        services settings rule in sections 441.530 and 441.710 of title
+        42, Code of Federal Regulations (or a successor regulation).
+
+                   TITLE III--PROVIDER PARTICIPATION
+
+SEC. 301. PROVIDER PARTICIPATION AND STANDARDS; WHISTLEBLOWER
+              PROTECTIONS.
+
+    (a) In General.--An individual or other entity furnishing any
+covered item or service under this Act is not a qualified provider
+unless the individual or entity--
+            (1) is a qualified provider of the items or services under
+        section 302;
+            (2) has filed with the Secretary a participation agreement
+        described in subsection (b); and
+            (3) meets, as applicable, such other qualifications and
+        conditions with respect to a provider of services under title
+        XVIII of the Social Security Act as described in section 1866
+        of the Social Security Act (42 U.S.C. 1395cc).
+    (b) Requirements in Participation Agreement.--
+            (1) In general.--A participation agreement described in
+        this subsection between the Secretary and a provider shall
+        provide at least for the following:
+                    (A) Items and services to eligible persons shall be
+                furnished by the provider without discrimination, in
+                accordance with section 104(a). Nothing in this
+                subparagraph shall be construed as requiring the
+                provision of a type or class of items or services that
+                are outside the scope of the provider's normal
+                practice.
+                    (B) No charge will be made to any enrolled
+                individual for any covered items or services other than
+                for payment authorized by this Act.
+                    (C) The provider agrees to furnish such information
+                as may be reasonably required by the Secretary, in
+                accordance with uniform reporting standards established
+                under section 401(b)(1), for--
+                            (i) quality review by designated entities;
+                            (ii) making payments under this Act,
+                        including the examination of records as may be
+                        necessary for the verification of information
+                        on which such payments are based;
+                            (iii) statistical or other studies required
+                        for the implementation of this Act; and
+                            (iv) such other purposes as the Secretary
+                        may specify.
+                    (D) In the case of a provider that is not an
+                individual, the provider agrees not to employ or use
+                for the provision of health services any individual or
+                other provider that has had a participation agreement
+                under this subsection terminated for cause. The
+                Secretary may authorize such employment or use on a
+                case-by-case basis.
+                    (E) In the case of a provider paid under a fee-for-
+                service basis for items and services furnished under
+                this Act, the provider agrees to submit bills and any
+                required supporting documentation relating to the
+                provision of covered items and services within 30 days
+                after the date of providing such items and services.
+                    (F) In the case of an institutional provider paid
+                pursuant to section 611, the provider agrees to submit
+                information and any other required supporting
+                documentation as may be reasonably required by the
+                Secretary within 30 days after the date of providing
+                such items and services and in accordance with the
+                uniform reporting standards established under section
+                401(b)(1), including information on a quarterly basis
+                that--
+                            (i) relates to the provision of covered
+                        items and services; and
+                            (ii) describes items and services furnished
+                        with respect to specific individuals.
+                    (G) In the case of a provider that receives payment
+                for items and services furnished under this Act based
+                on diagnosis-related coding, procedure coding, or other
+                coding system or data, the provider agrees--
+                            (i) to disclose to the Secretary any system
+                        or index of coding or classifying patient
+                        symptoms, diagnoses, clinical interventions,
+                        episodes, or procedures that such provider
+                        utilizes for global budget negotiations under
+                        title VI or for meeting any other payment,
+                        documentation, or data collection requirements
+                        under this Act; and
+                            (ii) not to use any such system or index to
+                        establish financial incentives or disincentives
+                        for health care professionals, or that is
+                        proprietary, interferes with the medical or
+                        nursing process, or is designed to increase the
+                        amount or number of payments.
+                    (H) The provider complies with the duty of provider
+                ethics and reporting requirements described in
+                paragraph (2).
+                    (I) In the case of a provider that is not an
+                individual, the provider agrees that no board member,
+                executive, or administrator of such provider receives
+                compensation from, owns stock or has other financial
+                investments in, or serves as a board member of any
+                entity that contracts with or provides items or
+                services, including pharmaceutical products and medical
+                devices or equipment, to such provider.
+            (2) Provider duty of ethics.--Each health care provider,
+        including institutional providers, has a duty to advocate for
+        and to act in the exclusive interest of each individual under
+        the care of such provider according to the applicable legal
+        standard of care, such that no financial interest or
+        relationship impairs any health care provider's ability to
+        furnish necessary and appropriate care to such individual. To
+        implement the duty established in this paragraph, the Secretary
+        shall--
+                    (A) promulgate reasonable reporting rules to
+                evaluate participating provider compliance with this
+                paragraph;
+                    (B) prohibit participating providers, spouses, and
+                immediate family members of participating providers,
+                from accepting or entering into any arrangement for any
+                bonus, incentive payment, profit-sharing, or
+                compensation based on patient utilization or based on
+                financial outcomes of any other provider or entity; and
+                    (C) prohibit participating providers or any board
+                member or representative of such provider from serving
+                as board members for or receiving any compensation,
+                stock, or other financial investment in an entity that
+                contracts with or provides items or services (including
+                pharmaceutical products and medical devices or
+                equipment) to such provider.
+            (3) Termination of participation agreement.--
+                    (A) In general.--Participation agreements may be
+                terminated, with appropriate notice--
+                            (i) by the Secretary for failure to meet
+                        the requirements of this Act;
+                            (ii) in accordance with the provisions
+                        described in section 411; or
+                            (iii) by a provider.
+                    (B) Termination process.--Providers shall be
+                provided notice and a reasonable opportunity to correct
+                deficiencies before the Secretary terminates an
+                agreement unless a more immediate termination is
+                required for public safety or similar reasons.
+                    (C) Provider protections.--
+                            (i) Prohibition.--The Secretary may not
+                        terminate a participation agreement or in any
+                        other way discriminate against, or cause to be
+                        discriminated against, any covered provider or
+                        authorized representative of the provider, on
+                        account of such provider or representative--
+                                    (I) providing, causing to be
+                                provided, or being about to provide or
+                                cause to be provided to the provider,
+                                the Federal Government, or the attorney
+                                general of a State information relating
+                                to any violation of, or any act or
+                                omission the provider or representative
+                                reasonably believes to be a violation
+                                of, any provision of this title (or an
+                                amendment made by this title);
+                                    (II) testifying or being about to
+                                testify in a proceeding concerning such
+                                violation;
+                                    (III) assisting or participating,
+                                or being about to assist or
+                                participate, in such a proceeding; or
+                                    (IV) objecting to, or refusing to
+                                participate in, any activity, policy,
+                                practice, or assigned task that the
+                                provider or representative reasonably
+                                believes to be in violation of any
+                                provision of this Act (including any
+                                amendment made by this Act), or any
+                                order, rule, regulation, standard, or
+                                ban under this Act (including any
+                                amendment made by this Act).
+                            (ii) Complaint procedure.--A provider or
+                        representative who believes that he or she has
+                        been discriminated against in violation of this
+                        section may seek relief in accordance with the
+                        procedures, notifications, burdens of proof,
+                        remedies, and statutes of limitation set forth
+                        in section 2087(b) of title 15, United States
+                        Code.
+    (c) Whistleblower Protections.--
+            (1) Retaliation prohibited.--No person may discharge or
+        otherwise discriminate against any employee because the
+        employee or any person acting pursuant to a request of the
+        employee--
+                    (A) notified the Secretary or the employee's
+                employer of any alleged violation of this title,
+                including communications related to carrying out the
+                employee's job duties;
+                    (B) refused to engage in any practice made unlawful
+                by this title, if the employee has identified the
+                alleged illegality to the employer;
+                    (C) testified before or otherwise provided
+                information relevant for Congress or for any Federal or
+                State proceeding regarding any provision (or proposed
+                provision) of this title;
+                    (D) commenced, caused to be commenced, or is about
+                to commence or cause to be commenced a proceeding under
+                this title;
+                    (E) testified or is about to testify in any such
+                proceeding; or
+                    (F) assisted or participated or is about to assist
+                or participate in any manner in such a proceeding or in
+                any other manner in such a proceeding or in any other
+                action to carry out the purposes of this title.
+            (2) Enforcement action.--Any employee covered by this
+        section who alleges discrimination by an employer in violation
+        of paragraph (1) may bring an action, subject to the statute of
+        limitations in the anti-retaliation provisions of the False
+        Claims Act and the rules and procedures, legal burdens of
+        proof, and remedies applicable under the employee protections
+        provisions of the Surface Transportation Assistance Act.
+            (3) Application.--
+                    (A) Nothing in this subsection shall be construed
+                to diminish the rights, privileges, or remedies of any
+                employee under any Federal or State law or regulation,
+                including the rights and remedies against retaliatory
+                action under the False Claims Act (31 U.S.C. 3730(h)),
+                or under any collective bargaining agreement. The
+                rights and remedies in this section may not be waived
+                by any agreement, policy, form, or condition of
+                employment.
+                    (B) Nothing in this subsection shall be construed
+                to preempt or diminish any other Federal or State law
+                or regulation against discrimination, demotion,
+                discharge, suspension, threats, harassment, reprimand,
+                retaliation, or any other manner of discrimination,
+                including the rights and remedies against retaliatory
+                action under the False Claims Act (31 U.S.C. 3730(h)).
+            (4) Definitions.--In this subsection:
+                    (A) Employer.--The term ``employer'' means any
+                person engaged in profit or nonprofit business or
+                industry, including one or more individuals,
+                partnerships, associations, corporations, trusts,
+                professional membership organization including a
+                certification, disciplinary, or other professional
+                body, unincorporated organizations, nongovernmental
+                organizations, or trustees, and subject to liability
+                for violating the provisions of this Act.
+                    (B) Employee.--The term ``employee'' means any
+                individual performing activities under this Act on
+                behalf of an employer.
+
+SEC. 302. QUALIFICATIONS FOR PROVIDERS.
+
+    (a) In General.--A health care provider is considered to be
+qualified to furnish covered items and services under this Act if the
+provider is licensed or certified to furnish such items and services in
+the State in which the individual receiving such items or services is
+located and meets--
+            (1) the requirements of such State's law to furnish such
+        items and services; and
+            (2) applicable requirements of Federal law to furnish such
+        items and services.
+    (b) Limitation.--An entity or provider shall not be qualified to
+furnish covered items and services under this Act if the entity or
+provider provides no items and services directly to individuals,
+including--
+            (1) entities or providers that contract with other entities
+        or providers to provide such items and services; and
+            (2) entities that are currently approved to coordinate care
+        plans under the Medicare Advantage program established in part
+        C of title XVIII of the Social Security Act (42 U.S.C. 1851 et
+        seq.) but do not directly provide items and services of such
+        care plans.
+    (c) Minimum Provider Standards.--
+            (1) In general.--The Secretary shall establish, evaluate,
+        and update national minimum standards to ensure the quality of
+        items and services provided under this Act and to monitor
+        efforts by States to ensure the quality of such items and
+        services. A State may establish additional minimum standards
+        which providers shall meet with respect to items and services
+        provided in such State.
+            (2) National minimum standards.--The Secretary shall
+        establish national minimum standards under paragraph (1) for
+        institutional providers of services and individual health care
+        practitioners. Except as the Secretary may specify in order to
+        carry out this Act, a hospital, skilled nursing facility, or
+        other institutional provider of services shall meet standards
+        applicable to such a provider under the Medicare program under
+        title XVIII of the Social Security Act (42 U.S.C. 1395 et
+        seq.). Such standards also may include, where appropriate,
+        elements relating to--
+                    (A) adequacy and quality of facilities;
+                    (B) mandatory minimum safe registered nurse-to-
+                patient staffing ratios and optimal staffing levels for
+                physicians and other health care practitioners;
+                    (C) training and competence of personnel (including
+                requirements related to the number of or type of
+                required continuing education hours);
+                    (D) comprehensiveness of service;
+                    (E) continuity of service;
+                    (F) patient waiting time, access to services, and
+                preferences; and
+                    (G) performance standards, including organization,
+                facilities, structure of services, efficiency of
+                operation, and outcome in palliation, improvement of
+                health, stabilization, cure, or rehabilitation.
+            (3) Transition in application.--If the Secretary provides
+        for additional requirements for providers under this
+        subsection, any such additional requirement shall be
+        implemented in a manner that provides for a reasonable period
+        during which a previously qualified provider is permitted to
+        meet such an additional requirement.
+            (4) Ability to provide services.--With respect to any
+        entity or provider certified to provide items and services
+        described in section 201(a)(7), the Secretary may not prohibit
+        such entity or provider from participating for reasons other
+        than such entity's or provider's ability to provide such items
+        and services.
+    (d) Federal Providers.--Any provider qualified to provide health
+care items and services through the Department of Veterans Affairs, the
+Indian Health Service, or the uniformed services (with respect to the
+direct care component of the TRICARE Program) is a qualifying provider
+under this section with respect to any individual who qualifies for
+such items and services under applicable Federal law.
+
+SEC. 303. USE OF PRIVATE CONTRACTS.
+
+    (a) In General.--This section shall apply beginning 2 years after
+the date of the enactment of this Act.
+    (b) Participating Providers.--
+            (1) Private contracts for covered items and services for
+        eligible individuals.--An institutional or individual provider
+        with an agreement in effect under section 301 may not bill or
+        enter into any private contract with any individual eligible
+        for benefits under the Act for any item or service that is a
+        benefit under this Act.
+            (2) Private contracts for noncovered items and services for
+        eligible individuals.--An institutional or individual provider
+        with an agreement in effect under section 301 may bill or enter
+        into a private contract with an individual eligible for
+        benefits under the Act for any item or service that is not a
+        benefit under this Act only if--
+                    (A) the contract and provider meet the requirements
+                specified in paragraphs (3) and (4), respectively;
+                    (B) such item or service is not payable or
+                available under this Act; and
+                    (C) the provider receives--
+                            (i) no reimbursement under this Act
+                        directly or indirectly for such item or
+                        service, and
+                            (ii) receives no amount for such item or
+                        service from an organization which receives
+                        reimbursement for such items or service under
+                        this Act directly or indirectly.
+            (3) Contract requirements.--Any contract to provide items
+        and services described in paragraph (2) shall--
+                    (A) be in writing and signed by the individual (or
+                authorized representative of the individual) receiving
+                the item or service before the item or service is
+                furnished pursuant to the contract;
+                    (B) not be entered into at a time when the
+                individual is facing an emergency health care
+                situation; and
+                    (C) clearly indicate to the individual receiving
+                such items and services that by signing such a contract
+                the individual--
+                            (i) agrees not to submit a claim (or to
+                        request that the provider submit a claim) under
+                        this Act for such items or services;
+                            (ii) agrees to be responsible for payment
+                        of such items or services and understands that
+                        no reimbursement will be provided under this
+                        Act for such items or services;
+                            (iii) acknowledges that no limits under
+                        this Act apply to amounts that may be charged
+                        for such items or services; and
+                            (iv) acknowledges that the provider is
+                        providing services outside the scope of the
+                        program under this Act.
+            (4) Affidavit.--A participating provider who enters into a
+        contract described in paragraph (2) shall have in effect during
+        the period any item or service is to be provided pursuant to
+        the contract an affidavit that shall--
+                    (A) identify the provider who is to furnish such
+                noncovered item or service, and be signed by such
+                provider;
+                    (B) state that the provider will not submit any
+                claim under this Act for any noncovered item or service
+                provided to any individual enrolled under this Act; and
+                    (C) be filed with the Secretary no later than 10
+                days after the first contract to which such affidavit
+                applies is entered into.
+            (5) Enforcement.--If a provider signing an affidavit
+        described in paragraph (4) knowingly and willfully submits a
+        claim under this title for any item or service provided or
+        receives any reimbursement or amount for any such item or
+        service provided pursuant to a private contract described in
+        paragraph (2) with respect to such affidavit--
+                    (A) any contract described in paragraph (2) shall
+                be null and void;
+                    (B) no payment shall be made under this title for
+                any item or service furnished by the provider during
+                the 2-year period beginning on the date the affidavit
+                was signed; and
+                    (C) any payment received under this title for any
+                item or service furnished during such period shall be
+                remitted.
+            (6) Private contracts for ineligible individuals.--An
+        institutional or individual provider with an agreement in
+        effect under section 301 may bill or enter into a private
+        contract with any individual ineligible for benefits under the
+        Act for any item or service.
+    (c) Nonparticipating Providers.--
+            (1) Private contracts for covered items and services for
+        eligible individuals.--An institutional or individual provider
+        with no agreement in effect under section 301 may bill or enter
+        into any private contract with any individual eligible for
+        benefits under the Act for any item or service that is a
+        benefit under this Act described in title II only if the
+        contract and provider meet the requirements specified in
+        paragraphs (2) and (3), respectively.
+            (2) Items required to be included in contract.--Any
+        contract to provide items and services described in paragraph
+        (1) shall--
+                    (A) be in writing and signed by the individual (or
+                authorized representative of the individual) receiving
+                the item or service before the item or service is
+                furnished pursuant to the contract;
+                    (B) not be entered into at a time when the
+                individual is facing an emergency health care
+                situation; and
+                    (C) clearly indicate to the individual receiving
+                such items and services that by signing such a contract
+                the individual--
+                            (i) acknowledges that the individual has
+                        the right to have such items or services
+                        provided by other providers for whom payment
+                        would be made under this Act;
+                            (ii) agrees not to submit a claim (or to
+                        request that the provider submit a claim) under
+                        this Act for such items or services even if
+                        such items or services are otherwise covered by
+                        this Act;
+                            (iii) agrees to be responsible for payment
+                        of such items or services and understands that
+                        no reimbursement will be provided under this
+                        Act for such items or services;
+                            (iv) acknowledges that no limits under this
+                        Act apply to amounts that may be charged for
+                        such items or services; and
+                            (v) acknowledges that the provider is
+                        providing services outside the scope of the
+                        program under this Act.
+            (3) Affidavit.--A provider who enters into a contract
+        described in paragraph (1) shall have in effect during the
+        period any item or service is to be provided pursuant to the
+        contract an affidavit that shall--
+                    (A) identify the provider who is to furnish such
+                covered item or service, and be signed by such
+                provider;
+                    (B) state that the provider will not submit any
+                claim under this Act for any covered item or service
+                provided to any individual enrolled under this Act
+                during the 2-year period beginning on the date the
+                affidavit is signed; and
+                    (C) be filed with the Secretary no later than 10
+                days after the first contract to which such affidavit
+                applies is entered into.
+            (4) Enforcement.--If a provider signing an affidavit
+        described in paragraph (3) knowingly and willfully submits a
+        claim under this title for any item or service provided or
+        receives any reimbursement or amount for any such item or
+        service provided pursuant to a private contract described in
+        paragraph (1) with respect to such affidavit--
+                    (A) any contract described in paragraph (1) shall
+                be null and void; and
+                    (B) no payment shall be made under this title for
+                any item or service furnished by the provider during
+                the 2-year period beginning on the date the affidavit
+                was signed.
+            (5) Private contracts for noncovered items and services for
+        any individual.--An institutional or individual provider with
+        no agreement in effect under section 301 may bill or enter into
+        a private contract with any individual for a item or service
+        that is not a benefit under this Act.
+
+                        TITLE IV--ADMINISTRATION
+
+             Subtitle A--General Administration Provisions
+
+SEC. 401. ADMINISTRATION.
+
+    (a) General Duties of the Secretary.--
+            (1) In general.--The Secretary shall develop policies,
+        procedures, guidelines, and requirements to carry out this Act,
+        including related to--
+                    (A) eligibility for benefits;
+                    (B) enrollment;
+                    (C) benefits provided;
+                    (D) provider participation standards and
+                qualifications, as described in title III;
+                    (E) levels of funding;
+                    (F) methods for determining amounts of payments to
+                providers of covered items and services, consistent
+                with subtitle B;
+                    (G) a process for appealing or petitioning for a
+                determination of coverage or noncoverage of items and
+                services under this Act;
+                    (H) planning for capital expenditures and service
+                delivery;
+                    (I) planning for health professional education
+                funding;
+                    (J) encouraging States to develop regional planning
+                mechanisms; and
+                    (K) any other regulations necessary to carry out
+                the purposes of this Act.
+            (2) Regulations.--Regulations authorized by this Act shall
+        be issued by the Secretary in accordance with section 553 of
+        title 5, United States Code.
+            (3) Accessibility.--The Secretary shall have the obligation
+        to ensure the timely and accessible provision of items and
+        services that all eligible individuals are entitled to under
+        this Act.
+    (b) Uniform Reporting Standards; Annual Report; Studies.--
+            (1) Uniform reporting standards.--
+                    (A) In general.--The Secretary shall establish
+                uniform State reporting requirements and national
+                standards to ensure an adequate national database
+                containing information pertaining to health services
+                practitioners, approved providers, the costs of
+                facilities and practitioners providing items and
+                services, the quality of such items and services, the
+                outcomes of such items and services, and the equity of
+                health among population groups. Such database shall
+                include, to the maximum extent feasible without
+                compromising patient privacy, health outcome measures
+                used under this Act, and to the maximum extent feasible
+                without excessively burdening providers, a description
+                of the standards and qualifications, levels of finding,
+                and methods described in subparagraphs (D) through (F)
+                of subsection (a)(1).
+                    (B) Required data disclosures.--In establishing
+                reporting requirements and standards under subparagraph
+                (A), the Secretary shall require a provider with an
+                agreement in effect under section 301 to disclose to
+                the Secretary, in a time and manner specified by the
+                Secretary, the following (as applicable to the type of
+                provider):
+                            (i) Any data the provider is required to
+                        report or does report to any State or local
+                        agency, or, as of January 1, 2019, to the
+                        Secretary or any entity that is part of the
+                        Department of Health and Human Services, except
+                        data that are required under the programs
+                        terminated in section 903.
+                            (ii) Annual financial data that includes
+                        information on employees (including the number
+                        of employees, hours worked, and wage
+                        information) by job title and by each patient
+                        care unit or department within each facility
+                        (including outpatient units or departments);
+                        the number of registered nurses per staffed bed
+                        by each such unit or department; information on
+                        the dollar value and annual spending (including
+                        purchases, upgrades, and maintenance) for
+                        health information technology; and risk-
+                        adjusted and raw patient outcome data
+                        (including data on medical, surgical,
+                        obstetric, and other procedures).
+                    (C) Reports.--The Secretary shall regularly analyze
+                information reported to the Secretary and shall define
+                rules and procedures to allow researchers, scholars,
+                health care providers, and others to access and analyze
+                data for purposes consistent with quality and outcomes
+                research, without compromising patient privacy.
+            (2) Annual report.--Beginning 2 years after the date of the
+        enactment of this Act, the Secretary shall annually report to
+        Congress on the following:
+                    (A) The status of implementation of the Act.
+                    (B) Enrollment under this Act.
+                    (C) Benefits under this Act.
+                    (D) Expenditures and financing under this Act.
+                    (E) Cost-containment measures and achievements
+                under this Act.
+                    (F) Quality assurance.
+                    (G) Health care utilization patterns, including any
+                changes attributable to the program.
+                    (H) Changes in the per-capita costs of health care.
+                    (I) Differences in the health status of the
+                populations of the different States, including by
+                racial, ethnic, national origin, primary language use,
+                age, disability, sex, including gender identity and
+                sexual orientation, geographical, and income
+                characteristics;
+                    (J) Progress on quality and outcome measures, and
+                long-range plans and goals for achievements in such
+                areas.
+                    (K) Plans for improving service to medically
+                underserved populations.
+                    (L) Transition problems as a result of
+                implementation of this Act.
+                    (M) Opportunities for improvements under this Act.
+            (3) Statistical analyses and other studies.--The Secretary
+        may, either directly or by contract--
+                    (A) make statistical and other studies, on a
+                nationwide, regional, State, or local basis, of any
+                aspect of the operation of this Act;
+                    (B) develop and test methods of delivery of items
+                and services as the Secretary may consider necessary or
+                promising for the evaluation, or for the improvement,
+                of the operation of this Act; and
+                    (C) develop methodological standards for
+                policymaking.
+    (c) Audits.--
+            (1) In general.--The Comptroller General of the United
+        States shall conduct an audit of the Department of Health and
+        Human Services every fifth fiscal year following the effective
+        date of this Act to determine the effectiveness of the program
+        in carrying out the duties under subsection (a).
+            (2) Reports.--The Comptroller General of the United States
+        shall submit a report to Congress concerning the results of
+        each audit conducted under this subsection.
+
+SEC. 402. CONSULTATION.
+
+    The Secretary shall consult with Federal agencies, Indian tribes
+and urban Indian health organizations, and private entities, such as
+labor organizations representing health care workers, professional
+societies, national associations, nationally recognized associations of
+health care experts, medical schools and academic health centers,
+consumer groups, and business organizations in the formulation of
+guidelines, regulations, policy initiatives, and information gathering
+to ensure the broadest and most informed input in the administration of
+this Act. Nothing in this Act shall prevent the Secretary from adopting
+guidelines, consistent with the provisions of section 203(c), developed
+by such a private entity if, in the Secretary's judgment, such
+guidelines are generally accepted as reasonable and prudent and
+consistent with this Act.
+
+SEC. 403. REGIONAL ADMINISTRATION.
+
+    (a) Coordination With Regional Offices.--The Secretary shall
+establish and maintain regional offices for purposes of carrying out
+the duties specified in subsection (c) and promoting adequate access
+to, and efficient use of, tertiary care facilities, equipment, and
+services by individuals enrolled under this Act. Wherever possible, the
+Secretary shall incorporate regional offices of the Centers for
+Medicare & Medicaid Services for this purpose.
+    (b) Appointment of Regional Directors.--In each such regional
+office there shall be--
+            (1) one regional director appointed by the Secretary;
+            (2) one deputy director appointed by the regional director
+        to represent the Indian and Alaska Native tribes in the region,
+        if any; and
+            (3) one deputy direction appointed by the regional director
+        to oversee long-term services and supports.
+    (c) Regional Office Duties.--Each regional director shall--
+            (1) provide an annual health care needs assessment with
+        respect to the region under the director's jurisdiction to the
+        Secretary after a thorough examination of health needs and in
+        consultation with public health officials, clinicians,
+        patients, and patient advocates;
+            (2) recommend any changes in provider reimbursement or
+        payment for delivery of health services determined appropriate
+        by the regional director, subject to the provisions of title
+        VI; and
+            (3) establish a quality assurance mechanism in each such
+        region in order to minimize both underutilization and
+        overutilization of health care items and services and to ensure
+        that all providers meet quality standards established pursuant
+        to this Act.
+
+SEC. 404. BENEFICIARY OMBUDSMAN.
+
+    (a) In General.--The Secretary shall appoint a Beneficiary
+Ombudsman who shall have expertise and experience in the fields of
+health care and education of, and assistance to, individuals enrolled
+under this Act.
+    (b) Duties.--The Beneficiary Ombudsman shall--
+            (1) receive complaints, grievances, and requests for
+        information submitted by individuals enrolled under this Act or
+        eligible to enroll under this Act with respect to any aspect of
+        the Medicare for All Program;
+            (2) provide assistance with respect to complaints,
+        grievances, and requests referred to in paragraph (1),
+        including assistance in collecting relevant information for
+        such individuals, to seek an appeal of a decision or
+        determination made by a regional office or the Secretary; and
+            (3) submit annual reports to Congress and the Secretary
+        that describe the activities of the Ombudsman and that include
+        such recommendations for improvement in the administration of
+        this Act as the Ombudsman determines appropriate. The Ombudsman
+        shall not serve as an advocate for any increases in payments or
+        new coverage of services, but may identify issues and problems
+        in payment or coverage policies.
+
+SEC. 405. CONDUCT OF RELATED HEALTH PROGRAMS.
+
+    In performing functions with respect to health personnel education
+and training, health research, environmental health, disability
+insurance, vocational rehabilitation, the regulation of food and drugs,
+and all other matters pertaining to health, the Secretary shall direct
+the activities of the Department of Health and Human Services toward
+contributions to the health of the people complementary to this Act.
+
+                Subtitle B--Control Over Fraud and Abuse
+
+SEC. 411. APPLICATION OF FEDERAL SANCTIONS TO ALL FRAUD AND ABUSE UNDER
+              THE MEDICARE FOR ALL PROGRAM.
+
+    The following sections of the Social Security Act shall apply to
+this Act in the same manner as they apply to title XVIII or State plans
+under title XIX of the Social Security Act:
+            (1) Section 1128 (relating to exclusion of individuals and
+        entities).
+            (2) Section 1128A (civil monetary penalties).
+            (3) Section 1128B (criminal penalties).
+            (4) Section 1124 (relating to disclosure of ownership and
+        related information).
+            (5) Section 1126 (relating to disclosure of certain
+        owners).
+            (6) Section 1877 (relating to physician referrals).
+
+                      TITLE V--QUALITY ASSESSMENT
+
+SEC. 501. QUALITY STANDARDS.
+
+    (a) In General.--All standards and quality measures under this Act
+shall be implemented and evaluated by the Center for Clinical Standards
+and Quality of the Centers for Medicare & Medicaid Services (referred
+to in this title as the ``Center'') or such other agency determined
+appropriate by the Secretary, in coordination with the Agency for
+Healthcare Research and Quality and other offices of the Department of
+Health and Human Services.
+    (b) Duties of the Center.--The Center shall perform the following
+duties:
+            (1) Review and evaluate each practice guideline developed
+        under part B of title IX of the Public Health Service Act. In
+        so reviewing and evaluating, the Center shall determine whether
+        the guideline should be recognized as a national practice
+        guideline in accordance with and subject to the provisions of
+        section 203(c).
+            (2) Review and evaluate each standard of quality,
+        performance measure, and medical review criterion developed
+        under part B of title IX of the Public Health Service Act (42
+        U.S.C. 299 et seq.). In so reviewing and evaluating, the Center
+        shall determine whether the standard, measure, or criterion is
+        appropriate for use in assessing or reviewing the quality of
+        items and services provided by health care institutions or
+        health care professionals. The use of mechanisms that
+        discriminate against people with disabilities is prohibited for
+        use in any value or cost-effectiveness assessments. The Center
+        shall consider the evidentiary basis for the standard, and the
+        validity, reliability, and feasibility of measuring the
+        standard.
+            (3) Adoption of methodologies for profiling the patterns of
+        practice of health care professionals and for identifying and
+        notifying outliers.
+            (4) Development of minimum criteria for competence for
+        entities that can qualify to conduct ongoing and continuous
+        external quality reviews in the administrative regions. Such
+        criteria shall require such an entity to be administratively
+        independent of the individual or board that administers the
+        region and shall ensure that such entities do not provide
+        financial incentives to reviewers to favor one pattern of
+        practice over another. The Center shall ensure coordination and
+        reporting by such entities to ensure national consistency in
+        quality standards.
+            (5) Submission of a report to the Secretary annually
+        specifically on findings from outcomes research and development
+        of practice guidelines that may affect the Secretary's
+        determination of coverage of services under section
+        401(a)(1)(G).
+
+SEC. 502. ADDRESSING HEALTH CARE DISPARITIES.
+
+    (a) Evaluating Data Collection Approaches.--The Center shall
+evaluate approaches for the collection of data under this Act, to be
+performed in conjunction with existing quality reporting requirements
+and programs under this Act, that allow for the ongoing, accurate, and
+timely collection of data on disparities in health care services and
+performance on the basis of race, ethnicity, national origin, primary
+language use, age, disability, sex (including gender identity and
+sexual orientation), geography, or socioeconomic status. In conducting
+such evaluation, the Center shall consider the following objectives:
+            (1) Protecting patient privacy.
+            (2) Minimizing the administrative burdens of data
+        collection and reporting on providers under this Act.
+            (3) Improving data on race, ethnicity, national origin,
+        primary language use, age, disability, sex (including gender
+        identity and sexual orientation), geography, and socioeconomic
+        status.
+    (b) Reports to Congress.--
+            (1) Report on evaluation.--Not later than 18 months after
+        the date on which benefits first become available as described
+        in section 106(a), the Center shall submit to Congress and the
+        Secretary a report on the evaluation conducted under subsection
+        (a). Such report shall, taking into consideration the results
+        of such evaluation--
+                    (A) identify approaches (including defining
+                methodologies) for identifying and collecting and
+                evaluating data on health care disparities on the basis
+                of race, ethnicity, national origin, primary language
+                use, age, disability, sex (including gender identity
+                and sexual orientation), geography, or socioeconomic
+                status under the Medicare for All Program; and
+                    (B) include recommendations on the most effective
+                strategies and approaches to reporting quality
+                measures, as appropriate, on the basis of race,
+                ethnicity, national origin, primary language use, age,
+                disability, sex (including gender identity and sexual
+                orientation), geography, or socioeconomic status.
+            (2) Report on data analyses.--Not later than 4 years after
+        the submission of the report under subsection (b)(1), and every
+        4 years thereafter, the Center shall submit to Congress and the
+        Secretary a report that includes recommendations for improving
+        the identification of health care disparities based on the
+        analyses of data collected under subsection (c).
+    (c) Implementing Effective Approaches.--Not later than 2 years
+after the date on which benefits first become available as described in
+section 106(a), the Secretary shall implement the approaches identified
+in the report submitted under subsection (b)(1) for the ongoing,
+accurate, and timely collection and evaluation of data on health care
+disparities on the basis of race, ethnicity, national origin, primary
+language use, age, disability, sex (including gender identity and
+sexual orientation), geography, or socioeconomic status.
+
+      TITLE VI--HEALTH BUDGET; PAYMENTS; COST CONTAINMENT MEASURES
+
+                         Subtitle A--Budgeting
+
+SEC. 601. NATIONAL HEALTH BUDGET.
+
+    (a) National Health Budget.--
+            (1) In general.--By not later than September 1 of each
+        year, beginning with the year prior to the date on which
+        benefits first become available as described in section 106(a),
+        the Secretary shall establish a national health budget, which
+        specifies a budget for the total expenditures to be made for
+        covered health care items and services under this Act.
+            (2) Division of budget into components.--The national
+        health budget shall consist of the following components:
+                    (A) An operating budget.
+                    (B) A capital expenditures budget.
+                    (C) A special projects budget.
+                    (D) Quality assessment activities under title V.
+                    (E) Health professional education expenditures.
+                    (F) Administrative costs, including costs related
+                to the operation of regional offices.
+                    (G) A reserve fund.
+                    (H) Prevention and public health activities.
+            (3) Allocation among components.--The Secretary shall
+        allocate the funds received for purposes of carrying out this
+        Act among the components described in paragraph (2) in a manner
+        that ensures--
+                    (A) that the operating budget allows for every
+                participating provider in the Medicare for All Program
+                to meet the needs of their respective patient
+                populations;
+                    (B) that the special projects budget is sufficient
+                to meet the health care needs within areas described in
+                paragraph (2)(C) through the construction, renovation,
+                and staffing of health care facilities in a reasonable
+                timeframe;
+                    (C) a fair allocation for quality assessment
+                activities; and
+                    (D) that the health professional education
+                expenditure component is sufficient to provide for the
+                amount of health professional education expenditures
+                sufficient to meet the need for covered health care
+                services.
+            (4) Regional allocation.--The Secretary shall annually
+        provide each regional office with an allotment the Secretary
+        determines appropriate for purposes of carrying out this Act in
+        such region, including payments to providers in such region,
+        capital expenditures in such region, special projects in such
+        region, health professional education in such region,
+        administrative expenses in such region, and prevention and
+        public health activities in such region.
+            (5) Operating budget.--The operating budget described in
+        paragraph (2)(A) shall be used for--
+                    (A) payments to institutional providers pursuant to
+                section 611; and
+                    (B) payments to individual providers pursuant to
+                section 612.
+            (6) Capital expenditures budget.--The capital expenditures
+        budget described in paragraph (2)(B) shall be used for--
+                    (A) the construction or renovation of health care
+                facilities, excluding congregate or segregated
+                facilities for individuals with disabilities who
+                receive long-term care services and support; and
+                    (B) major equipment purchases.
+            (7) Special projects budget.--The special projects budget
+        described in paragraph (2)(C) shall be used for the purposes of
+        allocating funds for the construction of new facilities, major
+        equipment purchases, and staffing in rural or medically
+        underserved areas (as defined in section 330(b)(3) of the
+        Public Health Service Act (42 U.S.C. 254b(b)(3))), including
+        areas designated as health professional shortage areas (as
+        defined in section 332(a) of the Public Health Service Act (42
+        U.S.C. 254e(a))), and to address health disparities, including
+        racial, ethnic, national origin, primary language use, age,
+        disability, sex (including gender identity and sexual
+        orientation), geography, or socioeconomic health disparities.
+            (8) Temporary worker assistance.--
+                    (A) In general.--For up to 5 years following the
+                date on which benefits first become available as
+                described in section 106(a), at least 1 percent of the
+                budget shall be allocated to programs providing
+                assistance to workers who perform functions in the
+                administration of the health insurance system, or
+                related functions within health care institutions or
+                organizations who may be affected by the implementation
+                of this Act and who may experience economic dislocation
+                as a result of the implementation of this Act.
+                    (B) Clarification.--Assistance described in
+                subparagraph (A) shall include wage replacement,
+                retirement benefits, job training and placement,
+                preferential hiring, and education benefits.
+            (9) Reserve fund.--The reserve fund described in paragraph
+        (2)(G) shall be used to respond to the costs of an epidemic,
+        pandemic, natural disaster, or other such health emergency, or
+        market-shift adjustments related to patient volume.
+            (10) Supplemental indian health service allocation.--The
+        Secretary shall annually determine the need to provide an
+        allotment of supplemental funds to Indian Health Services,
+        including payments to providers, capital expenditures, special
+        projects, health professional education, administrative
+        expenses, and prevention and public health activities.
+    (b) Definitions.--In this section:
+            (1) Capital expenditures.--The term ``capital
+        expenditures'' means expenses for the purchase, lease,
+        construction, or renovation of capital facilities and for major
+        equipment.
+            (2) Health professional education expenditures.--The term
+        ``health professional education expenditures'' means
+        expenditures in hospitals and other health care facilities to
+        cover costs associated with teaching and related research
+        activities, including the impact of workforce diversity on
+        patient outcomes.
+
+                   Subtitle B--Payments to Providers
+
+SEC. 611. PAYMENTS TO INSTITUTIONAL PROVIDERS BASED ON GLOBAL BUDGETS.
+
+    (a) In General.--Not later than the beginning of each fiscal
+quarter during which an institutional provider of care (including
+hospitals, skilled nursing facilities, Federally qualified health
+centers, and independent dialysis facilities) is to furnish items and
+services under this Act, the Secretary shall pay to such institutional
+provider a lump sum in accordance with the succeeding provisions of
+this subsection and consistent with the following:
+            (1) Payment in full.--Such payment shall be considered as
+        payment in full for all operating expenses for items and
+        services furnished under this Act, whether inpatient or
+        outpatient, by such provider for such quarter, including
+        outpatient or any other care provided by the institutional
+        provider or provided by any health care provider who provided
+        items and services pursuant to an agreement paid through the
+        global budget as described in paragraph (3).
+            (2) Quarterly review.--The regional director, on a
+        quarterly basis, shall review whether requirements of the
+        institutional provider's participation agreement and negotiated
+        global budget have been performed and shall determine whether
+        adjustments to such institutional provider's payment are
+        warranted. This review shall include consideration for
+        additional funding necessary for unanticipated items and
+        services for individuals with complex medical needs or market-
+        shift adjustments related to patient volume. The review shall
+        also include an assessment of any adjustments made to ensure
+        that accuracy and need for adjustment was appropriate.
+            (3) Agreements for salaried payments for certain
+        providers.--Certain group practices and other health care
+        providers, as determined by the Secretary, with agreements to
+        provide items and services at a specified institutional
+        provider paid a global budget under this subsection may elect
+        to be paid through such institutional provider's global budget
+        in lieu of payment under section 612 of this title. Any--
+                    (A) individual health care professional of such
+                group practice or other provider receiving payment
+                through an institutional provider's global budget shall
+                be paid on a salaried basis that is equivalent to
+                salaries or other compensation rates negotiated for
+                individual health care professionals of such
+                institutional provider; and
+                    (B) any group practice or other health care
+                provider that receives payment through an institutional
+                provider global budget under this paragraph shall be
+                subject to the same reporting and disclosure
+                requirements of the institutional provider.
+            (4) Interim adjustments.--The regional director shall
+        consider a petition for adjustment of any payment under this
+        section filed by an institutional provider at any time based on
+        the following:
+                    (A) Factors that led to increased costs for the
+                institutional provider that can reasonably be
+                considered to be unanticipated and out of the control
+                of the institutional provider, such as--
+                            (i) natural disasters;
+                            (ii) outbreaks of epidemics or infectious
+                        diseases;
+                            (iii) unexpected facility or equipment
+                        repairs or purchases;
+                            (iv) significant and unexpected increases
+                        in pharmaceutical or medical device prices; and
+                            (v) unanticipated increases in complex or
+                        high-cost patients or care needs.
+                    (B) Changes in Federal or State law that result in
+                a change in costs.
+                    (C) Reasonable increases in labor costs, including
+                salaries and benefits, and changes in collective
+                bargaining agreements, prevailing wage, or local law.
+    (b) Payment Amount.--
+            (1) In general.--The amount of each payment to a provider
+        described in subsection (a) shall be determined before the
+        start of each fiscal year through negotiations between the
+        provider and the regional director with jurisdiction over such
+        provider. Such amount shall be based on factors specified in
+        paragraph (2).
+            (2) Payment factors.--Payments negotiated pursuant to
+        paragraph (1) shall take into account, with respect to a
+        provider--
+                    (A) the historical volume of services provided for
+                each item and services in the previous 3-year period;
+                    (B) the actual expenditures of such provider in
+                such provider's most recent cost report under title
+                XVIII of the Social Security Act for each item and
+                service compared to--
+                            (i) such expenditures for other
+                        institutional providers in the director's
+                        jurisdiction; and
+                            (ii) normative payment rates established
+                        under comparative payment rate systems,
+                        including any adjustments, for such items and
+                        services;
+                    (C) projected changes in the volume and type of
+                items and services to be furnished;
+                    (D) wages for employees, including any necessary
+                increases mandatory minimum safe registered nurse-to-
+                patient ratios and optimal staffing levels for
+                physicians and other health care workers;
+                    (E) the provider's maximum capacity to provide
+                items and services;
+                    (F) education and prevention programs;
+                    (G) permissible adjustment to the provider's
+                operating budget due to factors such as--
+                            (i) an increase in primary or specialty
+                        care access;
+                            (ii) efforts to decrease health care
+                        disparities in rural or medically underserved
+                        areas;
+                            (iii) a response to emergent epidemic
+                        conditions;
+                            (iv) an increase in complex or high-cost
+                        patients or care needs; or
+                            (v) proposed new and innovative patient
+                        care programs at the institutional level;
+                    (H) whether the provider is located in a high
+                social vulnerability index community, zip code, or
+                census track, or is a minority-serving provider; and
+                    (I) any other factor determined appropriate by the
+                Secretary.
+            (3) Limitation.--Payment amounts negotiated pursuant to
+        paragraph (1) may not--
+                    (A) take into account capital expenditures of the
+                provider or any other expenditure not directly
+                associated with the provision of items and services by
+                the provider to an individual;
+                    (B) be used by a provider for capital expenditures
+                or such other expenditures;
+                    (C) exceed the provider's capacity to provide care
+                under this Act; or
+                    (D) be used to pay or otherwise compensate any
+                board member, executive, or administrator of the
+                institutional provider who has any interest or
+                relationship prohibited under section 301(b)(2) of this
+                Act or disclosed under section 301 of this Act.
+            (4) Limitation on compensation.--Compensation costs for any
+        employee or any contractor or any subcontractor employee of an
+        institutional provider receiving global budgets under this
+        section shall meet the compensation cap established in section
+        702 of the Bipartisan Budget Act of 2013 (41 U.S.C.
+        4304(a)(16)) and implementing regulations.
+            (5) Regional negotiations permitted.--Subject to section
+        614, a regional director may negotiate changes to an
+        institutional provider's global budget, including any
+        adjustments to address unforeseen market-shifts related to
+        patient volume.
+    (c) Baseline Rates and Adjustments.--
+            (1) In general.--The Secretary shall use existing
+        prospective payment systems under title XVIII of the Social
+        Security Act to serve as the comparative payment rate system in
+        global budget negotiations described in subsection (b). The
+        Secretary shall update such comparative payment rate systems
+        annually.
+            (2) Specifications.--In developing the comparative payment
+        rate system, the Secretary shall use only the operating base
+        payment rates under each such prospective payment systems with
+        applicable adjustments.
+            (3) Limitation.--The comparative rate system established
+        under this subsection shall not include the value-based payment
+        adjustments and the capital expenses base payment rates that
+        may be included in such a prospective payment system.
+            (4) Initial year.--In the first year that global budget
+        payments under this Act are available to institutional
+        providers and for purposes of selecting a comparative payment
+        rate system used during initial global budget negotiations for
+        each institutional provider, the Secretary shall take into
+        account the appropriate prospective payment system from the
+        most recent year under title XVIII of the Social Security Act
+        to determine what operating base payment the institutional
+        provider would have been paid for covered items and services
+        furnished the preceding year with applicable adjustments,
+        excluding value-based payment adjustments, based on such
+        prospective payment system.
+    (d) Operating Expenses.--For purposes of this title, ``operating
+expenses'' of a provider include the following:
+            (1) The cost of all items and services associated with the
+        provision of inpatient care and outpatient care, including the
+        following:
+                    (A) Wages and salary costs for physicians, nurses,
+                and other health care practitioners employed by an
+                institutional provider, including mandatory minimum
+                safe registered nurse-to-patient staffing ratios and
+                optimal staffing levels for physicians and other
+                healthcare workers.
+                    (B) Wages and salary costs for all ancillary staff
+                and services.
+                    (C) Costs of all pharmaceutical products
+                administered by health care clinicians at the
+                institutional provider's facilities or through services
+                provided in accordance with State licensing laws or
+                regulations under which the institutional provider
+                operates.
+                    (D) Costs for infectious disease response
+                preparedness, including maintenance of a 1-year or 365-
+                day stockpile of personal protective equipment,
+                occupational testing and surveillance, medical services
+                for occupational infectious disease exposure, and
+                contact tracing.
+                    (E) Purchasing and maintenance of medical devices,
+                supplies, and other health care technologies, including
+                diagnostic testing equipment.
+                    (F) Costs of all incidental services necessary for
+                safe patient care and handling.
+                    (G) Costs of patient care, education, and
+                prevention programs, including occupational health and
+                safety programs, public health programs, and necessary
+                staff to implement such programs, for the continued
+                education and health and safety of clinicians and other
+                individuals employed by the institutional provider.
+            (2) Administrative costs for the institutional provider.
+
+SEC. 612. PAYMENT TO INDIVIDUAL PROVIDERS THROUGH FEE-FOR-SERVICE.
+
+    (a) In General.--In the case of a provider not described in section
+611(a) (including those in group practices who are not receiving
+payment on a salaried basis described in section 611(a)(3) and
+providers of home and community-based services), payment for items and
+services furnished under this Act for which payment is not otherwise
+made under section 611 shall be made by the Secretary in amounts
+determined under the fee schedule established pursuant to subsection
+(b). Such payment shall be considered to be payment in full for such
+items and services, and a provider receiving such payment may not
+charge the individual receiving such item or service in any amount.
+    (b) Fee Schedule.--
+            (1) Establishment.--Not later than 1 year after the date of
+        the enactment of this Act, and in consultation with providers
+        and regional office directors, the Secretary shall establish a
+        national fee schedule for items and services payable under this
+        Act. The Secretary shall evaluate the effectiveness of the fee-
+        for-service structure and update such fee schedule annually.
+            (2) Amounts.--In establishing payment amounts for items and
+        services under the fee schedule established under paragraph
+        (1), the Secretary shall take into account--
+                    (A) the amounts payable for such items and services
+                under title XVIII of the Social Security Act; and
+                    (B) the expertise of providers and value of items
+                and services furnished by such providers.
+    (c) Electronic Billing.--The Secretary shall establish a uniform
+national system for electronic billing for purposes of making payments
+under this subsection.
+    (d) Physician Practice Review Board.--Each director of a regional
+office, in consultation with representatives of physicians practicing
+in that region, shall establish and appoint a physician practice review
+board to assure quality, cost effectiveness, and fair reimbursements
+for physician-delivered items and services. The use of mechanisms that
+discriminate against people with disabilities is prohibited for use in
+any value or cost-effectiveness assessments.
+
+SEC. 613. ENSURING ACCURATE VALUATION OF SERVICES UNDER THE MEDICARE
+              PHYSICIAN FEE SCHEDULE.
+
+    (a) Standardized and Documented Review Process.--Section 1848(c)(2)
+of the Social Security Act (42 U.S.C. 1395w-4(c)(2)) is amended by
+adding at the end the following new subparagraph:
+                    ``(P) Standardized and documented review process.--
+                            ``(i) In general.--Not later than one year
+                        after the date of enactment of this
+                        subparagraph, the Secretary shall establish,
+                        document, and make publicly available, in
+                        consultation with the Office of Primary Health
+                        Care, a standardized process for reviewing the
+                        relative values of physicians' services under
+                        this paragraph.
+                            ``(ii) Minimum requirements.--The
+                        standardized process shall include, at a
+                        minimum, methods and criteria for identifying
+                        services for review, prioritizing the review of
+                        services, reviewing stakeholder
+                        recommendations, and identifying additional
+                        resources to be considered during the review
+                        process.''.
+    (b) Planned and Documented Use of Funds.--Section 1848(c)(2)(M) of
+the Social Security Act (42 U.S.C. 1395w-4(c)(2)(M)) is amended by
+adding at the end the following new clause:
+                            ``(x) Planned and documented use of
+                        funds.--For each fiscal year (beginning with
+                        the first fiscal year beginning on or after the
+                        date of enactment of this clause), the
+                        Secretary shall provide to Congress a written
+                        plan for using the funds provided under clause
+                        (ix) to collect and use information on
+                        physicians' services in the determination of
+                        relative values under this subparagraph.''.
+    (c) Internal Tracking of Reviews.--
+            (1) In general.--Not later than 1 year after the date of
+        enactment of this Act, the Secretary shall submit to Congress a
+        proposed plan for systematically and internally tracking the
+        Secretary's review of the relative values of physicians'
+        services, such as by establishing an internal database, under
+        section 1848(c)(2) of the Social Security Act (42 U.S.C. 1395w-
+        4(c)(2)), as amended by this section.
+            (2) Minimum requirements.--The proposal shall include, at a
+        minimum, plans and a timeline for achieving the ability to
+        systematically and internally track the following:
+                    (A) When, how, and by whom services are identified
+                for review.
+                    (B) When services are reviewed or reviewed or when
+                new services are added.
+                    (C) The resources, evidence, data, and
+                recommendations used in reviews.
+                    (D) When relative values are adjusted.
+                    (E) The rationale for final relative value
+                decisions.
+    (d) Frequency of Review.--Section 1848(c)(2) of the Social Security
+Act (42 U.S.C. 1395w-4(c)(2)) is amended--
+            (1) in subparagraph (B)(i), by striking ``5'' and inserting
+        ``4''; and
+            (2) in subparagraph (K)(i)(I), by striking ``periodically''
+        and inserting ``annually''.
+    (e) Consultation With Medicare Payment Advisory Commission.--
+            (1) In general.--Section 1848(c)(2) of the Social Security
+        Act (42 U.S.C. 1395w-4(c)(2)) is amended--
+                    (A) in subparagraph (B)(i), by inserting ``in
+                consultation with the Medicare Payment Advisory
+                Commission,'' after ``The Secretary,''; and
+                    (B) in subparagraph (K)(i)(I), as amended by
+                subsection (d)(2), by inserting ``, in coordination
+                with the Medicare Payment Advisory Commission,'' after
+                ``annually''.
+            (2) Conforming amendments.--Section 1805 of the Social
+        Security Act (42 U.S.C. 1395b-6) is amended--
+                    (A) in subsection (b)(1)(A), by inserting the
+                following before the semicolon at the end: ``and
+                including coordinating with the Secretary in accordance
+                with section 1848(c)(2) to systematically review the
+                relative values established for physicians' services,
+                identify potentially misvalued services, and propose
+                adjustments to the relative values for physicians'
+                services''; and
+                    (B) in subsection (e)(1), in the second sentence,
+                by inserting ``or the Ranking Minority Member'' after
+                ``the Chairman''.
+    (f) Periodic Audit by the Comptroller General.--Section 1848(c)(2)
+of the Social Security Act (42 U.S.C. 1395w-4(c)(2)), as amended by
+subsection (a), is amended by adding at the end the following new
+subparagraph:
+                    ``(Q) Periodic audit by the comptroller general.--
+                            ``(i) In general.--The Comptroller General
+                        of the United States (in this subsection
+                        referred to as the `Comptroller General') shall
+                        periodically audit the review by the Secretary
+                        of relative values established under this
+                        paragraph for physicians' services.
+                            ``(ii) Access to information.--The
+                        Comptroller General shall have unrestricted
+                        access to all deliberations, records, and data
+                        related to the activities carried out under
+                        this paragraph, in a timely manner, upon
+                        request.''.
+
+SEC. 614. PAYMENT PROHIBITIONS; CAPITAL EXPENDITURES; SPECIAL PROJECTS.
+
+    (a) Sense of Congress.--It is the sense of Congress that tens of
+millions of people in the United States do not receive healthcare
+services while billions of dollars that could be spent on providing
+health care are diverted to profit. There is a moral imperative to
+correct the massive deficiencies in our current health system and to
+eliminate profit from the provision of health care.
+    (b) Prohibitions.--Payments to providers under this Act may not
+take into account, include any process for the provision of funding
+for, or be used by a provider for--
+            (1) marketing of the provider;
+            (2) the profit or net revenue of the provider, or
+        increasing the profit or net revenue of the provider;
+            (3) incentive payments, bonuses, or other compensation
+        based on patient utilization of items and services or any
+        financial measure applied with respect to the provider (or any
+        group practice, integrated health care delivery system, or
+        other provider with which the provider contracts or has a
+        pecuniary interest), including any value-based payment or
+        employment-based compensation;
+            (4) any agreement or arrangement described in section
+        203(a)(4) of the Labor-Management Reporting and Disclosure Act
+        of 1959 (29 U.S.C. 433(a)(4)); or
+            (5) political or contributions prohibited under section 317
+        of the Federal Elections Campaign Act of 1971 (52 U.S.C.
+        30119(a)(1)).
+    (c) Payments for Capital Expenditures.--
+            (1) In general.--The Secretary shall pay, from amounts made
+        available for capital expenditures pursuant to section
+        601(a)(2)(B), such sums determined appropriate by the Secretary
+        to providers who have submitted an application to the regional
+        director of the region or regions in which the provider
+        operates or seeks to operate in a time and manner specified by
+        the Secretary for purposes of funding capital expenditures of
+        such providers.
+            (2) Priority.--The Secretary shall prioritize allocation of
+        funding under paragraph (1) to projects that propose to use
+        such funds to improve service in a medically underserved area
+        (as defined in section 330(b)(3) of the Public Health Service
+        Act (42 U.S.C. 254b(b)(3))) or to address health disparities,
+        including racial, ethnic, national origin, primary language
+        use, age, disability, sex (including gender identity and sexual
+        orientation), geography, or socioeconomic health disparities.
+            (3) Limitation.--The Secretary shall not grant funding for
+        capital expenditures under this subsection for capital projects
+        that are financed directly or indirectly through the diversion
+        of private or other non-Medicare for All Program funding that
+        results in reductions in care to patients, including reductions
+        in registered nursing staffing patterns and changes in
+        emergency room or primary care services or availability.
+            (4) Capital assets not funded by the medicare for all
+        program.--Operating expenses and funds shall not be used by an
+        institutional provider receiving payment for capital
+        expenditures under this subsection for a capital asset that was
+        not funded by the Medicare for All program without the approval
+        of the regional director or directors of the region or regions
+        where the capital asset is located.
+    (d) Prohibition Against Co-Mingling Operating and Capital Funds.--
+Providers that receive payment under this title shall be prohibited
+from using, with respect to funds made available under this Act--
+            (1) funds designated for operating expenditures for capital
+        expenditures or for profit; or
+            (2) funds designated for capital expenditures for operating
+        expenditures.
+    (e) Payments for Special Projects.--
+            (1) In general.--The Secretary shall allocate to each
+        regional director, from amounts made available for special
+        projects pursuant to section 601(a)(2)(C), such sums determined
+        appropriate by the Secretary for purposes of funding projects
+        described in such section, including the construction,
+        renovation, or staffing of health care facilities, in rural,
+        underserved, or health professional or medical shortage areas
+        within such region and to address health disparities, including
+        racial, ethnic, national origin, primary language use, age,
+        disability, sex, including gender identity and sexual
+        orientation, geography, or socioeconomic health disparities.
+        Each regional director shall, prior to distributing such funds
+        in accordance with paragraph (2), present a budget describing
+        how such funds will be distributed to the Secretary.
+            (2) Distribution.--A regional director shall distribute
+        funds to providers operating in the region of such director's
+        jurisdiction in a manner determined appropriate by the
+        director.
+    (f) Prohibition on Financial Incentive Metrics in Payment
+Determinations.--The Secretary may not utilize any quality metrics or
+standards for the purposes of establishing provider payment
+methodologies, programs, modifiers, or adjustments for provider
+payments under this title.
+
+SEC. 615. OFFICE OF HEALTH EQUITY.
+
+    Title XVII of the Public Health Service Act (42 U.S.C. 300u et
+seq.) is amended by adding at the end the following:
+
+``SEC. 1712. OFFICE OF HEALTH EQUITY.
+
+    ``(a) In General.--There is established, in the Office of the
+Secretary of Health and Human Services, an Office of Health Equity, to
+be headed by a Director, to ensure coordination and collaboration
+across the programs and activities of the Department of Health and
+Human Services with respect to ensuring health equity.
+    ``(b) Monitoring, Tracking, and Availability of Data.--
+            ``(1) In general.--In carrying out subsection (a), the
+        Director of the Office of Health Equity shall monitor, track,
+        and make publicly available data on--
+                    ``(A) the disproportionate burden of disease and
+                death among people of color, disaggregated by race,
+                major ethnic group, Tribal affiliation, national
+                origin, primary language use, English proficiency
+                status, immigration status, length of stay in the
+                United States age, disability, sex (including gender
+                identity and sexual orientation), incarceration,
+                homelessness, geography, and socioeconomic status;
+                    ``(B) barriers to health, including such barriers
+                relating to income, education, housing, food insecurity
+                (including availability, access, utilization, and
+                stability), employment status, working conditions, and
+                conditions related to the physical environment
+                (including pollutants and population density);
+                    ``(C) barriers to health care access, including--
+                            ``(i) lack of trust and awareness;
+                            ``(ii) lack of transportation;
+                            ``(iii) geography;
+                            ``(iv) hospital and service closures;
+                            ``(v) lack of health care infrastructure
+                        and facilities; and
+                            ``(vi) lack of health care professional
+                        staffing and recruitment;
+                    ``(D) disparities in quality of care received,
+                including discrimination in health care settings and
+                the use of racially-biased practice guidelines and
+                algorithms; and
+                    ``(E) disparities in utilization of care.
+            ``(2) Analysis of cross-sectional information.--The
+        Director of the Office of Health Equity shall ensure that the
+        data collection and reporting process under paragraph (1)
+        allows for the analysis of cross-sectional information on
+        people's identities.
+    ``(c) Policies.--In carrying out subsection (a), the Director of
+the Office of Health Equity shall develop, coordinate, and promote
+policies that enhance health equity, including by--
+            ``(1) providing recommendations on--
+                    ``(A) cultural competence, implicit bias, and
+                ethics training with respect to health care workers;
+                    ``(B) increasing diversity in the health care
+                workforce; and
+                    ``(C) ensuring sufficient health care professionals
+                and facilities; and
+            ``(2) ensuring adequate public health funding at the local
+        and State levels to address health disparities.
+    ``(d) Consultation.--In carrying out subsection (a), the Director
+of the Office of Health Equity, in coordination with the Director of
+the Indian Health Service, shall consult with Indian Tribes and with
+Urban Indian organizations on data collection, reporting, and
+implementation of policies.
+    ``(e) Annual Report.--In carrying out subsection (a), the Director
+of the Office of Health Equity shall develop and publish an annual
+report on--
+            ``(1) statistics collected by the Office;
+            ``(2) proposed evidence-based solutions to mitigate health
+        inequities; and
+            ``(3) health care professional staffing levels and access
+        to facilities.
+    ``(f) Centralized Electronic Repository.--In carrying out
+subsection (a), the Director of the Office of Health Equity shall--
+            ``(1) establish and maintain a centralized electronic
+        repository to incorporate data collected across Federal
+        departments and agencies on race, ethnicity, Tribal
+        affiliation, national origin, primary language use, English
+        proficiency status, immigration status, length of stay in the
+        United States age, disability, sex (including gender identity
+        and sexual orientation), incarceration, homelessness,
+        geography, and socioeconomic status; and
+            ``(2) make such data available for public use and analysis.
+    ``(g) Privacy.--Notwithstanding any other Federal or State law, no
+Federal or State official or employee or other entity shall disclose,
+or use, for any law enforcement or immigration purpose, any personally
+identifiable information (including with respect to an individual's
+religious beliefs, practices, or affiliation, national origin,
+ethnicity, or immigration status) that is collected or maintained
+pursuant to this section.''.
+
+SEC. 616. OFFICE OF PRIMARY CARE.
+
+    Title XVII of the Public Health Service Act (42 U.S.C. 300u et
+seq.) is amended by adding at the end the following:
+
+``SEC. 1713. OFFICE OF PRIMARY CARE.
+
+    ``(a) In General.--There is established, in the Office of Health
+Equity established under section 1712, an Office of Primary Health
+Care, to be headed by a Director, to ensure coordination and
+collaboration across the programs and activities of the Department of
+Health and Human Services with respect to increasing access to high-
+quality primary health care, particularly in underserved areas and for
+underserved populations.
+    ``(b) National Goals.--Not later than 1 year after the date of
+enactment of this section, the Director of the Office of Primary Health
+Care shall publish national goals--
+            ``(1) to increase access to high-quality primary health
+        care, particularly in underserved areas and for underserved
+        populations; and
+            ``(2) to address health disparities, including with respect
+        to race, ethnicity, national origin (disaggregated by major
+        ethnic group and Tribal affiliation), primary language use,
+        English proficiency status, immigration status, length of stay
+        in the United States, age, disability, sex (including gender
+        identity and sexual orientation), incarceration, homelessness,
+        geography, and socioeconomic status.
+    ``(c) Other Responsibilities.--In carrying out subsections (a) and
+(b), the Director of the Office of Primary Health Care shall--
+            ``(1) coordinate, in consultation with the Secretary,
+        health professional education policies and goals to achieve the
+        national goals published pursuant to subsection (b);
+            ``(2) develop and maintain a system to monitor the number
+        and specialties of individuals pursuing careers in, or
+        practicing, primary health care through their health
+        professional education, any postgraduate training, and
+        professional practice;
+            ``(3) develop, coordinate, and promote policies that expand
+        the number of primary health care practitioners, registered
+        nurses, mid-level practitioners, and dentists;
+            ``(4) recommend appropriate training, technical assistance,
+        and patient protection enhancements for primary care health
+        professionals, including registered nurses, to achieve uniform
+        high quality and patient safety;
+            ``(5) provide recommendations on targeted programs and
+        resources for Federally qualified health centers, rural health
+        centers, community health centers, and other community-based
+        organizations;
+            ``(6) provide recommendations for broader patient referral
+        to additional resources, not limited to health care, and
+        collaboration with other organizations and sectors that
+        influence health outcomes; and
+            ``(7) consult with the Secretary on the allocation of the
+        special projects budget under section 601(a)(2)(C) of the
+        Medicare for All Act of 2021.
+    ``(d) Rule of Construction.--Nothing in this section shall be
+construed--
+            ``(1) to preempt any provision of State law establishing
+        practice standards or guidelines for health care professionals,
+        including professional licensing or practice laws or
+        regulations; or
+            ``(2) to require that any State impose additional
+        educational standards or guidelines for health care
+        professionals.''.
+
+SEC. 617. PAYMENTS FOR PRESCRIPTION DRUGS AND APPROVED DEVICES AND
+              EQUIPMENT.
+
+    The prices to be paid for covered pharmaceuticals, medical
+supplies, medical technologies, and medically necessary equipment
+covered under this Act shall be negotiated annually by the Secretary.
+            (1) In general.--Notwithstanding any other provision of
+        law, the Secretary shall, for fiscal years beginning on or
+        after the date of the enactment of this subsection, negotiate
+        with pharmaceutical manufacturers the prices (including
+        discounts, rebates, and other price concessions) that may be
+        charged to the Medicare for All Program during a negotiated
+        price period (as specified by the Secretary) for covered drugs
+        for eligible individuals under the Medicare for All Program. In
+        negotiating such prices under this section, the Secretary shall
+        take into account the following factors:
+                    (A) The comparative clinical effectiveness and cost
+                effectiveness, when available from an impartial source,
+                of such drug.
+                    (B) The budgetary impact of providing coverage of
+                such drug.
+                    (C) The number of similarly effective drugs or
+                alternative treatment regimens for each approved use of
+                such drug.
+                    (D) The total revenues from global sales obtained
+                by the manufacturer for such drug and the associated
+                investment in research and development of such drug by
+                the manufacturer.
+            (2) Finalization of negotiated price.--The negotiated price
+        of each covered drug for a negotiated price period shall be
+        finalized not later than 30 days before the first fiscal year
+        in such negotiated price period.
+            (3) Competitive licensing authority.--
+                    (A) In general.--Notwithstanding any exclusivity
+                under clause (iii) or (iv) of section 505(j)(5)(F) of
+                the Federal Food, Drug, and Cosmetic Act, clause (iii)
+                or (iv) of section 505(c)(3)(E) of such Act, section
+                351(k)(7)(A) of the Public Health Service Act, or
+                section 527(a) of the Federal Food, Drug, and Cosmetic
+                Act, or by an extension of such exclusivity under
+                section 505A of such Act or section 505E of such Act,
+                and any other provision of law that provides for market
+                exclusivity (or extension of market exclusivity) with
+                respect to a drug, in the case that the Secretary is
+                unable to success fully negotiate an appropriate price
+                for a covered drug for a negotiated price period, the
+                Secretary shall authorize the use of any patent,
+                clinical trial data, or other exclusivity granted by
+                the Federal Government with respect to such drug as the
+                Secretary determines appropriate for purposes of
+                manufacturing such drug for sale under Medicare for All
+                Program. Any entity making use of a competitive license
+                to use patent, clinical trial data, or other
+                exclusivity under this section shall provide to the
+                manufacturer holding such exclusivity reasonable
+                compensation, as determined by the Secretary based on
+                the following factors:
+                            (i) The risk-adjusted value of any Federal
+                        Government subsidies and investments in
+                        research and development used to support the
+                        development of such drug.
+                            (ii) The risk-adjusted value of any
+                        investment made by such manufacturer in the
+                        research and development of such drug.
+                            (iii) The impact of the price, including
+                        license compensation payments, on meeting the
+                        medical need of all patients at a reasonable
+                        cost.
+                            (iv) The relationship between the price of
+                        such drug, including compensation payments, and
+                        the health benefits of such drug.
+                            (v) Other relevant factors determined
+                        appropriate by the Secretary to provide
+                        reasonable compensation.
+                    (B) Reasonable compensation.--The manufacturer
+                described in subparagraph (A) may seek recovery against
+                the United States in the United States Court of Federal
+                Claims.
+                    (C) Interim period.--Until 1 year after a drug
+                described in subparagraph (A) is approved under section
+                505(j) of the Federal Food, Drug, and Cosmetic Act or
+                section 351(k) of the Public Health Service Act and is
+                provided under license issued by the Secretary under
+                such subparagraph, the Medicare for All Program shall
+                not pay more for such drug than the average of the
+                prices available, during the most recent 12-month
+                period for which data is available prior to the
+                beginning of such negotiated price period, from the
+                manufacturer to any wholesaler, retailer, provider,
+                health maintenance organization, nonprofit entity, or
+                governmental entity in the ten OECD (Organization for
+                Economic Cooperation and Development) countries that
+                have the largest gross domestic product with a per
+                capita income that is not less than half the per capita
+                income of the United States.
+                    (D) Authorization for secretary to procure drugs
+                directly.--The Secretary may procure a drug
+                manufactured pursuant to a competitive license under
+                subparagraph (A) for purposes of this Act.
+            (4) FDA review of licensed drug applications.--The
+        Secretary shall prioritize review of applications under section
+        505(j) of the Federal Food, Drug, and Cosmetic Act for drugs
+        licensed under paragraph (3)(A).
+            (5) Prohibition of anticompetitive behavior.--No drug
+        manufacturer may engage in anticompetitive behavior with
+        another manufacturer that may interfere with the issuance and
+        implementation of a competitive license or run contrary to
+        public policy.
+            (6) Required reporting.--The Secretary may require
+        pharmaceutical manufacturers to disclose to the Secretary such
+        information that the Secretary determines necessary for
+        purposes of carrying out this subsection.
+
+                TITLE VII--UNIVERSAL MEDICARE TRUST FUND
+
+SEC. 701. UNIVERSAL MEDICARE TRUST FUND.
+
+    (a) In General.--There is hereby created on the books of the
+Treasury of the United States a trust fund to be known as the Universal
+Medicare Trust Fund (in this section referred to as the ``Trust
+Fund''). The Trust Fund shall consist of such gifts and bequests as may
+be made and such amounts as may be deposited in, or appropriated to,
+such Trust Fund as provided in this Act.
+    (b) Appropriations Into Trust Fund.--
+            (1) Taxes.--There are appropriated to the Trust Fund for
+        each fiscal year beginning with the fiscal year which includes
+        the date on which benefits first become available as described
+        in section 106, out of any moneys in the Treasury not otherwise
+        appropriated, amounts equivalent to 100 percent of the net
+        increase in revenues to the Treasury which is attributable to
+        the amendments made by sections 801 and 902. The amounts
+        appropriated by the preceding sentence shall be transferred
+        from time to time (but not less frequently than monthly) from
+        the general fund in the Treasury to the Trust Fund, such
+        amounts to be determined on the basis of estimates by the
+        Secretary of the Treasury of the taxes paid to or deposited
+        into the Treasury, and proper adjustments shall be made in
+        amounts subsequently transferred to the extent prior estimates
+        were in excess of or were less than the amounts that should
+        have been so transferred.
+            (2) Current program receipts.--
+                    (A) Initial year.--Notwithstanding any other
+                provision of law, there is appropriated to the Trust
+                Fund for the fiscal year containing January 1 of the
+                first year following the date of the enactment of this
+                Act, an amount equal to the aggregate amount
+                appropriated for the preceding fiscal year for the
+                following (increased by the consumer price index for
+                all urban consumers for the fiscal year involved):
+                            (i) The Medicare program under title XVIII
+                        of the Social Security Act (other than amounts
+                        attributable to any premiums under such title).
+                            (ii) The Medicaid program under State plans
+                        approved under title XIX of such Act.
+                            (iii) The Federal Employees Health Benefits
+                        program, under chapter 89 of title 5, United
+                        States Code.
+                            (iv) The purchased care component of the
+                        TRICARE program, under chapter 55 of title 10,
+                        United States Code (other than amounts
+                        appropriated for the purchased care component
+                        of the TRICARE Overseas Program).
+                            (v) The maternal and child health program
+                        (under title V of the Social Security Act),
+                        vocational rehabilitation programs, programs
+                        for drug abuse and mental health services under
+                        the Public Health Service Act, programs
+                        providing general hospital or medical
+                        assistance, and any other Federal program
+                        identified by the Secretary, in consultation
+                        with the Secretary of the Treasury, to the
+                        extent the programs provide for payment for
+                        health services the payment of which may be
+                        made under this Act.
+                    (B) Subsequent years.--Notwithstanding any other
+                provision of law, there is appropriated to the trust
+                fund for the fiscal year containing January 1 of the
+                second year following the date of the enactment of this
+                Act, and for each fiscal year thereafter, an amount
+                equal to the amount appropriated to the Trust Fund for
+                the previous year, adjusted for reductions in costs
+                resulting from the implementation of this Act, changes
+                in the consumer price index for all urban consumers for
+                the fiscal year involved, and other factors determined
+                appropriate by the Secretary.
+            (3) Restrictions shall not apply.--Any other provision of
+        law in effect on the date of enactment of this Act restricting
+        the use of Federal funds for any reproductive health service
+        shall not apply to monies in the Trust Fund.
+    (c) Incorporation of Provisions.--The provisions of subsections (b)
+through (i) of section 1817 of the Social Security Act (42 U.S.C.
+1395i) shall apply to the Trust Fund under this section in the same
+manner as such provisions applied to the Federal Hospital Insurance
+Trust Fund under such section 1817, except that, for purposes of
+applying such subsections to this section, the ``Board of Trustees of
+the Trust Fund'' shall mean the ``Secretary''.
+    (d) Transfer of Funds.--Any amounts remaining in the Federal
+Hospital Insurance Trust Fund under section 1817 of the Social Security
+Act (42 U.S.C. 1395i) or the Federal Supplementary Medical Insurance
+Trust Fund under section 1841 of such Act (42 U.S.C. 1395t) after the
+payment of claims for items and services furnished under title XVIII of
+such Act have been completed, shall be transferred into the Universal
+Medicare Trust Fund under this section.
+
+  TITLE VIII--CONFORMING AMENDMENTS TO THE EMPLOYEE RETIREMENT INCOME
+                          SECURITY ACT OF 1974
+
+SEC. 801. PROHIBITION OF EMPLOYEE BENEFITS DUPLICATIVE OF BENEFITS
+              UNDER THE MEDICARE FOR ALL PROGRAM; COORDINATION IN CASE
+              OF WORKERS' COMPENSATION.
+
+    (a) In General.--Part 5 of subtitle B of title I of the Employee
+Retirement Income Security Act of 1974 (29 U.S.C. 1131 et seq.) is
+amended by adding at the end the following new section:
+
+``SEC. 522. PROHIBITION OF EMPLOYEE BENEFITS DUPLICATIVE OF UNIVERSAL
+              MEDICARE PROGRAM BENEFITS; COORDINATION IN CASE OF
+              WORKERS' COMPENSATION.
+
+    ``(a) In General.--Subject to subsection (b), no employee benefit
+plan may provide benefits that duplicate payment for any items or
+services for which payment may be made under the Medicare for All Act
+of 2021.
+    ``(b) Reimbursement.--Each workers compensation carrier that is
+liable for payment for workers compensation services furnished in a
+State shall reimburse the Medicare for All Program for the cost of such
+services.
+    ``(c) Definitions.--In this subsection--
+            ``(1) the term `workers compensation carrier' means an
+        insurance company that underwrite workers compensation medical
+        benefits with respect to one or more employers and includes an
+        employer or fund that is financially at risk for the provision
+        of workers compensation medical benefits;
+            ``(2) the term `workers compensation medical benefits'
+        means, with respect to an enrollee who is an employee subject
+        to the workers compensation laws of a State, the comprehensive
+        medical benefits for work-related injuries and illnesses
+        provided for under such laws with respect to such an employee;
+        and
+            ``(3) the term `workers compensation services' means items
+        and services included in workers compensation medical benefits
+        and includes items and services (including rehabilitation
+        services and long-term care services) commonly used for
+        treatment of work-related injuries and illnesses.''.
+    (b) Conforming Amendment.--Section 4(b) of the Employee Retirement
+Income Security Act of 1974 (29 U.S.C. 1003(b)) is amended by adding at
+the end the following: ``Paragraph (3) shall apply subject to section
+522(b) (relating to reimbursement of the Medicare for All Program by
+workers compensation carriers).''.
+    (c) Clerical Amendment.--The table of contents in section 1 of such
+Act is amended by inserting after the item relating to section 521 the
+following new item:
+
+``Sec. 522. Prohibition of employee benefits duplicative of Universal
+                            Medicare Program benefits; coordination in
+                            case of workers' compensation.''.
+
+SEC. 802. APPLICATION OF CONTINUATION COVERAGE REQUIREMENTS UNDER ERISA
+              AND CERTAIN OTHER REQUIREMENTS RELATING TO GROUP HEALTH
+              PLANS.
+
+    (a) In General.--Part 6 of subtitle B of title I of the Employee
+Retirement Income Security Act of 1974 (29 U.S.C. 1161 et seq.) shall
+apply only with respect to any employee health benefit plan that does
+not duplicate payments for any items or services for which payment may
+be made under the this Act.
+    (b) Conforming Amendment.--Section 601 of part 6 of subtitle B of
+title I of the Employee Retirement Income Security Act of 1974 (19
+U.S.C. 1161) is amended by adding the following subsection at the end:
+    ``(c) Subsection (a) shall apply to any group health plan that does
+not duplicate payments for any items or services for which payment may
+be made under the Medicare for All Act of 2021.''.
+
+SEC. 803. EFFECTIVE DATE OF TITLE.
+
+    The provisions of and amendments made by this title shall take
+effect on the date described in section 106(a).
+
+               TITLE IX--ADDITIONAL CONFORMING AMENDMENTS
+
+SEC. 901. RELATIONSHIP TO EXISTING FEDERAL HEALTH PROGRAMS.
+
+    (a) Medicare, Medicaid, and State Children's Health Insurance
+Program (SCHIP).--
+            (1) In general.--Notwithstanding any other provision of law
+        and with respect to an individual eligible to enroll under this
+        Act, subject to paragraphs (2) and (3)--
+                    (A) no benefits shall be available under title
+                XVIII of the Social Security Act for any item or
+                service furnished beginning on the date that is 2 years
+                after the date of the enactment of this Act;
+                    (B) no individual is entitled to medical assistance
+                under a State plan approved under title XIX of such Act
+                for any item or service furnished on or after such
+                date;
+                    (C) no individual is entitled to medical assistance
+                under a State child health plan under title XXI of such
+                Act for any item or service furnished on or after such
+                date; and
+                    (D) no payment shall be made to a State under
+                section 1903(a) or 2105(a) of such Act with respect to
+                medical assistance or child health assistance for any
+                item or service furnished on or after such date.
+            (2) Transition.--In the case of inpatient hospital services
+        and extended care services during a continuous period of stay
+        which began before the effective date of benefits under section
+        106, and which had not ended as of such date, for which
+        benefits are provided under title XVIII of the Social Security
+        Act, under a State plan under title XIX of such Act, or under a
+        State child health plan under title XXI of such Act, the
+        Secretary shall provide for continuation of benefits under such
+        title or plan until the end of the period of stay.
+            (3) School programs.--All school related health programs,
+        centers, initiatives, services, or other activities or work
+        provided under title XIX or title XXI of the Social Security
+        Act as of January 1, 2019, shall be continued and covered by
+        the Medicare for All Program.
+    (b) Federal Employees Health Benefits Program.--No benefits shall
+be made available under chapter 89 of title 5, United States Code, with
+respect to items and services furnished to any individual eligible to
+enroll under this Act.
+    (c) TRICARE Program.--
+            (1) Direct care component.--Nothing in this Act shall
+        affect the eligibility of beneficiaries under chapter 55 of
+        title 10, United States Code, who are entitled to receive care
+        furnished at facilities of the uniformed services under the
+        TRICARE program for such care.
+            (2) Purchased care component.--
+                    (A) In general.--Except as provided in subparagraph
+                (B), no benefits shall be made available under the
+                purchased care component of the TRICARE program for
+                items or services furnished to any individual eligible
+                to enroll under this Act.
+                    (B) TRICARE overseas.--During any period in which
+                an individual is eligible for benefits under the
+                TRICARE Overseas Program and is located in a TRICARE
+                overseas region, the individual may receive benefits
+                for items or services furnished to the individual under
+                the purchased care component of such program during
+                such period.
+    (d) Treatment of Benefits for Veterans and Native Americans.--
+            (1) In general.--Nothing in this Act shall affect the
+        eligibility of veterans for the medical benefits and services
+        provided under title 38, United States Code, or of Indians for
+        the medical benefits and services provided by or through the
+        Indian Health Service.
+            (2) Reevaluation.--No reevaluation of the Indian Health
+        Service shall be undertaken without consultation with tribal
+        leaders and stakeholders.
+
+SEC. 902. SUNSET OF PROVISIONS RELATED TO THE STATE EXCHANGES.
+
+    Effective on the date that is 2 years after the date of the
+enactment of this Act, the Federal and State Exchanges established
+pursuant to title I of the Patient Protection and Affordable Care Act
+(Public Law 111-148) shall terminate, and any other provision of law
+that relies upon participation in or enrollment through such an
+Exchange, including such provisions of the Internal Revenue Code of
+1986, shall cease to have force or effect.
+
+SEC. 903. SUNSET OF PROVISIONS RELATED TO PAY FOR PERFORMANCE PROGRAMS.
+
+    (a) Effective on the date described in section 106(a), the Federal
+programs related to pay for performance programs and value-based
+purchasing shall terminate, and any other provision of law that relies
+upon participation in or enrollment in such program shall cease to have
+force or effect. Programs that shall terminate include--
+            (1) the Merit-based Incentive Payment System established
+        pursuant to subsection (q) of section 1848 of the Social
+        Security Act (42 U.S.C. 1395w-4(q));
+            (2) the incentives for meaningful use of certified EHR
+        technology established pursuant to subsection (a)(7) of section
+        1848 of the Social Security Act (42 U.S.C. 1395w-4(a)(7));
+            (3) the incentives for adoption and meaningful use of
+        certified EHR technology established pursuant to subsection (o)
+        of section 1848 of the Social Security Act (42 U.S.C. 1395w-
+        4(o));
+            (4) alternative payment models established under section
+        1833(z) of the Social Security Act (42 U.S.C. 1395(z)); and
+            (5) the following programs as established pursuant to the
+        following sections of the Patient Protection and Affordable
+        Care Act:
+                    (A) Section 2701 (adult health quality measures).
+                    (B) Section 2702 (payment adjustments for health
+                care acquired conditions).
+                    (C) Section 2706 (Pediatric Accountable Care
+                Organization Demonstration Projects for the purposes of
+                receiving incentive payments).
+                    (D) Section 3002(b) (42 U.S.C. 1395w-4(a)(8))
+                (incentive payments for quality reporting).
+                    (E) Section 3001(a) (42 U.S.C. 1395ww(o)) (Hospital
+                Value-Based Purchasing).
+                    (F) Section 3006 (value-based purchasing program
+                for skilled nursing facilities and home health
+                agencies).
+                    (G) Section 3007 (42 U.S.C. 1395w-4(p)) (value
+                based payment modifier under physician fee schedule).
+                    (H) Section 3008 (42 U.S.C. 1395ww(p)) (payment
+                adjustments for health care-acquired condition).
+                    (I) Section 3022 (42 U.S.C. 1395jjj) (Medicare
+                shared savings programs).
+                    (J) Section 3023 (42 U.S.C. 1395cc-4) (National
+                Pilot Program on Payment Bundling).
+                    (K) Section 3024 (42 U.S.C. 1395cc-5) (Independence
+                at home demonstration program).
+                    (L) Section 3025 (42 U.S.C. 1395ww(q)) (hospital
+                readmissions reduction program).
+                    (M) Section 10301 (plans for value-based purchasing
+                program for ambulatory surgical centers).
+
+                          TITLE X--TRANSITION
+
+ Subtitle A--Medicare for All Transition Over 2 Years and Transitional
+                             Buy-In Option
+
+SEC. 1001. MEDICARE FOR ALL TRANSITION OVER TWO YEARS.
+
+    Title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is
+amended by adding at the end the following new section:
+
+``SEC. 1899C. MEDICARE FOR ALL TRANSITION OVER 2 YEARS.
+
+    ``(a) Transition.--
+            ``(1) In general.--Every individual who meets the
+        requirements described in paragraph (3) shall be eligible to
+        enroll in the Medicare for All Program under this section
+        during the transition period starting one year after the date
+        of enactment of the Medicare for All Act of 2021.
+            ``(2) Benefits.--An individual enrolled under this section
+        is entitled to the benefits established under title II of the
+        Medicare for All Act of 2021.
+            ``(3) Requirements for eligibility.--The requirements
+        described in this paragraph are the following:
+                    ``(A) The individual meets the eligibility
+                requirements established by the Secretary under title I
+                of the Medicare for All Act of 2021.
+                    ``(B) The individual has attained the applicable
+                year of age, or is currently enrolled in Medicare at
+                the time of the transition to Medicare for All.
+            ``(4) Applicable year of age defined.--For purposes of this
+        section, the term `applicable year of age' means one year after
+        the date of enactment of the Medicare for All Act of 2021, the
+        age of 55 or older, the age 18 or younger.
+    ``(b) Enrollment; Coverage.--The Secretary shall establish
+enrollment periods and coverage under this section consistent with the
+principles for establishment of enrollment periods and coverage for
+individuals under other provisions of this title. The Secretary shall
+establish such periods so that coverage under this section shall first
+begin on January 1 of the year on which an individual first becomes
+eligible to enroll under this section.
+    ``(c) Satisfaction of Individual Mandate.--For purposes of applying
+section 5000A of the Internal Revenue Code of 1986, the coverage
+provided under this section constitutes minimum essential coverage
+under subsection (f)(1)(A)(i) of such section 5000A.
+    ``(d) Consultation.--In promulgating regulations to implement this
+section, the Secretary shall consult with interested parties, including
+groups representing beneficiaries, health care providers, employers,
+and insurance companies.''.
+
+SEC. 1002. ESTABLISHMENT OF THE MEDICARE TRANSITION BUY-IN.
+
+    (a) In General.--To carry out the purpose of this section, for the
+year beginning one year after the date of enactment of this Act and
+ending with the effective date described in section 106(a), the
+Secretary, acting through the Administrator of the Centers for Medicare
+& Medicaid (referred to in this section as the ``Administrator''),
+shall establish, and provide for the offering through the Exchanges, an
+option to buy in to the Medicare for All Program (in this Act referred
+to as the ``Medicare Transition buy-in'').
+    (b) Administering the Medicare Transition Buy-In.--
+            (1) Administrator.--The Administrator shall administer the
+        Medicare Transition buy-in in accordance with this section.
+            (2) Application of aca requirements.--Consistent with this
+        section, the Medicare Transition buy-in shall comply with
+        requirements under title I of the Patient Protection and
+        Affordable Care Act (and the amendments made by that title) and
+        title XXVII of the Public Health Service Act (42 U.S.C. 300gg
+        et seq.) that are applicable to qualified health plans offered
+        through the Exchanges, subject to the limitation under
+        subsection (e)(2).
+            (3) Offering through exchanges.--The Medicare Transition
+        buy-in shall be made available only through the Exchanges, and
+        shall be available to individuals wishing to enroll and to
+        qualified employers (as defined in section 1312(f)(2) of the
+        Patient Protection and Affordable Care Act (42 U.S.C. 18032))
+        who wish to make such plan available to their employees.
+            (4) Eligibility to purchase.--Any United States resident
+        may enroll in the Medicare Transition buy-in.
+    (c) Benefits; Actuarial Value.--In carrying out this section, the
+Administrator shall ensure that the Medicare Transition buy-in
+provides--
+            (1) coverage for the benefits required to be covered under
+        title II of this Act; and
+            (2) coverage of benefits that are actuarially equivalent to
+        90 percent of the full actuarial value of the benefits provided
+        under the plan.
+    (d) Providers and Reimbursement Rates.--
+            (1) In general.--With respect to the reimbursement provided
+        to health care providers for covered benefits, as described in
+        section 201, provided under the Medicare Transition buy-in, the
+        Administrator shall reimburse such providers at rates
+        determined for equivalent items and services under the Medicare
+        for All fee-for-service schedule established in section 612(b)
+        of this Act.
+            (2) Prescription drugs.--Any payment rate under this
+        subsection for a prescription drug shall be at the prices
+        negotiated under section 616 of this Act.
+            (3) Participating providers.--
+                    (A) In general.--A health care provider that is a
+                participating provider of services or supplier under
+                the Medicare program under title XVIII of the Social
+                Security Act (42 U.S.C. 1395 et seq.) or under a State
+                Medicaid plan under title XIX of such Act (42 U.S.C.
+                1396 et seq.) on the date of enactment of this Act
+                shall be a participating provider in the Medicare
+                Transition buy-in.
+                    (B) Additional providers.--The Administrator shall
+                establish a process to allow health care providers not
+                described in subparagraph (A) to become participating
+                providers in the Medicare Transition buy-in. Such
+                process shall be similar to the process applied to new
+                providers under the Medicare program.
+    (e) Premiums.--
+            (1) Determination.--The Administrator shall determine the
+        premium amount for enrolling in the Medicare Transition buy-in,
+        which--
+                    (A) may vary according to family or individual
+                coverage, age, and tobacco status (consistent with
+                clauses (i), (iii), and (iv) of section 2701(a)(1)(A)
+                of the Public Health Service Act (42 U.S.C.
+                300gg(a)(1)(A))); and
+                    (B) shall take into account the cost-sharing
+                reductions and premium tax credits which will be
+                available with respect to the plan under section 1402
+                of the Patient Protection and Affordable Care Act (42
+                U.S.C. 18071) and section 36B of the Internal Revenue
+                Code of 1986, as amended by subsection (g).
+            (2) Limitation.--Variation in premium rates of the Medicare
+        Transition buy-in by rating area, as described in clause (ii)
+        of section 2701(a)(1)(A)(iii) of the Public Health Service Act
+        (42 U.S.C. 300gg(a)(1)(A)) is not permitted.
+    (f) Termination.--This section shall cease to have force or effect
+on the effective date described in section 106(a).
+    (g) Tax Credits and Cost-Sharing Subsidies.--
+            (1) Premium assistance tax credits.--
+                    (A) Credits allowed to medicare transition buy-in
+                enrollees in non-expansion states.--Paragraph (1) of
+                section 36B(c) of the Internal Revenue Code of 1986 is
+                amended by redesignating subparagraphs (C) and (D) as
+                subparagraphs (D) and (E), respectively, and by
+                inserting after subparagraph (B) the following new
+                subparagraph:
+                    ``(C) Special rules for medicare transition buy-in
+                enrollees.--
+                            ``(i) In general.--In the case of a
+                        taxpayer who is covered, or whose spouse or
+                        dependent (as defined in section 152) is
+                        covered, by the Medicare Transition buy-in
+                        established under section 1002(a) of the
+                        Medicare for All Act of 2021 for all months in
+                        the taxable year, subparagraph (A) shall be
+                        applied without regard to `but does not exceed
+                        400 percent'.
+                            ``(ii) Enrollees in medicaid nonexpansion
+                        states.--In the case of a taxpayer residing in
+                        a State which (as of the date of the enactment
+                        of the Medicare for All Act of 2021) does not
+                        provide for eligibility under clause (i)(VIII)
+                        or (ii)(XX) of section 1902(a)(10)(A) of the
+                        Social Security Act for medical assistance
+                        under title XIX of such Act (or a waiver of the
+                        State plan approved under section 1115) who is
+                        covered, or whose spouse or dependent (as
+                        defined in section 152) is covered, by the
+                        Medicare Transition buy-in established under
+                        section 1002(a) of the Medicare for All Act of
+                        2021 for all months in the taxable year,
+                        subparagraphs (A) and (B) shall be applied by
+                        substituting `0 percent' for `100 percent' each
+                        place it appears.''.
+                    (B) Premium assistance amounts for taxpayers
+                enrolled in medicare transition buy-in.--
+                            (i) In general.--Subparagraph (A) of
+                        section 36B(b)(3) of such Code is amended--(I)
+                        by redesignating clause (ii) as clause (iii),
+                        (II) by striking ``clause (ii)'' in clause (i)
+                        and inserting ``clauses (ii) and (iii)'', and
+                        (III) by inserting after clause (i) the
+                        following new clause:
+                            ``(ii) Special rules for taxpayers enrolled
+                        in medicare transition buy-in.--In the case of
+                        a taxpayer who is covered, or whose spouse or
+                        dependent (as defined in section 152) is
+                        covered, by the Medicare Transition buy-in
+                        established under section 1002(a) of the
+                        Medicare for All Act of 2021 for all months in
+                        the taxable year, the applicable percentage for
+                        any taxable year shall be determined in the
+                        same manner as under clause (i), except that
+                        the following table shall apply in lieu of the
+                        table contained in such clause:
+
+
+------------------------------------------------------------------------
+ ``In the case of household income
+    (expressed as a percent of         The initial         The final
+     poverty line) within the            premium            premium
+      following income tier:         percentage is--    percentage is--
+------------------------------------------------------------------------
+Up to 100 percent.................               2.00               2.00
+100 percent up to 138 percent.....               2.04               2.04
+138 percent up to 150 percent.....               3.06               4.08
+150 percent and above.............               4.08           5.00.''.
+------------------------------------------------------------------------
+
+                            (ii) Conforming amendment.--Subclause (I)
+                        of clause (iii) of section 36B(b)(3) of such
+                        Code, as redesignated by subparagraph (A)(i),
+                        is amended by inserting ``, and determined
+                        after the application of clause (ii)'' after
+                        ``after application of this clause''.
+            (2) Cost-sharing subsidies.--Subsection (b) of section 1402
+        of the Patient Protection and Affordable Care Act (42 U.S.C.
+        18071(b)) is amended--
+                    (A) by inserting ``, or in the Medicare Transition
+                buy-in established under section 1002(a) of the
+                Medicare for All Act of 2021,'' after ``coverage'' in
+                paragraph (1);
+                    (B) by redesignating paragraphs (1) (as so amended)
+                and (2) as subparagraphs (A) and (B), respectively, and
+                by moving such subparagraphs 2 ems to the right;
+                    (C) by striking ``Insured.--In this section'' and
+                inserting ``Insured.--
+            ``(1) In general.--In this section'';
+                    (D) by striking the flush language; and
+                    (E) by adding at the end the following new
+                paragraph:
+            ``(2) Special rules.--
+                    ``(A) Individuals lawfully present.--In the case of
+                an individual described in section 36B(c)(1)(B) of the
+                Internal Revenue Code of 1986, the individual shall be
+                treated as having household income equal to 100 percent
+                of the poverty line for a family of the size involved
+                for purposes of applying this section.
+                    ``(B) Medicare transition buy-in enrollees in
+                medicaid non-expansion states.--In the case of an
+                individual residing in a State which (as of the date of
+                the enactment of the Medicare for All Act of 2021) does
+                not provide for eligibility under clause (i)(VIII) or
+                (ii)(XX) of section 1902(a)(10)(A) of the Social
+                Security Act for medical assistance under title XIX of
+                such Act (or a waiver of the State plan approved under
+                section 1115) who enrolls in such Medicare Transition
+                buy-in, the preceding sentence, paragraph (1)(B), and
+                paragraphs (1)(A)(i) and (2)(A) of subsection (c) shall
+                each be applied by substituting `0 percent' for `100
+                percent' each place it appears.''.
+    (h) Conforming Amendments.--
+            (1) Treatment as a qualified health plan.--Section
+        1301(a)(2) of the Patient Protection and Affordable Care Act
+        (42 U.S.C. 18021(a)(2)) is amended--
+                    (A) in the paragraph heading, by inserting ``The
+                medicare transition buy-in,'' before ``and''; and
+                    (B) by inserting ``The Medicare Transition buy-
+                in,'' before ``and a multi-State plan''.
+            (2) Level playing field.--Section 1324(a) of the Patient
+        Protection and Affordable Care Act (42 U.S.C. 18044(a)) is
+        amended by inserting ``the Medicare Transition buy-in,'' before
+        ``or a multi-State qualified health plan''.
+
+               Subtitle B--Transitional Medicare Reforms
+
+SEC. 1011. ELIMINATING THE 24-MONTH WAITING PERIOD FOR MEDICARE
+              COVERAGE FOR INDIVIDUALS WITH DISABILITIES.
+
+    (a) In General.--Section 226(b) of the Social Security Act (42
+U.S.C. 426(b)) is amended--
+            (1) in paragraph (2)(A), by striking ``, and has for 24
+        calendar months been entitled to,'';
+            (2) in paragraph (2)(B), by striking ``, and has been for
+        not less than 24 months,'';
+            (3) in paragraph (2)(C)(ii), by striking ``, including the
+        requirement that he has been entitled to the specified benefits
+        for 24 months,'';
+            (4) in the first sentence, by striking ``for each month
+        beginning with the later of (I) July 1973 or (II) the twenty-
+        fifth month of his entitlement or status as a qualified
+        railroad retirement beneficiary described in paragraph (2),
+        and'' and inserting ``for each month for which the individual
+        meets the requirements of paragraph (2), beginning with the
+        month following the month in which the individual meets the
+        requirements of such paragraph, and''; and
+            (5) in the second sentence, by striking ``the `twenty-fifth
+        month of his entitlement''' and all that follows through
+        ``paragraph (2)(C) and''.
+    (b) Conforming Amendments.--
+            (1) Section 226.--Section 226 of the Social Security Act
+        (42 U.S.C. 426) is amended by--
+                    (A) striking subsections (e)(1)(B), (f), and (h);
+                and
+                    (B) redesignating subsections (g) and (i) as
+                subsections (f) and (g), respectively.
+            (2) Medicare description.--Section 1811(2) of the Social
+        Security Act (42 U.S.C. 1395c(2)) is amended by striking ``have
+        been entitled for not less than 24 months'' and inserting ``are
+        entitled''.
+            (3) Medicare coverage.--Section 1837(g)(1) of the Social
+        Security Act (42 U.S.C. 1395p(g)(1)) is amended by striking
+        ``25th month of'' and inserting ``month following the first
+        month of''.
+            (4) Railroad retirement system.--Section 7(d)(2)(ii) of the
+        Railroad Retirement Act of 1974 (45 U.S.C. 231f(d)(2)(ii)) is
+        amended--
+                    (A) by striking ``has been entitled to an annuity''
+                and inserting ``is entitled to an annuity'';
+                    (B) by striking ``, for not less than 24 months'';
+                and
+                    (C) by striking ``could have been entitled for 24
+                calendar months, and''.
+    (c) Effective Date.--The amendments made by this section shall
+apply to insurance benefits under title XVIII of the Social Security
+Act with respect to items and services furnished in months beginning
+after December 1 following the date of enactment of this Act, and
+before the date that is 2 years after the date of the enactment of such
+Act.
+
+SEC. 1012. ENSURING CONTINUITY OF CARE.
+
+    (a) In General.--The Secretary shall ensure that all persons
+enrolled or who seeks to enroll in a health plan during the transition
+period of the Medicare for All Program are protected from disruptions
+in their care during the transition period, including continuity of
+care with such persons current health care provider teams.
+    (b) Continuity of Coverage and Care in General.--During the
+transition period of the Medicare for All Act, group health plans and
+health insurance issuers offering group or individual health insurance
+coverage shall not end coverage for an enrollee during the transition
+period described in the Act until all ages are eligible to enroll in
+the Medicare for All Program except as expressly agreed upon under the
+terms of the plan.
+    (c) Continuity of Coverage and Care for Persons With Complex
+Medical Needs.--
+            (1) The Secretary shall ensure that persons with
+        disabilities, complex medical needs, or chronic conditions are
+        protected from disruptions in their care during the transition
+        period, including continuity of care with such persons current
+        health care provider teams.
+            (2) During the transition period of the Medicare for All
+        Act group health plans and health insurance issuers offering
+        group or individual health insurance coverage shall not--
+                    (A) end coverage for an enrollee who has a
+                disability, complex medical need, or chronic condition
+                during the transition period described in the Act until
+                all ages are eligible to enroll in the Medicare for All
+                Program; or
+                    (B) impose any exclusion with respect to such plan
+                or coverage on the basis of a person's disability,
+                complex medical need, or chronic condition during the
+                transition period described under this Act until all
+                ages are eligible to enroll in the Medicare for All
+                Program.
+    (d) Public Consultation During Transition.--The Secretary shall
+consult with communities and advocacy organizations of persons living
+with disabilities as well as other patient advocacy organizations to
+ensure that the transition buy-in takes into account the continuity of
+care for persons with disabilities, complex medical needs, or chronic
+conditions.
+
+                        TITLE XI--MISCELLANEOUS
+
+SEC. 1101. DEFINITIONS.
+
+    In this Act--
+            (1) the term ``global budget'' means the payment negotiated
+        between an institutional provider and as described in section
+        611(b);
+            (2) the term ``group practice'' has the meaning given such
+        term in section 1877(h)(4) of the Social Security Act (42
+        U.S.C. 1395nn(h)(4));
+            (3) the term ``individual provider'' means a supplier (as
+        defined in section 1861(d) of such Act (42 U.S.C. 1395x(d)));
+            (4) the term ``institutional provider'' means--
+                    (A) providers of services described in section
+                1861(u) of such Act (42 U.S.C. 1395x(u));
+                    (B) hospitals as defined in section 1861(e) of the
+                Social Security Act (42 U.S.C. 1395x(e)), and any
+                outpatient settings or clinics operating within a
+                hospital license or any setting or clinic that provides
+                outpatient hospital services;
+                    (C) psychiatric hospitals (as defined in section
+                1861(e) of the Social Security Act (42 U.S.C.
+                1395x(f)));
+                    (D) rehabilitation hospitals (as defined by the
+                Secretary of Health and Human Services under section
+                1886(d)(1)(B)(ii) of the Social Security Act (42 U.S.C.
+                1395ww(d)(1)(B)(ii)));
+                    (E) long-term care hospitals as defined in section
+                1861 of the Social Security Act (42 U.S.C. 1395x(ccc));
+                and
+                    (F) independent dialysis facilities and independent
+                end-stage renal disease facilities as described in 42
+                CFR 413.174(b);
+            (5) the term ``medically necessary or appropriate'' means
+        the health care items and services or supplies that are needed
+        or appropriate to prevent, diagnose, or treat an illness,
+        injury, condition, disease, or its symptoms for an individual
+        and are determined to be necessary or appropriate for such
+        individual by the physician or other health care professional
+        treating such individual, after such professional performs an
+        assessment of such individual's condition, in a manner that
+        meets--
+                    (A) the scope of practice, licensing, and other law
+                of the State in which the individual receiving such
+                items and services is located; and
+                    (B) appropriate standards established by the
+                Secretary for purposes of carrying out this Act;
+            (6) the term ``provider'' means an institutional provider
+        or a supplier (as defined in section 1861(d) of such Act (42
+        U.S.C. 1395x(d)) if the reference to ``this title'' were a
+        reference to the Medicare for All Program);
+            (7) the term ``Secretary'' means the Secretary of Health
+        and Human Services;
+            (8) the term ``State'' means a State, the District of
+        Columbia, or a territory of the United States;
+            (9) the term ``TRICARE Overseas Program'' means the element
+        of the TRICARE program administered by International SOS (or
+        such successor administrator) under which care and health
+        benefits are furnished to TRICARE beneficiaries located in a
+        TRICARE overseas region;
+            (10) the term ``TRICARE program'' has the meaning given
+        such term in section 1072 of title 10, United States Code;
+            (11) the term ``uniformed services'' has the meaning given
+        such term in section 101 of title 10, United States Code; and
+            (12) the term ``United States'' shall include the States,
+        the District of Columbia, and the territories of the United
+        States.
+
+SEC. 1102. RULES OF CONSTRUCTION.
+
+    (a) In General.--A State or local government may set additional
+standards or apply other State or local laws with respect to
+eligibility, benefits, and minimum provider standards, only if such
+State or local standards--
+            (1) provide equal or greater eligibility than is available
+        under this Act;
+            (2) provide equal or greater in-person access to benefits
+        under this Act;
+            (3) do not reduce access to benefits under this Act;
+            (4) allow for the effective exercise of the professional
+        judgment of physicians or other health care professionals; and
+            (5) are otherwise consistent with this Act.
+    (b) Relation to State Licensing Law.--Nothing in this Act shall be
+construed to preempt State licensing, practice, or educational laws or
+regulations with respect to health care professionals and health care
+providers, for such professionals and providers who practice in that
+State.
+    (c) Application to State and Federal Law on Workplace Rights.--
+Nothing in this Act shall be construed to diminish or alter the rights,
+privileges, remedies, or obligations of any employee or employer under
+any Federal or State law or regulation or under any collective
+bargaining agreement.
+    (d) Restrictions on Providers.--With respect to any individuals or
+entities certified to provide items and services covered under section
+201(a)(7), a State may not prohibit an individual or entity from
+participating in the program under this Act for reasons other than the
+ability of the individual or entity to provide such services.
+
+SEC. 1103. NO USE OF RESOURCES FOR LAW ENFORCEMENT OF CERTAIN
+              REGISTRATION REQUIREMENTS.
+
+    Notwithstanding any provision of Federal or State law, no Federal
+or State law enforcement official or employee shall use any funds,
+facilities, property, equipment, or personnel made available pursuant
+to this Act (or any amendment made thereby) to investigate, enforce, or
+assist in the investigation or enforcement of any criminal, civil, or
+administrative violation or warrant for a violation of any requirement
+that individuals register with the Federal Government based on
+religion, national origin, ethnicity, immigration status, or other
+protected category.
