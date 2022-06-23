@@ -168,7 +168,7 @@ Sec.809.Advisory Committee on Financial Innovation.
 
 SEC. 101. DEFINITIONS.
 
-(a) In General.—Subtitle VI of title 31, United States Code, is amended by adding after chapter 97 the following:
+(a) In General.—[Subtitle VI of title 31](https://www.law.cornell.edu/uscode/text/31/subtitle-VI), United States Code, is amended by adding after [chapter 97](https://www.law.cornell.edu/uscode/text/31/subtitle-VI/chapter-97) the following:
 
 "CHAPTER 98—DIGITAL ASSETS
 
@@ -180,7 +180,7 @@ SEC. 101. DEFINITIONS.
 
 "In this chapter:
 
-"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)).
+"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in [section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1))](https://www.federalreserve.gov/aboutthefed/section19.htm).
 
 "(2) Digital asset.—The term ‘digital asset’
 
@@ -194,7 +194,7 @@ SEC. 101. DEFINITIONS.
 
 "(i) virtual currency and ancillary assets in accordance with section 2(c)(2)(F) of the Commodity Exchange Act;
 
-"(ii) payment stablecoins in accordance with section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a); and
+"(ii) payment stablecoins in accordance with [section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a)](https://www.sec.gov/about/laws/cfma.pdf#page=4); and
 
 "(iii) any other security or commodity that meets the requirements of subparagraph (A).
 
@@ -244,13 +244,13 @@ SEC. 101. DEFINITIONS.
 
 "(A) a digital asset intermediary;
 
-"(B) a financial institution, as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a);
+"(B) a financial institution, as defined in [section 1a of the Commodity Exchange Act (7 U.S.C. 1a)](https://www.law.cornell.edu/uscode/text/7/1a#21);
 
 "(C) any other person conducting digital asset activities pursuant to a Federal or State charter, license, registration, or other similar authorization; and
 
 "(D) any person who is required by law to hold a license, registration, or other similar authorization described in subparagraph (C).
 
-"(7) Security.—The term ‘security’ has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+"(7) Security.—The term ‘security’ has the meaning given the term in [section 3(a) of the Securities Exchange Act of 1934](https://www.govinfo.gov/content/pkg/COMPS-1885/pdf/COMPS-1885.pdf#page=11) (15 U.S.C. 78c(a)).
 
 "(8) Smart contract.—The term ‘smart contract’—
 
