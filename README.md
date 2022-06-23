@@ -17,7 +17,7 @@ A bill to provide for responsible financial innovation and to bring digital asse
 
 &nbsp;
 
-## *TABLE OF CONTENTS*
+## TABLE OF CONTENTS
 
 &nbsp;
 
