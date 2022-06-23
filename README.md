@@ -168,7 +168,7 @@ Sec.809.Advisory Committee on Financial Innovation.
 
 SEC. 101. DEFINITIONS.
 
-(a) In General.—[Subtitle VI of title 31](https://www.law.cornell.edu/uscode/text/31/subtitle-VI), United States Code, is amended by adding after [chapter 97](https://www.law.cornell.edu/uscode/text/7/1a#21) the following:
+(a) In General.—[Subtitle VI of title 31](https://www.law.cornell.edu/uscode/text/31/subtitle-VI), United States Code, is amended by adding after [chapter 97](https://www.law.cornell.edu/uscode/text/31/subtitle-VI/chapter-97) the following:
 
 "CHAPTER 98—DIGITAL ASSETS
 
@@ -250,7 +250,7 @@ SEC. 101. DEFINITIONS.
 
 "(D) any person who is required by law to hold a license, registration, or other similar authorization described in subparagraph (C).
 
-"(7) Security.—The term ‘security’ has the meaning given the term in [section 3(a) of the Securities Exchange Act of 1934](https://www.govinfo.gov/content/pkg/COMPS-1885/pdf/COMPS-1885.pdf) (15 U.S.C. 78c(a)).
+"(7) Security.—The term ‘security’ has the meaning given the term in [section 3(a) of the Securities Exchange Act of 1934](https://www.govinfo.gov/content/pkg/COMPS-1885/pdf/COMPS-1885.pdf#page=11) (15 U.S.C. 78c(a)).
 
 "(8) Smart contract.—The term ‘smart contract’—
 
