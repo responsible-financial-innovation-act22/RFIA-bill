@@ -8,7 +8,7 @@
 # Run "make clean" to delete converted files
 
 # Convert all files in this directory that have a .md suffix
-SOURCE_DOCS := $(wildcard *.md)
+SOURCE_DOCS := $(wildcard src/*.md)
 
 EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=.pdf) \
