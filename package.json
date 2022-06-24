@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "NODE_ENV=test jest"
+  },
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
