@@ -1,2553 +1,2727 @@
-# RFIA-bill
-# Lummis-Gillibrand Responsible Financial Innovation Act (S. 4356)
+# Benson-Bloome Aviation Act (S. 2007)
 
-*117th Congress, 2d Session*
+According to all known laws of aviation, there is no way a bee should be able to fly.
 
-*Bill Status: https://www.congress.gov/bill/117th-congress/senate-bill/4356* 
+Its wings are too small to get its fat little body off the ground.
 
-*Section-by-Section Overview: https://www.lummis.senate.gov/wp-content/uploads/Lummis-Gillibrand-Section-by-Section-Final.pdf* 
+The bee, of course, flies anyway because bees don't care what humans think is impossible.
 
-&nbsp;
+Yellow, black. Yellow, black. Yellow, black. Yellow, black.
 
-A bill to provide for responsible financial innovation and to bring digital assets within the regulatory perimeter.
+Ooh, black and yellow!
 
-&nbsp;
+Let's shake it up a little.
 
-*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+Barry! Breakfast is ready!
 
-&nbsp;
+Coming!
 
-*TABLE OF CONTENTS*
+Hang on a second.
 
-&nbsp;
+Hello?
 
-*TITLE I—DEFINITIONS*
+Barry?
 
-Sec.101.Definitions.
+Adam?
 
-&nbsp;
+Can you believe this is happening?
 
-*TITLE II—RESPONSIBLE TAXATION OF DIGITAL ASSETS*
+I can't.
 
-Sec.201.Gain from disposition of digital assets.
+I'll pick you up.
 
-Sec.202.Information reporting requirements imposed on brokers with respect to digital assets.
+Looking sharp.
 
-Sec.203.Sources of income.
+Use the stairs, Your father paid good money for those.
 
-Sec.204.Decentralized autonomous organizations.
+Sorry. I'm excited.
 
-Sec.205.Tax treatment of digital asset lending agreements and related matters.
+Here's the graduate.
 
-Sec.206.Implementing effective IRS guidance.
+We're very proud of you, son.
 
-Sec.207.Analysis of retirement investing in digital assets.
+A perfect report card, all B's.
 
-Sec.208.Digital asset mining and staking.
+Very proud.
 
-Sec.209.Conforming amendments.
+Ma! I got a thing going here.
 
-&nbsp;
+You got lint on your fuzz.
 
-*TITLE III—RESPONSIBLE SECURITIES INNOVATION*
+Ow! That's me!
 
-Sec.301.Securities offerings involving certain intangible assets.
+Wave to us! We'll be in row 118,000.
 
-Sec.302.Termination of specified periodic disclosure requirements.
+Bye!
 
-Sec.303.Guidance relating to satisfactory control location.
+Barry, I told you, stop flying in the house!
 
-Sec.304.Custody and customer protection rules.
+Hey, Adam.
 
-&nbsp;
+Hey, Barry.
 
-*TITLE IV—RESPONSIBLE COMMODITIES INNOVATION*
+Is that fuzz gel?
 
-Sec.401.Definitions.
+A little. Special day, graduation.
 
-Sec.402.Reporting and recordkeeping.
+Never thought I'd make it.
 
-Sec.403.CFTC jurisdiction over digital asset transactions.
+Three days grade school, three days high school.
 
-Sec.404.Registration of digital asset exchanges.
+Those were awkward.
 
-Sec.405.Violations.
+Three days college. I'm glad I took a day and hitchhiked around The Hive.
 
-Sec.406.Market reports.
+You did come back different.
 
-Sec.407.Bankruptcy treatment of digital assets.
+Hi, Barry. Artie, growing a mustache? Looks good.
 
-Sec.408.Identified banking products.
+Hear about Frankie?
 
-Sec.409.Financial institutions definition.
+Yeah.
 
-Sec.410.Offsetting the costs of digital asset regulation.
+You going to the funeral?
 
+No, I'm not going.
 
-&nbsp;
+Everybody knows, sting someone, you die.
 
+Don't waste it on a squirrel.
 
-*TITLE V—RESPONSIBLE CONSUMER PROTECTION*
+Such a hothead.
 
-Sec.501.Responsible consumer protection.
+I guess he could have just gotten out of the way.
 
-Sec.502.Source code version of digital assets.
+I love this incorporating an amusement park into our day.
 
-Sec.503.Settlement finality.
+That's why we don't need vacations.
 
-Sec.504.Notice to customers; enforcement.
+Boy, quite a bit of pomp under the circumstances.
 
-Sec.505.Right to individual management of digital assets.
+Well, Adam, today we are men.
 
-Sec.506.Technical and conforming amendments.
+We are!
 
-&nbsp;
+Bee-men.
 
-*TITLE VI—RESPONSIBLE PAYMENTS INNOVATION*
+Amen!
 
-Sec.601.Issuance of payment stablecoins.
+Hallelujah!
 
-Sec.602.Sanctions compliance responsibilities of payment stablecoin issuers.
+Students, faculty, distinguished bees,
 
-Sec.603.Use of the official digital currency of the People’s Republic of China on Government devices.
+please welcome Dean Buzzwell.
 
-Sec.604.Certificate of authority to commence banking.
+Welcome, New Hive City graduating class of 9:15.
 
-Sec.605.Holding company supervision of covered depository institutions.
+That concludes our ceremonies And begins your career at Honex Industries!
 
-Sec.606.Implementation rules to preserve adequate competition in payment stablecoins.
+Will we pick our job today?
 
-Sec.607.Financial Crimes Enforcement Network Innovation Laboratory.
+I heard it's just orientation.
 
-&nbsp;
+Heads up! Here we go.
 
-*TITLE VII—RESPONSIBLE BANKING INNOVATION*
+Keep your hands and antennas inside the tram at all times.
 
-Sec.701.Study on use of distributed ledger technology for reduction of risk in depository institutions.
+Wonder what it'll be like?
 
-Sec.702.Eligibility for Federal Reserve services to depository institutions.
+A little scary.
 
-Sec.703.Routing transit number issuance.
+Welcome to Honex, a division of Honesco and a part of the Hexagon Group.
 
-Sec.704.Clarifying application review times with respect to the Federal banking agencies.
+This is it!
 
-Sec.705.Examination standards for digital asset activities.
+Wow.
 
-Sec.706.Asset custody for depository institutions and certain other entities.
+Wow.
 
-Sec.707.Reputation risk; requirements for account termination requests and orders.
+We know that you, as a bee, have worked your whole life to get to the point where you can work for your whole life.
 
-Sec.708.Conforming amendments.
+Honey begins when our valiant Pollen Jocks bring the nectar to The Hive.
 
-&nbsp;
+Our top-secret formula is automatically color-corrected, scent-adjusted and bubble-contoured into this soothing sweet syrup with its distinctive golden glow you know as... Honey!
 
-*TITLE VIII—RESPONSIBLE INTERAGENCY COORDINATION*
+That girl was hot.
 
-Sec.801.Timeline for interpretive guidance issued by Federal financial agencies.
+She's my cousin!
 
-Sec.802.Interstate sandbox activities.
+She is?
 
-Sec.803.State money transmission coordination relating to digital assets.
+Yes, we're all cousins.
 
-Sec.804.Information sharing among Federal and State financial regulators.
+Right. You're right.
 
-Sec.805.Analysis of decentralized finance markets and technologies.
+At Honex, we constantly strive to improve every aspect of bee existence.
 
-Sec.806.Analysis of energy consumption in digital asset markets.
+These bees are stress-testing a new helmet technology.
 
-Sec.807.Analysis of self-regulation and registered digital asset associations.
+What do you think he makes?
 
-Sec.808.Cybersecurity standards for digital asset intermediaries.
+Not enough.
 
-Sec.809.Advisory Committee on Financial Innovation.
+Here we have our latest advancement, the Krelman.
 
-&nbsp;
+What does that do?
 
+Catches that little strand of honey that hangs after you pour it.
 
-# TITLE I—DEFINITIONS
+Saves us millions.
 
-SEC. 101. DEFINITIONS.
+Can anyone work on the Krelman?
 
-(a) In General.—Subtitle VI of title 31, United States Code, is amended by adding after chapter 97 the following:
+Of course. Most bee jobs are small ones.
 
-"CHAPTER 98—DIGITAL ASSETS
+But bees know that every small job, if it's done well, means a lot.
 
-"Sec.
+But choose carefully because you'll stay in the job you pick for the rest of your life.
 
-"9801. Definitions.
+The same job the rest of your life? I didn't know that.
 
-"9801. Definitions
+What's the difference?
 
-"In this chapter:
+You'll be happy to know that bees, as a species, haven't had one day off in 27 million years.
 
-"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)).
+So you'll just work us to death?
 
-"(2) Digital asset.—The term ‘digital asset’
+We'll sure try.
 
-"(A) means a natively electronic asset that—
+Wow! That blew my mind!
 
-"(i) confers economic, proprietary, or access rights or powers; and
+"What's the difference?"
 
-"(ii) is recorded using cryptographically secured distributed ledger technology, or any similar analogue; and
+How can you say that?
 
-"(B) includes—
+One job forever?
 
-"(i) virtual currency and ancillary assets in accordance with section 2(c)(2)(F) of the Commodity Exchange Act;
+That's an insane choice to have to make.
 
-"(ii) payment stablecoins in accordance with section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a); and
+I'm relieved. Now we only have to make one decision in life.
 
-"(iii) any other security or commodity that meets the requirements of subparagraph (A).
+But, Adam, how could they never have told us that?
 
-"(3) Digital asset intermediary.—The term ‘digital asset intermediary’—
+Why would you question anything? We're bees.
 
-"(A) means—
+We're the most perfectly functioning society on Earth.
 
-"(i) a person who holds a license, registration, or other similar authorization, as specified by this chapter, the Commodity Exchange Act (7 U.S.C. 1 et seq.), the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Corporation of Foreign Bondholders Act, 1933 (15 U.S.C. 77bb et seq.), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), the Investment Advisers Act of 1940 (15 U.S.C. 80b–1), and the Omnibus Small Business Capital Formation Act of 1980 (15 U.S.C. 80c), that may conduct market activities relating in digital assets; or
+You ever think maybe things work a little too well here?
 
-"(ii) a person who is required by law to hold a license, registration, or other similar authorization described in clause (i); and
+Like what? Give me one example.
 
-"(B) includes—
+I don't know. But you know what I'm talking about.
 
-"(i) a person who holds a license, registration, or other similar authorization under State or Federal law that issues a payment stablecoin; and
+Please clear the gate. Royal Nectar Force on approach.
 
-"(ii) a person who is required by law to hold a license, registration, or other similar authorization described in clause (i); and
+Wait a second. Check it out.
 
-"(C) does not include a depository institution.
+Hey, those are Pollen Jocks!
 
-"(4) Distributed ledger technology.—The term ‘distributed ledger technology’ means technology that enables the operation and use of a ledger that—
+Wow.
 
-"(A) is shared across a set of distributed nodes that participate in a network and store a complete or partial replica of the ledger;
+I've never seen them this close.
 
-"(B) is synchronized between the nodes;
+They know what it's like outside The Hive.
 
-"(C) has data appended to the ledger by following the specified consensus mechanism of the ledger;
+Yeah, but some don't come back.
 
-"(D) may be accessible to anyone or restricted to a subset of participants; and
+Hey, Jocks!
 
-"(E) may require participants to have authorization to perform certain actions or require no authorization.
+Hi, Jocks!
 
-"(5) Payment stablecoin.—The term ‘payment stablecoin’ means a digital asset that is—
+You guys did great!
 
-"(A) redeemable, on demand, on a 1-to-1 basis for instruments denominated in United States dollars;
+You're monsters!
 
-"(B) defined as legal tender under section 5103 or under the laws of a foreign country (excluding digital assets);
+You're sky freaks! I love it! I love it!
 
-"(C) issued by a business entity;
+I wonder where they were.
 
-"(D) accompanied by a statement from the issuer that the asset is redeemable, as specified in subparagraph (A), from the issuer or another identified person;
+I don't know.
 
-"(E) backed by 1 or more financial assets (excluding other digital assets), consistent with subparagraph (A); and
+Their day's not planned.
 
-"(F) intended to be used as a medium of exchange.
+Outside The Hive, flying who knows where, doing who knows what.
 
-"(6) Person who provides digital asset services.—The term ‘person who provides digital asset services’ means—
+You can't just decide to be a Pollen Jock. You have to be bred for that.
 
-"(A) a digital asset intermediary;
+Right.
 
-"(B) a financial institution, as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a);
+Look. That's more pollen than you and I will see in a lifetime.
 
-"(C) any other person conducting digital asset activities pursuant to a Federal or State charter, license, registration, or other similar authorization; and
+It's just a status symbol.
 
-"(D) any person who is required by law to hold a license, registration, or other similar authorization described in subparagraph (C).
+Bees make too much of it.
 
-"(7) Security.—The term ‘security’ has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+Perhaps. Unless you're wearing it and the ladies see you wearing it.
 
-"(8) Smart contract.—The term ‘smart contract’—
+Those ladies?
 
-"(A) means—
+Aren't they our cousins too?
 
-"(i) computer code deployed to a distributed ledger technology network that executes an instruction based on the occurrence or nonoccurrence of specified conditions; or
+Distant. Distant.
 
-"(ii) any similar analogue; and
+Look at these two.
 
-"(B) includes taking possession or control of a digital asset and transferring the asset or issuing executable instructions for these actions.
+Couple of Hive Harrys.
 
-"(9) Source code version.—The term ‘source code version’—
+Let's have fun with them.
 
-"(A) means the source code version comprising a digital asset; and
+It must be dangerous being a Pollen Jock.
 
-"(B) does not include software used to manage or facilitate transactions in a digital asset.
+Yeah. Once a bear pinned me against a mushroom!
 
-"(10) Virtual currency.—The term ‘virtual currency’—
+He had a paw on my throat, and with the other, he was slapping me!
 
-"(A) means a digital asset that—
+Oh, my!
 
-"(i) is used primarily as a medium of exchange, unit of account, store of value, or any combination of such functions;
+I never thought I'd knock him out.
 
-"(ii) is not legal tender, as described in section 5103; and
+What were you doing during this?
 
-"(iii) does not derive value from or is backed by an underlying financial asset (except other digital assets); and
+Trying to alert the authorities.
 
-"(B) includes a digital asset, consistent with subparagraph (A) that is accompanied by a statement from the issuer that a denominated or pegged value will be maintained and be available upon redemption from the issuer or other identified person, based solely on a smart contract.".
+I can autograph that.
 
-(b) Technical and Conforming Amendment.—The table of contents for subtitle VI of title 31, United States Code, is amended by adding at the end the following:
+A little gusty out there today, wasn't it, comrades?
 
-"98.Digital assets
+Yeah. Gusty.
 
-9801".
+We're hitting a sunflower patch six miles from here tomorrow.
 
-&nbsp;
+Six miles, huh?
 
-# TITLE II—RESPONSIBLE TAXATION OF DIGITAL ASSETS
+Barry!
 
-SEC. 201. GAIN FROM DISPOSITION OF DIGITAL ASSETS.
+A puddle jump for us, but maybe you're not up for it.
 
-(a) In General.—Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139I the following new section:
+Maybe I am.
 
-"SEC. 139J. GAIN OR LOSS FROM SALE OR EXCHANGE OF VIRTUAL CURRENCY.
+You are not!
 
-"(a) In General.—Gross income shall not include gain or loss from the sale or exchange of virtual currency in a personal transaction (as defined in section 988(e)(3)) for goods and services.
+We're going 0900 at J-Gate.
 
-"(b) Limitation.—
+What do you think, buzzy-boy?
 
-"(1) In general.—The amount of gain or loss excluded from gross income under subsection (a) with respect to a sale or exchange shall not exceed $200.
+Are you bee enough?
 
-"(2) Aggregation rule.—For purposes of this subsection, all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as one sale or exchange.
+I might be. It all depends on what 0900 means.
 
-"(c) Other Sales or Exchanges.—Subsection (a) shall not apply to sales or exchanges in which virtual currency is sold or exchanged for cash, cash equivalents, digital assets (as defined in section 9801 of title 31, United States Code), or other securities or commodities.
+Hey, Honex!
 
-"(d) Virtual Currency.—For purposes of this section, the term ‘virtual currency’ has the meaning given such term in section 9801 of title 31, United States Code.
+Dad, you surprised me.
 
-"(e) Inflation Adjustment.—In the case of any taxable year beginning in a calendar year after 2023, the dollar amount in subsection (b) shall be increased by an amount equal to—
+You decide what you're interested in?
 
-"(1) such dollar amount, multiplied by
+Well, there's a lot of choices.
 
-"(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 2022’ for ‘calendar year 2016’ in subparagraph (A)(ii) thereof.
+But you only get one.
 
-Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.".
+Do you ever get bored doing the same job every day?
 
-(b) Clerical Amendment.—The table of sections for part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 139I the following new item:
+Son, let me tell you about stirring.
 
-"Sec.139J.Gain or loss from sale or exchange of virtual currency.".
+You grab that stick, and you just move it around, and you stir it around.
 
-(c) Reporting of Gains or Losses.—The Secretary shall issue regulations providing for information returns on virtual currency transactions for which gain or loss is recognized.
+You get yourself into a rhythm.
 
-(d) Effective Date.—The amendments made by this section shall apply to transactions entered into after December 31, 2022.
+It's a beautiful thing.
 
-&nbsp;
+You know, Dad, the more I think about it,
 
-SEC. 202. INFORMATION REPORTING REQUIREMENTS IMPOSED ON BROKERS WITH RESPECT TO DIGITAL ASSETS.
+maybe the honey field just isn't right for me.
 
-(a) Clarification of Definition of Broker.—Section 6045(c)(1)(D) of the Internal Revenue Code of 1986 is amended to read as follows:
+You were thinking of what, making balloon animals?
 
-"(D) any person who (for consideration) stands ready in the ordinary course of a trade or business to effect sales of digital assets at the direction of their customers.".
+That's a bad job for a guy with a stinger.
 
-(b) Reporting of Digital Assets.—
+Janet, your son's not sure he wants to go into honey!
 
-(1) Brokers.—
+Barry, you are so funny sometimes.
 
-(A) Definition of digital asset.—Section 6045(g)(3)(D) of the Internal Revenue Code of 1986 is amended to read as follows:
+I'm not trying to be funny.
 
-"(D) Digital asset.—The term ‘digital asset’ has the meaning given such term in section 9801 of title 31, United States Code.".
+You're not funny! You're going into honey. Our son, the stirrer!
 
-(B) Applicable date.—Section 6045(g)(3)(C)(iii) of such Code is amended to read as follows:
+You're gonna be a stirrer?
 
-"(iii) January 1, 2025, in the case of any specified security which is a digital asset, and".
+No one's listening to me!
 
-(2) Furnishing of information.—Section 6045A(d) of such Code is amended to read as follows:
+Wait till you see the sticks I have.
 
-"(d) Return Requirement for Certain Transfers of Digital Assets Not Otherwise Subject to Reporting.—Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such broker) during a calendar year of a covered security which is a digital asset from an account wholly controlled and maintained by such broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a). Information reported by brokers under this section shall be limited to customer information that is voluntarily provided by the customer and held by the broker for a legitimate business purpose.".
+I could say anything right now.
 
-(c) Effective Dates.—The amendments made by this section shall apply to returns required to be filed and statements required to be furnished after December 31, 2025.
+I'm gonna get an ant tattoo!
 
-&nbsp;
+Let's open some honey and celebrate!
 
-SEC. 203. SOURCES OF INCOME.
+Maybe I'll pierce my thorax. Shave my antennae. Shack up with a grasshopper. Get a gold tooth and call everybody "dawg"!
 
-(a) In General.—Paragraph (2) of section 864(b) of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (C) as subparagraph (D) and by inserting after subparagraph (B) the following new subparagraph:
+I'm so proud.
 
-"(C) Digital assets.—
+We're starting work today!
 
-"(i) In general.—Trading in digital assets through a resident broker, commission agent, custodian, digital asset exchange, or other independent agent.
+Today's the day.
 
-"(ii) Trading for taxpayer’s own account.—Trading in digital assets for the taxpayer’s own account, whether by the taxpayer or the taxpayer’s employees or through a resident broker, commission agent, custodian, digital asset exchange, or other agent, and whether or not any such employee or agent has discretionary authority to make decisions in effecting the transactions. This clause shall not apply in the case of a dealer in digital assets.
+Come on! All the good jobs will be gone.
 
-"(iii) Definitions.—For purposes of this subparagraph—
+Yeah, right.
 
-"(I) Digital asset exchange.—The term ‘digital asset exchange’ means a centralized or decentralized platform which facilitates the transfer of digital assets.
+Pollen counting, stunt bee, pouring, stirrer, front desk, hair removal...
 
-"(II) Digital asset.—The term ‘digital asset’ has the meaning given such term in section 9801 of title 31, United States Code.
+Is it still available?
 
-"(iv) Limitation.—This subparagraph shall apply only if the digital assets are of a kind customarily dealt in on a digital asset exchange and if the transaction is of a kind customarily consummated at such exchange.".
+Hang on. Two left!
 
-(b) Conforming Amendment.—Subparagraph (D) of section 864(b)(2) of the Internal Revenue Code of 1986, as redesignated by subsection (a), is amended by striking "(A)(i) and (B)(i)" and inserting “(A)(i), (B)(i), and (C)(i)”.
+One of them's yours! Congratulations!
 
-(c) Effective Date.—The amendments made by this section shall apply to sales and exchanges after December 31, 2022.
+Step to the side.
 
-&nbsp;
+What'd you get?
 
-SEC. 204. DECENTRALIZED AUTONOMOUS ORGANIZATIONS.
+Picking crud out. Stellar!
 
-(a) In General.—Section 7701(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+Wow!
 
-"(51) Decentralized autonomous organizations.—
+Couple of newbies?
 
-"(A) In general.—The default classification of a decentralized autonomous organization shall be as a business entity which is not a disregarded entity.
+Yes, sir! Our first day! We are ready!
 
-"(B) Classification of other activities.—The following shall not be considered a business activity of such organization for purposes of determining whether such organization is described in section 501(c)(7):
+Make your choice.
 
-"(i) Treasury management, including mining and staking of digital assets (as defined in section 9801 of title 31, United States Code).
+You want to go first?
 
-"(ii) Raising funds for a charitable purpose.
+No, you go.
 
-"(C) Decentralized autonomous organization.—The term ‘decentralized autonomous organization’ means an organization—
+Oh, my. What's available?
 
-"(i) which utilizes smart contracts (as defined in section 9801 of title 31, United States Code) to effectuate collective action for a business, commercial, charitable, or similar entity,
+Restroom attendant's open, not for the reason you think.
 
-"(ii) governance of which is achieved primarily on a distributed basis, and
+Any chance of getting the Krelman?
 
-"(iii) which is properly incorporated or organized under the laws of a State or foreign jurisdiction as a decentralized autonomous organization, cooperative, foundation, or any similar entity.".
+Sure, you're on.
 
-(b) Effective Date.—Except as provided by subsection (c), the amendments made by this section shall apply to taxable years beginning after December 31, 2022.
+I'm sorry, the Krelman just closed out.
 
-&nbsp;
+Wax monkey's always open.
 
-SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
+The Krelman opened up again.
 
-(a) In General.—Subsection (a) of section 1058 of the Internal Revenue Code of 1986 is amended by striking "(as defined in section 1236(c))".
+What happened?
 
-(b) Fixed Term.—Paragraph (1) of subsection (b) of section 1058 of the Internal Revenue Code of 1986 is amended by inserting ", including a fixed-term transfer that occurs in the ordinary course of a securities lending or investment management business" after “transferred”.
+A bee died. Makes an opening. See? He's dead. Another dead one.
 
-(c) Basis.—Subsection (c) of section 1058 of the Internal Revenue Code of 1986 is amended by adding at the end the following: "All appropriate basis adjustments to an agreement under subsection (b) shall be made, as determined by the Secretary, including upon the return of the lent securities to the taxpayer.".
+Deady. Deadified. Two more dead.
 
-(d) Securities.—Section 1058 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsections:
+Dead from the neck up. Dead from the neck down. That's life!
 
-"(d) Securities.—For purposes of this section, the term ‘securities’ has the meaning given such term by section 1236(c), except that such term includes any digital asset (as defined in section 9801 of title 31, United States Code) and, with respect to a digital asset, does not require a call option.
+Oh, this is so hard!
 
-"(e) Income.—An amount equal to the income which would otherwise accrue to the lender but for a lending transaction under this section shall be included in gross income of the lender.".
+Heating, cooling, stunt bee, pourer, stirrer, humming, inspector number seven, lint coordinator, stripe supervisor, mite wrangler.
 
-(e) Rule of Construction.—Nothing in this section shall be construed to create any inference with respect to the classification of any digital asset as security under the Securities Act of 1933 (15 U.S.C. 77a et seq.) or the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
+Barry, what do you think I should... Barry?
 
-(f) Rulemaking Authority.—The Secretary of the Treasury (or the Secretary’s delegate) may adopt rules to implement this section, including the application of this section to forks, airdrops, and similar subsidiary value.
+Barry!
 
-(g) Effective Date.—The amendments made by this section shall apply to sales and exchanges after December 31, 2022.
+All right, we've got the sunflower patch in quadrant nine...
 
-&nbsp;
+What happened to you?
 
-SEC. 206. IMPLEMENTING EFFECTIVE IRS GUIDANCE.
+Where are you?
 
-(a) In General.—Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary’s delegate) shall adopt guidance relating to the following:
+I'm going out.
 
-(1) Classification of forks, airdrops, and similar subsidiary value as taxable, contingent upon the affirmative claim and disposition of the subsidiary value by a taxpayer. Such guidance shall also permit a taxpayer to provide notification through an annual return or other appropriate means to the Internal Revenue Service relating to claim and disposition of, or disclaimer of, subsidiary value.
+Out? Out where?
 
-(2) Merchant acceptance of digital assets and the tax treatment of payments and receipts, consistent with the amendments made by section 80603 of the Infrastructure Investment and Jobs Act, as amended by section 203.
+Out there.
 
-(3) Treatment of digital asset mining and staking, including mining and staking rewards, in which income is not realized until disposition of the assets produced or received in connection with such activity, in accordance with section 451(l) of the Internal Revenue Code of 1986 (as added by this Act).
+Oh, no!
 
-(4) Classification of charitable contributions greater than $5,000 of digital assets which are traded on established financial markets as contributions of readily valued property not requiring a qualified appraisal for purposes of section 170(f)(11)(A) of the Internal Revenue Code of 1986, as amended by this Act.
+I have to, before I go to work for the rest of my life.
 
-(5) Characterization of payment stablecoins (as defined in section 9801 of title 31, United States Code) as indebtedness.
+You're gonna die! You're crazy! Hello?
 
-(b) Effective Date.—The guidance adopted under this section shall be applicable on a prospective basis for taxable years beginning after December 31, 2023.
+Another call coming in.
 
-&nbsp;
+If anyone's feeling brave, there's a Korean deli on 83rd that gets their roses today.
 
-SEC. 207. ANALYSIS OF RETIREMENT INVESTING IN DIGITAL ASSETS.
+Hey, guys.
 
-(a) Not later than March 1, 2023, the Comptroller General of the United States shall conduct a study and provide a report to the entities specified in subsection (b) regarding the following issues relating to retirement investing in digital assets:
+Look at that.
 
-(1) Potential benefits to diversification and return of an investor’s retirement portfolio.
+Isn't that the kid we saw yesterday?
 
-(2) Appropriate asset allocations, including among other alternative investments.
+Hold it, son, flight deck's restricted.
 
-(3) Consumer education, financial literacy and investment advisor training relating to digital assets.
+It's OK, Lou. We're gonna take him up.
 
-(4) Risk.
+Really? Feeling lucky, are you?
 
-(5) Legal and operational barriers to effective retirement investing in digital assets.
+Sign here, here. Just initial that.
 
-(6) Any other topic determined to be material by the Comptroller General relating to retirement investing in digital assets.
+Thank you.
 
-(b) The Comptroller General shall provide the report required by subsection (a) to the following:
+OK.
 
-(1) The Committee on Banking, Housing, and Urban Affairs of the Senate.
+You got a rain advisory today, and as you all know, bees cannot fly in rain.
 
-(2) The Committee on Finance of the Senate.
+So be careful. As always, watch your brooms, hockey sticks, dogs, birds, bears and bats.
 
-(3) The Committee on Health, Education, Labor, and Pensions of the Senate.
+Also, I got a couple of reports of root beer being poured on us.
 
-(4) The Committee on Financial Services of the House of Representatives.
+Murphy's in a home because of it, babbling like a cicada!
 
-(5) The Committee on Ways and Means of the House of Representatives.
+That's awful.
 
-(6) The Committee on Education and Labor of the House of Representatives.
+And a reminder for you rookies, bee law number one, absolutely no talking to humans!
 
-(7) The Secretary of the Treasury.
+ All right, launch positions!
 
-(8) The Secretary of Labor.
+Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz!
 
-&nbsp;
+Black and yellow!
 
-SEC. 208. DIGITAL ASSET MINING AND STAKING.
+Hello!
 
-(a) In General.—Section 451 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+You ready for this, hot shot?
 
-"(l) Deferral of Income Recognition for Digital Asset Activities.—In the case of a taxpayer who conducts digital asset mining or staking activities, the amount of income relating to such activities shall not be included in the gross income of the taxpayer until the taxable year of the disposition of the assets produced or received in connection with the mining or staking activities.".
+Yeah. Yeah, bring it on.
 
-(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2022.
+Wind, check.
 
-&nbsp;
+Antennae, check.
 
-SEC. 209. CONFORMING AMENDMENTS.
+Nectar pack, check.
 
-(a) Charitable Contributions.—
+Wings, check.
 
-(1) In general.—Subclause (I) of section 170(f)(11)(A)(ii) of the Internal Revenue Code of 1986 is amended by inserting ", digital assets (as defined in section 9801 of title 31, United States Code)" after “6050L(a)(2)(B))”.
+Stinger, check.
 
-(2) Effective date.—The amendment made by this subsection shall apply to taxable years beginning after December 31, 2022.
+Scared out of my shorts, check.
 
-(b) Other Conforming Amendments.—
+OK, ladies,
 
-(1) In general.—Title 31, United States Code, is amended—
+let's move it out!
 
-(A) in section 5312(a)(2)—
+Pound those petunias, you striped stem-suckers!
 
-(i) by redesignating subparagraphs (A) through (Z) as clauses (i) through (xxvi), respectively;
+All of you, drain those flowers!
 
-(ii) in the matter preceding clause (i), as so designated, by striking "‘institution’ means—" and inserting “‘institution'—
+Wow! I'm out!
 
-"(A) means—";
+I can't believe I'm out!
 
-(iii) in clause (xxvi), as so designated, by striking the period at the end and inserting "; and"; and
+So blue.
 
-(iv) by adding at the end the following:
+I feel so fast and free!
 
-"(B) does not include a decentralized autonomous organization, as defined in section 7701(a) of the Internal Revenue Code of 1986."; and
+Box kite!
 
-(B) in section 5336(a)(11)(B)(2)—
+Wow!
 
-(i) by redesignating clause (xxv) as clause (xxvi); and
+Flowers!
 
-(ii) by adding after clause (xxv) the following:
+This is Blue Leader, We have roses visual.
 
-"(xxv) A decentralized autonomous organization, as defined in section 7701(a) of the Internal Revenue Code of 1986; and".
+Bring it around 30 degrees and hold.
 
-(2) Anti-money laundering act of 2020.—Section 6110(a) of the Anti-Money Laundering Act of 2020 (division F of Public Law 116–283) is amended by striking paragraph (1) and inserting the following:
+Roses!
 
-"(A) by redesignating clauses (xxv) and (xxvi) as clauses (xxvi) and (xxvii), respectively, and adjust the margins accordingly; and
+30 degrees, roger. Bringing it around.
 
-"(B) by inserting after clause (xxiv) the following:
+Stand to the side, kid.
 
-"‘(Y) a person engaged in the trade of antiquities, including an advisor, consultant, or any other person who engages as a business in the solicitation or the sale of antiquities, subject to regulations prescribed by the Secretary;’.".
+It's got a bit of a kick.
 
-&nbsp;
+That is one nectar collector!
 
-# TITLE III—RESPONSIBLE SECURITIES INNOVATION
+Ever see pollination up close?
 
-SEC. 301. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
+No, sir.
 
-Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the following:
+I pick up some pollen here, sprinkle it over here. Maybe a dash over there, a pinch on that one.
 
-"SEC. 41. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
+See that? It's a little bit of magic.
 
-"(a) Definitions.—In this section:
+That's amazing. Why do we do that?
 
-"(1) Ancillary asset.—
+That's pollen power. More pollen, more flowers, more nectar, more honey for us.
 
-"(A) In general.—The term ‘ancillary asset’ means an intangible, fungible asset that is offered, sold, or otherwise provided to a person in connection with the purchase and sale of a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)).
+Cool.
 
-"(B) Exclusion.—The term ‘ancillary asset’ does not include an asset that provides the holder of the asset with any of the following rights in a business entity:
+I'm picking up a lot of bright yellow, Could be daisies, Don't we need those?
 
-"(i) A debt or equity interest in that entity.
+Copy that visual.
 
-"(ii) Liquidation rights with respect to that entity.
+Wait. One of these flowers seems to be on the move.
 
-"(iii) An entitlement to an interest or dividend payment from that entity.
+Say again? You're reporting a moving flower?
 
-"(iv) A profit or revenue share in that entity solely from the entrepreneurial or managerial efforts of others.
+Affirmative.
 
-"(v) Any other financial interest in that entity.
+That was on the line!
 
-"(2) Foreign private issuer.—The term ‘foreign private issuer’ means a foreign issuer, other than a foreign government, except that the term does not include a foreign issuer that, as of the last business day of the most recently completed fiscal quarter of the issuer, satisfies the following conditions:
+This is the coolest. What is it?
 
-"(A) More than 50 percent of the outstanding voting securities of the issuer are directly or indirectly owned by residents of the United States.
+I don't know, but I'm loving this color.
 
-"(B) Any of the following:
+It smells good.
 
-"(i) The majority of the executive officers or directors of the issuer are citizens or residents of the United States.
+Not like a flower, but I like it.
 
-"(ii) More than 50 percent of the assets of the issuer are located in the United States.
+Yeah, fuzzy.
 
-"(iii) The business of the issuer is principally administered in the United States.
+Chemical-y.
 
-"(b) Disclosure Requirements.—
+Careful, guys. It's a little grabby.
 
-"(1) Initial compliance with specified periodic disclosure requirements.—Subject to paragraphs (4) and (5), an issuer engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides or proposes to provide any holder of the security with an ancillary asset, shall be subject to the periodic disclosure requirements under subsection (c) for the 1-year period beginning on the date that is 180 days after the first date on which the security is offered, sold, or otherwise provided by the issuer, if—
+My sweet lord of bees!
 
-"(A) the average daily aggregate value of all ancillary assets offered, sold, or otherwise provided by the issuer in relation to the offer, sale, or provision of the security in all spot markets open to the public in the United States (based on the knowledge of the issuer after due inquiry) is greater than $5,000,000 for the 180-day period immediately succeeding the date of that first offer, sale, or provision; and
+Candy-brain, get off there!
 
-"(B) during the 180-day period described in subparagraph (A), the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+Problem!
 
-"(2) Ongoing compliance with specified periodic disclosure requirements.—Subject to paragraphs (4) and (5), an issuer that is engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of the security with an ancillary asset in connection with the acquisition of the security, shall be subject to the periodic disclosure requirements under subsection (c) for a given fiscal year of that issuer, if, in the immediately preceding fiscal year of the issuer (or any portion thereof)—
+Guys!
 
-"(A) the average daily aggregate value of all trading in the ancillary asset in all spot markets open to the public in the United States was greater than $5,000,000, based on the knowledge of the issuer after due inquiry; and
+This could be bad.
 
-"(B) the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+Affirmative.
 
-"(3) Transition rule.—Subject to paragraphs (4) and (5), an issuer that is engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of the security with an ancillary asset before January 1, 2023, in connection with the acquisition of the security shall be subject to the periodic disclosure requirements under subsection (c) beginning in the first fiscal year of the issuer that begins on or after that date, if, in the immediately preceding fiscal year of the issuer—
+Very close.
 
-"(A) the average daily aggregate value of trading in the ancillary asset in all spot markets open to the public for which trading volume is generally available was greater than $5,000,000, based on the knowledge of the issuer after due inquiry; and
+Gonna hurt.
 
-"(B) the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+Mama's little boy.
 
-"(4) Treatment of ancillary assets.—
+You are way out of position, rookie!
 
-"(A) In general.—Notwithstanding any other provision of law, if an issuer issues a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), is subject to paragraph (1), (2), or (3), and is in compliance with the periodic disclosure requirements under subsection (c), an ancillary asset provided directly or indirectly by the issuer shall be presumed—
+Coming in at you like a missile!
 
-"(i) to be a commodity, consistent with section 2(c)(2)(F) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)(F)); and
+Help me!
 
-"(ii) not to be a security under—
+I don't think these are flowers.
 
-"(I) section 3(a);
+Should we tell him?
 
-"(II) such section 2(a)(1);
+I think he knows.
 
-"(III) section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a));
+What is this?!
 
-"(IV) section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)); or
+Match point!
 
-"(V) any applicable provision of State law.
+You can start packing up, honey, because you're about to eat it!
 
-"(B) Other persons.—A person who is not an issuer, an entity controlled by an issuer (including a person that acquires an ancillary asset from such an issuer for the purpose of resale or distribution of the ancillary asset), or a person acting at the direction or on the behalf of an issuer shall be not required to treat an ancillary asset provided by an issuer as a security under this Act or any provision of law described in subparagraph (A)(ii).
+Yowser!
 
-"(C) Exception.—
+Gross.
 
-"(i) In general.—Subparagraph (A) shall not apply to an ancillary asset if a court of the United States of competent jurisdiction, after an appropriate proceeding, issues an order finding that there is not a substantial basis for the presumption that the ancillary asset is a commodity and not a security under subparagraph (A).
+There's a bee in the car!
 
-"(ii) Rules of construction.—Nothing in this subparagraph shall be construed to preclude the Commission from entering into a settlement agreement relating to violations or alleged violations of this section. Compliance under this section shall not be used in any administrative or judicial proceeding that an ancillary asset is a security.
+Do something!
 
-"(5) Calculation.—For the purposes of paragraphs (1), (2), and (3), the calculation of daily aggregate value shall be based on data disclosed by spot markets or otherwise available to the public for inspection.
+I'm driving!
 
-"(c) Specified Periodic Disclosure Requirements.—If an issuer is subject to paragraph (1), (2), or (3) of subsection (b), the issuer shall furnish, or cause the relevant affiliate to furnish, to the Commission, on a semi-annual basis, information that the Commission may, by rule, require relating to the issuer and any relevant ancillary asset, as necessary or appropriate in the public interest or for the protection of investors, which shall be exclusively comprised of the following:
+Hi, bee.
 
-"(1) Basic corporate information regarding the issuer, including the following:
+He's back here!
 
-"(A) The experience of the issuer in developing assets similar to the ancillary asset.
+He's going to sting me!
 
-"(B) If the issuer has previously provided ancillary assets to purchasers of securities, information on the subsequent history of those previously provided ancillary assets, including price history, if the information is publicly available.
+Nobody move. If you don't move, he won't sting you. Freeze!
 
-"(C) The activities that the issuer has taken in the relevant disclosure period, and is projecting to take in the 1-year period following the submission of the disclosure, with respect to promoting the use, value, or resale of the ancillary asset (including any activity to facilitate the creation or maintenance of a trading market for the ancillary asset and any network or system that utilizes the ancillary asset).
+He blinked!
 
-"(D) The anticipated cost of the activities of the issuer in subparagraph (C) and whether the issuer has unencumbered, liquid funds equal to that amount.
+Spray him, Granny!
 
-"(E) To the extent the ancillary asset involves the use of a particular technology, the experience of the issuer with the use of that technology.
+What are you doing?!
 
-"(F) The backgrounds of the board of directors (or equivalent body), senior management, and key employees of the issuer, the experience or functions of whom are material to the value of the ancillary asset, as well as any personnel changes relating to the issuer during the period covered by the disclosure.
+Wow... the tension level out here is unbelievable.
 
-"(G) A description of the assets and liabilities of the issuer, to the extent material to the value of the ancillary asset.
+I gotta get home.
 
-"(H) A description of any legal proceedings in which the issuer is engaged (including inquiries by governmental agencies into the activities of the issuer), to the extent material to the value of the ancillary asset.
+Can't fly in rain. Can't fly in rain. Can't fly in rain.
 
-"(I) Risk factors relating to the impact of the issuer on, or unique knowledge relating to, the value of the ancillary asset.
+Mayday! Mayday! Bee going down!
 
-"(J) Information relating to ownership of the ancillary asset by—
+Ken, could you close the window please?
 
-"(i) persons owning not less than 10 percent of any class of equity security of the issuer; and
+Ken, could you close the window please?
 
-"(ii) the management of the issuer.
+Check out my new resume. I made it into a fold-out brochure. You see? Folds out.
 
-"(K) Information relating to transactions involving the ancillary asset by the issuer with related persons, promoters, and control persons.
+Oh, no. More humans. I don't need this.
 
-"(L) Recent sales or similar dispositions of ancillary assets by the issuer and affiliates of the issuer.
+What was that?
 
-"(M) Purchases or similar dispositions of ancillary assets by the issuer and affiliates of the issuer.
+Maybe this time. This time. This time. This time! This time! This... Drapes!
 
-"(N) A going concern statement from the chief financial officer of the issuer or equivalent official, signed under penalty of perjury, stating whether the issuer maintains the financial resources to continue business as a going concern for the 1-year period following the submission of the disclosure, absent a material change in circumstances.
+That is diabolical.
 
-"(2) Information relating to the ancillary asset, including the following:
+It's fantastic. It's got all my special skills, even my top-ten favorite movies.
 
-"(A) A general description of the ancillary asset, including the standard unit of measure with respect to the ancillary asset, the intended or known functionality and uses of the ancillary asset, the market for the ancillary asset, other assets or services that may compete with the ancillary asset, and the total supply of the ancillary asset or the manner and rate of the ongoing production or creation of the ancillary asset.
+What's number one? Star Wars?
 
-"(B) If ancillary assets have been offered, sold, or otherwise provided by the issuer to investors, intermediaries, or resellers, a description of the amount of assets offered, sold, or provided, the terms of each such transaction, and any contractual or other restrictions on the resale of the assets by intermediaries.
+Nah, I don't go for that... kind of stuff.
 
-"(C) If ancillary assets were distributed without charge, a description of each distribution, including the identity of any recipient that received more than 5 percent of the total amount of the ancillary assets in any such distribution.
+No wonder we shouldn't talk to them. They're out of their minds.
 
-"(D) The amount of ancillary assets owned by the issuer.
+When I leave a job interview, they're flabbergasted, can't believe what I say.
 
-"(E) For the 1-year period following the submission of the disclosure, a description of the plans of the issuer to support (or to cease supporting) the use or development of the ancillary asset, including markets for the ancillary asset and each platform or system that uses the ancillary asset.
+There's the sun. Maybe that's a way out.
 
-"(F) Each third party not affiliated with the issuer, the activities of which may have a material impact on the value of the ancillary asset.
+I don't remember the sun having a big 75 on it.
 
-"(G) Risk factors known to the issuer that may limit demand for, or interest in, the ancillary asset.
+I predicted global warming. I could feel it getting hotter. At first I thought it was just me.
 
-"(H) The names and locations of the markets in which the ancillary asset is known by the issuer to be available for sale or purchase.
+Wait! Stop! Bee!
 
-"(I) To the extent available to the issuer, the average daily price for a constant unit of value of the ancillary asset during the relevant reporting period, as well as the 12-month high and low prices for the ancillary asset.
+Stand back. These are winter boots.
 
-"(J) If applicable, information relating to any external audit of the code and functionality of the ancillary asset, including the entity performing the audit and the experience of the entity in conducting similar audits.
+Wait!
 
-"(K) If applicable, any third-party valuation report or economic analysis regarding the ancillary asset or the projected market of the ancillary asset, which shall include the entity performing the valuation or analysis and the experience of the entity in conducting similar reports or analyses.
+Don't kill him!
 
-"(L) If the ancillary asset is intangible, information relating to custody by the owner of the ancillary asset or a third party.
+You know I'm allergic to them! This thing could kill me!
 
-"(M) Information on intellectual property rights claimed or disputed relating to the ancillary asset.
+Why does his life have less value than yours?
 
-"(N) A description of the technology underlying the ancillary asset.
+Why does his life have any less value than mine? Is that your statement?
 
-"(O) Any material tax considerations applicable to owning, storing, using, or trading the ancillary asset.
+I'm just saying all life has value. You don't know what he's capable of feeling.
 
-"(P) Any material legal or regulatory considerations applicable to owning, storing, using, or trading the ancillary asset, including any legal proceeding that may impact the value of the ancillary asset.
+My brochure!
 
-"(Q) Any other material factor or information that may impact the value of the ancillary asset and about which the issuer is reasonably aware.
+There you go, little guy.
 
-"(d) Application to Successor Entities and Certain Affiliates.—
+I'm not scared of him.It's an allergic thing.
 
-"(1) In general.—If an issuer would otherwise be subject to specified periodic disclosure requirements under subsection (c) and is no longer in operation, any successor entity that directly or indirectly received not less than 50 percent of the proceeds raised by the sale of the related securities of that issuer, and that is engaged in entrepreneurial or managerial efforts that primarily determine the value of the applicable ancillary asset, shall furnish, or cause to be furnished, to the Commission the information required under that subsection.
+ Put that on your resume brochure.
 
-"(2) Certain affiliates.—If an entity controlled by an issuer is subject to specified periodic disclosure requirements under subsection (c) and is engaged in entrepreneurial or managerial efforts that primarily determine the value of an ancillary asset, the entity may furnish to the Commission the information required under that subsection.
+My whole face could puff up.
 
-"(e) Voluntary Disclosure.—An issuer that is not subject to the specified periodic disclosure requirements under subsection (c) and that offers or sells a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of that security with an ancillary asset in connection with the acquisition of the security may voluntarily furnish to the Commission the information required under that subsection if the issuer believes that it is reasonably likely that the issuer will become subject to those requirements in the future.
+Make it one of your special skills.
 
-"(f) Exemptions.—The Commission may, by order, exempt an ancillary asset from the specified periodic disclosure requirements under subsection (c) if the Commission determines that the public policy goals of disclosure and consumer protection are not satisfied by requiring disclosures relating to an ancillary asset.
+Knocking someone out is also a special skill.
 
-"(g) Rule of Construction.—If an issuer fails to comply with a provision of this section, an ancillary asset provided by the issuer shall not be presumed to be a security under a provision of law described in subsection (b)(4)(A)(ii), solely because of such failure.
+Right. Bye, Vanessa. Thanks.
 
-"(h) Rules.—The Commission may adopt rules and guidance to implement this section, consistent with the statutory intent of this section.".
+Vanessa, next week? Yogurt night?
 
-&nbsp;
+Sure, Ken. You know, whatever.
 
-SEC. 302. TERMINATION OF SPECIFIED PERIODIC DISCLOSURE REQUIREMENTS.
+You could put carob chips on there.
 
-Section 41 of the Securities Exchange Act of 1934, as added by section 301 of this Act, is amended by adding at the end the following:
+Bye.
 
-"(i) Termination of Specified Periodic Disclosure Requirements.—
+Supposed to be less calories.
 
-"(1) In general.—The obligation of an issuer to furnish the information required under subsection (c) shall terminate on the date that is 90 days, or such shorter period as the Commission may determine, after the date on which the issuer files a certification described in paragraph (2).
+Bye.
 
-"(2) Certification.—
+I gotta say something. She saved my life. I gotta say something.
 
-"(A) In general.—A certification filed under paragraph (1) shall be supported by reasonable evidence, based on the knowledge of the issuer filing the certification, after due inquiry, that—
+All right, here it goes.
 
-"(i) the average daily aggregate value of all trading in the applicable ancillary asset in all spot markets open to the public in the United States in the 12-month period preceding the date on which the certification is filed was not greater than $5,000,000; or
+Nah.
 
-"(ii) during the 12-month period preceding the date on which the certification is filed, neither the applicable issuer, nor any entity controlled by the applicable issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+What would I say?
 
-"(B) Denial.—
+I could really get in trouble. It's a bee law. You're not supposed to talk to a human.
 
-"(i) In general.—Subject to subparagraph (C)(ii), the Commission may, by majority vote and after notice and opportunity for hearing, deny a certification filed under paragraph (1) if the Commission finds that the certification is not supported by substantial evidence.
+I can't believe I'm doing this. I've got to.
 
-"(ii) Effect.—The denial, under clause (i), of a certification filed under paragraph (1)—
+Oh, I can't do it. Come on!
 
-"(I) shall terminate the certification so filed; and
+No. Yes. No. Do it. I can't.
 
-"(II) shall not prevent the applicable issuer from filing another certification under paragraph (1), if the re-filed certification is filed not earlier than 180 days after the date on which the original certification is denied.
+How should I start it? "You like jazz?" No, that's no good.
 
-"(C) Pending status.—
+Here she comes! Speak, you fool!
 
-"(i) In general.—Termination of the disclosure requirements described in paragraph (1) applicable to an issuer that has filed a certification under that paragraph shall be deferred pending review by the Commission of the evidence supporting the certification.
+Hi!
 
-"(ii) Effect of delay.—If, as of the date that is 90 days after receiving a certification filed under paragraph (1), the Commission has not requested additional evidence with respect to the certification from the applicable issuer, the disclosure obligations that are the subject of the certification shall terminate.".
+I'm sorry. You're talking.
 
-&nbsp;
+Yes, I know.
 
-SEC. 303. GUIDANCE RELATING TO SATISFACTORY CONTROL LOCATION.
+You're talking!
 
-Not later than 180 days after the date of the enactment of this Act, the Securities and Exchange Commission (referred to in this title as the "Commission") shall issue guidance relating to section 240.15c3–3 of title 17, Code of Federal Regulations, or any successor regulation, providing that the requirement to designate a satisfactory control location for a digital asset that is, or may represent ownership of, a security may be satisfied by protecting the digital asset through commercially reasonable cybersecurity practices to maintain control of sufficient private key material to transfer control of the digital asset to another person, or to cause another person to obtain control of the digital asset, including by means of a smart contract that generates private key material without the involvement of a natural person.
+I'm so sorry.
 
-&nbsp;
+No, it's OK. It's fine.
 
-SEC. 304. CUSTODY AND CUSTOMER PROTECTION RULES.
+I know I'm dreaming. But I don't recall going to bed.
 
-(a) In General.—
+Well, I'm sure this is very disconcerting.
 
-(1) Modernization of existing rules and adoption of new rules.—Not later than 18 months after the date of enactment of this Act, the Commission shall—
+This is a bit of a surprise to me. I mean, you're a bee!
 
-(A) complete the multi-year study of the Commission with respect to the modernization of the rules of the Commission relating to customer protection (section 240.15c3–3 of title 17, Code of Federal Regulations) and custody of securities, digital assets, and client funds (section 275.206(4)–2 of title 17, Code of Federal Regulations); and
+I am. And I'm not supposed to be doing this, but they were all trying to kill me.
 
-(B) consistent with the results of the study described in subparagraph (A), adopt final rules relating to the issues described in paragraph (2).
+And if it wasn't for you... I had to thank you. It's just how I was raised.
 
-(2) Contents.—The final rules adopted under paragraph (1)(B) shall address the following concepts:
+That was a little weird. I'm talking with a bee.
 
-(A) Investor protection and education with respect to digital assets.
+Yeah.
 
-(B) Digital assets, distributed ledger technology, and use of collaborative custody or multi-signature arrangements, including distribution of private key material and resulting obligations.
+I'm talking to a bee. And the bee is talking to me!
 
-(C) Changes in market structure and asset characteristics, including disuse of physical securities and assets and appropriate custodial methods for electronically native assets.
+I just want to say I'm grateful.
 
-(D) Reduction of regulatory burden.
+I'll leave now.
 
-(E) Use of technology to facilitate regulatory compliance and risk management.
+Wait! How did you learn to do that?
 
-(F) Parity of State- and nationally-chartered banks, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)), with respect to asset custody in a manner consistent with that Act (15 U.S.C. 80b–1 et seq.) and other existing law.
+What?
 
-(G) Standards under which an issuer of an unregistered digital asset that is, or may represent ownership of, a security is not required to utilize a registered transfer agent.
+The talking thing.
 
-(H) Specification of the digital assets which constitute client funds under section 275.206(4)–2 of title 17, Code of Federal Regulations.
+Same way you did, I guess. "Mama, Dada, honey." You pick it up.
 
-(b) Digital Assets and Securities.—Not later than 270 days after the date of enactment of this Act, the Commission shall adopt final guidance permitting, for the purposes of section 240.15c3–3(b) of title 17, Code of Federal Regulations, a broker or a dealer to perform, within the same legal entity, both trading and custodial activities relating to fully-paid and excess margin digital assets, including virtual currency and digital assets that are securities or may represent ownership of securities, in addition to traditional securities, client funds, and other assets permitted by the Commission to be within the control of a broker or dealer.
+That's very funny.
 
-&nbsp;
+Yeah.
 
-# TITLE IV—RESPONSIBLE COMMODITIES INNOVATION
+Bees are funny. If we didn't laugh, we'd cry with what we have to deal with.
 
-SEC. 401. DEFINITIONS.
+Anyway... Can I... get you something?
 
-Section 1a of the Commodity Exchange Act (7 U.S.C. 1a) is amended—
+Like what?
 
-(1) in paragraph (9), by striking "and frozen concentrated orange juice" and inserting “frozen concentrated orange juice, and a digital asset (consistent with section 2(c)(2)(F))”;
+I don't know. I mean... I don't know. Coffee?
 
-(2) by inserting after paragraph (15) the following:
+I don't want to put you out.
 
-"(15A) Digital asset.—
+It's no trouble. It takes two minutes.
 
-"(A) In general.—Except as provided in subparagraph (B), the term ‘digital asset’ has the meaning given the term in section 9801 of title 31, United States Code.
+It's just coffee.
 
-"(B) Exclusion.—The term ‘digital asset’ does not include an asset that provides the holder of the asset with any of the following rights in a business entity:
+I hate to impose.
 
-"(i) A debt or equity interest in that entity.
+Don't be ridiculous!
 
-"(ii) Liquidation rights with respect to that entity.
+Actually, I would love a cup.
 
-"(iii) An entitlement to an interest or dividend payment from that entity.
+Hey, you want rum cake?
 
-"(iv) A profit or revenue share in that entity derived solely from the entrepreneurial or managerial efforts of others.
+I shouldn't.
 
-"(v) Any other financial interest in that entity.
+Have some.
 
-"(15B) Digital asset exchange.—The term ‘digital asset exchange’ means a trading facility that lists for trading at least 1 digital asset.";
+No, I can't.
 
-(3) in paragraph (28)(A)(i)—
+Come on!
 
-(A) in subclause (I)—
+I'm trying to lose a couple micrograms.
 
-(i) in item (aa)—
+Where?
 
-(I) in subitem (EE), by striking "or" at the end; and
+These stripes don't help.
 
-(II) by adding at the end the following:
+You look great!
 
-"(GG) the purchase or sale of a digital asset that is traded on or subject to the rules of a registered entity;";
+I don't know if you know anything about fashion.
 
-(ii) in item (bb), by striking "and" and inserting “or”; and
+Are you all right?
 
-(iii) by adding at the end the following:
+No.
 
-"(cc) acting as a counterparty to any cash or spot agreement, contract, or transaction involving a digital asset with a person who is not an eligible contract participant, unless the activity is—
+He's making the tie in the cab as they're flying up Madison.
 
-"(AA) conducted in compliance with the laws of the State in which the activity occurs;
+He finally gets there.
 
-"(BB) subject to regulation by another Federal authority; or
+He runs up the steps into the church.
 
-"(CC) separately regulated under this Act; and"; and
+The wedding is on.
 
-(B) in subclause (II), by striking "items (aa) or (bb)" and inserting “item (aa), (bb), or (cc)”;
+And he says, "Watermelon?
 
-(4) by inserting after paragraph (39) the following:
+I thought you said Guatemalan.
 
-"(39A) Registered digital asset exchange.—The term ‘registered digital asset exchange’ means a digital asset exchange registered under section 5i."; and
+Why would I marry a watermelon?"
 
-(5) in paragraph (40)—
+Is that a bee joke?
 
-(A) in subparagraph (E), by striking "and" at the end;
+That's the kind of stuff we do.
 
-(B) by redesignating subparagraph (F) as subparagraph (G); and
+Yeah, different.
 
-(C) by inserting after subparagraph (E) the following:
+So, what are you gonna do, Barry?
 
-"(F) a registered digital asset exchange; and".
+About work? I don't know.
 
-&nbsp;
+I want to do my part for The Hive, but I can't do it the way they want.
 
-SEC. 402. REPORTING AND RECORDKEEPING.
+I know how you feel.
 
-Section 4g of the Commodity Exchange Act (7 U.S.C. 6g) is amended—
+You do?
 
-(1) in subsection (a), by inserting "digital assets or" before “commodities”; and
+Sure.
 
-(2) in subsection (d), in the second sentence, by striking "commodity futures." and inserting “commodities.”.
+My parents wanted me to be a lawyer or a doctor, but I wanted to be a florist.
 
-&nbsp;
+Really?
 
-SEC. 403. CFTC JURISDICTION OVER DIGITAL ASSET TRANSACTIONS.
+My only interest is flowers.
 
-(a) Commission Jurisdiction Over Retail Digital Asset Transactions.—
+Our new queen was just elected with that same campaign slogan.
 
-(1) In general.—Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)) is amended—
+Anyway, if you look... There's my hive right there. See it?
 
-(A) in subparagraph (D)(ii)—
+You're in Sheep Meadow!
 
-(i) in subclause (III), in the matter preceding item (aa), by inserting "of a commodity, other than a digital asset," before “that”;
+Yes! I'm right off the Turtle Pond!
 
-(ii) by redesignating subclauses (IV) and (V) as subclauses (V) and (VI), respectively; and
+No way! I know that area. I lost a toe ring there once.
 
-(iii) by inserting after subclause (III) the following:
+Why do girls put rings on their toes?
 
-"(IV) a contract of sale of a digital asset that—
+Why not?
 
-"(aa) results in actual delivery within 2 days or such other period as the Commission may determine by rule based upon the typical commercial practice in cash or spot markets for the digital asset involved; or
+It's like putting a hat on your knee.
 
-"(bb) is executed on or subject to the rules of a registered digital asset exchange or with a registered futures commission merchant;"; and
+Maybe I'll try that.
 
-(B) by adding at the end the following:
+You all right, ma'am?
 
-"(F) Commission jurisdiction over digital asset transactions.—
+Oh, yeah. Fine.
 
-"(i) In general.—
+Just having two cups of coffee!
 
-"(I) Jurisdiction.—Subject to sections 6d and 12(e) and section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a), the Commission shall have exclusive jurisdiction over any agreement, contract, or transaction involving a contract of sale of a digital asset in interstate commerce, including ancillary assets (consistent with section 41(b)(4) of the Securities Exchange Act of 1934), except that specified periodic reporting requirements made by an issuer which provided the holder of the security with an ancillary asset under that section, and the security that constitutes an investment contract (within the meaning of section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1))), shall remain within the jurisdiction of the Securities and Exchange Commission.
+Anyway, this has been great.
 
-"(II) Fungibility requirement.—The Commission shall only exercise jurisdiction over an agreement, contract, or transaction involving a contract of sale of a digital asset that is fungible, which shall not include digital collectibles and other unique digital assets.
+Thanks for the coffee.
 
-"(ii) Withholding of rulemaking authority over certain transactions.—Notwithstanding clause (i), this subparagraph shall not be interpreted to permit the Commission to issue any rule regarding any agreement, contract, or transaction that is not offered, solicited, traded, facilitated, executed, cleared, reported, or otherwise dealt in—
+Yeah, it's no trouble.
 
-"(I) on or subject to the rules of a registered entity; or
+Sorry I couldn't finish it. If I did, I'd be up the rest of my life.
 
-"(II) by any other entity registered by the Commission.
+Are you...?
 
-"(iii) Limitation.—Clause (i) shall not apply to custodial activities with respect to a digital asset of an entity supervised or regulated by a State or other Federal regulatory agency.".
+Can I take a piece of this with me?
 
-(2) Conforming amendment.—Section 2(a)(1)(A) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)(A)) is amended, in the first sentence, by striking "section 19 of this Act" and inserting “subsection (c)(2)(F) or section 19”.
+Sure! Here, have a crumb.
 
-(b) Segregation of Digital Assets.—Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is amended by adding at the end the following:
+Thanks!
 
-"(i) Segregation of Digital Assets.—
+Yeah.
 
-"(1) Holding of customer assets.—
+All right. Well, then... I guess I'll see you around. Or not.
 
-"(A) In general.—Each futures commission merchant shall hold customer money, assets, and property in a manner to minimize the customer’s risk of loss of, or unreasonable delay in the access to, the money, assets, and property.
+OK, Barry.
 
-"(B) Custodian.—A futures commission merchant shall hold the property of a customer of the futures commission merchant with a licensed, chartered, or registered entity subject to regulation by 1 of the following agencies:
+And thank you so much again... for before.
 
-"(i) The Commission.
+Oh, that? That was nothing.
 
-"(ii) The Securities and Exchange Commission.
+Well, not nothing, but... Anyway...
 
-"(iii) An appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)).
+This can't possibly work.
 
-"(iv) A State bank supervisor (as defined in that section).
+He's all set to go.
 
-"(v) An appropriate foreign governmental authority in the home country of the custodian.
+We may as well try it.
 
-"(2) Segregation of funds.—
+OK, Dave, pull the chute.
 
-"(A) Definition of digital asset customer.—In this paragraph, the term ‘digital asset customer’ means a customer involved in a cash or spot, leveraged, margined, or financed digital asset transaction in which the futures commission merchant is acting as the counterparty.
+Sounds amazing.
 
-"(B) Requirements.—
+It was amazing!
 
-"(i) In general.—A futures commission merchant shall treat and deal with all money, assets, and property of any digital asset customer received as belonging to the customer.
+It was the scariest, happiest moment of my life.
 
-"(ii) Commingling prohibited.—Money, assets, and property of a digital asset customer described in clause (i)—
+Humans! I can't believe you were with humans!
 
-"(I) shall be separately accounted for; and
+Giant, scary humans!
 
-"(II) shall not be—
+What were they like?
 
-"(aa) commingled with the funds of the futures commission merchant; or
+Huge and crazy. They talk crazy.
 
-"(bb) used to margin, secure, or guarantee any trades or accounts of any customer or person other than the person for whom the money, assets, or property are held.
+They eat crazy giant things.
 
-"(C) Exceptions.—
+They drive crazy.
 
-"(i) Use of funds.—
+Do they try and kill you, like on TV?
 
-"(I) In general.—Notwithstanding subparagraph (B), money, assets, and property of a digital asset customer may, for convenience, be commingled and deposited in the same account or accounts with an entity described in paragraph (1)(B).
+Some of them. But some of them don't.
 
-"(II) Withdrawal.—Notwithstanding subparagraph (B), the share of the money, assets, and property described in subclause (I) as in the normal course of business is necessary to margin, guarantee, secure, transfer, adjust, or settle a digital asset transaction with a registered entity may be withdrawn and applied to those purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with the digital asset transaction.
+How'd you get back?
 
-"(ii) Commission action.—Notwithstanding subparagraph (B), in accordance with such terms and conditions as the Commission may prescribe by rule or order, any money, assets, or property of a digital asset customer may be commingled and deposited in customer accounts with any other money, assets, or property received by the futures commission merchant and required by the Commission to be separately accounted for and treated and dealt with as belonging to the digital asset customer.
+Poodle.
 
-"(D) Permitted investments.—Money of a digital asset customer may be invested—
+You did it, and I'm glad. You saw whatever you wanted to see.
 
-"(i) in—
+You had your "experience." Now you can pick out yourjob and be normal.
 
-"(I) obligations of the United States;
+Well...
 
-"(II) general obligations of any State or of any political subdivision of a State;
+Well?
 
-"(III) obligations fully guaranteed as to principal and interest by the United States; or
+Well, I met someone.
 
-"(IV) any other investment that the Commission may by rule prescribe; and
+You did? Was she Bee-ish?
 
-"(ii) in accordance with such rules and subject to such conditions as the Commission may prescribe.
+A wasp?! Your parents will kill you!
 
-"(E) Prohibition.—It shall be unlawful for any person, including any derivatives clearing organization or depository institution, that has received any money, assets, or property for deposit in a separate account or accounts as required by subparagraph (B) to hold, dispose of, or use any of the money, assets, or property that belongs to the depositing futures commission merchant or any person other than the digital asset customer of the futures commission merchant.
+No, no, no, not a wasp.
 
-"(3) Customer right to opt out.—
+Spider?
 
-"(A) In general.—A customer shall have the right to waive any requirement under this subsection by affirmatively electing, in writing to the futures commission merchant, to waive the requirement.
+I'm not attracted to spiders.
 
-"(B) Limitations.—The Commission may, by rule, establish notice and disclosure requirements, segregation requirements, investment limitations, and other rules relating to the waiving of any requirement under this subsection that are reasonably necessary to protect customers, including eligible contract participants, non-eligible contract participants, and any other class of customers.".
+I know it's the hottest thing, with the eight legs and all. I can't get by that face.
 
-(c) Limitation on Futures Commission Merchants Acting as a Counterparty in Digital Asset Transactions.—Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) (as amended by subsection (b)) is amended by adding at the end the following:
+So who is she?
 
-"(j) Limitation on Futures Commission Merchants Acting as a Counterparty in Digital Asset Transactions.—A registered futures commission merchant shall not act as a counterparty in any agreement, contract, or transaction involving a digital asset that has not been listed for trading on a registered digital asset exchange.".
+She's... human.
 
-(d) Common Provisions Applicable to Registered Entities.—Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–2) is amended—
+No, no. That's a bee law. You wouldn't break a bee law.
 
-(1) in subsection (a)(1), by striking "5(d) and 5b(c)(2)" and inserting “5(d), 5b(c)(2), and 5i(c)”;
+Her name's Vanessa.
 
-(2) in subsection (b), by inserting "registered digital asset exchange," before “derivatives” each place it appears; and
+Oh, boy.
 
-(3) in subsection (c)—
+She's so nice. And she's a florist!
 
-(A) in paragraph (2), by inserting "or participants" before “(in a”;
+Oh, no! You're dating a human florist!
 
-(B) in paragraph (4)(B), by striking "1a(10)" and inserting “1a(9)”; and
+We're not dating.
 
-(C) in paragraph (5), by adding at the end the following:
+You're flying outside The Hive, talking to humans that attack our homes with power washers and M-80s! One-eighth a stick of dynamite!
 
-"(D) Special rules for the listing of certain digital assets.—
+She saved my life! And she understands me.
 
-"(i) In general.—In the case of listing for trading a digital asset that has not previously been listed for trading on another registered entity—
+This is over!
 
-"(I) paragraphs (2) and (3) shall apply as if the listing were a rule; and
+Eat this.
 
-"(II) paragraph (2) shall be applied by substituting ‘20 business days’ for ‘10 business days’.
+This is not over! What was that?
 
-"(ii) Transitional extension.—During the 1-year period beginning on the date of the registration of the first digital asset exchange, the Commission shall have an additional 20 business days to review any certification under clause (i).
+They call it a crumb.
 
-"(iii) Consideration of comments.—In conducting a review under clause (i), the Commission shall consider any comments provided by the Securities and Exchange Commission with respect to the legal classification of a digital asset.".
+It was so stingin' stripey!
 
-&nbsp;
+And that's not what they eat.
 
-SEC. 404. REGISTRATION OF DIGITAL ASSET EXCHANGES.
+That's what falls off what they eat!
 
-(a) In General.—The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 5h the following:
+You know what a Cinnabon is?
 
-"SEC. 5i. REGISTRATION OF DIGITAL ASSET EXCHANGES.
+No.
 
-"(a) Definition of Customer.—In this section, the term ‘customer’ means any person that maintains an account for the trading of digital assets directly with a registered digital asset exchange (other than a person that is owned or controlled, directly or indirectly, by the registered digital asset exchange) on behalf of the person or any other person.
+It's bread and cinnamon and frosting. They heat it up...
 
-"(b) Registration.—
+Sit down!
 
-"(1) In general.—Any trading facility that offers or seeks to offer a market in digital assets may register with the Commission as a digital asset exchange by submitting to the Commission an application in such form and containing such information as the Commission may require for the purpose of making the determinations required for approval under subsections (d) and (f).
+...really hot!
 
-"(2) Deemed registration.—A registered designated contract market or registered swap execution facility that fulfills the requirements of this section may elect to be considered a registered digital asset exchange, in such form and manner as the Commission shall prescribe.
+Listen to me!
 
-"(3) Additional registration.—A registered digital asset exchange shall be registered with the Secretary of the Treasury as a money services business.
+We are not them! We're us.
 
-"(c) Trading.—
+There's us and there's them!
 
-"(1) In general.—A registered digital asset exchange may make available for trading any digital asset that is not readily susceptible to manipulation, subject to this subsection.
+Yes, but who can deny the heart that is yearning?
 
-"(2) Rules governing margined or leveraged trading.—The Commission may make, promulgate, and enforce such additional rules governing margined, leveraged, or financed transactions as are reasonably necessary to protect market participants and promote the orderly settlement of transactions with respect to—
+There's no yearning. Stop yearning. Listen to me!
 
-"(A) disclosure;
+You have got to start thinking bee, my friend. Thinking bee!
 
-"(B) recordkeeping;
+Thinking bee.
 
-"(C) capital, margin, and other financial resources;
+Thinking bee.
 
-"(D) reporting;
+Thinking bee! Thinking bee! Thinking bee! Thinking bee!
 
-"(E) business conduct;
+There he is. He's in the pool.
 
-"(F) documentation; and
+You know what your problem is, Barry?
 
-"(G) such other matters as the Commission determines to be necessary.
+I gotta start thinking bee?
 
-"(3) Prohibition on trading derivatives products.—Registration as a digital asset exchange shall not permit a trading facility to offer any contract of sale of a commodity for future delivery, option, or swap for trading without also being registered as a designated contract market or swap execution facility.
+How much longer will this go on?
 
-"(d) Core Principles for Digital Asset Exchanges.—
+It's been three days! Why aren't you working?
 
-"(1) Compliance with core principles.—
+I've got a lot of big life decisions to think about.
 
-"(A) In general.—To be registered, and maintain registration, as a digital asset exchange, the registered digital asset exchange shall comply with—
+What life? You have no life!
 
-"(i) the core principles described in this subsection; and
+You have no job. You're barely a bee!
 
-"(ii) any requirement that the Commission may impose by rule pursuant to section 8a(5).
+Would it kill you to make a little honey?
 
-"(B) Reasonable discretion of digital asset exchange.—Unless otherwise determined by the Commission by rule, a registered digital asset exchange described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the registered digital asset exchange complies with the core principles described in this subsection.
+Barry, come out. Your father's talking to you.
 
-"(2) Compliance with rules.—A registered digital asset exchange shall—
+Martin, would you talk to him?
 
-"(A) establish and enforce compliance with 1 or more rules of the registered digital asset exchange, including—
+Barry, I'm talking to you!
 
-"(i) the terms and conditions of the trades traded or processed on or through the registered digital asset exchange; and
+You coming?
 
-"(ii) any limitation on access to the registered digital asset exchange;
+Got everything?
 
-"(B) establish and enforce compliance with trading, trade processing, and participation rules that will deter abuses and have the capacity to detect, investigate, and enforce violations of those rules, including means—
+All set!
 
-"(i) to provide market participants with impartial access to the market; and
+Go ahead. I'll catch up.
 
-"(ii) to capture information that may be used in establishing whether rule violations have occurred; and
+Don't be too long.
 
-"(C) establish rules governing the operation of the registered digital asset exchange, including rules specifying trading procedures to be used in entering and executing orders traded or posted on the registered digital asset exchange.
+Watch this!
 
-"(3) Digital assets not readily susceptible to manipulation.—
+Vanessa!
 
-"(A) In general.—A registered digital asset exchange shall permit trading only in assets that are not readily susceptible to manipulation.
+We're still here.
 
-"(B) Listing restrictions.—A registered digital asset exchange shall not permit trading in a digital asset if it is reasonably likely that—
+I told you not to yell at him.
 
-"(i) the transaction history of the digital asset can be fraudulently altered by any person or group of persons acting collectively; or
+He doesn't respond to yelling!
 
-"(ii) the functionality or operation of the digital asset can be materially altered by any person or group of persons under common control.
+Then why yell at me?
 
-"(C) Considerations.—In assessing a digital asset under this paragraph, a registered digital asset exchange shall consider—
+Because you don't listen!
 
-"(i) the purpose and use of the digital asset;
+I'm not listening to this.
 
-"(ii) the creation or release process of the digital asset;
+Sorry, I've gotta go.
 
-"(iii) the consensus mechanism of the digital asset;
+Where are you going?
 
-"(iv) the governance structure of the digital asset;
+I'm meeting a friend.
 
-"(v) the participation and distribution of the digital asset;
+A girl? Is this why you can't decide?
 
-"(vi) the current and proposed functionality of the digital asset;
+Bye.
 
-"(vii) the legal classification of the digital asset; and
+I just hope she's Bee-ish.
 
-"(viii) any other factor required by the Commission.
+They have a huge parade of flowers every year in Pasadena?
 
-"(4) Treatment of customer assets.—
+To be in the Tournament of Roses, that's every florist's dream!
 
-"(A) Required standards and procedures.—A registered digital asset exchange shall establish standards and procedures that are designed to protect and ensure the safety of customer money, assets, and property.
+Up on a float, surrounded by flowers, crowds cheering.
 
-"(B) Holding of customer assets.—
+A tournament. Do the roses compete in athletic events?
 
-"(i) In general.—A registered digital asset exchange shall hold customer money, assets, and property in a manner to minimize the customer’s risk of loss of, or unreasonable delay in the access to, the money, assets, and property.
+No. All right, I've got one.
 
-"(ii) Segregation of funds.—
+How come you don't fly everywhere?
 
-"(I) In general.—A registered digital asset exchange shall treat and deal with all money, assets, and property of any customer received as belonging to the customer.
+It's exhausting. Why don't you run everywhere? It's faster.
 
-"(II) Commingling prohibited.—Money, assets, and property of a customer described in subclause (I)—
+Yeah, OK, I see, I see.
 
-"(aa) shall be separately accounted for; and
+All right, your turn.
 
-"(bb) shall not be—
+TiVo. You can just freeze live TV? That's insane!
 
-"(AA) commingled with the funds of the registered digital asset exchange; or
+You don't have that?
 
-"(BB) used to margin, secure, or guarantee any trades or accounts of any customer or person other than the person for whom the money, assets, or property are held.
+We have Hivo, but it's a disease. It's a horrible, horrible disease.
 
-"(iii) Exceptions.—
+Oh, my.
 
-"(I) Use of funds.—
+Dumb bees!
 
-"(aa) In general.—Notwithstanding clause (ii), money, assets, and property of customers of a registered digital asset exchange may, for convenience, be commingled and deposited with an entity described in section 4d(i)(1)(B).
+You must want to sting all those jerks.
 
-"(bb) Withdrawal.—Notwithstanding clause (ii), the share of the money, assets, and property described in item (aa) as in the normal course of business is necessary to margin, guarantee, secure, transfer, adjust, or settle a digital asset transaction with a registered entity may be withdrawn and applied to those purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with the digital asset transaction.
+We try not to sting. It's usually fatal for us.
 
-"(II) Commission action.—Notwithstanding clause (ii), in accordance with such terms and conditions as the Commission may prescribe by rule or order, any money, assets, or property of the customers of a registered digital asset exchange may be commingled and deposited in customer accounts with any other money, assets, or property received by the registered digital asset exchange and required by the Commission to be separately accounted for and treated and dealt with as belonging to the customer of the registered digital asset exchange.
+So you have to watch your temper.
 
-"(C) Permitted investments.—Money described in subparagraph (B)(ii)(I) may be invested—
+Very carefully.
 
-"(i) in—
+You kick a wall, take a walk, write an angry letter and throw it out. Work through it like any emotion: Anger, jealousy, lust.
 
-"(I) obligations of the United States;
+Oh, my goodness! Are you OK?
 
-"(II) general obligations of any State or of any political subdivision of a State;
+Yeah.
 
-"(III) obligations fully guaranteed as to principal and interest by the United States; or
+What is wrong with you?!
 
-"(IV) any other investment that the Commission may by rule prescribe; and
+It's a bug.
 
-"(ii) in accordance with such rules and subject to such conditions as the Commission may prescribe.
+He's not bothering anybody.
 
-"(D) Misuse of customer property.—It shall be unlawful—
+Get out of here, you creep!
 
-"(i) for any registered digital asset exchange that has received any customer money, assets, or property for custody to dispose of, or use any of the money, assets, or property as belonging to the registered digital asset exchange; or
+What was that? A Pic 'N' Save circular?
 
-"(ii) for any other person, including any other registered digital asset exchange or custodian that has received any customer money, assets, or property for deposit, to hold, dispose of, or use any of the money, assets, or property as belonging to—
+Yeah, it was. How did you know?
 
-"(I) the registered digital asset exchange that deposited the money, assets, or property; or
+It felt like about 10 pages. Seventy-five is pretty much our limit.
 
-"(II) any person other than the customers of the registered digital asset exchange.
+You've really got that down to a science.
 
-"(E) Customer right to opt out.—
+I lost a cousin to Italian Vogue.
 
-"(i) In general.—A customer shall have the right to waive any requirement under subparagraph (B) by affirmatively electing, in writing to the registered digital asset exchange, to waive the requirement.
+I'll bet.
 
-"(ii) Limitations.—The Commission may, by rule, establish notice and disclosure requirements, segregation requirements, investment limitations, and other rules relating to the waiving of any requirement under this paragraph that is reasonably necessary to protect customers, including eligible contract participants, non-eligible contract participants, or any other class of customers.
+What in the name of Mighty Hercules is this?
 
-"(5) Monitoring of trading and trade processing.—
+How did this get here? cute Bee, Golden Blossom, Ray Liotta Private Select?
 
-"(A) In general.—A registered digital asset exchange shall provide a competitive, open, and efficient market and mechanism for executing transactions that protects the price discovery process of trading on the registered digital asset exchange.
+Is he that actor?
 
-"(B) Protection of markets and market participants.—A registered digital asset exchange shall establish and enforce compliance with rules—
+I never heard of him.
 
-"(i) to protect markets and market participants from abusive practices committed by any party, including abusive practices committed by a party acting as an agent for a participant; and
+Why is this here?
 
-"(ii) to promote fair and equitable trading on the registered digital asset exchange.
+For people. We eat it.
 
-"(C) Procedures and monitoring.—A registered digital asset exchange shall—
+You don't have enough food of your own?
 
-"(i) establish and enforce compliance with rules or terms and conditions defining, or specifications detailing—
+Well, yes.
 
-"(I) trading procedures to be used in entering and executing orders traded on or through the facilities of the registered digital asset exchange; and
+How do you get it?
 
-"(II) procedures for trade processing of digital assets on or through the facilities of the registered digital asset exchange; and
+Bees make it.
 
-"(ii) monitor trading in digital assets to prevent manipulation, price distortion, and disruptions of the delivery or cash settlement process through surveillance, and compliance, including methods for conducting real-time monitoring of trading and comprehensive and accurate trade reconstructions.
+I know who makes it! And it's hard to make it!
 
-"(6) Ability to obtain information.—A registered digital asset exchange shall—
+There's heating, cooling, stirring. You need a whole Krelman thing!
 
-"(A) establish and enforce rules that will allow the registered digital asset exchange to obtain any necessary information to perform any of the functions described in this section;
+It's organic.
 
-"(B) provide the information to the Commission on request; and
+It's our-ganic!
 
-"(C) have the capacity to carry out such international information-sharing agreements as the Commission may require.
+It's just honey, Barry.
 
-"(7) Emergency authority.—A registered digital asset exchange shall adopt rules to provide for the exercise of emergency authority, in consultation or cooperation with the Commission or a registered entity, as is necessary and appropriate, including the authority to facilitate the liquidation or transfer of open positions in any digital asset or to suspend or curtail trading in a digital asset.
+Just what?!
 
-"(8) Reporting requirements.—
+Bees don't know about this! This is stealing! A lot of stealing!
 
-"(A) In general.—A registered digital asset exchange shall provide to the Commission information that is determined by the Commission to be necessary to perform any responsibility of the Commission under this Act.
+You've taken our homes, schools,hospitals! This is all we have!
 
-"(B) Timely publication of trading information.—
+And it's on sale?! I'm getting to the bottom of this.
 
-"(i) In general.—
+I'm getting to the bottom of all of this!
 
-"(I) Publication.—A registered digital asset exchange shall make public timely information on price, trading volume, and other trading data on digital assets to the extent prescribed by the Commission.
+Hey, Hector. You almost done?
 
-"(II) Accessibility.—A registered digital asset exchange may make trading data freely accessible to the public under rules established by the Commission.
+Almost.
 
-"(ii) Capacity of digital asset exchange.—A registered digital asset exchange shall be required to have the capacity to electronically capture and transmit trade information with respect to transactions executed on the registered digital asset exchange.
+He is here. I sense it.
 
-"(9) Recordkeeping and reporting.—
+Well, I guess I'll go home now and just leave this nice honey out, with no one around.
 
-"(A) In general.—A registered digital asset exchange shall—
+You're busted, box boy!
 
-"(i) maintain records of all activities relating to the business of the registered digital asset exchange, including a complete audit trail, in a form and manner acceptable to the Commission for a period of 5 years;
+I knew I heard something.
 
-"(ii) report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this Act; and
+So you can talk!
 
-"(iii) keep any records relating to ancillary assets open to inspection and examination by the Securities and Exchange Commission.
+I can talk. And now you'll start talking!
 
-"(B) Information-sharing.—Subject to section 8, and on request, the Commission shall share information collected under subparagraph (A) with—
+Where you getting the sweet stuff? Who's your supplier?
 
-"(i) a self-regulatory organization;
+I don't understand.
 
-"(ii) the Securities and Exchange Commission;
+I thought we were friends.
 
-"(iii) an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813));
+The last thing we want to do is upset bees!
 
-"(iv) a State bank supervisor (as defined in that section);
+You're too late! It's ours now!
 
-"(v) a State securities or commodities regulator;
+You, sir, have crossed the wrong sword!
 
-"(vi) the Financial Stability Oversight Council;
+You, sir, will be lunch for my iguana, Ignacio!
 
-"(vii) the Department of Justice; and
+Where is the honey coming from? Tell me where!
 
-"(viii) any other person that the Commission determines to be appropriate, including—
+Honey Farms! It comes from Honey Farms!
 
-"(I) foreign financial supervisors (including foreign futures authorities);
+Crazy person!
 
-"(II) foreign central banks; and
+What horrible thing has happened here?
 
-"(III) foreign ministries.
+These faces, they never knew what hit them. And now
 
-"(C) Confidentiality agreement.—Before the Commission may share information with any entity described in subparagraph (B), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 8 relating to the information on digital asset transactions that is provided.
+they're on the road to nowhere!
 
-"(D) Providing information.—Each registered digital asset exchange shall provide to the Commission (including any designee of the Commission) information under subparagraph (A) in such form and at such frequency as is required by the Commission.
+Just keep still.
 
-"(10) Antitrust considerations.—Unless necessary or appropriate to achieve the purposes of this Act, a registered digital asset exchange shall not—
+What? You're not dead?
 
-"(A) adopt any rules or take any actions that result in any unreasonable restraint of trade; or
+Do I look dead? They will wipe anything that moves. Where you headed?
 
-"(B) impose any material anticompetitive burden on trading.
+To Honey Farms. I am onto something huge here.
 
-"(11) Conflicts of interest.—A registered digital asset exchange shall—
+I'm going to Alaska. Moose blood, crazy stuff. Blows your head off!
 
-"(A) establish and enforce rules to minimize conflicts of interest in the decisionmaking process of the registered digital asset exchange; and
+I'm going to Tacoma.
 
-"(B) establish a process for resolving conflicts of interest described in subparagraph (A).
+And you?
 
-"(12) Financial resources.—
+He really is dead.
 
-"(A) In general.—A registered digital asset exchange shall have adequate financial, operational, and managerial resources, as determined by the Commission, to discharge each responsibility of the registered digital asset exchange.
+All right.
 
-"(B) Minimum amount of financial resources.—A registered digital asset exchange shall possess financial resources that, at a minimum, exceed the total amount that would enable the registered digital asset exchange to conduct an orderly wind-down of the activities of the registered digital asset exchange.
+Uh-oh!
 
-"(C) Additional financial resources for leverage trading.—The Commission may require such additional financial resources as are necessary to enable a registered digital asset exchange that offers margined, leveraged, or financed transactions to fulfill the customer obligations of the registered digital asset exchange.
+What is that?!
 
-"(13) Governance fitness standards.—
+Oh, no!
 
-"(A) Governance arrangements.—A registered digital asset exchange shall establish governance arrangements that are transparent to fulfill public interest requirements.
+A wiper! Triple blade!
 
-"(B) Fitness standards.—A registered digital asset exchange shall establish and enforce appropriate fitness standards for—
+Triple blade?
 
-"(i) directors;
+Jump on! It's your only chance, bee!
 
-"(ii) any individual or entity with direct access to the settlement activities of the registered digital asset exchange;
+Why does everything have
 
-"(iii) any individual or entity with direct access to any custodian affiliated with the registered digital asset exchange;
+to be so doggone clean?!
 
-"(iv) any entity offering affiliated services for the registered digital asset exchange; and
+How much do you people need to see?!
 
-"(v) any party affiliated with any individual or entity described in clauses (i) through (iv).
+Open your eyes!
 
-"(14) System safeguards.—A registered digital asset exchange shall—
+Stick your head out the window!
 
-"(A) establish and maintain a program of risk analysis and oversight to identify and minimize sources of operational and security risks, through the development of appropriate controls and procedures and automated systems that—
+From NPR News in Washington,
 
-"(i) are reliable and secure; and
+I'm Carl Kasell.
 
-"(ii) have adequate scalable capacity;
+But don't kill no more bugs!
 
-"(B) establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for—
+Bee!
 
-"(i) the timely recovery and resumption of operations; and
+Moose blood guy!!
 
-"(ii) the fulfillment of the responsibilities and obligations of the registered digital asset exchange; and
+You hear something?
 
-"(C) periodically conduct tests to verify that the backup resources of the registered digital asset exchange are sufficient to ensure continued—
+Like what?
 
-"(i) order processing and trade matching;
+Like tiny screaming.
 
-"(ii) price reporting;
+Turn off the radio.
 
-"(iii) market surveillance; and
+Whassup, bee boy?
 
-"(iv) maintenance of a comprehensive and accurate audit trail.
+Hey, Blood.
 
-"(e) Appointment of Trustee.—
+Just a row of honey jars, as far as the eye could see.
 
-"(1) In general.—If a proceeding under section 5e results in the suspension or revocation of the registration of a digital asset exchange, or if a digital asset exchange withdraws from registration, the Commission, after providing notice to the digital asset exchange, may apply to the district court of the United States for the judicial district in which the digital asset exchange is located for the appointment of a trustee.
+Wow!
 
-"(2) Assumption of jurisdiction.—If the Commission applies to a court for appointment of a trustee under paragraph (1)—
+I assume wherever this truck goes is where they're getting it. I mean, that honey's ours.
 
-"(A) the court may take exclusive jurisdiction over—
+Bees hang tight. We're all jammed in.
 
-"(i) the digital asset exchange; and
+It's a close community.
 
-"(ii) the records and assets of the digital asset exchange, wherever those records and assets are located; and
+Not us, man. We on our own. Every mosquito on his own.
 
-"(B) if the court takes jurisdiction under subparagraph (A), the court shall appoint the Commission, or a person designated by the Commission, as trustee with power to take possession and continue to operate or terminate the operations of the digital asset exchange in an orderly manner for the protection of customers, subject to such terms and conditions as the court may prescribe.
+What if you get in trouble?
 
-"(f) Custodian.—A registered digital asset exchange shall deposit with an entity described in section 4d(i)(1)(B) each digital asset that is—
+You a mosquito, you in trouble. Nobody likes us. They just smack. See a mosquito, smack, smack!
 
-"(1) the property of a customer of the registered digital asset exchange;
+At least you're out in the world. You must meet girls.
 
-"(2) required to be held by the registered digital asset exchange under subsection (c)(2) or (d)(12); or
+Mosquito girls try to trade up, get with a moth, dragonfly. Mosquito girl don't want no mosquito.
 
-"(3) otherwise required by the Commission to be so held to reasonably protect customers or promote the public interest.
+You got to be kidding me!
 
-"(g) Exemptions.—
+Mooseblood's about to leave the building! So long, bee!
 
-"(1) In general.—To promote responsible economic or financial innovation and fair competition, or protect customers, the Commission may exempt, either unconditionally or on stated terms or conditions or for stated periods, and retroactively, prospectively, or both, a registered digital asset exchange from the requirements of this section, if the Commission determines that—
+Hey, guys!
 
-"(A) the exemption—
+Mooseblood!
 
-"(i) will be consistent with the public interest and the purposes of this Act; and
+I knew I'd catch y'all down here.
 
-"(ii) will not have a material adverse effect on the ability of the Commission or the registered digital asset exchange to discharge duties under this Act; or
+Did you bring your crazy straw?
 
-"(B) the registered digital asset exchange is subject to comparable, comprehensive regulation by the appropriate government authorities in the home country of the registered digital asset exchange.
+We throw it in jars, slap a label on it, and it's pretty much pure profit.
 
-"(2) Process.—The Commission may grant an exemption under paragraph (1)—
+What is this place?
 
-"(A) on the initiative of the Commission; or
+A bee's got a brain the size of a pinhead.
 
-"(B) after receiving an application for the exemption by the registered digital asset exchange.
+They are pinheads!
 
-"(h) Jurisdiction.—Notwithstanding any other provision of law, the Commission shall have exclusive jurisdiction over the regulation and all other activities of a registered digital asset exchange.
+Pinhead.
 
-"(i) Implementation.—The Commission may prescribe rules to implement this section.".
+Check out the new smoker.
 
-(b) Certain Digital Asset Exchange Functions Not Sufficient to Trigger Requirement to Register as Futures Commission Merchant.—Section 4f(c) of the Commodity Exchange Act (7 U.S.C. 6f(c)) is amended by adding at the end the following:
+Oh, sweet. That's the one you want. The Thomas 3000!
 
-"(12) Clarification of Scope of Registration Requirement.—A registered digital asset exchange shall not be required to register as a futures commission merchant for any activity for which the registered digital asset exchange is regulated under section 5i.".
+Smoker?
 
-&nbsp;
+Ninety puffs a minute, semi-automatic. Twice the nicotine, all the tar. A couple breaths of this knocks them right out.
 
-SEC. 405. VIOLATIONS.
+They make the honey, and we make the money.
 
-Section 9 of the Commodity Exchange Act (7 U.S.C. 13) is amended—
+"They make the honey, and we make the money"?
 
-(1) in subsection (a)(2), by striking "subsection 4c" and inserting “section 4c”; and
+Oh, my!
 
-(2) in subsection (e)—
+What's going on? Are you OK?
 
-(A) in paragraph (1), by inserting "contracts for the sale of digital assets," after “options thereon,”; and
+Yeah. It doesn't last too long.
 
-(B) in paragraph (2), by inserting "or contracts for the sale of digital assets" after “options thereon”.
+Do you know you're in a fake hive with fake walls?
 
-&nbsp;
+Our queen was moved here. We had no choice.
 
-SEC. 406. MARKET REPORTS.
+This is your queen? That's a man in women's clothes! That's a drag queen!
 
-Section 16(a) of the Commodity Exchange Act (7 U.S.C. 20(a)) is amended—
+What is this?
 
-(1) in the first sentence, by striking "which are the subject of futures contracts," and inserting “under the jurisdiction of the Commission,”; and
+Oh, no!
 
-(2) in the second sentence, by striking "futures markets." and inserting “markets under the jurisdiction of the Commission.”.
+There's hundreds of them!
 
-&nbsp;
+Bee honey.
 
-SEC. 407. BANKRUPTCY TREATMENT OF DIGITAL ASSETS.
+Our honey is being brazenly stolen on a massive scale!
 
-(a) In General.—Section 20(a) of the Commodity Exchange Act (7 U.S.C. 24(a)) is amended in paragraphs (1) and (2) by inserting "digital assets," after “securities,” each place it appears.
+This is worse than anything bears have done! I intend to do something.
 
-(b) Commodity Broker Definition.—Section 101(6) of title 11, United States Code, is amended by inserting "registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," before “foreign”.
+Oh, Barry, stop.
 
-(c) Commodities Contracts.—Section 556 of title 11, United States Code, is amended by inserting "a registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," before “a contract”.
+Who told you humans are taking our honey? That's a rumor.
 
-(d) Contractual Rights.—Section 561 of title 11, United States Code, is amended by inserting "registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," after “designated under the Commodity Exchange Act” each place it appears.
+Do these look like rumors?
 
-(e) Definitions.—Section 761 of title 11, United States Code, is amended—
+That's a conspiracy theory. These are obviously doctored photos. How did you get mixed up in this?
 
-(1) in paragraph (4)—
+He's been talking to humans.
 
-(A) in subparagraph (A), by inserting "digital asset or a" before “commodity”;
+What? Talking to humans?!
 
-(B) in subparagraph (I), by striking "or" at the end;
+He has a human girlfriend. And they make out!
 
-(C) in subparagraph (J), by adding "or" at the end; and
+Make out? Barry!
 
-(D) by adding at the end the following:
+We do not.
 
-"(K) a contract for the sale of a digital asset by a registered digital asset exchange;"; and
+You wish you could.
 
-(2) in paragraph (10)—
+Whose side are you on?
 
-(A) in the matter preceding subparagraph (A)—
+The bees!
 
-(i) by inserting "a digital asset," after “a security,”; and
+I dated a cricket once in San Antonio. Those crazy legs kept me up all night.
 
-(ii) by inserting "digital asset," after “cash, security,”;
+Barry, this is what you want to do with your life?
 
-(B) in subparagraph (A)—
+I want to do it for all our lives. Nobody works harder than bees!
 
-(i) in clause (vi), by inserting "a digital asset," after “a security,”; and
+Dad, I remember you coming home so overworked
 
-(ii) in clause (vii)—
+your hands were still stirring. You couldn't stop.
 
-(I) by inserting "or a digital asset" before “held as property”;
+I remember that.
 
-(II) by inserting "or digital asset" after “such security”; and
+What right do they have to our honey?
 
-(III) by inserting "or digital asset" after “based on a security”; and
+We live on two cups a year. They put it in lip balm for no reason whatsoever!
 
-(C) in subparagraph (B)—
+Even if it's true, what can one bee do?
 
-(i) by striking "not including property" and inserting “not including—
+Sting them where it really hurts.
 
-"(i) property";
+In the face! The eye!
 
-(ii) in clause (i), as so designated, by adding "and" at the end; and
+That would hurt.
 
-(iii) by adding at the end the following:
+No.
 
-"(ii) money, assets, or property with respect to which any requirement under subsection (i) of section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is waived pursuant to paragraph (3) of that subsection, or any requirement under subparagraph (B) of paragraph (4) of section 5i(d) of that Act is waived pursuant to subparagraph (E) of that paragraph;".
+Up the nose? That's a killer.
 
-(f) Voidable Transfers.—Section 764(b)(1) of title 11, United States Code, is amended by inserting ", digital assets" before “, or other property”.
+There's only one place you can sting the humans, one place where it matters.
 
-(g) Treatment of Customer Property.—Section 766 of title 11, United States Code, is amended—
+Hive at Five, The Hive's only full-hour action news source.
 
-(1) in subsection (b)(1), by striking "physical commodity underlying" and inserting “commodity underlying”;
+No more bee beards!
 
-(2) in subsection (c), by inserting "digital asset," before “or commodity contract” each place the term appears;
+With Bob Bumble at the anchor desk. Weather with Storm Stinger. Sports with Buzz Larvi. And Jeanette Chung.
 
-(3) in subsection (d), by inserting "digital asset," before “or commodity contract” each place the term appears;
+Good evening. I'm Bob Bumble.
 
-(4) in subsection (f)—
+And I'm Jeanette Ohung.
 
-(A) in striking "and other property" and inserting “digital assets, and other property”; and
+A tri-county bee, Barry Benson, intends to sue the human race for stealing our honey, packaging it and profiting from it illegally!
 
-(B) by striking "or property" and inserting “, digital assets, or property”;
+Tomorrow night on Bee Larry King, we'll have three former queens here in our studio, discussing their new book, classy Ladies, out this week on Hexagon.
 
-(5) in subsection (g), by striking "security or property" and inserting “security, digital asset, or property”; and
+Tonight we're talking to Barry Benson.
 
-(6) in subsection (h)(2), by inserting "digital assets," after “customer securities,”.
+Did you ever think, "I'm a kid from The Hive. I can't do this"?
 
-&nbsp;
+Bees have never been afraid to change the world.
 
-SEC. 408. IDENTIFIED BANKING PRODUCTS.
+What about Bee Oolumbus? Bee Gandhi? Bejesus?
 
-Section 206(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended—
+Where I'm from, we'd never sue humans.
 
-(1) in paragraph (5)(B)(ii), by striking "or" at the end;
+We were thinking of stickball or candy stores.
 
-(2) in paragraph (6), by striking the period at the end and inserting "; or"; and
+How old are you?
 
-(3) by adding at the end the following:
+The bee community is supporting you in this case, which will be the trial of the bee century.
 
-"(7) a payment stablecoin issued by a depository institution under section 722A.".
+You know, they have a Larry King in the human world too.
 
-&nbsp;
+It's a common name. Next week...
 
-SEC. 409. FINANCIAL INSTITUTIONS DEFINITION.
+He looks like you and has a show and suspenders and colored dots...
 
-Section 5312(c)(1) of title 31, United States Code, is amended by adding at the end the following:
+Next week...
 
-"(B) A registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act.".
+Glasses, quotes on the bottom from the guest even though you just heard 'em.
 
-&nbsp;
+Bear Week next week! They're scary, hairy and here live.
 
-SEC. 410. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
+Always leans forward, pointy shoulders, squinty eyes, very Jewish.
 
-The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following:
+In tennis, you attack at the point of weakness!
 
-"SEC. 24. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
+It was my grandmother, Ken. She's 81.
 
-"(a) Recovery of Certain Costs of Annual Appropriation.—
+Honey, her backhand's a joke!
 
-"(1) In general.—Effective beginning October 1, 2023, the Commission may, by rule, collect fees—
+I'm not gonna take advantage of that?
 
-"(A) to fund expenses relating to regulation of digital asset cash and spot markets; and
+Quiet, please.
 
-"(B) that are designed to recover the costs to the Federal Government of the annual appropriation to the Commission by Congress.
+Actual work going on here.
 
-"(2) Registered entities.—Fees under paragraph (1) shall only be imposed—
+Is that that same bee?
 
-"(A) on registered entities engaged in cash or spot digital asset activities; and
+Yes, it is!
 
-"(B) in relation to the regulation of those activities under this Act.
+I'm helping him sue the human race.
 
-"(3) Fee rates.—Fees under paragraph (1) shall—
+Hello.
 
-"(A) be strictly related to the cost to the Commission of the regulation of digital asset cash and spot markets;
+Hello, bee.
 
-"(B) be reduced for newly registered entities with less than $100,000,000 in daily trading volume; and
+This is Ken.
 
-"(C)(i) minimize negative impacts on market liquidity; and
+Yeah, I remember you. Timberland, size ten and a half. Vibram sole, I believe.
 
-"(ii) maintain the efficiency, competitiveness, and financial integrity of digital asset markets.
+Why does he talk again?
 
-"(4) Collection of fees.—The Commission shall collect fees under this subsection in such manner and within such time as may be specified by the Commission by rule.
+Listen, you better go 'cause we're really busy working.
 
-"(b) Fee Rate Orders.—
+But it's our yogurt night!
 
-"(1) In general.—Not later than 60 days after the date on which a law providing a regular appropriation to the Commission for a fiscal year is enacted, the Commission shall adopt an order setting rates for fees to be collected under subsection (a) for that fiscal year.
+Bye-bye.
 
-"(2) Publication.—The Commission shall publish in the Federal Register the order adopted under paragraph (1), including—
+Why is yogurt night so difficult?!
 
-"(A) projections on which the fees are based; and
+You poor thing. You two have been at this for hours!
 
-"(B) an explanation of the method used for calculating applicable fee rates.
+Yes, and Adam here has been a huge help.
 
-"(c) Deposit of Fees.—
+Frosting...
 
-"(1) Offsetting collections.—Fees collected under subsection (a) for any fiscal year—
+How many sugars?
 
-"(A) shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission; and
+Just one. I try not to use the competition.
 
-"(B) shall not be collected or available for obligation for any fiscal year except to the extent provided in advance in appropriation Acts.
+So why are you helping me?
 
-"(2) General revenues prohibited.—No fees collected under subsection (a) shall be deposited and credited as general revenue of the Treasury.
+Bees have good qualities. And it takes my mind off the shop. Instead of flowers, people are giving balloon bouquets now.
 
-"(d) Lapse of Appropriations.—If a regular appropriation to the Commission has not been enacted on the first day of a fiscal year, the Commission shall continue to collect fees under this section at the rates in effect on September 30 of the preceding fiscal year.
+Those are great, if you're three.
 
-"(e) Limitations.—
+And artificial flowers.
 
-"(1) Leveraged, margined, or financed transactions.—Nothing in this section authorizes the imposition of fees on a registered entity relating to leveraged, margined, or financed transactions under this Act, including those activities relating to digital assets.
+Oh, those just get me psychotic!
 
-"(2) Other appropriations.—Notwithstanding any other provision of law, the Commission may use appropriations otherwise made available by law to fund expenses relating to the regulation of digital asset cash and spot markets.
+Yeah, me too.
 
-"(f) Ceiling on Fees.—Unless otherwise provided by law, fees collected under this section shall not exceed $30,000,000.
+Bent stingers, pointless pollination.
 
-"(g) Authorization Required.—The authority under this section to impose and collect fees shall only be in effect during a period that a legislative authorization of the Commission is in effect, as otherwise provided by law.".
+Bees must hate those fake things!
 
-&nbsp;
+Nothing worse than a daffodil that's had work done.
 
-# TITLE V—RESPONSIBLE CONSUMER PROTECTION
+Maybe this could make up for it a little bit.
 
-SEC. 501. RESPONSIBLE CONSUMER PROTECTION.
+This lawsuit's a pretty big deal.
 
-Chapter 98 of title 31, United States Code, as added by section 101(a) of this Act, is amended by adding at the end the following:
+I guess.
 
-"9802. Consumer protection standards for digital assets
+You sure you want to go through with it?
 
-"(a) In General.—A person or protocol that provides digital asset services shall ensure that the scope of permissible transactions that may be undertaken with customer digital assets is disclosed clearly in a customer agreement.
+Am I sure? When I'm done with the humans, they won't be able to say, "Honey, I'm home," without paying a royalty!
 
-"(b) Notice.—A person who provides digital asset services shall provide clear notice to each customer, and require acknowledgment, of the following:
+It's an incredible scene here in downtown Manhattan, where the world anxiously waits, because for the first time in history, we will hear for ourselves if a honeybee can actually speak.
 
-"(1) Prior to the implementation of any updates, material source code version changes relating to digital assets, except in emergencies, which may include security vulnerabilities.
+What have we gotten into here, Barry?
 
-"(2) Whether customer digital assets are segregated from other customer assets and the manner of segregation.
+It's pretty big, isn't it?
 
-"(3) How the assets of the customer would be treated in a bankruptcy or insolvency scenario and the risks of loss.
+I can't believe how many humans don't work during the day.
 
-"(4) The time period and manner in which the person is obligated to return the digital asset of the customer upon the request of the customer.
+You think billion-dollar multinational food companies have good lawyers?
 
-"(5) Applicable fees.
+Everybody needs to stay behind the barricade.
 
-"(6) The dispute resolution process of the person.
+What's the matter?
 
-"(c) Subsidiary Proceeds.—
+I don't know, I just got a chill.
 
-"(1) Definitions.—In this subsection:
+Well, if it isn't the bee team.
 
-"(A) Subsidiary proceeds.—The term ‘subsidiary proceeds’ includes forks, airdrops, staking, and other gains that accrue to a digital asset through market transactions, use as a financial asset, or being held in custody or safekeeping by a person who provides digital asset services.
+You boys work on this?
 
-"(B) Terms of service.—The term ‘agreement’ includes the standard terms of service of the person who provides digital asset services.
+All rise! The Honorable Judge Bumbleton presiding.
 
-"(2) Accrual to customer.—Except as otherwise specified by an agreement with a customer, all ancillary or subsidiary proceeds relating to digital asset services provided to a customer shall accrue to the benefit of the customer in accordance with paragraph (3).
+All right. Case number 4475,
 
-"(3) Election.—A person who provides digital asset services may elect not to collect certain subsidiary proceeds if the election is disclosed in an agreement with the customer.
+Superior Court of New York,
 
-"(4) Withdrawal.—A customer may withdraw digital assets in a method that permits the collection of the subsidiary proceeds.
+Barry Bee Benson v. the Honey Industry is now in session.
 
-"(5) Agreement.—A person who provides digital asset services shall enter into an agreement with a customer, if desired by the customer, regarding the manner in which to invest subsidiary proceeds or other gains attributable to the digital assets of the customer.
+Mr. Montgomery, you're representing the five food companies collectively?
 
-"(d) Lending Arrangements.—A person who provides digital asset services shall ensure any lending arrangements relating to digital assets are—
+A privilege.
 
-"(1) clearly disclosed to customers before any lending services take place;
+Mr. Benson... you're representing all the bees of the world?
 
-"(2) subject to the affirmative consent of the customer;
+I'm kidding. Yes, Your Honor, we're ready to proceed.
 
-"(3) fully enforceable as a matter of commercial law;
+Mr. Montgomery, your opening statement, please.
 
-"(4) accompanied by full disclosures of applicable terms and risks, yield, and the manner in which the yield is calculated;
+Ladies and gentlemen of the jury, my grandmother was a simple woman. Born on a farm, she believed it was man's divine right to benefit from the bounty of nature God put before us.
 
-"(5) accompanied by appropriate disclosures relating to collateral requirements and policies, including—
+If we lived in the topsy-turvy world Mr. Benson imagines, just think of what would it mean.
 
-"(A) haircuts and overcollateralization requirements;
+I would have to negotiate with the silkworm for the elastic in my britches!
 
-"(B) collateral the person accepts when calling for additional collateral from a customer, including collateral substitution;
+Talking bee!
 
-"(C) whether customer collateral is commingled with the collateral of other customers or of the person; and
+How do we know this isn't some sort of holographic motion-picture-capture Hollywood wizardry?
 
-"(D) how customer collateral is invested, and whether the yield belongs to the customer or to the person;
+They could be using laser beams! Robotics! Ventriloquism! Cloning! For all we know, he could be on steroids!
 
-"(6) accompanied by disclosures of mark-to-market and monitoring arrangements, including—
+Mr. Benson?
 
-"(A) the frequency of mark-to-market monitoring and how frequently the person will call for additional collateral from a customer;
+Ladies and gentlemen, there's no trickery here. I'm just an ordinary bee. Honey's pretty important to me. It's important to all bees. We invented it! We make it. And we protect it with our lives.
 
-"(B) the time period in which the customer must supply additional collateral to the person after a collateral call; and
+Unfortunately, there are some people in this room who think they can take it from us 'cause we're the little guys!
 
-"(C) whether the person permits failures to deliver such collateral, and in the event of a failure to deliver the period of time in which the customer must cure the failure to deliver before the customer’s position is closed; and
+I'm hoping that, after this is all over, you'll see how, by taking our honey, you not only take everything we have but everything we are!
 
-"(7) compliant with all applicable Federal and State laws.
+I wish he'd dress like that all the time. So nice!
 
-"(e) Rehypothecation.—
+Call your first witness.
 
-"(1) Definition.—In this subsection, the term ‘rehypothecation’ means the pledging of an asset as collateral for a financial transaction by a person after the pledging of the asset as collateral by a customer of that person.
+So, Mr. Klauss Vanderhayden of Honey Farms, big company you have.
 
-"(2) Rehypothecation.—Before rehypothecating a digital asset, a person who provides digital asset services to a customer shall clearly disclose policies on rehypothecation to customers, including a clear definition of rehypothecation that is accessible to consumers. The person who provides digital asset services to a customer shall obtain affirmative consent and consider the following factors to appropriately mitigate risk relating to rehypothecation:
+I suppose so.
 
-"(A) The liquidity and volatility of a digital asset.
+I see you also own Honeyburton and Honron!
 
-"(B) Past failures to deliver a particular digital asset.
+Yes, they provide beekeepers for our farms.
 
-"(C) Concentration risk.
+Beekeeper. I find that to be a very disturbing term.
 
-"(D) Whether an issuer or lender of last resort relating to a digital asset exists, including for virtual currency with a finite supply.
+I don't imagine you employ any bee-free-ers, do you?
 
-"(E) The capital, leverage and market position of the person.
+No.
 
-"(F) The legal obligations of the person to customers and other persons in the market who provide digital asset services.".
+I couldn't hear you.
 
-&nbsp;
+No.
 
-SEC. 502. SOURCE CODE VERSION OF DIGITAL ASSETS.
+No. Because you don't free bees. You keep bees. Not only that, it seems you thought a bear would be an appropriate image for a jar of honey.
 
-Chapter 98 of title 31, United States Code, as amended by section 501 of this Act, is amended by adding at the end the following:
+They're very lovable creatures. Yogi Bear, Fozzie Bear, Build-A-Bear.
 
-"9803. Source code version of digital assets
+You mean like this?
 
-"(a) In General.—A customer and a person who provides digital asset services shall, at the initiation of a contractual relationship, agree in writing regarding the source code version the person will use for each digital asset and the treatment of each asset under the law, including securities and commodities laws and the Uniform Commercial Code applicable to the transaction.
+Bears kill bees!
 
-"(b) Determination.—A person who provides digital asset services—
+How'd you like his head crashing through your living room?! Biting into your couch! Spitting out your throw pillows! OK, that's enough. Take him away.
 
-"(1) may periodically determine whether to implement a source code version that uses validation rules different than those of the source code version specified in a customer agreement, including in circumstances where it is not possible to predict in advance whether utilization of the different source code version will be in the best interests of the customer;
+So, Mr. Sting, thank you for being here. Your name intrigues me. Where have I heard it before?
 
-"(2) shall consider the nature of proposed changes to source code versions with potential effects resulting from third-party actors that may create different source code versions resulting in new networks that could create economic value for customers;
+I was with a band called The Police.
 
-"(3) shall not be required to support digital assets and source code versions that the person has not entered into an agreement with customers to support; and
+But you've never been a police officer, have you?
 
-"(4) shall not capriciously redefine a digital asset or the corresponding source code or alter customer agreements with respect to this subsection.
+No, I haven't.
 
-"(c) Standards.— A person who provides digital asset services—
+No, you haven't. And so here we have yet another example of bee culture casually stolen by a human for nothing more than a prance-about stage name.
 
-"(1) shall adopt and maintain standards for changes to digital asset source code versions that use differing validation rules than those of the source code version specified in the customer agreement, which shall include customer notice and approval, as appropriate based on the circumstances; and
+Oh, please.
 
-"(2) may specify differing standards based on source code changes which occur as the result of emergencies, including security vulnerabilities.".
+Have you ever been stung, Mr. Sting? Because I'm feeling a little stung, Sting. Or should I say... Mr. Gordon M. Sumner!
 
-&nbsp;
+That's not his real name?! You idiots!
 
-SEC. 503. SETTLEMENT FINALITY.
+Mr. Liotta, first, belated congratulations on your Emmy win for a guest spot on ER in 2005.
 
-Chapter 98 of title 31, United States Code, as amended by section 502 of this Act, is amended by adding at the end the following:
+Thank you. Thank you.
 
-"9804. Settlement finality
+I see from your resume that you're devilishly handsome with a churning inner turmoil that's ready to blow.
 
-"To promote legal certainty and customer protection, a person who provides digital asset services and a customer shall agree on the terms of settlement finality for all transactions, including the following:
+I enjoy what I do. Is that a crime?
 
-"(1) The conditions under which a digital asset may be deemed fully transferred, provided that these legal conditions may diverge from operational conditions under which digital assets are considered transferred, based on the distributed and probabilistic nature of digital assets.
+Not yet it isn't. But is this what it's come to for you? Exploiting tiny, helpless bees so you don't have to rehearse your part and learn your lines, sir?
 
-"(2) The exact moment of transfer of a digital asset.
+Watch it, Benson! I could blow right now!
 
-"(3) The discharge of any obligations upon transfer of a digital asset.
+This isn't a goodfella.
 
-"(4) Conformity to applicable provisions of the Uniform Commercial Code.".
+This is a badfella!
 
-&nbsp;
+Why doesn't someone just step on this creep, and we can all go home?!
 
-SEC. 504. NOTICE TO CUSTOMERS; ENFORCEMENT.
+Order in this court!
 
-Chapter 98 of title 31, United States Code, as amended by section 503 of this Act, is amended by adding at the end the following:
+You're all thinking it!
 
-"9805. Notice to customers; enforcement
+Order! Order, I say!
 
-"(a) In General.—In providing disclosures and carrying out other duties under this chapter, a person who provides digital asset services in or affecting interstate commerce shall have a duty to provide higher standards of customer notice and acknowledgment if there is likely to be a material impact on the economic value of the digital asset of a customer.
+Say it!
 
-"(b) Enforcement of Standards.—The standards under this chapter shall be enforced in an appropriate manner, commensurate with other customer protection standards—
+Mr. Liotta, please sit down!
 
-"(1) in the case of a digital asset intermediary, by the Federal or State licensing, registration, or chartering authority of the intermediary; and
+I think it was awfully nice of that bear to pitch in like that. I think the jury's on our side.
 
-"(2) in the case of a depository institution or other financial institution, by the appropriate State or Federal banking supervisor.".
+Are we doing everything right, legally?
 
-&nbsp;
+I'm a florist.
 
-SEC. 505. RIGHT TO INDIVIDUAL MANAGEMENT OF DIGITAL ASSETS.
+Right. Well, here's to a great team.
 
-Chapter 98 of title 31, United States Code, as amended by section 504 of this Act, is amended by adding at the end the following:
+To a great team!
 
-"9806. Right to individual management of digital assets
+Well, hello.
 
-"(a) In General.—Except as otherwise required by law, no person shall be required to use an intermediary for the safekeeping of digital assets legally owned, and possessed or controlled, by that person.
+Ken!
 
-"(b) Rule of Construction.—This section shall not be construed to—
+Hello.
 
-"(1) permit a person to engage in market activity for which authorization is required under Federal or State law; or
+I didn't think you were coming.
 
-"(2) restrict a person from freely entering into an agreement for digital asset services with a third party.".
+No, I was just late I tried to call, but... the battery.
 
-SEC. 506. TECHNICAL AND CONFORMING AMENDMENTS.
+I didn't want all this to go to waste,
 
-The table of sections of chapter 98, as added by section 101(a) of this Act, is amended by adding at the end the following:
+so I called Barry. Luckily, he was free.
 
-"9802. Consumer protection standards for digital assets.
+Oh, that was lucky.
 
-"9803. Source code version of digital assets.
+There's a little left. I could heat it up.
 
-"9804. Settlement finality.
+Yeah, heat it up, sure, whatever.
 
-"9805. Notice to customers; enforcement.
+So I hear you're quite a tennis player. I'm not much for the game myself. The ball's a little grabby.
 
-"9806. Right to individual management of digital assets.".
+That's where I usually sit. Right... there.
 
-&nbsp;
+Ken, Barry was looking at your resume, and he agreed with me that eating with chopsticks isn't really a special skill.
 
-# TITLE VI—RESPONSIBLE PAYMENTS INNOVATION
+You think I don't see what you're doing?
 
-SEC. 601. ISSUANCE OF PAYMENT STABLECOINS.
+I know how hard it is to find the right job. We have that in common.
 
-Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470) is amended by adding at the end the following:
+Do we?
 
-"SEC. 722A. ISSUANCE OF PAYMENT STABLECOINS.
+Bees have 100 percent employment, but we do jobs like taking the crud out.
 
-"(a) In General.—A depository institution may issue, redeem, and conduct all incidental activities relating to payment stablecoins in accordance with this section.
+That's just what I was thinking about doing.
 
-"(b) Required Payment Stablecoin Assets.—A depository institution shall maintain high-quality liquid assets under this section equal to not less than 100 percent of the face amount of the liabilities of the institution on payment stablecoins issued by the institution. In the case of an insured depository institution described in subsection (m)(1)(A) that engages in on-balance sheet lending activities, assets under this subsection shall equal not less than 100 percent of the face amount of the liabilities of the institution on payment stablecoins issued by the institution, with the assets held in balances at a Federal Reserve bank (which may include a segregated balance account), or, in the case of foreign withdrawable reserves, at a foreign central bank, in a special, custodial, or trust account, other off-balance sheet account, or in another equivalent manner that ensures the segregation of the assets in the event of receivership. An insured depository institution may segregate the issuance and management of payment stablecoins into a separate depository institution affiliate under the same holding company structure. Eligible high-quality liquid assets under this section shall be comprised of the following:
+Ken, I let Barry borrow your razor for his fuzz. I hope that was all right.
 
-"(1) United States coins and currency and any other instrument that is legal tender, as defined in section 5103 of title 31, United States Code.
+I'm going to drain the old stinger.
 
-"(2) Demand deposits at a depository institution, except that deposits in an insured depository institution shall not exceed the limit of deposit or share insurance available for that account, which may include pass through insurance, or shall be maintained in a special, custodial, or trust account or other off-balance sheet account held by the insured depository institution.
+Yeah, you do that.
 
-"(3) Balances held at a Federal Reserve bank, which may be held in a master account or segregated balance account.
+Look at that.
 
-"(4) Foreign withdrawable reserves, as defined in section 249.3 of title 12, Code of Federal Regulations, consistent with any foreign unit of account in which the payment stablecoin is denominated or pegged.
+You know, I've just about had it with your little Mind Games.
 
-"(5) A security that is issued by, or unconditionally guaranteed as to the timely payment of principal and interest by, the Department of the Treasury, with an original maturity of 1 year or less.
+What's that?
 
-"(6) A reserve repurchase agreement relating to a security described in paragraph (5).
+Italian Vogue.
 
-"(7) Any other high-quality, liquid asset determined to be consistent with safe and sound banking practices, as determined by the appropriate Federal banking agency or State bank supervisor.
+Mamma mia, that's a lot of pages.
 
-"(c) Disclosures.—Not later than 10 business days after the end of each month, a depository institution shall disclose, in a publicly accessible manner, a summary description of the assets backing the payment stablecoin, the value of the assets, and the number of outstanding payment stablecoins, as of the last day of the month. Such explanation shall be filed with the appropriate Federal banking agency or State bank supervisor under penalty of perjury by the chief financial officer of the institution. The depository institution shall also report on the summary description any instances in which the institution failed to comply with any requirement of subsection (b). As applicable, the appropriate Federal banking agency or State bank supervisor shall, as part of a regular examination of the depository institution, at the frequency otherwise required by law, verify the composition of the assets and the accuracy of the summary descriptions made under this subsection and reports under subsection (d).
+A lot of ads.
 
-"(d) Call Report.—As applicable, the appropriate Federal banking agency or State bank supervisor shall require a depository institution that issues a payment stablecoin to report, in detail, on the composition of the assets in each periodic report of condition, or in an alternative format approved by the Federal Financial Institutions Examination Council, at the frequency otherwise required by law.
+Remember what Van said, why is your life more valuable than mine?
 
-"(e) Permission.—A depository institution shall, as applicable, obtain permission from the appropriate Federal banking agency or State bank supervisor, with an application submitted not less than 6 months before intended issuance of the payment stablecoin, but which may be submitted as part of a charter application. As part of an application under this section, a depository institution shall develop a tailored recovery and resolution plan, consistent with the standards adopted under subsection (k)(1)(F), that would permit the orderly resumption of a safe and sound operation or the orderly wind-down of operations in the event of distress, including the redemption of all outstanding payment stablecoins. The application shall also contain a draft customer agreement, flow of funds explanation, a robust information technology plan and operational design of the payment stablecoin. As applicable, the appropriate Federal banking agency or State bank supervisor shall render a decision on the application within 4 months of the date of filing, and shall approve the application unless—
+Funny, I just can't seem to recall that! I think something stinks in here!
 
-"(1) the payment stablecoin activities are not likely to be able to operate in a safe and sound manner;
+I love the smell of flowers.
 
-"(2) the depository institution does not have the required resources and expertise to manage the operation of the payment stablecoin, commensurate with the size and scale of projected operations; or
+How do you like the smell of flames?!
 
-"(3) the depository institution does not have required policies and procedures relating to material areas of the operation of the payment stablecoin activities.
+Not as much.
 
-"(f) Redemption of Payment Stablecoins.—Upon the demand of a customer, a depository institution shall redeem an outstanding payment stablecoin at par in the coins, currency, or other instruments that are legal tender, as defined in section 5103 of title 31, United States Code, or the similar laws of the jurisdiction of the unit of account in which the payment stablecoin is denominated or to which the value of the payment stablecoin is pegged. A depository institution may redeem a payment stablecoin issued by another depository institution at par, upon demand. The Board of Governors of the Federal Reserve System, through the Federal Reserve banks, shall provide for the clearing and settlement of payment stablecoin liabilities among depository institutions under this section and shall ensure competitive equality in all clearing, settlement and related services. A depository institution shall also assess its ability to fulfill large redemptions without placing downward pressure on the market value of the payment stablecoin.
+Water bug! Not taking sides!
 
-"(g) Collateral Availability in the Capital Markets.—The appropriate Federal banking agencies, in consultation with State bank supervisors, the Securities and Exchange Commission, and Commodity Futures Trading Commission, shall monitor use of the high-quality liquid assets authorized under subsection (b) and the impact on collateral availability and the efficient functioning of the capital markets.
+Ken, I'm wearing a Chapstick hat!
 
-"(h) Receivership Priority.—In the event of the receivership of a depository institution that has issued a payment stablecoin under this section, a person that has a valid claim on a payment stablecoin issued by that institution shall have priority over all other claims on the institution with respect to any required payment stablecoin assets, including claims with respect to insured deposits, other than administrative costs incurred by the appropriate Federal banking agency or State bank supervisor, as applicable, relating to the receivership of the institution, if applicable. Consistent with subsection (f), a depository institution that redeems a payment stablecoin issued by a depository institution in receivership shall be considered to have a valid claim, with corresponding priority under this subsection, on a payment stablecoin issued by the institution in receivership.
+This is pathetic!
 
-"(i) Incidental Activities.—A depository institution may conduct all incidental activities relating to the issuance and redemption of payment stablecoins, which shall include the following:
+I've got issues!
 
-"(1) Management of required payment stablecoin assets in accordance with subsection (b).
+Well, well, well, a royal flush!
 
-"(2) Making a market in payment stablecoins.
+You're bluffing.
 
-"(3) Custodial services.
+Am I?
 
-"(4) Settlement and clearing.
+Surf's up, dude!
 
-"(5) Post-trade services.
+Poo water!
 
-"(6) All other activities consistent with a safe and sound operation, as determined by the appropriate Federal banking agency or State bank supervisor.
+That bowl is gnarly. Except for those dirty yellow rings!
 
-"(j) Applicability of Gramm-leach-bliley Data Privacy Provisions.—Title V of the Gramm-Leach-Bliley Act (12 U.S.C. 6801 et seq.) shall apply to the payment stablecoin activities of a depository institution under this section.
+Kenneth! What are you doing?!
 
-"(k) Rules.—
+You know, I don't even like honey! I don't eat it!
 
-"(1) In general.—The appropriate Federal banking agencies, in consultation with State bank supervisors, shall adopt rules to implement this section, including—
+We need to talk! He's just a little bee!
 
-"(A) capital treatment for depository institutions described in subsection (m)(1) in accordance with paragraph (2);
+And he happens to be the nicest bee I've met in a long time!
 
-"(B) liquidity, leverage, and interest rate risk;
+Long time? What are you talking about?! Are there other bugs in your life?
 
-"(C) third-party service provider activities—
+ No, but there are other things bugging me in life. And you're one of them!
 
-"(i) including custodial wallet providers; and
+Fine! Talking bees, no yogurt night...
 
-"(ii) not including licensing or capital requirements for third-party service providers;
+My nerves are fried from riding on this emotional roller coaster!
 
-"(D) management practices with respect to required payment stablecoin assets;
+Goodbye, Ken.
 
-"(E) appropriate operational, compliance, and information technology risk management;
+And for your information, I prefer sugar-free, artificial sweeteners made by man!
 
-"(F) tailored recovery and resolution standards relating to payment stablecoins; and
+I'm sorry about all that.
 
-"(G) any other material topic.
+I know it's got an aftertaste! I like it!
 
-"(2) Significant differences.—In accordance with section 5169(c)(3)(A) of the Revised Statutes, in determining capital and leverage requirements applicable to a depository institution that has no material assets other than required payment stablecoin assets under this section—
+I always felt there was some kind of barrier between Ken and me. I couldn't overcome it.
 
-"(A) the depository institution shall not be subject to section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371); and
+Oh, well.
 
-"(B) the appropriate Federal banking agencies shall take into account the significant differences between the risks of the assets of the institution and those of depository institutions with assets that consist primarily of commercial or consumer loans.
+Are you OK for the trial?
 
-"(l) Non-depository Institution Payment Stablecoin Issuers.—Nothing in this section shall be construed to prohibit an entity operating under a state or Federal charter or license that is not a depository institution from issuing and redeeming a payment stablecoin and conducting all activities related to the management of such payment stablecoin consistent with a safe and sound operation, as determined by the appropriate regulator of the entity. The entity shall—
+I believe Mr. Montgomery is about out of ideas.
 
-"(1) be subject to the requirements of subsections (b) and (c); and
+We would like to call Mr. Barry Benson Bee to the stand.
 
-"(2) redeem an outstanding payment stablecoin at par in the coins, currency, or other instruments that are legal tender, as defined in section 5103, or the similar laws of the jurisdiction of the unit of account in which the payment stablecoin is denominated or to which the value of the payment stablecoin is pegged.
+Good idea! You can really see why he's considered one of the best lawyers...
 
-"(m) Definitions.—In this section:
+Yeah.
 
-"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)) and includes—
+Layton, you've gotta weave some magic with this jury, or it's gonna be all over.
 
-"(A) an insured depository institution; or
+Don't worry. The only thing I have to do to turn this jury around is to remind them of what they don't like about bees.
 
-"(B) a depository institution operating under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), or a substantially similar State law, which is exclusively engaged in issuing payment stablecoins, providing safekeeping, trust or custodial services, or activities incidental to the foregoing.
+You got the tweezers?
 
-"(2) Payment stablecoin.—The term ‘payment stablecoin’ has the meaning given the term in section 9801 of title 31, United States Code.
+Are you allergic?
 
-"(3) Segregated balance account.—The term ‘segregated balance account’ includes an account of a depository institution with a Federal Reserve bank or a foreign central bank to which only required payment stablecoin assets are credited.".
+Only to losing, son. Only to losing.
 
-&nbsp;
+Mr. Benson Bee, I'll ask you what I think we'd all like to know.
 
-SEC. 602. SANCTIONS COMPLIANCE RESPONSIBILITIES OF PAYMENT STABLECOIN ISSUERS.
+What exactly is your relationship to that woman?
 
-Not later than 120 days after the date of the enactment of this Act, the Secretary of the Treasury shall adopt final guidance clarifying the sanctions compliance responsibilities and liability of an issuer of a payment stablecoin with respect to downstream transactions relating to the stablecoin that take place after the stablecoin is first provided to a customer of the issuer.
+We're friends.
 
-&nbsp;
+Good friends?
 
-SEC. 603. USE OF THE OFFICIAL DIGITAL CURRENCY OF THE PEOPLE’S REPUBLIC OF CHINA ON GOVERNMENT DEVICES.
+Yes.
 
-(a) Definitions.—In this section—
+How good? Do you live together?
 
-(1) the term "digital yuan" means the official central bank digital currency of the People’s Republic of China;
+Wait a minute... Are you her little... bedbug?
 
-(2) the term "executive agency" has the meaning given that term in section 133 of title 41, United States Code; and
+I've seen a bee documentary or two. From what I understand, doesn't your queen give birth to all the bee children?
 
-(3) the term "information technology" has the meaning given that term in section 11101 of title 40, United States Code.
+Yeah, but...
 
-(b) Use of Digital Yuan.—Not later than 60 days after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, the Director of the Cybersecurity and Infrastructure Security Agency, the Director of National Intelligence, and the Secretary of Defense, and consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code, shall develop standards and guidelines for executive agencies which require adequate security measures for use of the digital yuan on Government information technology devices.
+So those aren't your real parents!
 
-&nbsp;
+Oh, Barry...
 
-SEC. 604. CERTIFICATE OF AUTHORITY TO COMMENCE BANKING.
+Yes, they are!
 
-Section 5169 of the Revised Statutes (12 U.S.C. 27) is amended—
+Hold me back!
 
-(1) in subsection (a), in the third sentence, by striking "to those of a trust company and activities related thereto." and inserting the following: “to—
+You're an illegitimate bee, aren't you, Benson?
 
-"(1) those of a trust company and fiduciary activities related thereto; or
+He's denouncing bees!
 
-"(2) those of a depository institution required to maintain assets valued at not less than 100 percent of the deposits of the institution, for the purposes of issuing a payment stablecoin (as defined in section 9801 of title 31, United States Code) and activities related thereto consistent with subsection (c) of this section and without the requirement to maintain deposit insurance under the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.)."; and
+Don't y'all date your cousins?
 
-(2) by adding at the end the following:
+Objection!
 
-"(c)(1) Notwithstanding any other provision of law, a National Bank Association described in subsection (a) may not engage in maturity transformation or facilitate consumer lending through third parties.
+I'm going to pincushion this guy!
 
-"(2) Restrictions on affiliate transactions applicable for insured depository institutions shall apply to such depository institutions.
+Adam, don't! It's what he wants!
 
-"(3) The Comptroller of the Currency, in close consultation with the Board of Governors of the Federal Reserve System and State bank supervisors, shall develop the following:
+Oh, I'm hit!! Oh, lordy, I am hit!
 
-"(A) A simplified capital framework based on the following:
+Order! Order!
 
-"(i) Payment system risk.
+The venom! The venom is coursing through my veins! I have been felled by a winged beast of destruction! You see? You can't treat them like equals! They're striped savages! Stinging's the only thing they know! It's their way!
 
-"(ii) The greater of—
+Adam, stay with me.
 
-"(I) all projected costs of receivership; or
+I can't feel my legs.
 
-"(II) 3 years of projected operating expenses.
+What Angel of Mercy will come forward to suck the poison from my heaving buttocks?
 
-"(B) Appropriate standards for the depository institution to develop a community contribution plan, which may include consumer education, financial literacy, charitable donations, volunteerism, job training and internships or similar involvement.
+I will have order in this court. Order! Order, please!
 
-"(C) A tailored recovery and resolution plan that would permit the orderly resumption of a safe and sound operation or the orderly wind-down of operations relating to a payment stablecoin in the event of distress.
+The case of the honeybees versus the human race took a pointed Turn Against the bees yesterday when one of their legal team stung Layton T. Montgomery.
 
-"(D) Tailored holding company supervision, as specified by section 15 of the Bank Holding Company Act of 1956.
+Hey, buddy.
 
-"(4) In designing the simplified capital framework required by paragraph (3)(A), the Comptroller of the Currency—
+Hey.
 
-"(A) shall not subject depository institutions to the standards of section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371); and
+Is there much pain?
 
-"(B) shall take into account the significant differences between the risks of the assets of the institution and those of depository institutions with assets that consist primarily of commercial or consumer loans.
+Yeah.
 
-"(d) The Comptroller of the Currency may promulgate rules to carry out this section.".
+I... I blew the whole case, didn't I?
 
-&nbsp;
+It doesn't matter. What matters is
 
-SEC. 605. HOLDING COMPANY SUPERVISION OF COVERED DEPOSITORY INSTITUTIONS.
+you're alive. You could have died.
 
-The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended—
+I'd be better off dead. Look at me.
 
-(1) in section 2(c) (12 U.S.C. 1841(c)), strike paragraph (2) and insert the following:
+They got it from the cafeteria downstairs, in a tuna sandwich. Look, there's a little celery still on it.
 
-"(2) Exceptions.—The term ‘bank’ does not include a covered depository institution subject to tailored holding company supervision under section 15."; and
+What was it like to sting someone?
 
-(2) by adding at the end the following:
+I can't explain it. It was all... All adrenaline and then...and then ecstasy!
 
-"SEC. 15. TAILORED HOLDING COMPANY SUPERVISION FOR COVERED DEPOSITORY INSTITUTIONS.
+All right.
 
-"(a) Definitions.—In this section:
+You think it was all a trap?
 
-"(1) Appropriate banking supervisor.—The term ‘appropriate banking supervisor’ means the Comptroller of the Currency, a State bank supervisor, in the case of a State member bank, the Board, or in the case of an insured bank, the Federal Deposit Insurance Corporation, as applicable.
+Of course. I'm sorry. I flew us right into this.
 
-"(2) Controlling interest.—The term ‘controlling interest’ means a circumstance when a person, directly or indirectly, or acting through or in concert with 1 or more persons-
+What were we thinking? Look at us. We're just a couple of bugs in this world.
 
-"(A) owns, controls, or has the power to vote 25 percent or more of any class of voting securities of a covered depository institution;
+What will the humans do to us if they win?
 
-"(B) controls in any manner the election of a majority of the directors of the covered depository institution; or
+I don't know.
 
-"(C) has the power to exercise a controlling influence over the management or policies of the covered depository institution.
+I hear they put the roaches in motels. That doesn't sound so bad.
 
-"(3) Covered depository institution.—The term ‘covered depository institution’ means a depository institution operating under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), or a substantially similar State law, other than a bank, as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), or an insured depository institution, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), which is exclusively engaged in issuing payment stablecoins, providing safekeeping, trust or custodial services, or activities incidental to the foregoing.
+Adam, they check in, but they don't check out!
 
-"(b) Controlling Interest.—A person with a controlling interest in a covered depository institution shall—
+Oh, my.
 
-"(1) submit annual audited financial statements and other information as otherwise reasonably required by the appropriate banking supervisor; and
+Could you get a nurse to close that window?
 
-"(2) provide a description of all affiliated or parent entities and their relationships with the institution, including annual updates.
+Why?
 
-"(c) Tax Allocation Agreement.—The appropriate banking supervisor may require a legal entity with a controlling interest in a covered depository institution to execute a tax allocation agreement with the institution that—
+The smoke.
 
-"(1) expressly states that an agency relationship exists between the person and the institution with respect to tax assets generated by the institution, and that the assets are held in trust by the person for the benefit of the institution and will be promptly remitted to the institution; and
+Bees don't smoke.
 
-"(2) may provide that the amount and timing of any payments or refunds to the institution by the person should be no less favorable than if the institution were a separate taxpayer.
+Right. Bees don't smoke.
 
-"(d) Prohibition on Controlling Interests.—A person that is a commercial firm, as defined in section 602 of the Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010 (12 U.S.C. 1815 note), may not obtain a controlling interest in a covered depository institution.
+Bees don't smoke!
 
-"(e) Public Interest.—If the appropriate banking supervisor finds that it is in the public interest and has reasonable cause to believe it is necessary to protect the customers of a covered depository institution, the supervisor may—
+But some bees are smoking.
 
-"(1) conduct an examination of a legal entity with a controlling interest in a covered depository institution or otherwise require information from the person; and
+That's it! That's our case!
 
-"(2) require a person with a controlling interest in a covered depository institution to divest or sever their relationship with the institution, if necessary to maintain safety and soundness.".
+It is? It's not over?
 
-&nbsp;
+Get dressed. I've gotta go somewhere.
 
-SEC. 606. IMPLEMENTATION RULES TO PRESERVE ADEQUATE COMPETITION IN PAYMENT STABLECOINS.
+Get back to the court and stall. Stall any way you can.
 
-(a) In General.—The application of a non-depository trust company or the holder of a State license that only persons engaged in digital asset activities may obtain, which was chartered or issued under the laws of a State or the National Bank Act before the date of enactment of this Act, to receive a charter as a depository institution and to operate under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), as added by section 604 of this Act, shall be decided upon by the Comptroller of the Currency before an application for a charter to operate under that section from another entity that is filed on or after the date of enactment of this Act.
+And assuming you've done step correctly, you're ready for the tub.
 
-(b) Application.—The application of a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1853(a)), chartered before the date of enactment of this Act to become a State member bank in the Federal Reserve System or for access to Federal Reserve services under section 11A of the Federal Reserve Act (12 U.S.C. 248a) shall be decided upon by the Board of Governors of the Federal Reserve System, or a Federal Reserve bank, as applicable, before any application to become a State member bank or for Federal Reserve services from any other entity which seeks to operate as a covered depository institution and which is filed on or after the date of enactment of this Act.
+Mr. Flayman.
 
-(c) Decision.—The applications described in subsections (a) and (b) of this section shall be decided upon by the appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) or Federal Reserve bank, as applicable, before an insured depository institution in operation before the enactment date of this Act may issue a payment stablecoin in accordance with section 722A of the Gramm-Leach Bliley Act, as added by section 601 of this Act.
+Yes? Yes, Your Honor!
 
-&nbsp;
+Where is the rest of your team?
 
-SEC. 607. FINANCIAL CRIMES ENFORCEMENT NETWORK INNOVATION LABORATORY.
+Well, Your Honor, it's interesting. Bees are trained to fly haphazardly, and as a result, we don't make very good time.
 
-Section 310 of title 31, United States Code, is amended by adding at the end the following:
+I actually heard a funny story about...
 
-"(m) Innovation Laboratory.—
+Your Honor, haven't these ridiculous bugs taken up enough of this court's valuable time? How much longer will we allow these absurd shenanigans to go on?
 
-"(1) In general.—There is established within the Financial Crimes Enforcement Network an Innovation Laboratory to promote regulatory dialogue, data sharing between the Financial Crimes Enforcement Network and financial companies, and an assessment of potential changes in law, rules, or policies to facilitate the appropriate supervision of financial technology and the laws under the jurisdiction of the agency.
+They have presented no compelling evidence to support their charges against my clients, who run legitimate businesses.
 
-"(2) Chief innovation officer.—The innovation officer appointed under section 6208 of the Anti-Money Laundering Act of 2020 (31 U.S.C. 5311 note) by the Director of the Financial Crimes Enforcement Network shall manage the Innovation Laboratory.
+I move for a complete dismissal of this entire case!
 
-"(3) Duties.—The Innovation Laboratory, as appropriate, shall study changes in financial technology and make recommendations to Congress, the Secretary, and the Director for appropriate changes in laws, rules, or policies that can more effectively facilitate the supervision of financial technology with respect to the laws under the jurisdiction of the Financial Crimes Enforcement Network, including digital assets, distributed ledger technology and decentralized finance.
+Mr. Flayman, I'm afraid I'm going to have to consider Mr. Montgomery's motion.
 
-"(4) Pilot projects.—The Innovation Laboratory, as appropriate, shall conduct pilot projects with financial companies to more effectively facilitate the supervision of financial technology, consistent with applicable law.".
+But you can't! We have a terrific case.
 
-&nbsp;
+Where is your proof?
 
-# TITLE VII—RESPONSIBLE BANKING INNOVATION
+Where is the evidence?
 
-SEC. 701. STUDY ON USE OF DISTRIBUTED LEDGER TECHNOLOGY FOR REDUCTION OF RISK IN DEPOSITORY INSTITUTIONS.
+Show me the smoking gun!
 
-Not later than 180 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall complete a study and submit to the Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report regarding the manner in which distributed ledger technology may reduce risk for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), including settlement risk, operational risk and capital requirements.
+Hold it, Your Honor!
 
-&nbsp;
+You want a smoking gun? Here is your smoking gun.
 
-SEC. 702. ELIGIBILITY FOR FEDERAL RESERVE SERVICES TO DEPOSITORY INSTITUTIONS.
+What is that?
 
-(a) Findings.—Congress finds the following:
+It's a bee smoker!
 
-(1) Final settlement of transactions in central bank money reduces risk in the financial system, including through the reduction of counterparty exposure.
+What, this? This harmless little contraption? This couldn't hurt a fly, let alone a bee.
 
-(2) Digital assets settle with finality in seconds or minutes, whereas traditional financial transactions may take days to settle.
+Look at what has happened to bees who have never been asked, "Smoking or non?" Is this what nature intended for us? To be forcibly addicted to smoke machines and man-made wooden slat work camps?
 
-(3) This mismatch in the settlement window of digital assets and traditional financial assets creates risk in the economy that may be reduced through the ability of depository institutions to simultaneously conduct digital asset transactions and settle, with finality, the United States dollar component of these transactions.
+Living out our lives as honey slaves to the white man?
 
-(4) The Federal Reserve Act specifies that a depository institution, as defined in section 19(b)(1) of that Act (12 U.S.C. 461(b)(1)), upon receiving a charter from the Office of the Comptroller of the Currency, National Credit Union Administration or State bank supervisor, is required to be made available services from Federal Reserve banks under section 11A of the Federal Reserve Act (12 U.S.C. 248a), including currency and coin services, wire transfer services, automated clearinghouse services and settlement services.
+What are we gonna do?
 
-(5) Numerous Federal courts have found that the provision of services to depository institutions under section 11A of the Federal Reserve Act (12 U.S.C. 248a) is a ministerial duty imposed by Congress with respect to all depository institutions.
+He's playing the species card.
 
-(6) The Board of Governors of the Federal Reserve System has long interpreted the Federal Reserve Act to mean that the Federal Reserve banks must provide services to all depository institutions, noting that it has a duty "to ensure the provision of payment services to all depository institutions on an equitable basis, and to do so in an atmosphere of competitive fairness".
+Ladies and gentlemen, please, free these bees!
 
-(7) The Federal Reserve banks have, on occasion, provided services to non-depository, non-insured institutions without appropriate statutory authority.
+Free the bees! Free the bees! Free the bees! Free the bees! Free the bees!
 
-(8) Certain novel legal positions that conflict with or frustrate these precedents are not in the best traditions of the Federal Reserve Act, our dual banking system, and the imperatives of Congress.
+The court finds in favor of the bees!
 
-(9) The statutory independence of the Board of Governors and the Federal Reserve banks under the Constitution of the United States is properly rooted in absolute fidelity to the laws enacted by Congress.
+Vanessa, we won!
 
-(10) It is appropriate for Congress to reaffirm its existing statutory intent to ensure that all depository institutions may access services under the Federal Reserve Act "on an equitable basis, and to do so in an atmosphere of competitive fairness".
+I knew you could do it! High-five!
 
-(b) Pricing of Services.—Section 11A of the Federal Reserve Act (12 U.S.C. 248a) is amended by adding at the end the following:
+Sorry.
 
-"(f) A Federal Reserve bank shall provide a segregated balance account to a depository institution upon the request of any institution that receives services under this section.".
+I'm OK! You know what this means?
 
-(c) Deposits; Exchange and Collection; Member and Nonmember Banks or Other Depository Institutions; Charges.—Section 13 of the Federal Reserve Act (12 U.S.C. 342) is amended to read as follows:
+All the honey will finally belong to the bees.
 
-"Any Federal Reserve bank shall receive from any of its member banks or other depository institutions, and from the United States, deposits of current funds in lawful money, national-bank notes, Federal reserve notes, or checks, and drafts, payable upon presentation or other items, and also, for collection, maturing notes and bills; or, solely for purposes of exchange or of collection, shall receive from other Federal Reserve banks deposits of current funds in lawful money, national-bank notes, or checks upon other Federal Reserve banks, and checks and drafts, payable upon presentation within its district or other items, and maturing notes and bills payable within its district; or, solely for the purposes of exchange or of collection, shall receive from any non-member bank or trust company or other depository institution deposits of current funds in lawful money, national-bank notes, Federal reserve notes, checks and drafts payable upon presentation or other items, or maturing notes and bills: Provided, Such nonmember bank or trust company or other depository institutions maintains with the Federal Reserve bank of its district a balance in such amount as the Board determines taking into account items in transit, services provided by the Federal Reserve bank, and other factors as the Board may deem appropriate: Provided further, That nothing in this or any other section of this Act shall be construed as prohibiting a member or nonmember bank or other depository institution from making reasonable charges, to be determined and regulated by the Board of Governors, but in no case to exceed 10 cents per $100 or fraction thereof, based on the total of checks and drafts presented at any one time, for collection or payment of checks and drafts and remission therefor by exchange or otherwise; but no such charges shall be made against the Federal Reserve banks.".
+Now we won't have to work so hard all the time.
 
-&nbsp;
+This is an unholy perversion of the balance of nature, Benson.
 
-SEC. 703. ROUTING TRANSIT NUMBER ISSUANCE.
+You'll regret this.
 
-Not later than 2 years after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall assume responsibility for issuing routing transit numbers to depository institutions for all purposes relating to the clearing of transactions and the services required to be made available to all depository institutions under section 11A of the Federal Reserve Act (12 U.S.C. 248a).
+Barry, how much honey is out there?
 
-&nbsp;
+All right. One at a time.
 
-SEC. 704. CLARIFYING APPLICATION REVIEW TIMES WITH RESPECT TO THE FEDERAL BANKING AGENCIES.
+Barry, who are you wearing?
 
-Section 343 of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4807) is amended by striking subsection (a) and inserting the following:
+My sweater is Ralph Lauren, and I have no pants.
 
-"(a) Final Action.—
+What if Montgomery's right?
 
-"(1) Definition.—In this subsection, the term ‘completed application’—
+What do you mean?
 
-"(A) means the information requested by the Federal banking agency at the outset of an application through application forms or similar means; and
+We've been living the bee way a long time, 27 million years.
 
-"(B) does not include supplemental information requested by the agency after filing of an application.
+Congratulations on your victory. What will you demand as a settlement?
 
-"(2) Action.—Each Federal banking agency, including Federal Reserve banks, shall take final action on any application to the agency before the end of the 1-year period beginning on the date on which a completed application is received by the agency.
+First, we'll demand a complete shutdown of all bee work camps.
 
-"(b) Report.—Each Federal banking agency, including the Federal Reserve banks, shall annually report to Congress a list of the applications that have been pending for 9 months or longer since the date of the initial application filed by an applicant. Such list—
+Then we want back the honey that was ours to begin with, every last drop.
 
-"(1) shall disclose the reason why the application has not yet been approved or denied by the Federal banking agency; and
+We demand an end to the glorification of the bear as anything more than a filthy, smelly, bad-breath stink machine.
 
-"(2) shall not contain confidential supervisory information.".
+We're all aware of what they do in the woods.
 
-&nbsp;
+Wait for my signal. Take him out.
 
-SEC. 705. EXAMINATION STANDARDS FOR DIGITAL ASSET ACTIVITIES.
+He'll have nauseous for a few hours, then he'll be fine.
 
-(a) In General.—Not later than 18 months after the date of enactment of this Act, the Federal Financial Institutions Examination Council, in consultation with the Financial Crimes Enforcement Network, shall publish final guidance and examiner handbooks for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), on the following topics related to digital assets:
+And we will no longer tolerate bee-negative nicknames...
 
-(1) Anti-money laundering, customer identification, beneficial ownership, and sanctions compliance, including with respect to payment stablecoin activities and subsidiary value (as defined in section 9802(c) of title 31, United States Code).
+But it's just a prance-about stage name!
 
-(2) Custody.
+...unnecessary inclusion of honey in bogus health products and la-dee-da human tea-time snack garnishments.
 
-(3) Fiduciary and capital markets activities.
+Can't breathe.
 
-(4) Information technology standards.
+Bring it in, boys!
 
-(5) Payment system risk.
+Hold it right there! Good.
 
-(6) Consumer protection.
+Tap it.
 
-(b) Final Guidance.—Not later than 18 months after the date of enactment of this Act, Securities and Exchange Commission and Commodity Futures Trading Commission, in consultation with the Financial Crimes Enforcement Network, shall publish final guidance and examiner handbooks relating to digital asset intermediaries regarding the topics described in paragraphs (1) and (4) of subsection (a).
+Mr. Buzzwell, we just passed three cups and there's gallons more coming!
 
-&nbsp;
+I think we need to shut down!
 
-SEC. 706. ASSET CUSTODY FOR DEPOSITORY INSTITUTIONS AND CERTAIN OTHER ENTITIES.
+Shut down? We've never shut down.
 
-(a) Findings.—Congress finds the following:
+Shut down honey production!
 
-(1) The laws surrounding custody of financial assets is largely customary, uncodified, and poorly understood.
+Stop making honey!
 
-(2) Lack of uniformity amongst various jurisdictions’ laws relating to custody has largely not been addressed by regulators, can contribute to risk, and is producing uncertainty for innovators.
+Turn your key, sir!
 
-(3) Codifying basic principles around custody of financial assets will reduce systemic risk, clearly define the rights and duties of both custodian and customer, and contribute to a more uniform and effective banking system.
+What do we do now?
 
-(b) Definition.—In this section, the term "custody" means the safekeeping, servicing and management of customer financial assets, including currency, securities and commodities, on an off-balance sheet basis.
+Cannonball!
 
-(c) Custody.—
+We're shutting honey production!
 
-(1) In general.—Except as provided in paragraph (2), custody of financial assets is accomplished by a bailment and established by a written customer agreement. Custody shall not be a fiduciary or trust activity unless the custodian is providing substantial discretionary services with respect to an account, including through investment advice or investment discretion, and the custodian owes a customer a higher standard of care or duty with respect to the customer of that account.
+Mission abort.
 
-(2) Exception.—A custodian and customer may establish a legal relationship other than a bailment pursuant to a written customer agreement.
+Aborting pollination and nectar detail.
 
-(d) Proper Documentation.—A custodial account shall be properly documented in a customer agreement, with a clearly defined legal relationship between the custodian and customer. Custodial assets shall be properly identified and segregated from the assets of the custodian, with proper documentation of asset segregation.
+Returning to base.
 
-(e) Not Assets or Liabilities.—Assets properly held in a custodial account under this section are not assets or liabilities of the custodian and shall be maintained on an off-balance sheet basis, including for the purpose of accounting treatment for the custodian and the customers of the custodian, notwithstanding the form in which the assets are maintained.
+Adam, you wouldn't believe how much honey was out there.
 
-(f) Applicability.—This section shall apply to depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), and non-depository trust companies chartered under section 5169 of the Revised Statutes (12 U.S.C. 27).
+Oh, yeah?
 
-&nbsp;
+What's going on? Where is everybody?
 
-SEC. 707. REPUTATION RISK; REQUIREMENTS FOR ACCOUNT TERMINATION REQUESTS AND ORDERS.
+Are they out celebrating?
 
-(a) Reputation Risk.—An appropriate Federal banking agency may not formally or informally request or order a depository institution to terminate a specific customer account or group of customer accounts unless the agency has a valid reason for such request or order, consistent with subsections (b) and (c).
+They're home.
 
-(b) No Restriction.—An appropriate Federal banking agency shall not restrict or discourage a depository institution from entering into or maintaining a banking relationship with a specific customer or group of customers based on reputation risk, including through the examinations and ratings of the depository institution.
+They don't know what to do. Laying out, sleeping in.
 
-(c) Treatment of National Security Threats.—If an appropriate Federal banking agency believes a specific customer or group of customers is, or acting as a conduit for, an entity which—
+I heard your Uncle Carl was on his way to San Antonio with a cricket.
 
-(1) poses a threat to national security;
+At least we got our honey back.
 
-(2) is involved in terrorist financing;
+Sometimes I think, so what if humans liked our honey? Who wouldn't?
 
-(3) is an agency of the Government of Iran, North Korea, Syria, or any country listed from time to time on the State Sponsors of Terrorism list;
+It's the greatest thing in the world! I was excited to be part of making it.
 
-(4) is located in, or is subject to the jurisdiction of, any country specified in paragraph (3); or
+This was my new desk. This was my new job. I wanted to do it really well. And now...
 
-(5) does business with any entity described in paragraph (3) or (4), unless the appropriate Federal banking agency determines that the customer or group of customers has used due diligence to avoid doing business with that entity, such belief shall satisfy the requirement under subsection (a).
+Now I can't.
 
-(d) Notice Requirement.—
+I don't understand why they're not happy.
 
-(1) In general.—If an appropriate Federal banking agency formally requests or orders a depository institution to terminate a specific customer account or a group of customer accounts, the agency shall—
+I thought their lives would be better!
 
-(A) provide such request or order to the institution in writing; and
+They're doing nothing. It's amazing.
 
-(B) accompany such request or order with a written justification for why such termination is needed, including any specific laws or rules the agency believes are being violated by the customer or group of customers.
+Honey really changes people.
 
-(2) Justification requirement.—Consistent with subsection (b), the justification described in paragraph (1)(B) may not be based on reputation risk to the depository institution.
+You don't have any idea what's going on, do you?
 
-(e) Customer Notice.—
+What did you want to show me?
 
-(1) Notice required.—Except as provided under paragraph (2) or as otherwise prohibited from being disclosed by law, if an appropriate Federal banking agency orders a depository institution to terminate a specific customer account or a group of customer accounts, the depository institution shall inform the specific customer or group of customers of the justification for the customer’s account termination described under subsection (b).
+This.
 
-(2) Notice prohibited.—
+What happened here?
 
-(A) Notice prohibited in cases of national security.—If an appropriate Federal banking agency requests or orders a depository institution to terminate a specific customer account or a group of customer accounts based on a belief that the customer or customers pose a threat to national security, or are otherwise described under subsection (a)(2), neither the depository institution nor the appropriate Federal banking agency may inform the customer or customers of the justification for the customer’s account termination.
+That is not the half of it.
 
-(B) Notice prohibited in other cases.—If an appropriate Federal banking agency determines that the notice required under paragraph (1) may interfere with an authorized criminal investigation, neither the depository institution nor the appropriate Federal banking agency may inform the specific customer or group of customers of the justification for the customer’s account termination.
+Oh, no. Oh, my.
 
-(f) Reporting Requirement.—Each appropriate Federal banking agency shall issue an annual report to Congress stating—
+They're all wilting.
 
-(1) the aggregate number of specific customer accounts that the agency requested or ordered a depository institution to terminate during the previous year; and
+Doesn't look very good, does it?
 
-(2) the legal authority on which the agency relied in making such requests and orders and the frequency on which the agency relied on each such authority.
+No.
 
-(g) Definitions.—In this section:
+And whose fault do you think that is?
 
-(1) Appropriate federal banking agency.—The term "appropriate Federal banking agency" means—
+You know, I'm gonna guess bees.
 
-(A) the appropriate Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); and
+Bees?
 
-(B) the National Credit Union Administration, in the case of an insured credit union.
+Specifically, me.
 
-(2) Depository institution.—The term "depository institution" has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)).
+I didn't think bees not needing to make honey would affect all these things.
 
-&nbsp;
+It's not just flowers. Fruits, vegetables, they all need bees.
 
-SEC. 708. CONFORMING AMENDMENTS.
+That's our whole SAT test right there.
 
-(a) Federal Deposit Insurance Act.—Section 12 of the Federal Deposit Insurance Act (12 U.S.C. 1822) is amended by adding at the end the following:
+Take away produce, that affects the entire animal kingdom.
 
-"(g) Appointment of Receiver.—
+And then, of course...
 
-"(1) Definition.—In this subsection, the term ‘covered depository institution’ has the meaning given the term in section 15(a) of the Bank Holding Company Act of 1956.
+The human species?
 
-"(2) Appointment.—The Corporation may be appointed as receiver of a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956.
+So if there's no more pollination, it could all just go south here, couldn't it?
 
-"(3) Premiums.—A covered depository institution may not be charged deposit insurance premiums for the purpose of this subsection, but the Corporation may use the capital of the covered depository institution to fund the costs of the receivership.
+I know this is also partly my fault.
 
-"(4) Rules.—The Corporation may promulgate rules to carry out this subsection, which shall—
+How about a suicide pact?
 
-"(A) be substantially consistent with the rules for receivership of an insured depository institution; and
+How do we do it?
 
-"(B) account for the limited activities, capital, and the required tailored recovery and resolution plan of the covered depository institution.".
+I'll sting you, you step on me.
 
-(b) Federal Reserve Act.—The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended—
+That just kills you twice.
 
-(1) in section 19(b)(1)(A) (12 U.S.C. 461(b)(1)(A))—
+Right, right.
 
-(A) in clause (vi), by striking "and" at the end;
+Listen, Barry... sorry, but I gotta get going.
 
-(B) in clause (vii), by striking the period at the end and inserting "; and"; and
+I had to open my mouth and talk.
 
-(C) by adding at the end the following:
+Vanessa?
 
-"(viii) a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956."; and
+Vanessa? Why are you leaving?
 
-(2) in the first undesignated paragraph of section 9 (12 U.S.C. 321), in the first sentence, by inserting ", covered depository institutions, as defined in section 15(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1853(a))," after “Plan banks”.
+Where are you going?
 
-&nbsp;
+To the final Tournament of Roses parade in Pasadena.
 
-# TITLE VIII—RESPONSIBLE INTERAGENCY COORDINATION
+They've moved it to this weekend because all the flowers are dying.
 
-SEC. 801. TIMELINE FOR INTERPRETIVE GUIDANCE ISSUED BY FEDERAL FINANCIAL AGENCIES.
+It's the Last Chance I'll ever have to see it.
 
-(a) In General.—Title 31, United States Code, is amended by adding after chapter 98, as added by section 101(a) of this Act, the following:
+Vanessa, I just wanna say I'm sorry.
 
-"CHAPTER 99—RESPONSIBLE INTERAGENCY COORDINATION
+I never meant it to turn out like this.
 
-"Sec.
+I know. Me neither.
 
-"9901. Timeline for interpretive guidance issues by Federal financial agencies.
+Tournament of Roses.
 
-"9902. Interstate sandbox activities.
+Roses can't do sports.
 
-"9901. Timeline for interpretive guidance issues by Federal financial agencies
+Wait a minute. Roses. Roses?
 
-"(a) In General.—In this section:
+Roses!
 
-"(1) Federal financial regulator.—The term ‘Federal financial regulator’ means—
+Vanessa!
 
-"(A) Board of Governors of the Federal Reserve System and the Federal Reserve banks;
+Roses?!
 
-"(B) Commodity Futures Trading Commission;
+Barry?
 
-"(C) Department of the Treasury;
+Roses are flowers!
 
-"(D) Federal Deposit Insurance Corporation;
+Yes, they are.
 
-"(E) Federal Housing Finance Agency;
+Flowers, bees, pollen!
 
-"(F) National Credit Union Administration;
+I know.
 
-"(G) Office of the Comptroller of the Currency;
+That's why this is the last parade.
 
-"(H) Consumer Financial Protection Bureau; and
+Maybe not.
 
-"(I) Securities and Exchange Commission.
+Could you ask him to slow down?
 
-"(2) Requesting person.—The term ‘requesting person’—
+Could you slow down?
 
-"(A) means any entity that is required to be chartered, licensed, supervised or registered by that agency; and
+Barry!
 
-"(B) includes State agencies and self-regulatory organizations.
+OK, I made a huge mistake.
 
-"(b) Response.—Not later than 180 days after filing a written request for individualized interpretive guidance with respect to the application of a statute, rule or policy under the jurisdiction of a Federal financial regulator, the agency shall provide a final, complete and written response to the requesting person. This subsection shall not apply to requests for guidance that the Federal financial regulator determine lack substance.
+This is a total disaster, all my fault.
 
-"(c) Other Matters.—With respect to matters delegated or otherwise under the jurisdiction of self-regulatory organizations, including national securities exchanges, boards of trade, and similar entities, the self-regulatory organization shall be subject to the same requirements as a Federal financial regulator under this section.".
+Yes, it kind of is.
 
-&nbsp;
+I've ruined the planet. I wanted to help you with the flower shop. I've made it worse.
 
-SEC. 802. INTERSTATE SANDBOX ACTIVITIES.
+Actually, it's completely closed down.
 
-(a) In General.—Chapter 99 of title 31, United States Code, as added by section 701 of this Act, is amended by adding at the end the following:
+I thought maybe you were remodeling.
 
-"9902. Interstate sandbox activities
+But I have another idea, and it's greater than my previous ideas combined.
 
-"(a) Definitions.—In this section:
+I don't want to hear it!
 
-"(1) Federal financial regulator.—The term ‘Federal financial regulator’ means the Federal agency described in section 9901(a)(1) that would typically exercise jurisdiction over the product or service made available in the State financial regulatory sandbox, or the Department of the Treasury, in the case of a matter only within the jurisdiction of a State.
+All right, they have the roses, the roses have the pollen.
 
-"(2) Financial company.—The term ‘financial company’ means a business entity primarily engaged in activities that are financial in nature, as described in section 4(k)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(4)).
+I know every bee, plant and flower bud in this park.
 
-"(3) Host state.—The term ‘host State’ means a State in which a financial company is not operating in the State financial regulatory sandbox of that State.
+All we gotta do is get what they've got back here with what we've got.
 
-"(4) Innovative.—The term ‘innovative’ means new or emerging technology, or new uses of existing technology, that—
+Bees.
 
-"(A) provides a financial product, service, business model, or delivery mechanism to the public; and
+Park.
 
-"(B) has no substantially comparable, widely available analogue in common use in the United States.
+Pollen!
 
-"(5) State financial regulator.—The term ‘State financial regulator’ includes State agencies that regulate, supervise, or license banks, trust companies, credit unions, consumer credit, consumer protection, money transmission, securities, commodities, and similar areas.
+Flowers.
 
-"(6) State financial regulatory sandbox.—The term ‘State financial regulator sandbox’ means a program created under State law that allows a financial company to make an innovative financial product or service available to customers within that State during a defined period in order to permit regulatory dialogue, data sharing amongst regulators and financial companies, and to promote an assessment of potential changes in law, rule, or policy to facilitate the appropriate supervision of financial technology.
+Repollination!
 
-"(b) Business Conducted.—Upon joint approval under subsection (d), a financial company in good standing in a State financial regulatory sandbox and operating for not less than 6 months in that sandbox program, may do business across State lines under the standards of this section. If approved, the state financial regulator and the Federal financial regulator may agree upon reasonable adjustments to the number of customers that may be served, increased bonding or collateral requirements, and similar conditions which may be appropriate for conducting business nationally.
+Across the nation!
 
-"(c) State Sandbox Requirements.—A State financial regulatory sandbox shall contain the following components for financial companies to be eligible to do business across State lines under this section:
+Tournament of Roses, Pasadena, California.
 
-"(1) A limited sandbox period of not more than 24 months.
+They've got nothing but flowers, floats and cotton candy.
 
-"(2) Consumer protection requirements, which may include disclosures, bonding, insurance requirements, and financial literacy programs for specified consumers.
+Security will be tight.
 
-"(3) Authority to conduct examinations of the financial company.
+I have an idea.
 
-"(4) A background investigation of the financial company and its officers, directors, members, managers and key employees, prior to commencing business.
+Vanessa Bloome, FTD.
 
-"(d) Decision.—Upon submission of an application by a financial company to conduct business across State lines under subsection (b), the State financial regulator and Federal financial regulator shall jointly issue a decision within 120 days with respect to that application, irrespective of any supplemental information with respect to the application that may be requested after initial filing. The Federal financial regulator shall have the authority to conduct a joint examination of any financial company doing business under this section.
+Official floral business. It's real.
 
-"(e) Factors.—The State financial regulator and Federal financial regulator shall consider the following factors in rendering a decision on the application:
+Sorry, ma'am. Nice brooch.
 
-"(1) Whether the product or service offered may be offered in a safe and sound manner across State lines.
+Thank you. It was a gift.
 
-"(2) Whether the management and capital of the financial company is commensurate with the scale of the company.
+Once inside, we just pick the right float.
 
-"(3) Risk management plans of the financial company.
+How about The Princess and the Pea?
 
-"(4) Conduct of the financial company to date in the State regulatory sandbox, and any past regulatory actions, including actions against officers, directors, members, managers and key employees.
+I could be the princess, and you could be the pea!
 
-"(5) Plans for consumer education and financial literacy, including partnerships with local educational institutions and community colleges to provide financial literacy classes or resources.
+Yes, I got it.
 
-"(6) Other factors determined by the State and Federal financial regulators to be material.
+Where should I sit?
 
-"(f) Election.—A host State may elect not to permit financial companies operating under this section to do business in their State through issuance of an executive order by the Governor of that State.
+What are you?
 
-"(g) Innovative.—A product or service made available under this section through a State financial regulatory sandbox shall be innovative.
+I believe I'm the pea.
 
-"(h) Rules of Construction.—This section shall not be construed to extend to permit—
+The pea?
 
-"(1) a financial company to engage in any activities for which a charter, license, registration or for which permission would be required under Federal or State law but for the innovative financial product or service being offered by the company, except to the extent the financial company would be required to obtain a charter, license or other authorization required in a host State;
+It goes under the mattresses.
 
-"(2) failure to comply with any applicable portion of State law required by the State financial regulatory sandbox, or failure to comply with any applicable portion of Federal law, unless authorized on a limited basis by the Federal financial regulator to achieve the purposes of this section and the State financial regulatory sandbox; or
+Not in this fairy tale, sweetheart.
 
-"(3) lending activities in excess of the maximum statutory rate of interest permissible in a State.".
+I'm getting the marshal.
 
-(b) Technical and Conforming Amendment.—The table of contents for subtitle VI of title 31, United States Code, as amended by section 101(b) of this Act, is amended by adding at the end the following:
+You do that! This whole parade is a fiasco!
 
-"99.Responsible interagency coordination
+Let's see what this baby'll do.
 
-9901".
+Hey, what are you doing?!
 
-&nbsp;
+Then all we do is blend in with traffic... without arousing suspicion.
 
-SEC. 803. STATE MONEY TRANSMISSION COORDINATION RELATING TO DIGITAL ASSETS.
+Once at the airport, there's no stopping us.
 
-(a) In General.—In order to increase uniformity, reduce regulatory burden, and enhance consumer protection, the States, through the Conference of State Bank Supervisors and the Money Transmission Regulators Association, shall, not later than 2 years after the date of enactment of this Act, ensure uniform treatment of digital assets for the purposes of state money transmission laws on the following matters:
+Stop! Security.
 
-(1) Whether digital assets are subject to money transmission licensing requirements, as appropriate, which shall include the exchange of digital assets for legal tender.
+You and your insect pack your float?
 
-(2) Treatment of payment stablecoins.
+Yes.
 
-(3) Non-applicability to persons or software that engage in validation of transactions, non-custodial wallet providers, or software or hardware development.
+Has it been in your possession the entire time?
 
-(4) Tangible net worth and permissible investment requirements.
+Would you remove your shoes?
 
-(5) Disclosures, reporting, and recordkeeping.
+Remove your stinger.
 
-(6) Common examination and examiner training standards, including common customer identification, anti-money laundering, and sanctions best practices developed in consultation with the Financial Crimes Enforcement Network and the Office of Foreign Assets Control.
+It's part of me.
 
-(b) Regulations.—If the Director of the Bureau of Consumer Financial Protection determines that a State does not have the requirements of subsection (a) in effect by law (including regulations) that are substantively consistent with the requirements of the several States on the date that is 2 years after the date of enactment of this section, the Director shall adopt rules applicable to that State that achieve the purposes of subsection (a) and that are consistent with the standards adopted in the States that have the requirements of subsection (a) in effect. The Director may extend the deadline under this section for not more than 1 year if a State has shown a good faith effort towards implementation. The Director may promulgate regulations to monitor State compliance with this subsection.
+I know. Just having some fun.
 
-&nbsp;
+Enjoy your flight.
 
-SEC. 804. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
+Then if we're lucky, we'll have just enough pollen to do the job.
 
-Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470), as amended by section 601 of this Act, is amended by adding at the end the following:
+Can you believe how lucky we are? We have just enough pollen to do the job!
 
-"SEC. 722B. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
+I think this is gonna work.
 
-"(a) Confidentiality.—Notwithstanding any other provision of law, any requirement under Federal or State law regarding the privacy or confidentiality of any information or materials exchanged among financial regulators and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to any State or Federal financial regulator.
+It's got to work.
 
-"(b) Non Applicability of Certain Requirements.—Information or material that is subject to privilege or confidentiality under subsection (a) shall not be subject to—
+Attention, passengers, this is Captain Scott. We have a bit of bad weather in New York. It looks like we'll experience a couple hours delay.
 
-"(1) disclosure under any Federal or State law governing the disclosure to the public of information held by an officer or an agency of the Federal Government or the respective State; or
+Barry, these are cut flowers with no water. They'll never make it.
 
-"(2) subpoena or discovery, or admission into evidence, in any private civil action or administrative process, unless with respect to any privilege held by the Nationwide Mortgage Licensing System and Registry or the Director with respect to such information or material, the person to whom such information or material pertains waives that privilege, in whole or in part, based on the discretion of such person.
+I gotta get up there and talk to them.
 
-"(c) Coordination With Other Law.—Any State or Federal law, including any State open records law, relating to the disclosure of confidential supervisory information or any information or material described in subsection (a) that is inconsistent with subsection (a) shall be superseded by the requirements of such provision to the extent the State or Federal law provides less confidentiality or a weaker privilege.
+Be careful.
 
-"(d) Conference of State Bank Supervisors.—The Conference of State Bank Supervisors shall be considered the agent of the State financial regulators for the purposes of sharing information under this provision.
+Can I get help with the Sky Mall magazine? I'd like to order the talking inflatable nose and ear hair trimmer.
 
-"(e) Definition.—In this section, the term ‘financial regulator’ means—
+Captain, I'm in a real situation.
 
-"(1) the Board of Governors of the Federal Reserve System and the Federal Reserve banks;
+What'd you say, Hal?
 
-"(2) the Commodity Futures Trading Commission;
+Nothing.
 
-"(3) the Department of the Treasury, including the Financial Crimes Enforcement Network and the Office of Foreign Assets Control;
+Bee!
 
-"(4) the Federal Deposit Insurance Corporation;
+Don't freak out! My entire species...
 
-"(5) the Federal Housing Finance Agency;
+What are you doing?
 
-"(6) the National Credit Union Administration;
+Wait a minute! I'm an attorney!
 
-"(7) the Office of the Comptroller of the Currency;
+Who's an attorney?
 
-"(8) the Bureau of Consumer Financial Protection;
+Don't move.
 
-"(9) the Securities and Exchange Commission; and
+Oh, Barry.
 
-"(10) State agencies that regulate, supervise, or license banks, trust companies, credit unions, consumer credit, consumer protection, money transmission, securities, commodities, and similar areas.".
+Good afternoon, passengers. This is your captain. Would a Miss Vanessa Bloome in 24B please report to the cockpit? And please hurry!
 
-&nbsp;
+What happened here?
 
-SEC. 805. ANALYSIS OF DECENTRALIZED FINANCE MARKETS AND TECHNOLOGIES.
+There was a DustBuster, a toupee, a life raft exploded.
 
-Not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury, in consultation with the Commodity Futures Trading Commission, Securities and Exchange Commission, and private sector developers and participants in decentralized protocols, digital assets, and digital asset exchanges, shall—
+One's bald, one's in a boat, they're both unconscious!
 
-(1) analyze the market position of decentralized finance technologies with respect to digital assets; and
+Is that another bee joke?
 
-(2) submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives a report on—
+No!
 
-(A) current development and use of decentralized finance protocols in the United States and other countries;
+No one's flying the plane!
 
-(B) opportunities, benefits, and challenges relating to decentralized finance protocols and self-custody of digital assets;
+This is JFK control tower, Flight 356. What's your status?
 
-(C) a comparison of operational friction, fees, liquidity and trading opportunities in decentralized finance protocols, digital asset markets, and traditional markets;
+This is Vanessa Bloome. I'm a florist from New York.
 
-(D) transparency, prevention of manipulation, and customer protection;
+Where's the pilot?
 
-(E) cybersecurity and resiliency; and
+He's unconscious, and so is the copilot.
 
-(F) ensuring the accuracy of information regarding the underlying smart contracts of a decentralized finance protocol and the transactions facilitated by such contracts, as the information appears on a website or other similar means relating to the protocol.
+Not good. Does anyone onboard have flight experience?
 
-&nbsp;
+As a matter of fact, there is.
 
-SEC. 806. ANALYSIS OF ENERGY CONSUMPTION IN DIGITAL ASSET MARKETS.
+Who's that?
 
-(a) In General.—Each year, the Federal Energy Regulatory Commission, in consultation with the Commodity Futures Trading Commission and Securities and Exchange Commission, shall analyze the following topics with respect to digital asset markets:
+Barry Benson.
 
-(1) Energy consumption for mining and staking of digital asset transactions.
+From the honey trial?! Oh, great.
 
-(2) The effect of energy consumption described in paragraph (1) on national, regional, and local energy prices.
+Vanessa, this is nothing more than a big metal bee.
 
-(3) The effects of mining and staking of digital asset transactions on baseload power levels.
+It's got giant wings, huge engines.
 
-(4) The use of renewable energy sources, including use of nonrenewable sources that would otherwise be wasted, and a comparison of digital asset market energy consumption with the financial services industry and economy as a whole.
+I can't fly a plane.
 
-(5) The sources and reliability of the data used under this subsection.
+Why not? Isn't John Travolta a pilot?
 
-(6) A process for regulated entities to make information publicly available regarding energy consumption, including sources of energy and amount, and, if appropriate, recommendations to Congress to establish such a process.
+Yes.
 
-(b) Report.—Not later than December 31 of each year, the Federal Energy Regulatory Commission shall submit to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives a report containing the analysis required by subsection (a).
+How hard could it be?
 
-&nbsp;
+Wait, Barry!
 
-SEC. 807. ANALYSIS OF SELF-REGULATION AND REGISTERED DIGITAL ASSET ASSOCIATIONS.
+We're headed into some lightning.
 
-(a) In General.—Not later than 180 days after the date of enactment of this Act, the Commodity Futures Trading Commission and Securities and Exchange Commission, in consultation with digital asset intermediaries, as defined in section 9801 of title 31, United States Code, as added by section 101 of this Act, and standard-setting associations representing the digital asset industry, shall conduct a study and submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives a report setting forth principles for self-regulation for digital asset markets and a proposal for the establishment of registered digital asset associations for digital asset markets based on delegated authority from the Commodity Futures Trading Commission and Securities and Exchange Commission to facilitate innovative, efficient, and orderly markets for digital assets in accordance with this Act, and the amendments made by this Act, including—
+This is Bob Bumble. We have some late-breaking news from JFK Airport, where a suspenseful scene is developing.
 
-(1) standard setting, corporate transparency requirements, and rulemaking relating to digital asset market conduct;
+Barry Benson, fresh from his legal victory...
 
-(2) regular consultation between the Commodity Futures Trading Commission and Securities and Exchange Commission with respect to rules governing digital asset market conduct and the governance of registered digital asset associations;
+That's Barry!
 
-(3) appropriate investigatory and disciplinary powers of registered digital asset associations and registered digital asset exchanges, respectively;
+...is attempting to land a plane, loaded with people, flowers and an incapacitated flight crew.
 
-(4) the authority of digital asset intermediaries to conduct activities relating to traditional assets;
+Flowers?!
 
-(5) consumer education and financial literacy;
+We have a storm in the area and two individuals at the controls with absolutely no flight experience.
 
-(6) professional accreditation and education;
+Just a minute. There's a bee on that plane.
 
-(7) market surveillance and oversight, including use of technology to facilitate shared trade practices and market surveillance;
+I'm quite familiar with Mr. Benson and his no-account compadres.
 
-(8) risk-based examination authority;
+They've done enough damage.
 
-(9) dispute resolution and arbitration;
+But isn't he your only hope?
 
-(10) membership of registered digital asset association members in other self-regulatory organizations and mutual recognition and acceptance of rules and examination reports amongst self-regulatory organizations;
+Technically, a bee shouldn't be able to fly at all.
 
-(11) voluntary and compulsory membership structures;
+Their wings are too small... Haven't we heard this a million times?
 
-(12) the initial determination of the legal classification of a digital asset by a registered digital asset association, subject to oversight by the Commodity Futures Trading Commission and Securities and Exchange Commission; and
+"The surface area of the wings and body mass make no sense."
 
-(13) the funding of registered digital asset associations based on fees.
+Get this on the air!
 
-(b) Interim Rule.—Not later than August 1, 2022, the Commodity Futures Trading Commission and Securities and Exchange Commission shall jointly adopt an interim final rule specifying the scope of the study under subsection (a), including topics of discussion and questions for digital asset intermediaries and associations representing the digital asset industry, and setting forth not fewer than 3 public meetings for staff of the Commodity Futures Trading Commission and the Securities and Exchange Commission to receive public comment. The interim final rule shall establish a comment period of not less than 120 days prior to publication of the report under subsection (a) and contain draft legislative text for the creation of registered digital asset associations by Congress.
+Got it.
 
-&nbsp;
+Stand by.
 
-SEC. 808. CYBERSECURITY STANDARDS FOR DIGITAL ASSET INTERMEDIARIES.
+We're going live.
 
-(a) Definition.—In this section, the term "digital asset intermediary" has the meaning given the term in section 9801 of title 31, United States Code, as added by section 101 of this Act.
+The way we work may be a mystery to you. Making honey takes a lot of bees doing a lot of small jobs.
 
-(b) Requirement.—Not later than 18 months after the date of enactment of this Act, the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Secretary of the Treasury and the Director of the National Institute of Standards and Technology, shall develop comprehensive, principles-based guidance relating to cybersecurity for digital asset intermediaries that account for, with respect to such a digital asset intermediary—
+But let me tell you about a small job. If you do it well, it makes a big difference.
 
-(1) the internal governance, and organizational culture, of the cybersecurity program of the digital asset intermediary;
+More than we realized. To us, to everyone.
 
-(2) security operations of the digital asset intermediary, including threat identification, incident response, and mitigation;
+That's why I want to get bees back to working together. That's the bee way! We're not made of Jell-O.
 
-(3) risk identification and measurement by the digital asset intermediary;
+We get behind a fellow.
 
-(4) the mitigation of risk by the digital asset intermediary, including policies of the digital asset intermediary, controls implemented by the digital asset intermediary, change management with respect to the digital asset intermediary, and the supply chain integrity of the digital asset intermediary;
+Black and yellow!
 
-(5) assurance provided by, and testing conducted by, the digital asset intermediary, including penetration testing and independent audits so conducted; and
+Hello!
 
-(6) the potential for digital asset intermediaries to be used to facilitate illicit activities, including sanctions avoidance.
+Left, right, down, hover.
 
-&nbsp;
+Hover?
 
-SEC. 809. ADVISORY COMMITTEE ON FINANCIAL INNOVATION.
+Forget hover.
 
-(a) Establishment.—There is established the Advisory Committee on Financial Innovation (in this section referred to as the "Committee").
+This isn't so hard.
 
-(b) Membership.—
+Beep-beep! Beep-beep!
 
-(1) Composition.—The Committee shall be composed of 10 members, as follows:
+Barry, what happened?!
 
-(A) 2 members appointed by the President from the financial technology industry.
+Wait, I think we were on autopilot the whole time.
 
-(B) 4 members appointed by the President with specializations in consumer protection, consumer education, financial literacy, or financial inclusion.
+That may have been helping me.
 
-(C) A commissioner from the Securities and Exchange Commission, as designated by the Chair of the Commission.
+And now we're not!
 
-(D) A commissioner from the Commodity Futures Trading Commission, as designated by the Chair of the Commission.
+So it turns out I cannot fly a plane.
 
-(E) A member of the Board of Governors of the Federal Reserve System, as designated by the Chair of the Board.
+All of you, let's get behind this fellow! Move it out!
 
-(F) A State financial regulator, as jointly designated by the National Association of State Securities Administrators and the Conference of State Bank Supervisors.
+Move out!
 
-(2) Political affiliation.—Not more than 4 of the members of the Committee shall be from the same political party.
+Our only chance is if I do what I'd do, you copy me with the wings of the plane!
 
-(3) Appointment date.—The appointments of the members of the Committee shall be made not later than 60 days after the date of enactment of this Act.
+Don't have to yell.
 
-(4) Period of appointment; vacancies.—
+I'm not yelling! We're in a lot of trouble.
 
-(A) In general.—A member of the Committee shall be appointed for a term of 4 years.
+It's very hard to concentrate with that panicky tone in your voice!
 
-(B) Vacancies.—A vacancy in the Committee—
+It's not a tone. I'm panicking!
 
-(i) shall not affect the powers of the Committee; and
+I can't do this!
 
-(ii) shall be filled in the same manner as the original appointment.
+Vanessa, pull yourself together. You have to snap out of it!
 
-(5) Meetings.—
+You snap out of it.
 
-(A) Initial meeting.—Not later than 60 days after the date on which all members of the Committee have been appointed, the Committee shall hold its first meeting.
+You snap out of it.
 
-(B) Frequency.—The Committee shall meet at the call of the Chair.
+You snap out of it!
 
-(C) Quorum.—A majority of the members of the Committee shall constitute a quorum, but a lesser number of members may hold hearings.
+You snap out of it!
 
-(6) Chairperson.—The members described in subparagraphs (C) and (D) of paragraph (1) shall alternate, on a yearly basis, as Chairperson of the Committee, with the member described in such subparagraph (D) serving as the Chair for the 1-year period following establishment of the Committee.
+You snap out of it!
 
-(c) Duties.—
+You snap out of it!
 
-(1) Matters studied.—The matters studied by the Committee shall include—
+You snap out of it!
 
-(A) digital assets;
+You snap out of it!
 
-(B) consumer education and financial literacy;
+Hold it!
 
-(C) market structure in the securities and commodities markets;
+Why? Come on, it's my turn.
 
-(D) banking, payments and settlement;
+How is the plane flying?
 
-(E) consumer credit;
+I don't know.
 
-(F) financial inclusion, including reducing the cost of financial services for all people of the United States and promoting access to those services;
+Hello?
 
-(G) efficiency in the financial system;
+Benson, got any flowers for a happy occasion in there?
 
-(H) reduction of systemic risk;
+The Pollen Jocks!
 
-(I) competition in financial services; and
+They do get behind a fellow.
 
-(J) the State-Federal partnership in financial services regulation.
+Black and yellow.
 
-(2) Report.—On an annual basis, or as otherwise determined necessary by the Chair of the Committee, the Committee shall report to the President and to Congress on, and provide recommendations for legislation, regulation, and supervision relating to innovation in, the matters studied under paragraph (1).
+Hello.
 
-(d) Powers.—
+All right, let's drop this tin can on the blacktop.
 
-(1) Hearings.—The Committee shall hold not less than 2 hearings per calendar year to hear from interested parties and to discuss the work of the Committee.
+Where? I can't see anything. Can you?
 
-(2) Information from federal agencies.—
+No, nothing. It's all cloudy.
 
-(A) In general.—The Committee may secure directly from a Federal department or agency such information as the Committee considers necessary to carry out this section.
+Come on. You got to think bee, Barry.
 
-(B) Furnishing information.—On request of the Chair of the Committee, the head of the department or agency shall furnish the information to the Committee.
+Thinking bee.
 
-(3) Postal services.—The Committee may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+Thinking bee.
 
-(e) Compensation.—
+Thinking bee!
 
-(1) In general.—All members of the Committee shall serve without compensation in addition to that received for their services as officers or employees of the United States, and all other members of the Committee shall serve without compensation.
+Thinking bee! Thinking bee!
 
-(2) Travel expenses.—Each member of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code, while away from their homes or regular places of business in performance of services for the Council.
+Wait a minute. I think I'm feeling something.
 
-(f) Staff.—
+What?
 
-(1) In general.—The Chair of the Committee may, without regard to the civil service laws (including regulations), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Committee to perform its duties, except that the employment of an executive director shall be subject to confirmation by the Committee.
+I don't know. It's strong, pulling me.
 
-(2) Compensation.—The Chair of the Committee may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of that title.
+Like a 27-million-year-old instinct.
 
-(g) Detail of Government Employees.—A Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+Bring the nose down.
 
-(h) Procurement of Temporary and Intermittent Services.—The Chair of the Committee may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+Thinking bee!
 
-(i) Termination.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+Thinking bee! Thinking bee!
 
-(j) Authorization of Appropriations.—There is authorized to be appropriated to the Committee to carry out this section $2,000,000 for fiscal year 2023, to remain available through fiscal year 2024.
+What in the world is on the tarmac?
+
+Get some lights on that!
+
+Thinking bee!
+
+Thinking bee! Thinking bee!
+
+Vanessa, aim for the flower.
+
+OK.
+
+Cut the engines. We're going in on bee power. Ready, boys?
+
+Affirmative!
+
+Good. Good. Easy, now. That's it.
+
+Land on that flower!
+
+Ready? Full reverse!
+
+Spin it around!
+
+Not that flower! The other one!
+
+Which one?
+
+That flower.
+
+I'm aiming at the flower!
+
+That's a fat guy in a flowered shirt.
+
+I mean the giant pulsating flower made of millions of bees!
+
+Pull forward. Nose down. Tail up.
+
+Rotate around it.
+
+This is insane, Barry!
+
+This's the only way I know how to fly.
+
+Am I koo-koo-kachoo, or is this plane flying in an insect-like pattern?
+
+Get your nose in there. Don't be afraid. Smell it. Full reverse!
+
+Just drop it. Be a part of it.
+
+Aim for the center!
+
+Now drop it in! Drop it in, woman!
+
+Come on, already.
+
+Barry, we did it! You taught me how to fly!
+
+Yes. No high-five!
+
+Right.
+
+Barry, it worked!
+
+Did you see the giant flower?
+
+What giant flower? Where? Of course
+
+I saw the flower! That was genius!
+
+Thank you.
+
+But we're not done yet.
+
+Listen, everyone!
+
+This runway is covered with the last pollen from the last flowers available anywhere on Earth.
+
+That means this is our Last Chance. We're the only ones who make honey, pollinate flowers and dress like this.
+
+If we're gonna survive as a species, this is our moment! What do you say?
+
+Are we going to be bees, or just Museum of Natural History keychains?
+
+We're bees!
+
+Keychain!
+
+Then follow me! Except Keychain.
+
+Hold on, Barry. Here. You've earned this.
+
+Yeah!
+
+I'm a Pollen Jock! And it's a perfect fit. All I gotta do are the sleeves.
+
+Oh, yeah.
+
+That's our Barry.
+
+Mom! The bees are back!
+
+If anybody needs to make a call, now's the time. I got a feeling we'll be working late tonight!
+
+Here's your change. Have a great afternoon! Can I help who's next?
+
+Would you like some honey with that?
+
+It is bee-approved. Don't forget these.
+
+Milk, cream, cheese, it's all me.  And I don't see a nickel!
+
+Sometimes I just feel like a piece of meat!
+
+I had no idea.
+
+Barry, I'm sorry.
+
+Have you got a moment?
+
+Would you excuse me?
+
+My mosquito associate will help you.
+
+Sorry I'm late.
+
+He's a lawyer too?
+
+I was already a blood-sucking parasite. All I needed was a briefcase.
+
+Have a great afternoon!
+
+Barry, I just got this huge tulip order, and I can't get them anywhere.
+
+No problem, Vannie. Just leave it to me.
+
+You're a lifesaver, Barry. Can I help who's next?
+
+All right, scramble, jocks! It's time to fly.
+
+Thank you, Barry!
+
+That bee is living my life!
+
+Let it go, Kenny.
+
+When will this nightmare end?!
+
+Let it all go.
+
+Beautiful day to fly.
+
+Sure is.
+
+Between you and me,
+
+I was dying to get out of that office.
+
+You have got to start thinking bee, my friend.
+
+Thinking bee!
+
+Me?
+
+Hold it. Let's just stop for a second. Hold it.
+
+I'm sorry. I'm sorry, everyone. Can we stop here?
+
+I'm not making a major life decision during a production number!
+
+All right. Take ten, everybody. Wrap it up, guys.
+
+I had virtually no rehearsal for that.
