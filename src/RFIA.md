@@ -1,10 +1,4 @@
-echo "# RFIA-bill" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/responsible-financial-innovation-act22/RFIA-bill.git
-git push -u origin main
+# RFIA-bill
 # Lummis-Gillibrand Responsible Financial Innovation Act (S. 4356)
 
 *117th Congress, 2d Session*
