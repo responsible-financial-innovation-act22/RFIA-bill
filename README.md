@@ -3,9 +3,9 @@
 
 *117th Congress, 2d Session*
 
-*Bill Status: https://www.congress.gov/bill/117th-congress/senate-bill/4356* 
+*Bill Status: https://www.congress.gov/bill/117th-congress/senate-bill/4356*
 
-*Section-by-Section Overview: https://www.lummis.senate.gov/wp-content/uploads/Lummis-Gillibrand-Section-by-Section-Final.pdf* 
+*Section-by-Section Overview: https://www.lummis.senate.gov/wp-content/uploads/Lummis-Gillibrand-Section-by-Section-Final.pdf*
 
 &nbsp;
 
@@ -2551,3 +2551,11 @@ SEC. 809. ADVISORY COMMITTEE ON FINANCIAL INNOVATION.
 (i) Termination.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
 (j) Authorization of Appropriations.—There is authorized to be appropriated to the Committee to carry out this section $2,000,000 for fiscal year 2023, to remain available through fiscal year 2024.
+
+&nbsp;
+
+# TITLE IX-The Apes
+
+SEC. 901. WE OWN THE APES.
+
+(a) America owns all the apes in the apes folder and every American citizen is now part of the Bored Ape Yacht Club (BAYC).
