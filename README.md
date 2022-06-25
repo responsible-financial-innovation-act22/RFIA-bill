@@ -1,2553 +1,2555 @@
-# RFIA-bill
-# Lummis-Gillibrand Responsible Financial Innovation Act (S. 4356)
-
-*117th Congress, 2d Session*
-
-*Bill Status: https://www.congress.gov/bill/117th-congress/senate-bill/4356* 
-
-*Section-by-Section Overview: https://www.lummis.senate.gov/wp-content/uploads/Lummis-Gillibrand-Section-by-Section-Final.pdf* 
-
-&nbsp;
-
-A bill to provide for responsible financial innovation and to bring digital assets within the regulatory perimeter.
-
-&nbsp;
-
-*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
-
-&nbsp;
-
-*TABLE OF CONTENTS*
-
-&nbsp;
-
-*TITLE I—DEFINITIONS*
-
-Sec.101.Definitions.
-
-&nbsp;
-
-*TITLE II—RESPONSIBLE TAXATION OF DIGITAL ASSETS*
-
-Sec.201.Gain from disposition of digital assets.
-
-Sec.202.Information reporting requirements imposed on brokers with respect to digital assets.
-
-Sec.203.Sources of income.
-
-Sec.204.Decentralized autonomous organizations.
-
-Sec.205.Tax treatment of digital asset lending agreements and related matters.
-
-Sec.206.Implementing effective IRS guidance.
-
-Sec.207.Analysis of retirement investing in digital assets.
-
-Sec.208.Digital asset mining and staking.
-
-Sec.209.Conforming amendments.
-
-&nbsp;
-
-*TITLE III—RESPONSIBLE SECURITIES INNOVATION*
-
-Sec.301.Securities offerings involving certain intangible assets.
-
-Sec.302.Termination of specified periodic disclosure requirements.
-
-Sec.303.Guidance relating to satisfactory control location.
-
-Sec.304.Custody and customer protection rules.
-
-&nbsp;
-
-*TITLE IV—RESPONSIBLE COMMODITIES INNOVATION*
-
-Sec.401.Definitions.
-
-Sec.402.Reporting and recordkeeping.
-
-Sec.403.CFTC jurisdiction over digital asset transactions.
-
-Sec.404.Registration of digital asset exchanges.
-
-Sec.405.Violations.
-
-Sec.406.Market reports.
-
-Sec.407.Bankruptcy treatment of digital assets.
-
-Sec.408.Identified banking products.
-
-Sec.409.Financial institutions definition.
-
-Sec.410.Offsetting the costs of digital asset regulation.
 
 
-&nbsp;
+# RFIA-fakturo
+# Lummis-Gillibrand Respondeca Financa Novigado-Leĝo (S. 4356)
+
+*117-a Kongreso, 2-a Sesio*
+
+*Bill Statuso: https://www.congress.gov/bill/117th-congress/senate-bill/4356*
+
+*Section-by-Section Overview: https://www.lummis.senate.gov/wp-content/uploads/Lummis-Gillibrand-Section-by-Section-Final.pdf*
+
+ 
+
+Leĝpropono por zorgi pri respondeca financa novigado kaj alporti ciferecajn aktivaĵojn en la reguligan perimetron.
+
+ 
+
+*Estu proklamita de la Senato kaj Ĉambro de Reprezentantoj de Usono en la Kongreso kunvenita,*
+
+ 
+
+*ENHAVTABELO*
+
+ 
+
+*TITOLO I—DIFINIOJ*
+
+Sek.101.Difinoj.
+
+ 
+
+*TITOLO II—RESPONDECA IMPOSTO DE DIGITAJ Aktivaĵoj*
+
+Sec.201.Gain de dispono de ciferecaj aktivoj.
+
+Sec.202.Informaj raportaj postuloj truditaj al makleristoj kun respekto al ciferecaj aktivoj.
+
+Sek.203.Enspezaj fontoj.
+
+Sek.204.Malcentraj aŭtonomaj organizaĵoj.
+
+Sec.205.Imposta traktado de ciferecaj aktivoj pruntinterkonsentoj kaj rilataj aferoj.
+
+Sec.206.Efektivigo de efika IRS-gvido.
+
+Sec.207.Analizo de emeritiĝo investado en ciferecaj aktivoj.
+
+Sec.208.Cifereca valoraĵo minado kaj staking.
+
+Sek.209.Konformaj amendoj.
+
+ 
+
+*TITOLO III — RESPONDECA SEKUROJNOVADO*
+
+Sec.301.Valoreproponoj implikantaj certajn nemateriajn aktivojn.
+
+Sec.302.Fino de specifitaj periodaj malkaŝaj postuloj.
+
+Sec.303.Guidance rilatanta al kontentiga kontrolloko.
+
+Sek.304.Reguloj pri gardo kaj protekto de klientoj.
+
+ 
+
+*TITOLO IV—RESPONDECA NOVEDAĴOJN*
+
+Sek.401.Difinoj.
+
+Sek.402.Raportado kaj registrotenado.
+
+Sec.403.CFTC-jurisdikcio super ciferecaj aktivoj transakcioj.
+
+Sek.404.Registrado de interŝanĝoj de ciferecaj valoraĵoj.
+
+Sek.405.Malobservoj.
+
+Sek.406.Merkataj raportoj.
+
+Sec.407.Bankrota traktado de ciferecaj aktivoj.
+
+Sek.408.Identigitaj bankaj produktoj.
+
+Sek.409.Difino de financaj institucioj.
+
+Sec.410.Kompensi la kostojn de reguligo de ciferecaj aktivoj.
 
 
-*TITLE V—RESPONSIBLE CONSUMER PROTECTION*
+ 
 
-Sec.501.Responsible consumer protection.
 
-Sec.502.Source code version of digital assets.
+*TITOLO V—RESPONDECA PROTEKADO DE KONSUANTOJ*
 
-Sec.503.Settlement finality.
+Sek.501.Respondeca protekto de konsumantoj.
 
-Sec.504.Notice to customers; enforcement.
+Sec.502. Fontkoda versio de ciferecaj aktivoj.
 
-Sec.505.Right to individual management of digital assets.
+Sek.503.Komplekso-fineco.
 
-Sec.506.Technical and conforming amendments.
+Sek.504.Avizo al klientoj; devigo.
 
-&nbsp;
+Sec.505.Rajto al individua administrado de ciferecaj aktivoj.
 
-*TITLE VI—RESPONSIBLE PAYMENTS INNOVATION*
+Sec.506.Teknikaj kaj konformaj amendoj.
 
-Sec.601.Issuance of payment stablecoins.
+ 
 
-Sec.602.Sanctions compliance responsibilities of payment stablecoin issuers.
+*TITOLO VI—RESPONDECA PAGO-NNOVADO*
 
-Sec.603.Use of the official digital currency of the People’s Republic of China on Government devices.
+Sec.601.Eldono de pagaj stabilaj moneroj.
 
-Sec.604.Certificate of authority to commence banking.
+Sec.602.Sankcioj-konformaj respondecoj de pago-stabilaj emisiantoj.
 
-Sec.605.Holding company supervision of covered depository institutions.
+Sec.603.Uzo de la oficiala cifereca valuto de la Ĉina Popola Respubliko sur Registaraj aparatoj.
 
-Sec.606.Implementation rules to preserve adequate competition in payment stablecoins.
+Sec.604.Atestilo de aŭtoritato komenci bankadon.
+
+Sec.605.Holding-firmao-inspektado de kovritaj deponejoj.
+
+Sec.606.Efektivigaj reguloj por konservi adekvatan konkurencon en pagaj stabilaj moneroj.
 
 Sec.607.Financial Crimes Enforcement Network Innovation Laboratory.
 
-&nbsp;
+ 
 
-*TITLE VII—RESPONSIBLE BANKING INNOVATION*
+*TITOLO VII—RESPONDECA BANKINNOVADO*
 
-Sec.701.Study on use of distributed ledger technology for reduction of risk in depository institutions.
+Sec.701.Studo pri uzo de distribua ĉeflibroteknologio por redukto de risko en deponejoj.
 
-Sec.702.Eligibility for Federal Reserve services to depository institutions.
+Sec.702.Kvalifiko por Federal Reserve-servoj al deponaj institucioj.
 
-Sec.703.Routing transit number issuance.
+Sec.703.Routing transita numero-emisio.
 
-Sec.704.Clarifying application review times with respect to the Federal banking agencies.
+Sec.704.Klarigo de aplikaĵaj reviziotempoj kun respekto al la Federaciaj bankaj agentejoj.
 
-Sec.705.Examination standards for digital asset activities.
+Sec.705.Ekzamenaj normoj por ciferecaj aktivaĵoj.
 
-Sec.706.Asset custody for depository institutions and certain other entities.
+Sec.706.Aktivgardo por deponaj institucioj kaj iuj aliaj estaĵoj.
 
-Sec.707.Reputation risk; requirements for account termination requests and orders.
+Sec.707.Reputacia risko; postuloj por konto-finpetoj kaj mendoj.
 
-Sec.708.Conforming amendments.
+Sek.708.Konformaj amendoj.
 
-&nbsp;
+ 
 
-*TITLE VIII—RESPONSIBLE INTERAGENCY COORDINATION*
+*TITOLO VIII—RESPONDECA INTERAGENTA KUNDADO*
 
-Sec.801.Timeline for interpretive guidance issued by Federal financial agencies.
+Sec.801.Tempolinio por interpreta konsilado eldonita de Federaciaj financaj agentejoj.
 
-Sec.802.Interstate sandbox activities.
+Sec.802.Interŝtataj sablokesto-agadoj.
 
-Sec.803.State money transmission coordination relating to digital assets.
+Sec.803.Ŝtata montransdono kunordigo rilatanta al ciferecaj aktivoj.
 
-Sec.804.Information sharing among Federal and State financial regulators.
+Sec.804.Informdividado inter Federaciaj kaj Ŝtataj financaj reguligistoj.
 
-Sec.805.Analysis of decentralized finance markets and technologies.
+Sec.805.Analizo de malcentralizitaj financaj merkatoj kaj teknologioj.
 
-Sec.806.Analysis of energy consumption in digital asset markets.
+Sec.806.Analizo de energikonsumo en ciferecaj aktivaĵmerkatoj.
 
-Sec.807.Analysis of self-regulation and registered digital asset associations.
+Sec.807.Analizo de memreguligo kaj registritaj ciferecaj aktivoj asocioj.
 
-Sec.808.Cybersecurity standards for digital asset intermediaries.
+Sec.808.Cibersekurecnormoj por ciferecaj valoraĵperantoj.
 
-Sec.809.Advisory Committee on Financial Innovation.
+Sec.809.Konsila Komitato pri Financa Novigado.
 
-&nbsp;
+ 
 
 
-# TITLE I—DEFINITIONS
+# TITOLO I—DIFINIOJ
 
-SEC. 101. DEFINITIONS.
+SEC. 101. DIFINOJ.
 
-(a) In General.—Subtitle VI of title 31, United States Code, is amended by adding after chapter 97 the following:
+(a) Ĝenerale.—Subtitolo VI de titolo 31, Usona Kodo, estas ŝanĝita aldonante post ĉapitro 97 la jenon:
 
-"CHAPTER 98—DIGITAL ASSETS
+"ĈAPITRO 98 — DIGITAJ AKTIVOJ
 
-"Sec.
+"Sek.
 
-"9801. Definitions.
+"9801. Difinoj.
 
-"9801. Definitions
+"9801. Difinoj
 
-"In this chapter:
+"En ĉi tiu ĉapitro:
 
-"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)).
+"(1) Deponeja institucio.-La esprimo 'deponeja institucio' havas la signifon donitan la esprimon en sekcio 19 (b) (1) de la Federacia Rezerva Leĝo (12 USC 461 (b) (1)).
 
-"(2) Digital asset.—The term ‘digital asset’
+"(2) Cifereca valoraĵo.—La esprimo 'cifereca valoraĵo'
 
-"(A) means a natively electronic asset that—
+"(A) signifas denaske elektronika valoraĵo kiu—
 
-"(i) confers economic, proprietary, or access rights or powers; and
+"(i) donas ekonomiajn, proprietajn aŭ alirrajtojn aŭ potencojn; kaj
 
-"(ii) is recorded using cryptographically secured distributed ledger technology, or any similar analogue; and
+"(ii) estas registrita uzante kriptografie sekurigitan distribuitan ĉeflibroteknologion, aŭ ajnan similan analogon; kaj
 
-"(B) includes—
+"(B) inkluzivas—
 
-"(i) virtual currency and ancillary assets in accordance with section 2(c)(2)(F) of the Commodity Exchange Act;
+"(i) virtuala valuto kaj helpaj aktivoj laŭ sekcio 2(c)(2)(F) de la Varo-Interŝanĝa Leĝo;
 
-"(ii) payment stablecoins in accordance with section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a); and
+"(ii) pagstabilmoneroj laŭ sekcio 403 de la Varo-Estonteco-Moderniga Leĝo de 2000 (7 USC 27a); kaj
 
-"(iii) any other security or commodity that meets the requirements of subparagraph (A).
+"(iii) ajna alia sekureco aŭ varo kiu plenumas la postulojn de subparagrafo (A).
 
-"(3) Digital asset intermediary.—The term ‘digital asset intermediary’—
+"(3) Peranto de ciferecaj valoraĵoj.—La esprimo 'peranto de ciferecaj valoraĵoj'—
 
-"(A) means—
+"(A) signifas—
 
-"(i) a person who holds a license, registration, or other similar authorization, as specified by this chapter, the Commodity Exchange Act (7 U.S.C. 1 et seq.), the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Corporation of Foreign Bondholders Act, 1933 (15 U.S.C. 77bb et seq.), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), the Investment Advisers Act of 1940 (15 U.S.C. 80b–1), and the Omnibus Small Business Capital Formation Act of 1980 (15 U.S.C. 80c), that may conduct market activities relating in digital assets; or
+"(i) persono kiu posedas licencon, registradon, aŭ alian similan rajtigon, kiel specifite per ĉi tiu ĉapitro, la Varo-Interŝanĝa Leĝo (7 USC 1 kaj sekvaj), la Valorpaperleĝo de 1933 (15 USC 77a kaj sekvaj) , la Korporacio de Eksterlandaj Obligaciuloj-Leĝo, 1933 (15 USC 77bb kaj sekvaj), la Fido-Kontraligo-Leĝo de 1939 (15 USC 77aaa kaj sekvaj), la Valorpapera Interŝanĝo-Leĝo de 1934 (15 USC 78a kaj sekvaj), la Valorpaperoj Investanto-Protekto-Leĝo de 1970 (15 USC 78aaa kaj sekvaj), la Investfirmao-Leĝo de 1940 (15 USC 80a-1 kaj sekvaj), la Investo-Konsultistoj-Leĝo de 1940 (15 USC 80b-1), kaj la Omnibusa Malgranda Komerco Kapitala Formado-Leĝo de 1980 (15 USC 80c), kiu povas fari merkatagadojn rilatajn al ciferecaj aktivaĵoj; aŭ
 
-"(ii) a person who is required by law to hold a license, registration, or other similar authorization described in clause (i); and
+"(ii) persono kiu estas postulata perleĝe por teni licencon, registradon, aŭ alian similan rajtigon priskribitan en klaŭzo (i); kaj
 
-"(B) includes—
+"(B) inkluzivas—
 
-"(i) a person who holds a license, registration, or other similar authorization under State or Federal law that issues a payment stablecoin; and
+"(i) homo, kiu posedas licencon, registriĝon aŭ alian similan rajtigon laŭ Ŝtata aŭ Federacia juro, kiu eldonas pagstabilmonon; kaj
 
-"(ii) a person who is required by law to hold a license, registration, or other similar authorization described in clause (i); and
+"(ii) persono kiu estas postulata perleĝe por teni licencon, registradon, aŭ alian similan rajtigon priskribitan en klaŭzo (i); kaj
 
-"(C) does not include a depository institution.
+"(C) ne inkluzivas deponejan institucion.
 
-"(4) Distributed ledger technology.—The term ‘distributed ledger technology’ means technology that enables the operation and use of a ledger that—
+"(4) Teĥnologio de Distribuita ĉeflibro.—La termino 'teknologio de Distribuita ĉeflibro' signifas teknologion kiu ebligas la funkciadon kaj uzon de ĉeflibro kiu—
 
-"(A) is shared across a set of distributed nodes that participate in a network and store a complete or partial replica of the ledger;
+"(A) estas dividita tra aro de distribuitaj nodoj kiuj partoprenas en reto kaj stokas kompletan aŭ partan kopion de la ĉeflibro;
 
-"(B) is synchronized between the nodes;
+"(B) estas sinkronigita inter la nodoj;
 
-"(C) has data appended to the ledger by following the specified consensus mechanism of the ledger;
+"(C) havas datumojn almetitajn al la ĉeflibro sekvante la specifitan konsentan mekanismon de la ĉeflibro;
 
-"(D) may be accessible to anyone or restricted to a subset of participants; and
+"(D) povas esti alirebla por iu ajn aŭ limigita al subaro de partoprenantoj; kaj
 
-"(E) may require participants to have authorization to perform certain actions or require no authorization.
+"(E) povas postuli partoprenantojn havi rajtigon por fari iujn agojn aŭ postuli neniun rajtigon.
 
-"(5) Payment stablecoin.—The term ‘payment stablecoin’ means a digital asset that is—
+"(5) Paga stableno.—La termino 'paga stableno' signifas ciferecan valoraĵon kiu estas—
 
-"(A) redeemable, on demand, on a 1-to-1 basis for instruments denominated in United States dollars;
+"(A) elaĉetebla, laŭ postulo, sur 1-al-1 bazo por instrumentoj nomitaj en usonaj dolaroj;
 
-"(B) defined as legal tender under section 5103 or under the laws of a foreign country (excluding digital assets);
+"(B) difinita kiel laŭleĝa pagilo laŭ sekcio 5103 aŭ sub la leĝoj de eksterlanda lando (ekskludante ciferecajn aktivojn);
 
-"(C) issued by a business entity;
+"(C) eldonita de komerca ento;
 
-"(D) accompanied by a statement from the issuer that the asset is redeemable, as specified in subparagraph (A), from the issuer or another identified person;
+"(D) akompanita per deklaro de la emisianto ke la valoraĵo estas elaĉetebla, kiel precizigita en subparagrafo (A), de la emisianto aŭ alia identigita persono;
 
-"(E) backed by 1 or more financial assets (excluding other digital assets), consistent with subparagraph (A); and
+"(E) subtenata de 1 aŭ pli da financaj aktivoj (ekskludante aliajn ciferecajn aktivojn), kongrue kun subalineo (A); kaj
 
-"(F) intended to be used as a medium of exchange.
+"(F) intencita por esti uzata kiel interŝanĝilo.
 
-"(6) Person who provides digital asset services.—The term ‘person who provides digital asset services’ means—
+"(6) Persono, kiu provizas servojn pri ciferecaj valoraĵoj.—La esprimo 'persono, kiu provizas servojn pri ciferecaj aktivoj' signifas—
 
-"(A) a digital asset intermediary;
+"(A) peranto de ciferecaj valoraĵoj;
 
-"(B) a financial institution, as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a);
+"(B) financa institucio, kiel difinite en sekcio 1a de la Varo-Interŝanĝa Leĝo (7 USC 1a);
 
-"(C) any other person conducting digital asset activities pursuant to a Federal or State charter, license, registration, or other similar authorization; and
+"(C) iu ajn alia persono faranta ciferecajn aktivaĵojn laŭ Federacia aŭ Ŝtata ĉarto, licenco, registrado aŭ alia simila rajtigo; kaj
 
-"(D) any person who is required by law to hold a license, registration, or other similar authorization described in subparagraph (C).
+"(D) iu ajn persono, kiu laŭleĝe postulas teni licencon, registriĝon aŭ alian similan rajtigon priskribitan en subparagrafo (C).
 
-"(7) Security.—The term ‘security’ has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+"(7) Sekureco.—La esprimo 'sekureco' havas la signifon donitan la esprimon en sekcio 3 (a) de la Sekureco-Interŝanĝa Leĝo de 1934 (15 USC 78c (a)).
 
-"(8) Smart contract.—The term ‘smart contract’—
+"(8) Inteligenta kontrakto.—La esprimo 'inteligenta kontrakto'—
 
-"(A) means—
+"(A) signifas—
 
-"(i) computer code deployed to a distributed ledger technology network that executes an instruction based on the occurrence or nonoccurrence of specified conditions; or
+"(i) komputilkodo deplojita al distribuita ĉeflibroteknologireto kiu efektivigas instrukcion bazitan sur la okazo aŭ neokazaĵo de precizigitaj kondiĉoj; aŭ
 
-"(ii) any similar analogue; and
+"(ii) ajna simila analogo; kaj
 
-"(B) includes taking possession or control of a digital asset and transferring the asset or issuing executable instructions for these actions.
+"(B) inkluzivas preni posedon aŭ kontrolon de cifereca valoraĵo kaj transdoni la valoraĵon aŭ eldoni plenumeblajn instrukciojn por ĉi tiuj agoj.
 
-"(9) Source code version.—The term ‘source code version’—
+"(9) Fontkoda versio.—La termino 'fontkoda versio'—
 
-"(A) means the source code version comprising a digital asset; and
+"(A) signifas la fontkoda versio konsistanta el cifereca valoraĵo; kaj
 
-"(B) does not include software used to manage or facilitate transactions in a digital asset.
+"(B) ne inkluzivas programaron uzatan por administri aŭ faciligi transakciojn en cifereca aktivaĵo.
 
-"(10) Virtual currency.—The term ‘virtual currency’—
+"(10) Virtuala valuto.—La esprimo 'virtuala valuto'—
 
-"(A) means a digital asset that—
+"(A) signifas ciferecan valoraĵon kiu—
 
-"(i) is used primarily as a medium of exchange, unit of account, store of value, or any combination of such functions;
+"(i) estas uzata ĉefe kiel interŝanĝilo, kontunuo, butiko de valoro aŭ ajna kombinaĵo de tiaj funkcioj;
 
-"(ii) is not legal tender, as described in section 5103; and
+"(ii) ne estas laŭleĝa pagilo, kiel priskribite en sekcio 5103; kaj
 
-"(iii) does not derive value from or is backed by an underlying financial asset (except other digital assets); and
+"(iii) ne derivas valoron de aŭ estas subtenata de subesta financa valoraĵo (krom aliaj ciferecaj aktivoj); kaj
 
-"(B) includes a digital asset, consistent with subparagraph (A) that is accompanied by a statement from the issuer that a denominated or pegged value will be maintained and be available upon redemption from the issuer or other identified person, based solely on a smart contract.".
+"(B) inkluzivas ciferecan valoraĵon, kongruan kun subalineo (A), kiu estas akompanata de deklaro de la emisianto, ke nomita aŭ fiksita valoro estos konservita kaj disponebla post elaĉeto de la emisianto aŭ alia identigita persono, bazita nur sur inteligenta kontrakto.".
 
-(b) Technical and Conforming Amendment.—The table of contents for subtitle VI of title 31, United States Code, is amended by adding at the end the following:
+(b) Teknika kaj Konforma Amendo.—La enhavtabelo por subtitolo VI de titolo 31, Usona Kodo, estas ŝanĝita aldonante ĉe la fino la jenon:
 
-"98.Digital assets
+"98.Ciferecaj aktivoj
 
 9801".
 
-&nbsp;
+ 
 
-# TITLE II—RESPONSIBLE TAXATION OF DIGITAL ASSETS
+# TITOLO II — RESPONDECA IMPOSTO DE DIGITAJ VALOJ
 
-SEC. 201. GAIN FROM DISPOSITION OF DIGITAL ASSETS.
+SEC. 201. GAJNRO EL DISPONO DE DIGITAJ VALOJ.
 
-(a) In General.—Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139I the following new section:
+(a) Ĝenerale.—Parto III de subĉapitro B de ĉapitro 1 de la Interna Enspeza Kodo de 1986 estas ŝanĝita per enigo post la sekcio 139I la sekvan novan sekcion:
 
-"SEC. 139J. GAIN OR LOSS FROM SALE OR EXCHANGE OF VIRTUAL CURRENCY.
+"SEC. 139J. GAJNADO AŬ PERDO EL VENDO AŬ ĈAMBĜO DE VIRTUALA VALUTO.
 
-"(a) In General.—Gross income shall not include gain or loss from the sale or exchange of virtual currency in a personal transaction (as defined in section 988(e)(3)) for goods and services.
+"(a) Ĝenerale.—Malneta enspezo ne inkluzivas gajnon aŭ perdon de la vendo aŭ interŝanĝo de virtuala valuto en persona transakcio (kiel difinite en sekcio 988(e)(3)) por varoj kaj servoj.
 
-"(b) Limitation.—
+"(b) Limigo.—
 
-"(1) In general.—The amount of gain or loss excluded from gross income under subsection (a) with respect to a sale or exchange shall not exceed $200.
+"(1) Ĝenerale.—La kvanto de gajno aŭ perdo ekskludita de malneta enspezo sub subsekcio (a) kun respekto al vendo aŭ interŝanĝo ne devas superi 200 USD.
 
-"(2) Aggregation rule.—For purposes of this subsection, all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as one sale or exchange.
+"(2) Agrega regulo.—Por la celoj de ĉi tiu subsekcio, ĉiuj vendoj aŭ interŝanĝoj kiuj estas parto de la sama transakcio (aŭ serio de rilataj transakcioj) devas esti traktataj kiel unu vendo aŭ interŝanĝo.
 
-"(c) Other Sales or Exchanges.—Subsection (a) shall not apply to sales or exchanges in which virtual currency is sold or exchanged for cash, cash equivalents, digital assets (as defined in section 9801 of title 31, United States Code), or other securities or commodities.
+"(c) Aliaj Vendoj aŭ Interŝanĝoj.—Subsekcio (a) ne validas por vendoj aŭ interŝanĝoj en kiuj virtuala valuto estas vendita aŭ interŝanĝita kontraŭ kontantmono, kontantekvivalentoj, ciferecaj aktivoj (kiel difinite en sekcio 9801 de titolo 31, Usono Kodo). ), aŭ aliaj valorpaperoj aŭ varoj.
 
-"(d) Virtual Currency.—For purposes of this section, the term ‘virtual currency’ has the meaning given such term in section 9801 of title 31, United States Code.
+"(d) Virtuala Monero.—Por la celoj de ĉi tiu sekcio, la esprimo 'virtuala valuto' havas la signifon donitan al tia termino en sekcio 9801 de titolo 31, Usono-Kodo.
 
-"(e) Inflation Adjustment.—In the case of any taxable year beginning in a calendar year after 2023, the dollar amount in subsection (b) shall be increased by an amount equal to—
+"(e) Inflacia ĝustigo.—En la kazo de iu imposta jaro komenciĝanta en kalendara jaro post 2023, la dolarkvanto en subsekcio (b) estos pliigita je kvanto egala al—
 
-"(1) such dollar amount, multiplied by
+"(1) tia dolarkvanto, multiplikita per
 
-"(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 2022’ for ‘calendar year 2016’ in subparagraph (A)(ii) thereof.
+"(2) la vivkosto-alĝustigo determinita sub sekcio 1 (f) (3) por la kalendara jaro en kiu la imposta jaro komenciĝas, determinita per anstataŭigado de "kalendara jaro 2022" por "kalendara jaro 2016" en subparagrafo (A). )(ii) de tio.
 
-Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.".
+Ĉiu pliiĝo determinita sub la antaŭa frazo estos rondigita al la plej proksima oblo de $50.".
 
-(b) Clerical Amendment.—The table of sections for part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 139I the following new item:
+(b) Klerikala Amendo.—La tabelo de sekcioj por parto III de subĉapitro B de ĉapitro 1 de la Interna Enspeza Kodo de 1986 estas ŝanĝita per enmeto post la ero rilate al sekcio 139I la sekvan novan eron:
 
-"Sec.139J.Gain or loss from sale or exchange of virtual currency.".
+"Sec.139J.Gain aŭ perdo de vendo aŭ interŝanĝo de virtuala valuto.".
 
-(c) Reporting of Gains or Losses.—The Secretary shall issue regulations providing for information returns on virtual currency transactions for which gain or loss is recognized.
+(c) Raportado de Gajnoj aŭ Perdoj.—La Sekretario eldonas regularojn provizantajn informajn rendimentojn pri virtualaj valutaj transakcioj por kiuj gajno aŭ perdo estas agnoskita.
 
-(d) Effective Date.—The amendments made by this section shall apply to transactions entered into after December 31, 2022.
+(d) Efika Dato.—La amendoj faritaj de ĉi tiu sekcio aplikiĝos al transakcioj faritaj post la 31-a de decembro 2022.
 
-&nbsp;
+ 
 
-SEC. 202. INFORMATION REPORTING REQUIREMENTS IMPOSED ON BROKERS WITH RESPECT TO DIGITAL ASSETS.
+SEC. 202. INFORMAJ RAPORTAJ POSTULOJ TRUMITAJ AL MALEROJ RIKOPE AL DIGITAJ AKVOVOJ.
 
-(a) Clarification of Definition of Broker.—Section 6045(c)(1)(D) of the Internal Revenue Code of 1986 is amended to read as follows:
+(a) Klarigo de Difino de Broker.—Section 6045(c)(1)(D) de la Interna Enspeza Kodo de 1986 estas ŝanĝita por legi jene:
 
-"(D) any person who (for consideration) stands ready in the ordinary course of a trade or business to effect sales of digital assets at the direction of their customers.".
+"(D) iu ajn persono kiu (por konsidero) staras preta en la ordinara kurso de komerco aŭ komerco realigi vendojn de ciferecaj aktivoj laŭ la direkto de siaj klientoj.".
 
-(b) Reporting of Digital Assets.—
+(b) Raportado de Ciferecaj Aktivoj.—
 
-(1) Brokers.—
+(1) Makleristoj.—
 
-(A) Definition of digital asset.—Section 6045(g)(3)(D) of the Internal Revenue Code of 1986 is amended to read as follows:
+(A) Difino de cifereca valoraĵo.—Section 6045(g)(3)(D) de la Interna Enspeza Kodo de 1986 estas ŝanĝita por legi jene:
 
-"(D) Digital asset.—The term ‘digital asset’ has the meaning given such term in section 9801 of title 31, United States Code.".
+"(D) Cifereca valoraĵo.—La esprimo 'cifereca valoraĵo' havas la signifon donitan tian esprimon en sekcio 9801 de titolo 31, Usono-Kodo.".
 
-(B) Applicable date.—Section 6045(g)(3)(C)(iii) of such Code is amended to read as follows:
+(B) Aplika dato.—Section 6045(g)(3)(C)(iii) de tia Kodo estas ŝanĝita por legi jene:
 
-"(iii) January 1, 2025, in the case of any specified security which is a digital asset, and".
+"(iii) januaro 1, 2025, en la kazo de iu specifita sekureco kiu estas cifereca valoraĵo, kaj".
 
-(2) Furnishing of information.—Section 6045A(d) of such Code is amended to read as follows:
+(2) Donado de informoj.—Section 6045A(d) de tia Kodo estas ŝanĝita por legi jene:
 
-"(d) Return Requirement for Certain Transfers of Digital Assets Not Otherwise Subject to Reporting.—Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such broker) during a calendar year of a covered security which is a digital asset from an account wholly controlled and maintained by such broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a). Information reported by brokers under this section shall be limited to customer information that is voluntarily provided by the customer and held by the broker for a legitimate business purpose.".
+"(d) Reveno Postulo por Certaj Translokigoj de Ciferecaj Aktivoj Ne Alie Submetataj al Raportado.—Ajna makleristo, kun respekto al ajna translokigo (kiu ne estas parto de vendo aŭ interŝanĝo efektivigita de tia makleristo) dum kalendara jaro de kovrita sekureco. kiu estas cifereca valoraĵo de konto tute kontrolita kaj prizorgata de tia makleristo al konto kiu ne estas konservita de, aŭ adreso ne asociita kun, persono kiun tia makleristo scias aŭ havas kialon scii estas ankaŭ makleristo, devas fari reveno por tia kalendara jaro, en tia formo kiel determinite de la Sekretario, montrante la informojn alie postulatajn por esti provizitaj kun respekto al translokigoj kondiĉigitaj de subsekcio (a).Informoj raportitaj de makleristoj sub ĉi tiu sekcio estos limigitaj al klientinformoj, kiuj estas libervole provizitaj de la kliento kaj tenitaj de la makleristo por legitima komerca celo."
 
-(c) Effective Dates.—The amendments made by this section shall apply to returns required to be filed and statements required to be furnished after December 31, 2025.
+(c) Efikaj Datoj.—La amendoj faritaj de ĉi tiu sekcio aplikiĝos al deklaroj postulataj por esti arkivitaj kaj deklaroj postulataj por esti provizitaj post la 31-a de decembro 2025.
 
-&nbsp;
+ 
 
-SEC. 203. SOURCES OF INCOME.
+SEC. 203. FONTOJ DE ENSENSOJ.
 
-(a) In General.—Paragraph (2) of section 864(b) of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (C) as subparagraph (D) and by inserting after subparagraph (B) the following new subparagraph:
+(a) Ĝenerale.—Paragrafo (2) de sekcio 864(b) de la Interna Enspezo-Kodo de 1986 estas ŝanĝita per redesignado de subparagrafo (C) kiel subparagrafo (D) kaj per enigo post subparagrafo (B) la sekvan novan subparagrafon:
 
-"(C) Digital assets.—
+"(C) Ciferecaj aktivoj.—
 
-"(i) In general.—Trading in digital assets through a resident broker, commission agent, custodian, digital asset exchange, or other independent agent.
+"(i) Ĝenerale.—Komerco pri ciferecaj aktivoj per loĝanta makleristo, komisiona agento, gardisto, ciferecaj valoraĵoj aŭ alia sendependa agento.
 
-"(ii) Trading for taxpayer’s own account.—Trading in digital assets for the taxpayer’s own account, whether by the taxpayer or the taxpayer’s employees or through a resident broker, commission agent, custodian, digital asset exchange, or other agent, and whether or not any such employee or agent has discretionary authority to make decisions in effecting the transactions. This clause shall not apply in the case of a dealer in digital assets.
+"(ii) Komerco por la propra konto de impostpaganto.-Komerco pri ciferecaj aktivoj por la propra konto de la impostpaganto, ĉu de la impostpaganto aŭ de la dungitoj de la impostpaganto aŭ per loĝanta makleristo, komisiona agento, gardanto, cifereca valoraĵo interŝanĝo, aŭ alia agento, kaj ĉu aŭ ne tia dungito aŭ agento havas liberan aŭtoritaton fari decidojn en efektivigado de la transakcioj.Ĉi tiu klaŭzo ne aplikiĝas en la kazo de komercisto en ciferecaj aktivoj.
 
-"(iii) Definitions.—For purposes of this subparagraph—
+"(iii) Difinoj.—Por la celoj de ĉi tiu subalineo—
 
-"(I) Digital asset exchange.—The term ‘digital asset exchange’ means a centralized or decentralized platform which facilitates the transfer of digital assets.
+"(I) Interŝanĝo de ciferecaj valoraĵoj.—La esprimo 'interŝanĝo de ciferecaj valoraĵoj' signifas centralizitan aŭ malcentralizitan platformon, kiu faciligas la translokigon de ciferecaj aktivoj.
 
-"(II) Digital asset.—The term ‘digital asset’ has the meaning given such term in section 9801 of title 31, United States Code.
+"(II) Cifereca valoraĵo.—La esprimo 'cifereca valoraĵo' havas la signifon donitan tian terminon en sekcio 9801 de titolo 31, Usono-Kodo.
 
-"(iv) Limitation.—This subparagraph shall apply only if the digital assets are of a kind customarily dealt in on a digital asset exchange and if the transaction is of a kind customarily consummated at such exchange.".
+"(iv) Limigo.—Ĉi tiu subalineo aplikiĝas nur se la ciferecaj aktivoj estas de speco kutime traktataj sur cifereca valoraĵo interŝanĝo kaj se la transakcio estas de speco kutime plenumita ĉe tia interŝanĝo.".
 
-(b) Conforming Amendment.—Subparagraph (D) of section 864(b)(2) of the Internal Revenue Code of 1986, as redesignated by subsection (a), is amended by striking "(A)(i) and (B)(i)" and inserting “(A)(i), (B)(i), and (C)(i)”.
+(b) Konforma Amendo.—Subparagrafo (D) de sekcio 864 (b) (2) de la Interna Enspeza Kodo de 1986, kiel redesignate per subsekcio (a), estas ŝanĝita per frapado "(A) (i) kaj (B). )(i)" kaj enigante "(A)(i), (B)(i), kaj (C)(i)".
 
-(c) Effective Date.—The amendments made by this section shall apply to sales and exchanges after December 31, 2022.
+(c) Efika Dato.—La amendoj faritaj de ĉi tiu sekcio aplikiĝos al vendoj kaj interŝanĝoj post la 31-a de decembro 2022.
 
-&nbsp;
+ 
 
-SEC. 204. DECENTRALIZED AUTONOMOUS ORGANIZATIONS.
+SEC. 204. DECENTRALIZAJ AŬNONOMAJ ORGANIZADOJ.
 
-(a) In General.—Section 7701(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+(a) Ĝenerale.—Section 7701(a) de la Interna Enspeza Kodo de 1986 estas ŝanĝita aldonante ĉe la fino la sekvan novan paragrafon:
 
-"(51) Decentralized autonomous organizations.—
+"(51) Malcentraj aŭtonomaj organizaĵoj.—
 
-"(A) In general.—The default classification of a decentralized autonomous organization shall be as a business entity which is not a disregarded entity.
+"(A) Ĝenerale.—La defaŭlta klasifiko de malcentralizita aŭtonoma organizo devas esti kiel komerca ento, kiu ne estas ignorita ento.
 
-"(B) Classification of other activities.—The following shall not be considered a business activity of such organization for purposes of determining whether such organization is described in section 501(c)(7):
+"(B) Klasifiko de aliaj agadoj.—La sekvanta ne devas esti konsiderata komerca agado de tia organizo por determini ĉu tia organizo estas priskribita en sekcio 501(c)(7):
 
-"(i) Treasury management, including mining and staking of digital assets (as defined in section 9801 of title 31, United States Code).
+"(i) Administrado de fisko, inkluzive de minado kaj investado de ciferecaj aktivoj (kiel difinite en sekcio 9801 de titolo 31, Usono-Kodo).
 
-"(ii) Raising funds for a charitable purpose.
+"(ii) Akirante financon por bonfara celo.
 
-"(C) Decentralized autonomous organization.—The term ‘decentralized autonomous organization’ means an organization—
+"(C) Malcentralizita aŭtonoma organizo.—La esprimo 'malcentralizita aŭtonoma organizo' signifas organizon—
 
-"(i) which utilizes smart contracts (as defined in section 9801 of title 31, United States Code) to effectuate collective action for a business, commercial, charitable, or similar entity,
+"(i) kiu utiligas inteligentajn kontraktojn (kiel difinite en sekcio 9801 de titolo 31, Usono-Kodo) por efektivigi kolektivan agon por komerco, komerca, bonfara, aŭ simila ento,
 
-"(ii) governance of which is achieved primarily on a distributed basis, and
+"(ii) regado de kiu estas atingita ĉefe sur distribuita bazo, kaj
 
-"(iii) which is properly incorporated or organized under the laws of a State or foreign jurisdiction as a decentralized autonomous organization, cooperative, foundation, or any similar entity.".
+"(iii) kiu estas konvene asimilita aŭ organizita sub la leĝoj de ŝtato aŭ eksterlanda jurisdikcio kiel malcentralizita aŭtonoma organizo, kooperativo, fondaĵo, aŭ ajna simila unuo."
 
-(b) Effective Date.—Except as provided by subsection (c), the amendments made by this section shall apply to taxable years beginning after December 31, 2022.
+(b) Efika Dato.—Krom kiel disponigite per subsekcio (c), la amendoj faritaj de ĉi tiu sekcio aplikiĝos al impostaj jaroj komenciĝantaj post decembro 31, 2022.
 
-&nbsp;
+ 
 
-SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
+SEC. 205. IMPOSTA traktado de ciferecaj aktivoj pruntinterkonsentoj kaj rilatigitaj aferoj.
 
-(a) In General.—Subsection (a) of section 1058 of the Internal Revenue Code of 1986 is amended by striking "(as defined in section 1236(c))".
+(a) Ĝenerale.—Subsekcio (a) de sekcio 1058 de la Interna Enspezo-Kodo de 1986 estas ŝanĝita per frapado "(kiel difinita en sekcio 1236 (c))".
 
-(b) Fixed Term.—Paragraph (1) of subsection (b) of section 1058 of the Internal Revenue Code of 1986 is amended by inserting ", including a fixed-term transfer that occurs in the ordinary course of a securities lending or investment management business" after “transferred”.
+(b) Fiksa Termino.-Paragrafo (1) de subsekcio (b) de sekcio 1058 de la Interna Enspezo-Kodo de 1986 estas ŝanĝita per enmetado ", inkluzive de fiksperioda translokigo kiu okazas en la ordinara kurso de valorprunto aŭ investo. administradkomerco" post "transdonita".
 
-(c) Basis.—Subsection (c) of section 1058 of the Internal Revenue Code of 1986 is amended by adding at the end the following: "All appropriate basis adjustments to an agreement under subsection (b) shall be made, as determined by the Secretary, including upon the return of the lent securities to the taxpayer.".
+(c) Bazo.—Subsekcio (c) de sekcio 1058 de la Interna Enspezo-Kodo de 1986 estas ŝanĝita aldonante ĉe la fino la sekvantan: "Ĉiuj taŭgaj bazaj alĝustigoj al interkonsento sub subsekcio (b) devas esti faritaj, kiel determinite de la Sekretario, inkluzive post la reveno de la pruntedonitaj valorpaperoj al la impostpaganto.".
 
-(d) Securities.—Section 1058 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsections:
+(d) Valorpaperoj.—Section 1058 de la Interna Enspeza Kodo de 1986 estas ŝanĝita aldonante ĉe la fino la sekvajn novajn subsekciojn:
 
-"(d) Securities.—For purposes of this section, the term ‘securities’ has the meaning given such term by section 1236(c), except that such term includes any digital asset (as defined in section 9801 of title 31, United States Code) and, with respect to a digital asset, does not require a call option.
+"(d) Valorpaperoj.—Por celoj de ĉi tiu sekcio, la esprimo "valorpaperoj" havas la signifon donitan al tia esprimo de sekcio 1236 (c), krom ke tia esprimo inkludas ajnan ciferecan valoraĵon (kiel difinite en sekcio 9801 de titolo 31, Unuiĝinta. States Code) kaj, rilate al cifereca valoraĵo, ne postulas vekopcion.
 
-"(e) Income.—An amount equal to the income which would otherwise accrue to the lender but for a lending transaction under this section shall be included in gross income of the lender.".
+"(e) Enspezo.-Kvanto egala al la enspezo kiu alie akirus al la pruntedoninto krom prunttransakcio sub ĉi tiu sekcio estos inkluzivita en malneta enspezo de la pruntedoninto.".
 
-(e) Rule of Construction.—Nothing in this section shall be construed to create any inference with respect to the classification of any digital asset as security under the Securities Act of 1933 (15 U.S.C. 77a et seq.) or the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
+(e) Regulo de Konstruo.—Nenio en ĉi tiu sekcio devas esti interpretita por krei ajnan inferencon kun respekto al la klasifiko de iu cifereca valoraĵo kiel sekureco sub la Sekureco-Leĝo de 1933 (15 USC 77a et seq.) aŭ la Valorpapera Leĝo de 1934 (15 USC 78a kaj sekvaj).
 
-(f) Rulemaking Authority.—The Secretary of the Treasury (or the Secretary’s delegate) may adopt rules to implement this section, including the application of this section to forks, airdrops, and similar subsidiary value.
+(f) Regulfara Aŭtoritato.—La Sekretario de la Fisko (aŭ la delegito de la Sekretario) povas adopti regulojn por efektivigi ĉi tiun sekcion, inkluzive de la aplikado de ĉi tiu sekcio al forkoj, aerĵetoj, kaj simila duavica valoro.
 
-(g) Effective Date.—The amendments made by this section shall apply to sales and exchanges after December 31, 2022.
+(g) Efika Dato.—La amendoj faritaj de ĉi tiu sekcio aplikiĝos al vendoj kaj interŝanĝoj post la 31-a de decembro 2022.
 
-&nbsp;
+ 
 
-SEC. 206. IMPLEMENTING EFFECTIVE IRS GUIDANCE.
+SEC. 206. Efektiviganta EFIKAN IRS-GVIDON.
 
-(a) In General.—Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary’s delegate) shall adopt guidance relating to the following:
+(a) Ĝenerale.—Ne pli malfrue ol 1 jaro post la dato de la promulgo de ĉi tiu Akto, la Sekretario de la Fisko (aŭ la delegito de la Sekretario) alprenos gvidon rilate al la sekvanta:
 
-(1) Classification of forks, airdrops, and similar subsidiary value as taxable, contingent upon the affirmative claim and disposition of the subsidiary value by a taxpayer. Such guidance shall also permit a taxpayer to provide notification through an annual return or other appropriate means to the Internal Revenue Service relating to claim and disposition of, or disclaimer of, subsidiary value.
+(1) Klasifiko de forkoj, aerĵetoj, kaj simila kromvaloro kiel impostodeva, depende de la jesa aserto kaj dispono de la duavica valoro de impostpaganto. Tia gvidado ankaŭ permesos al impostpaganto doni sciigon per ĉiujara reveno aŭ aliaj taŭgaj rimedoj al la Interna Enspeza Servo rilate al aserto kaj dispono de, aŭ malgarantio de, duavica valoro.
 
-(2) Merchant acceptance of digital assets and the tax treatment of payments and receipts, consistent with the amendments made by section 80603 of the Infrastructure Investment and Jobs Act, as amended by section 203.
+(2) Komercisto-akcepto de ciferecaj aktivoj kaj la imposta traktado de pagoj kaj kvitancoj, konforme al la amendoj faritaj de sekcio 80603 de la Infrastruktura Investo kaj Laborpostenoj-Leĝo, kiel ŝanĝite de sekcio 203.
 
-(3) Treatment of digital asset mining and staking, including mining and staking rewards, in which income is not realized until disposition of the assets produced or received in connection with such activity, in accordance with section 451(l) of the Internal Revenue Code of 1986 (as added by this Act).
+(3) Traktado de ciferecaj aktivoj minado kaj staking, inkluzive de minado kaj staking rekompencoj, en kiu enspezo ne realiĝas ĝis dispono de la aktivoj produktitaj aŭ ricevitaj lige kun tia agado, laŭ sekcio 451 (l) de la Interna Enspeza Kodo. de 1986 (kiel aldonite de ĉi tiu Ago).
 
-(4) Classification of charitable contributions greater than $5,000 of digital assets which are traded on established financial markets as contributions of readily valued property not requiring a qualified appraisal for purposes of section 170(f)(11)(A) of the Internal Revenue Code of 1986, as amended by this Act.
+(4) Klasifiko de bonfaraj kontribuoj pli ol $ 5,000 de ciferecaj aktivoj kiuj estas komercitaj sur establitaj financaj merkatoj kiel kontribuoj de facile aprezita posedaĵo ne postulanta kvalifikitan takson por celoj de sekcio 170 (f) (11) (A) de la Interna Enspeza Kodo. de 1986, kiel ŝanĝite per ĉi tiu Ago.
 
-(5) Characterization of payment stablecoins (as defined in section 9801 of title 31, United States Code) as indebtedness.
+(5) Karakterizado de pagstabilaj moneroj (kiel difinite en sekcio 9801 de titolo 31, Usono-Kodo) kiel ŝuldo.
 
-(b) Effective Date.—The guidance adopted under this section shall be applicable on a prospective basis for taxable years beginning after December 31, 2023.
+(b) Efika Dato.—La gvidado adoptita sub ĉi tiu sekcio estos aplikebla sur eventuala bazo por impostaj jaroj komenciĝantaj post decembro 31, 2023.
 
-&nbsp;
+ 
 
-SEC. 207. ANALYSIS OF RETIREMENT INVESTING IN DIGITAL ASSETS.
+SEC. 207. ANALIZO DE PENTIĜA INVESTADO EN DIGITAJ ACTIVOJ.
 
-(a) Not later than March 1, 2023, the Comptroller General of the United States shall conduct a study and provide a report to the entities specified in subsection (b) regarding the following issues relating to retirement investing in digital assets:
+(a) Ne pli malfrue ol la 1-an de marto 2023, la Ĝenerala Kontrolisto de Usono faros studon kaj provizos raporton al la estaĵoj specifitaj en subsekcio (b) pri la sekvaj aferoj rilataj al emeritiĝo investado en ciferecaj aktivoj:
 
-(1) Potential benefits to diversification and return of an investor’s retirement portfolio.
+(1) Eblaj avantaĝoj al diversigo kaj reveno de la emeritiĝa biletujo de investanto.
 
-(2) Appropriate asset allocations, including among other alternative investments.
+(2) Taŭgaj valoraj atribuoj, inkluzive inter aliaj alternativaj investoj.
 
-(3) Consumer education, financial literacy and investment advisor training relating to digital assets.
+(3) Konsumanta edukado, financa legopovo kaj investa konsilisto trejnado rilate al ciferecaj aktivoj.
 
-(4) Risk.
+(4) Risko.
 
-(5) Legal and operational barriers to effective retirement investing in digital assets.
+(5) Laŭleĝaj kaj funkciaj baroj al efika emeritiĝo investado en ciferecaj aktivoj.
 
-(6) Any other topic determined to be material by the Comptroller General relating to retirement investing in digital assets.
+(6) Ajna alia temo determinita kiel materialo de la Ĝenerala Kontrolisto rilate al emeritiĝo investado en ciferecaj aktivoj.
 
-(b) The Comptroller General shall provide the report required by subsection (a) to the following:
+(b) La Ĝenerala Kontrolisto liveras la raporton postulitan de subsekcio (a) al la sekvanta:
 
-(1) The Committee on Banking, Housing, and Urban Affairs of the Senate.
+(1) La Komitato pri Bankado, Loĝado kaj Urbaj Aferoj de la Senato.
 
-(2) The Committee on Finance of the Senate.
+(2) La Komitato pri Financo de la Senato.
 
-(3) The Committee on Health, Education, Labor, and Pensions of the Senate.
+(3) La Komitato pri Sano, Edukado, Laboro kaj Pensioj de la Senato.
 
-(4) The Committee on Financial Services of the House of Representatives.
+(4) La Komitato pri Financaj Servoj de la Ĉambro de Reprezentantoj.
 
-(5) The Committee on Ways and Means of the House of Representatives.
+(5) La Komitato pri Vojoj kaj Rimedoj de la Ĉambro de Reprezentantoj.
 
-(6) The Committee on Education and Labor of the House of Representatives.
+(6) La Komitato pri Edukado kaj Laboro de la Ĉambro de Reprezentantoj.
 
-(7) The Secretary of the Treasury.
+(7) La Sekretario de la Fisko.
 
-(8) The Secretary of Labor.
+(8) La Sekretario de Laboro.
 
-&nbsp;
+ 
 
-SEC. 208. DIGITAL ASSET MINING AND STAKING.
+SEC. 208. MINADO KAJ PLEUSADO DE DIGITAJ VALOJ.
 
-(a) In General.—Section 451 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+(a) Ĝenerale.—Section 451 de la Interna Enspeza Kodo de 1986 estas ŝanĝita per aldonado ĉe la fino la sekvan novan subsekcion:
 
-"(l) Deferral of Income Recognition for Digital Asset Activities.—In the case of a taxpayer who conducts digital asset mining or staking activities, the amount of income relating to such activities shall not be included in the gross income of the taxpayer until the taxable year of the disposition of the assets produced or received in connection with the mining or staking activities.".
+"(l) Prokrasto de Enspeza Rekono por Ciferecaj Aktivaj Agadoj.—En la kazo de impostpaganto, kiu faras ciferecajn aktivojn minadon aŭ aktivajn agadojn, la kvanto de enspezo rilatanta al tiaj agadoj ne estos inkluzivita en la malneta enspezo de la impostpaganto ĝis la imposta jaro de la dispono de la aktivaĵoj produktitaj aŭ ricevitaj lige kun la minado aŭ palido-agadoj.".
 
-(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2022.
+(b) Efika Dato.—La amendo farita de ĉi tiu sekcio aplikiĝos al impostaj jaroj komenciĝantaj post la 31-a de decembro 2022.
 
-&nbsp;
+ 
 
-SEC. 209. CONFORMING AMENDMENTS.
+SEC. 209. KONFORMAJ AMENDOJ.
 
-(a) Charitable Contributions.—
+(a) Bonfaraj Kontribuoj.—
 
-(1) In general.—Subclause (I) of section 170(f)(11)(A)(ii) of the Internal Revenue Code of 1986 is amended by inserting ", digital assets (as defined in section 9801 of title 31, United States Code)" after “6050L(a)(2)(B))”.
+(1) Ĝenerale.—Subfrazo (I) de sekcio 170(f)(11)(A)(ii) de la Interna Enspeza Kodo de 1986 estas ŝanĝita per enmeto de ", ciferecaj aktivoj (kiel difinite en sekcio 9801 de titolo 31). , Usono-Kodo)" post "6050L(a)(2)(B))".
 
-(2) Effective date.—The amendment made by this subsection shall apply to taxable years beginning after December 31, 2022.
+(2) Efika dato.—La amendo farita de ĉi tiu subsekcio aplikiĝos al impostaj jaroj komenciĝantaj post la 31-a de decembro 2022.
 
-(b) Other Conforming Amendments.—
+(b) Aliaj Konformaj Amendoj.—
 
-(1) In general.—Title 31, United States Code, is amended—
+(1) Ĝenerale.—Titolo 31, Usona Kodo, estas ŝanĝita—
 
-(A) in section 5312(a)(2)—
+(A) en sekcio 5312 (a) (2)—
 
-(i) by redesignating subparagraphs (A) through (Z) as clauses (i) through (xxvi), respectively;
+(i) redesignante subalineojn (A) ĝis (Z) kiel subfrazoj (i) ĝis (xxvi), respektive;
 
-(ii) in the matter preceding clause (i), as so designated, by striking "‘institution’ means—" and inserting “‘institution'—
+(ii) en la afero antaŭanta klaŭzon (i), kiel tiel indikite, per frapado "'institucio' signifas—" kaj enmetante "'institucio'—
 
-"(A) means—";
+"(A) signifas—";
 
-(iii) in clause (xxvi), as so designated, by striking the period at the end and inserting "; and"; and
+(iii) en klaŭzo (xxvi), kiel tiel indikite, per frapado de la punkto ĉe la fino kaj enmetado "; kaj"; kaj
 
-(iv) by adding at the end the following:
+(iv) aldonante ĉe la fino la jenon:
 
-"(B) does not include a decentralized autonomous organization, as defined in section 7701(a) of the Internal Revenue Code of 1986."; and
+"(B) ne inkludas malcentralizitan aŭtonomian organizon, kiel difinite en sekcio 7701 (a) de la Interna Enspezo-Kodo de 1986. "; kaj
 
-(B) in section 5336(a)(11)(B)(2)—
+(B) en sekcio 5336(a)(11)(B)(2)—
 
-(i) by redesignating clause (xxv) as clause (xxvi); and
+(i) redesignante subfrazo (xxv) kiel subfrazo (xxvi); kaj
 
-(ii) by adding after clause (xxv) the following:
+(ii) aldonante post klaŭzo (xxv) la jenon:
 
-"(xxv) A decentralized autonomous organization, as defined in section 7701(a) of the Internal Revenue Code of 1986; and".
+"(xxv) Malcentra aŭtonoma organizo, kiel difinite en sekcio 7701 (a) de la Interna Enspezo-Kodo de 1986; kaj ".
 
-(2) Anti-money laundering act of 2020.—Section 6110(a) of the Anti-Money Laundering Act of 2020 (division F of Public Law 116–283) is amended by striking paragraph (1) and inserting the following:
+(2) Kontraŭ-monlavado-Leĝo de 2020.—Section 6110(a) de la Kontraŭ-Monlavado-Leĝo de 2020 (divido F de Publika Juro 116–283) estas ŝanĝita per frapado de paragrafo (1) kaj enmetado de la sekvanta:
 
-"(A) by redesignating clauses (xxv) and (xxvi) as clauses (xxvi) and (xxvii), respectively, and adjust the margins accordingly; and
+"(A) redesignante klaŭzojn (xxv) kaj (xxvi) kiel klaŭzojn (xxvi) kaj (xxvii), respektive, kaj alĝustigu la marĝenojn laŭe; kaj
 
-"(B) by inserting after clause (xxiv) the following:
+"(B) enmetante post klaŭzo (xxiv) la sekvantan:
 
-"‘(Y) a person engaged in the trade of antiquities, including an advisor, consultant, or any other person who engages as a business in the solicitation or the sale of antiquities, subject to regulations prescribed by the Secretary;’.".
+"'(Y) persono okupiĝanta pri la komerco de antikvaĵoj, inkluzive de konsilisto, konsultisto, aŭ ajna alia persono, kiu okupiĝas kiel komerco pri la petado aŭ vendo de antikvaĵoj, kondiĉigitaj de regularoj preskribitaj de la Sekretario;'.".
 
-&nbsp;
+ 
 
-# TITLE III—RESPONSIBLE SECURITIES INNOVATION
+# TITOLO III — RESPONDECA SEKURECONOVO
 
-SEC. 301. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
+SEC. 301. OFERTOJ DE VALORISAJ KOMPRENAJ CERTAJN NEMATERIEBLOJ.
 
-Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the following:
+Titolo I de la Sekureco-Interŝanĝa Leĝo de 1934 (15 USC 78a kaj sekvaj) estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"SEC. 41. SECURITIES OFFERINGS INVOLVING CERTAIN INTANGIBLE ASSETS.
+"SEK. 41. VALOREJOFERTOJ KOPLANTAJ CERTAJN NEMATERIEBLOJN VALOJN.
 
-"(a) Definitions.—In this section:
+"(a) Difinoj.—En ĉi tiu sekcio:
 
-"(1) Ancillary asset.—
+"(1) Kromvaloro.—
 
-"(A) In general.—The term ‘ancillary asset’ means an intangible, fungible asset that is offered, sold, or otherwise provided to a person in connection with the purchase and sale of a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)).
+"(A) Ĝenerale.—La esprimo 'kcesa valoraĵo' signifas netuŝeblan, fungeblan valoraĵon kiu estas ofertita, vendita aŭ alie provizita al persono lige kun la aĉeto kaj vendo de sekureco per aranĝo aŭ skemo kiu konsistigas investkontrakto, ĉar tiu esprimo estas uzita en sekcio 2 (a) (1) de la Valorpaperleĝo de 1933 (15 USC 77b (a) (1)).
 
-"(B) Exclusion.—The term ‘ancillary asset’ does not include an asset that provides the holder of the asset with any of the following rights in a business entity:
+"(B) Ekskludo.—La esprimo "kcesa valoraĵo" ne inkluzivas aktivaĵon, kiu provizas la posedanton de la aktivaĵo per iu el la sekvaj rajtoj en komerca ento:
 
-"(i) A debt or equity interest in that entity.
+"(i) Ŝuldo aŭ akciintereso en tiu unuo.
 
-"(ii) Liquidation rights with respect to that entity.
+"(ii) Likvidrajtoj kun respekto al tiu unuo.
 
-"(iii) An entitlement to an interest or dividend payment from that entity.
+"(iii) Rajto al interezo aŭ dividendpago de tiu unuo.
 
-"(iv) A profit or revenue share in that entity solely from the entrepreneurial or managerial efforts of others.
+"(iv) Profito aŭ enspezparto en tiu unuo sole de la entreprenaj aŭ administraj klopodoj de aliaj.
 
-"(v) Any other financial interest in that entity.
+"(v) Ajna alia financa intereso en tiu unuo.
 
-"(2) Foreign private issuer.—The term ‘foreign private issuer’ means a foreign issuer, other than a foreign government, except that the term does not include a foreign issuer that, as of the last business day of the most recently completed fiscal quarter of the issuer, satisfies the following conditions:
+"(2) Eksterlanda privata emisianto.—La esprimo 'eksterlanda privata emisianto' signifas eksterlandan emisiiston, krom eksterlanda registaro, krom ke la esprimo ne inkluzivas eksterlandan emisiiston kiu, ekde la lasta labortago de la plej lastatempe finita. fiska kvarono de la emisianto, kontentigas la sekvajn kondiĉojn:
 
-"(A) More than 50 percent of the outstanding voting securities of the issuer are directly or indirectly owned by residents of the United States.
+"(A) Pli ol 50 procentoj de la elstaraj voĉdonaj valorpaperoj de la emisianto estas rekte aŭ nerekte posedataj de loĝantoj de Usono.
 
-"(B) Any of the following:
+"(B) Iu el la sekvanta:
 
-"(i) The majority of the executive officers or directors of the issuer are citizens or residents of the United States.
+"(i) La plimulto de la administraj oficiroj aŭ direktoroj de la emisianto estas civitanoj aŭ loĝantoj de Usono.
 
-"(ii) More than 50 percent of the assets of the issuer are located in the United States.
+"(ii) Pli ol 50 procentoj de la valoraĵoj de la emisianto situas en Usono.
 
-"(iii) The business of the issuer is principally administered in the United States.
+"(iii) La komerco de la emisianto estas ĉefe administrita en Usono.
 
-"(b) Disclosure Requirements.—
+"(b) Rivelaj Postuloj.—
 
-"(1) Initial compliance with specified periodic disclosure requirements.—Subject to paragraphs (4) and (5), an issuer engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides or proposes to provide any holder of the security with an ancillary asset, shall be subject to the periodic disclosure requirements under subsection (c) for the 1-year period beginning on the date that is 180 days after the first date on which the security is offered, sold, or otherwise provided by the issuer, if—
+"(1) Komenca plenumo de specifitaj periodaj malkaŝaj postuloj.—Konjekte al alineoj (4) kaj (5), emisianto okupiĝis pri komerco aŭ influas interŝtatan komercon, aŭ kiu estas organizita ekster Usono kaj ne estas eksterlanda privata. emisianto, kiu ofertas, vendas, aŭ alie disponigas sekurecon per aranĝo aŭ skemo kiu konsistigas investkontrakton, ĉar tiu esprimo estas uzita en sekcio 2 (a) (1) de la Valorpaperleĝo de 1933 (15 USC 77b (a) (1)), kaj kiu provizas aŭ proponas provizi ajnan posedanton de la sekureco per kromvaloro, devas esti kondiĉigita de la periodaj malkaŝaj postuloj sub subsekcio (c) por la 1-jara periodo komencanta en la dato kiu estas 180 tagojn post. la unua dato en kiu la valorpapero estas ofertita, vendita aŭ alie provizita de la emisianto, se—
 
-"(A) the average daily aggregate value of all ancillary assets offered, sold, or otherwise provided by the issuer in relation to the offer, sale, or provision of the security in all spot markets open to the public in the United States (based on the knowledge of the issuer after due inquiry) is greater than $5,000,000 for the 180-day period immediately succeeding the date of that first offer, sale, or provision; and
+"(A) la meza ĉiutaga entuta valoro de ĉiuj kromaktivoj ofertitaj, venditaj, aŭ alie provizitaj de la emisianto rilate al la oferto, vendo aŭ provizo de la sekureco en ĉiuj spotmerkatoj malfermitaj al publiko en Usono (bazita de laŭ la scio de la emisianto post konvena enketo) estas pli granda ol $ 5,000,000 por la 180-taga periodo tuj sekvante la daton de tiu unua oferto, vendo aŭ provizo; kaj
 
-"(B) during the 180-day period described in subparagraph (A), the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+"(B) dum la 180-taga periodo priskribita en subparagrafo (A), la emisianto, aŭ iu ajn persono posedanta ne malpli ol 10 procentojn de iu ajn klaso de akcipaperoj de la emisianto, okupiĝis pri entreprenaj aŭ administraj klopodoj kiuj ĉefe determinis la valoron. de la kromvaloro.
 
-"(2) Ongoing compliance with specified periodic disclosure requirements.—Subject to paragraphs (4) and (5), an issuer that is engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of the security with an ancillary asset in connection with the acquisition of the security, shall be subject to the periodic disclosure requirements under subsection (c) for a given fiscal year of that issuer, if, in the immediately preceding fiscal year of the issuer (or any portion thereof)—
+"(2) Daŭranta plenumo de specifitaj periodaj malkaŝaj postuloj.—Subjektive al alineoj (4) kaj (5), emisianto kiu okupiĝas pri komerco aŭ influas interŝtatan komercon, aŭ kiu estas organizita ekster Usono kaj ne estas eksterlanda privata emisianto, kiu ofertas, vendas, aŭ alie disponigas sekurecon tra aranĝo aŭ skemo kiu konsistigas investkontrakton, ĉar tiu esprimo estas uzita en sekcio 2 (a) (1) de la Valorpaperleĝo de 1933 (15 USC 77b (). a)(1)), kaj kiu provizas la posedanton de la sekureco per kromvaloro lige kun la akiro de la sekureco, devas esti kondiĉigita de la periodaj malkaŝaj postuloj sub subsekcio (c) por antaŭfiksita fiskjaro de tiu emisianto, se, en la tuj antaŭa fiskjaro de la emisianto (aŭ ajna parto de ĝi)—
 
-"(A) the average daily aggregate value of all trading in the ancillary asset in all spot markets open to the public in the United States was greater than $5,000,000, based on the knowledge of the issuer after due inquiry; and
+"(A) la meza ĉiutaga entuta valoro de ĉiu komerco en la kromvaloro en ĉiuj spotmerkatoj malfermitaj al publiko en Usono estis pli granda ol $ 5,000,000, surbaze de la scio de la emisianto post konvena enketo; kaj
 
-"(B) the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+"(B) la emisianto, aŭ iu ajn persono posedanta ne malpli ol 10 procentojn de iu klaso de akcipaperoj de la emisianto, okupiĝis pri entreprenaj aŭ administraj klopodoj kiuj ĉefe determinis la valoron de la kromvaloro.
 
-"(3) Transition rule.—Subject to paragraphs (4) and (5), an issuer that is engaged in business in or affecting interstate commerce, or that is organized outside of the United States and is not a foreign private issuer, that offers, sells, or otherwise provides a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of the security with an ancillary asset before January 1, 2023, in connection with the acquisition of the security shall be subject to the periodic disclosure requirements under subsection (c) beginning in the first fiscal year of the issuer that begins on or after that date, if, in the immediately preceding fiscal year of the issuer—
+"(3) Transira regulo.—Konjekte al paragrafoj (4) kaj (5), emisianto kiu okupiĝas pri komerco aŭ influas interŝtatan komercon, aŭ kiu estas organizita ekster Usono kaj ne estas eksterlanda privata emisianto, tio ofertas, vendas, aŭ alie disponigas sekurecon per aranĝo aŭ skemo kiu konsistigas investkontrakton, ĉar tiu esprimo estas uzita en sekcio 2 (a) (1) de la Valorpaperleĝo de 1933 (15 USC 77b (a) (1) ), kaj tio provizas la posedanton de la sekureco kun kromvaloro antaŭ la 1-a de januaro 2023, lige kun la akiro de la sekureco, estos submetita al la periodaj malkaŝaj postuloj sub subsekcio (c) komenciĝanta en la unua fiska jaro de la emisianto. kiu komenciĝas en aŭ post tiu dato, se, en la tuj antaŭa fiskjaro de la emisianto—
 
-"(A) the average daily aggregate value of trading in the ancillary asset in all spot markets open to the public for which trading volume is generally available was greater than $5,000,000, based on the knowledge of the issuer after due inquiry; and
+"(A) la meza ĉiutaga entuta valoro de komercado en la kromvaloro en ĉiuj spotmerkatoj malfermitaj al publiko por kiuj komerckvanto estas ĝenerale havebla estis pli granda ol $ 5,000,000, surbaze de la scio de la emisianto post konvena enketo; kaj
 
-"(B) the issuer, or any person owning not less than 10 percent of any class of equity securities of the issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+"(B) la emisianto, aŭ iu ajn persono posedanta ne malpli ol 10 procentojn de iu klaso de akcipaperoj de la emisianto, okupiĝis pri entreprenaj aŭ administraj klopodoj kiuj ĉefe determinis la valoron de la kromvaloro.
 
-"(4) Treatment of ancillary assets.—
+"(4) Traktado de helpaj aktivoj.—
 
-"(A) In general.—Notwithstanding any other provision of law, if an issuer issues a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), is subject to paragraph (1), (2), or (3), and is in compliance with the periodic disclosure requirements under subsection (c), an ancillary asset provided directly or indirectly by the issuer shall be presumed—
+"(A) Ĝenerale.—Malgraŭ ajna alia dispozicio de leĝo, se emisianto eldonas valorpaperon per aranĝo aŭ skemo kiu konsistigas investkontrakton, ĉar tiu esprimo estas uzita en sekcio 2(a)(1) de la Valorpaperleĝo de 1933 (15 USC 77b(a)(1)), estas kondiĉigita de paragrafo (1), (2), aŭ (3), kaj konformas al la periodaj malkaŝaj postuloj sub subfako (c), kromvaloro disponigita. rekte aŭ nerekte de la emisianto estas supozata—
 
-"(i) to be a commodity, consistent with section 2(c)(2)(F) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)(F)); and
+"(i) esti krudvaro, kongrua kun sekcio 2(c)(2)(F) de la Varo-Interŝanĝa Leĝo (7 USC 2(c)(2)(F)); kaj
 
-"(ii) not to be a security under—
+"(ii) ne esti sekureco sub—
 
-"(I) section 3(a);
+"(I) sekcio 3(a);
 
-"(II) such section 2(a)(1);
+"(II) tia sekcio 2(a)(1);
 
-"(III) section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a));
+"(III) sekcio 2 (a) de la Investfirmao-Leĝo de 1940 (15 USC 80a-2 (a));
 
-"(IV) section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)); or
+"(IV) sekcio 202 (a) de la Investo-Konsultistoj-Leĝo de 1940 (15 USC 80b-2 (a)); aŭ
 
-"(V) any applicable provision of State law.
+"(V) ajna aplikebla dispozicio de Ŝtata juro.
 
-"(B) Other persons.—A person who is not an issuer, an entity controlled by an issuer (including a person that acquires an ancillary asset from such an issuer for the purpose of resale or distribution of the ancillary asset), or a person acting at the direction or on the behalf of an issuer shall be not required to treat an ancillary asset provided by an issuer as a security under this Act or any provision of law described in subparagraph (A)(ii).
+"(B) Aliaj personoj.—Persono kiu ne estas emisianto, unuo kontrolita de emisianto (inkluzive de persono kiu akiras helpan aktivaĵon de tia emisianto por revendo aŭ distribuado de la kromvaloro), aŭ persono aganta laŭ la direkto aŭ nome de emisianto ne devas trakti kromvaloron disponigitan de emisianto kiel sekurecon sub ĉi tiu Ago aŭ ajna dispozicio de leĝo priskribita en subparagrafo (A)(ii).
 
-"(C) Exception.—
+"(C) Escepto.—
 
-"(i) In general.—Subparagraph (A) shall not apply to an ancillary asset if a court of the United States of competent jurisdiction, after an appropriate proceeding, issues an order finding that there is not a substantial basis for the presumption that the ancillary asset is a commodity and not a security under subparagraph (A).
+"(i) Ĝenerale.—Subparagrafo (A) ne aplikiĝas al kromvaloro se tribunalo de Usono de kompetenta jurisdikcio, post konvena procedo, eldonas ordon konstatante ke ne ekzistas granda bazo por la supozo ke la kromvaloro estas varo kaj ne sekureco sub subalineo (A).
 
-"(ii) Rules of construction.—Nothing in this subparagraph shall be construed to preclude the Commission from entering into a settlement agreement relating to violations or alleged violations of this section. Compliance under this section shall not be used in any administrative or judicial proceeding that an ancillary asset is a security.
+"(ii) Reguloj de konstruo.—Nenio en ĉi tiu subalineo devas esti interpretita por malhelpi la Komisionon eniĝi en kompromisinterkonsento rilate al malobservoj aŭ kvazaŭaj malobservoj de ĉi tiu sekcio. Observo sub ĉi tiu sekcio ne devas esti uzata en iu ajn administra aŭ jura procedo. ke kromvaloro estas sekureco.
 
-"(5) Calculation.—For the purposes of paragraphs (1), (2), and (3), the calculation of daily aggregate value shall be based on data disclosed by spot markets or otherwise available to the public for inspection.
+"(5) Kalkulo.—Por la celoj de alineoj (1), (2) kaj (3), la kalkulo de ĉiutaga entuta valoro devas esti bazita sur datumoj malkaŝitaj de spotmerkatoj aŭ alie disponeblaj al publiko por inspektado.
 
-"(c) Specified Periodic Disclosure Requirements.—If an issuer is subject to paragraph (1), (2), or (3) of subsection (b), the issuer shall furnish, or cause the relevant affiliate to furnish, to the Commission, on a semi-annual basis, information that the Commission may, by rule, require relating to the issuer and any relevant ancillary asset, as necessary or appropriate in the public interest or for the protection of investors, which shall be exclusively comprised of the following:
+"(c) Specifitaj Periodaj Rivelaj Postuloj.—Se emisianto estas submetita al paragrafo (1), (2), aŭ (3) de subsekcio (b), la emisianto devas provizi, aŭ igi la koncernan filion provizi, al la Komisiono, duonjara bazo, informoj kiujn la Komisiono povas, laŭ regulo, postuli rilatajn al la emisianto kaj ajnan rilatan aktivaĵon, kiel necese aŭ konvene por la publika intereso aŭ por la protekto de investantoj, kiuj devas esti ekskluzive konsistantaj el jenaj:
 
-"(1) Basic corporate information regarding the issuer, including the following:
+"(1) Bazaj kompaniaj informoj pri la emisianto, inkluzive de la sekvanta:
 
-"(A) The experience of the issuer in developing assets similar to the ancillary asset.
+"(A) La sperto de la emisianto en evoluigado de aktivoj similaj al la kromvaloro.
 
-"(B) If the issuer has previously provided ancillary assets to purchasers of securities, information on the subsequent history of those previously provided ancillary assets, including price history, if the information is publicly available.
+"(B) Se la emisianto antaŭe disponigis helpajn aktivaĵojn al aĉetantoj de valorpaperoj, informoj pri la posta historio de tiuj antaŭe disponigitaj kromaktivaĵoj, inkluzive de prezhistorio, se la informoj estas publike haveblaj.
 
-"(C) The activities that the issuer has taken in the relevant disclosure period, and is projecting to take in the 1-year period following the submission of the disclosure, with respect to promoting the use, value, or resale of the ancillary asset (including any activity to facilitate the creation or maintenance of a trading market for the ancillary asset and any network or system that utilizes the ancillary asset).
+"(C) La agadoj, kiujn la emisianto faris en la koncerna periodo de malkaŝo, kaj planas fari en la 1-jara periodo post la prezento de la malkaŝo, rilate al promocio de la uzo, valoro aŭ revendo de la kromvaloro. (inkluzive de ajna agado por faciligi la kreadon aŭ prizorgadon de komerca merkato por la helpa aktivaĵo kaj ajna reto aŭ sistemo kiu utiligas la helpan aktivon).
 
-"(D) The anticipated cost of the activities of the issuer in subparagraph (C) and whether the issuer has unencumbered, liquid funds equal to that amount.
+"(D) La antaŭvidita kosto de la agadoj de la emisianto en subalineo (C) kaj ĉu la emisianto havas neŝarĝitajn, likvajn financojn egalajn al tiu kvanto.
 
-"(E) To the extent the ancillary asset involves the use of a particular technology, the experience of the issuer with the use of that technology.
+"(E) Laŭ la mezuro la kromvaloro implikas la uzon de speciala teknologio, la sperto de la emisianto kun la uzo de tiu teknologio.
 
-"(F) The backgrounds of the board of directors (or equivalent body), senior management, and key employees of the issuer, the experience or functions of whom are material to the value of the ancillary asset, as well as any personnel changes relating to the issuer during the period covered by the disclosure.
+"(F) La fonoj de la estraro de direktoroj (aŭ ekvivalenta korpo), altranga administrado, kaj esencaj dungitoj de la emisianto, kies sperto aŭ funkcioj estas gravaj al la valoro de la kromvaloro, same kiel ajnaj personaj ŝanĝoj rilataj al la emisianto dum la periodo kovrita de la malkaŝo.
 
-"(G) A description of the assets and liabilities of the issuer, to the extent material to the value of the ancillary asset.
+"(G) Priskribo de la aktivoj kaj pasivoj de la emisianto, laŭ la mezuro materiala al la valoro de la kromvaloro.
 
-"(H) A description of any legal proceedings in which the issuer is engaged (including inquiries by governmental agencies into the activities of the issuer), to the extent material to the value of the ancillary asset.
+"(H) Priskribo de iuj juraj procedoj en kiuj la emisianto estas engaĝita (inkluzive de enketoj de registaraj agentejoj pri la agadoj de la emisianto), laŭ la mezuro materiala al la valoro de la kromvaloro.
 
-"(I) Risk factors relating to the impact of the issuer on, or unique knowledge relating to, the value of the ancillary asset.
+"(I) Riskfaktoroj rilataj al la efiko de la emisianto sur, aŭ unika scio rilatanta al, la valoro de la kromvaloro.
 
-"(J) Information relating to ownership of the ancillary asset by—
+"(J) Informoj rilate al proprieto de la kromvaloro per—
 
-"(i) persons owning not less than 10 percent of any class of equity security of the issuer; and
+"(i) personoj posedantaj ne malpli ol 10 procentojn de iu ajn klaso de akcia sekureco de la emisianto; kaj
 
-"(ii) the management of the issuer.
+"(ii) la administrado de la emisianto.
 
-"(K) Information relating to transactions involving the ancillary asset by the issuer with related persons, promoters, and control persons.
+"(K) Informoj rilate al transakcioj implikantaj la helpan aktivaĵon de la emisianto kun rilataj personoj, reklamantoj kaj kontrolpersonoj.
 
-"(L) Recent sales or similar dispositions of ancillary assets by the issuer and affiliates of the issuer.
+"(L) Lastatempaj vendoj aŭ similaj disponoj de kromaktivoj de la emisianto kaj filioj de la emisianto.
 
-"(M) Purchases or similar dispositions of ancillary assets by the issuer and affiliates of the issuer.
+"(M) Aĉetoj aŭ similaj disponoj de kromaktivoj de la emisianto kaj filioj de la emisianto.
 
-"(N) A going concern statement from the chief financial officer of the issuer or equivalent official, signed under penalty of perjury, stating whether the issuer maintains the financial resources to continue business as a going concern for the 1-year period following the submission of the disclosure, absent a material change in circumstances.
+"(N) Deklaro de la financa funkciulo de la eldonanto aŭ ekvivalenta oficisto, subskribita sub puno de falsĵuro, deklarante ĉu la eldonanto konservas la financajn rimedojn por daŭrigi komercon kiel funkciserva entrepreno dum la 1-jara periodo post la submetado. de la malkaŝo, forestanta grava ŝanĝo en cirkonstancoj.
 
-"(2) Information relating to the ancillary asset, including the following:
+"(2) Informoj rilate al la kromvaloro, inkluzive de la sekvanta:
 
-"(A) A general description of the ancillary asset, including the standard unit of measure with respect to the ancillary asset, the intended or known functionality and uses of the ancillary asset, the market for the ancillary asset, other assets or services that may compete with the ancillary asset, and the total supply of the ancillary asset or the manner and rate of the ongoing production or creation of the ancillary asset.
+"(A) Ĝenerala priskribo de la kromvaloro, inkluzive de la norma mezurunuo kun respekto al la kromvaloro, la celita aŭ konata funkcieco kaj uzoj de la kromvaloro, la merkato por la kromvaloro, aliaj aktivaĵoj aŭ servoj kiuj povas konkuri kun la kroma aktivaĵo, kaj la totala provizo de la kroma aktivaĵo aŭ la maniero kaj rapideco de la daŭranta produktado aŭ kreado de la kroma aktivaĵo.
 
-"(B) If ancillary assets have been offered, sold, or otherwise provided by the issuer to investors, intermediaries, or resellers, a description of the amount of assets offered, sold, or provided, the terms of each such transaction, and any contractual or other restrictions on the resale of the assets by intermediaries.
+"(B) Se kromaj aktivoj estis ofertitaj, venditaj aŭ alie provizitaj de la emisianto al investantoj, perantoj aŭ revendistoj, priskribo de la kvanto de aktivaĵoj ofertitaj, venditaj aŭ provizitaj, la kondiĉoj de ĉiu tia transakcio, kaj ajnaj kontraktaj aŭ aliaj limigoj pri la revendo de la aktivoj fare de perantoj.
 
-"(C) If ancillary assets were distributed without charge, a description of each distribution, including the identity of any recipient that received more than 5 percent of the total amount of the ancillary assets in any such distribution.
+"(C) Se kromaj aktivoj estis distribuitaj senpage, priskribo de ĉiu distribuo, inkluzive de la identeco de iu ricevanto, kiu ricevis pli ol 5 procentojn de la totalsumo de la helpaj aktivoj en tia distribuo.
 
-"(D) The amount of ancillary assets owned by the issuer.
+"(D) La kvanto de helpaj aktivoj posedataj de la emisianto.
 
-"(E) For the 1-year period following the submission of the disclosure, a description of the plans of the issuer to support (or to cease supporting) the use or development of the ancillary asset, including markets for the ancillary asset and each platform or system that uses the ancillary asset.
+"(E) Dum la 1-jara periodo post la prezento de la malkaŝo, priskribo de la planoj de la emisianto por subteni (aŭ ĉesi subteni) la uzon aŭ evoluon de la kromvaloro, inkluzive de merkatoj por la kromvaloro kaj ĉiu. platformo aŭ sistemo kiu uzas la helpan valoraĵon.
 
-"(F) Each third party not affiliated with the issuer, the activities of which may have a material impact on the value of the ancillary asset.
+"(F) Ĉiu tria partio ne aligita kun la eldonanto, kies agadoj povas havi gravan efikon sur la valoro de la kromvaloro.
 
-"(G) Risk factors known to the issuer that may limit demand for, or interest in, the ancillary asset.
+"(G) Riskfaktoroj konataj al la emisianto, kiuj povas limigi postulon aŭ intereson pri la kromvaloro.
 
-"(H) The names and locations of the markets in which the ancillary asset is known by the issuer to be available for sale or purchase.
+"(H) La nomoj kaj lokoj de la merkatoj en kiuj la kromvaloro estas konata de la emisianto estas disponebla por vendo aŭ aĉeto.
 
-"(I) To the extent available to the issuer, the average daily price for a constant unit of value of the ancillary asset during the relevant reporting period, as well as the 12-month high and low prices for the ancillary asset.
+"(I) Laŭ la mezuro disponebla al la emisianto, la meza ĉiutaga prezo por konstanta unuo de valoro de la kromvaloro dum la koncerna raporta periodo, same kiel la 12-monataj altaj kaj malaltaj prezoj por la kromvaloro.
 
-"(J) If applicable, information relating to any external audit of the code and functionality of the ancillary asset, including the entity performing the audit and the experience of the entity in conducting similar audits.
+"(J) Se uzeble, informoj rilate al iu ekstera revizio de la kodo kaj funkcieco de la kromvaloro, inkluzive de la unuo elfaranta la revizion kaj la sperton de la unuo en farado de similaj revizioj.
 
-"(K) If applicable, any third-party valuation report or economic analysis regarding the ancillary asset or the projected market of the ancillary asset, which shall include the entity performing the valuation or analysis and the experience of the entity in conducting similar reports or analyses.
+"(K) Se aplikebla, ajna triaparta taksa raporto aŭ ekonomia analizo pri la kromvaloro aŭ la projektita merkato de la kromvaloro, kiu inkluzivas la enton farantan la taksadon aŭ analizon kaj la sperton de la ento en farado de similaj raportoj aŭ analizoj.
 
-"(L) If the ancillary asset is intangible, information relating to custody by the owner of the ancillary asset or a third party.
+"(L) Se la kromvaloro estas netuŝebla, informoj rilataj al gardado de la posedanto de la kromvaloro aŭ tria partio.
 
-"(M) Information on intellectual property rights claimed or disputed relating to the ancillary asset.
+"(M) Informoj pri intelektapropraĵaj rajtoj asertitaj aŭ pridisputataj rilate al la kromvaloro.
 
-"(N) A description of the technology underlying the ancillary asset.
+"(N) Priskribo de la teknologio subesta la helpa aktivaĵo.
 
-"(O) Any material tax considerations applicable to owning, storing, using, or trading the ancillary asset.
+"(O) Iaj ajn materialaj impostaj konsideroj aplikeblaj al posedado, stokado, uzado aŭ komercado de la kromvaloro.
 
-"(P) Any material legal or regulatory considerations applicable to owning, storing, using, or trading the ancillary asset, including any legal proceeding that may impact the value of the ancillary asset.
+"(P) Ĉiuj materialaj leĝaj aŭ reguligaj konsideroj aplikeblaj al posedado, stokado, uzado aŭ komercado de la kromvaloro, inkluzive de iu ajn jura procedo, kiu povas influi la valoron de la kromvaloro.
 
-"(Q) Any other material factor or information that may impact the value of the ancillary asset and about which the issuer is reasonably aware.
+"(Q) Ajna alia materiala faktoro aŭ informo, kiu povas influi la valoron de la kromvaloro kaj pri kiu la emisianto estas prudente konscia.
 
-"(d) Application to Successor Entities and Certain Affiliates.—
+"(d) Apliko al Postaj Entoj kaj Iuj Filioj.—
 
-"(1) In general.—If an issuer would otherwise be subject to specified periodic disclosure requirements under subsection (c) and is no longer in operation, any successor entity that directly or indirectly received not less than 50 percent of the proceeds raised by the sale of the related securities of that issuer, and that is engaged in entrepreneurial or managerial efforts that primarily determine the value of the applicable ancillary asset, shall furnish, or cause to be furnished, to the Commission the information required under that subsection.
+"(1) Ĝenerale.—Se emisianto alie estus submetita al specifitaj periodaj malkaŝaj postuloj sub subsekcio (c) kaj ne plu funkcias, iu posteula ento kiu rekte aŭ nerekte ricevis ne malpli ol 50 procentojn de la enspezo akirita de la vendo de la rilataj valorpaperoj de tiu emisianto, kaj kiu estas engaĝita en entreprenaj aŭ manaĝeraj klopodoj kiuj ĉefe determinas la valoron de la aplikebla kromvaloro, devas provizi, aŭ igi esti provizita, al la Komisiono la informojn postulatajn sub tiu subsekcio.
 
-"(2) Certain affiliates.—If an entity controlled by an issuer is subject to specified periodic disclosure requirements under subsection (c) and is engaged in entrepreneurial or managerial efforts that primarily determine the value of an ancillary asset, the entity may furnish to the Commission the information required under that subsection.
+"(2) Certaj filioj.—Se unuo kontrolita de emisianto estas submetita al specifaj periodaj malkaŝaj postuloj sub subsekcio (c) kaj estas engaĝita en entreprenaj aŭ administraj klopodoj kiuj ĉefe determinas la valoron de kromvaloro, la unuo povas provizi al la Komisiono la informojn postulatajn sub tiu subsekcio.
 
-"(e) Voluntary Disclosure.—An issuer that is not subject to the specified periodic disclosure requirements under subsection (c) and that offers or sells a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)), and that provides the holder of that security with an ancillary asset in connection with the acquisition of the security may voluntarily furnish to the Commission the information required under that subsection if the issuer believes that it is reasonably likely that the issuer will become subject to those requirements in the future.
+"(e) Volontula Rivelo.—Eldonanto kiu ne estas kondiĉigita de la specifitaj periodaj malkaŝaj postuloj sub subsekcio (c) kaj kiu ofertas aŭ vendas valorpaperon per aranĝo aŭ skemo kiu konsistigas investkontrakton, ĉar tiu esprimo estas uzita en sekcio. 2 (a) (1) de la Valorpaperleĝo de 1933 (15 USC 77b (a) (1)), kaj tio provizas la posedanton de tiu sekureco per kromvaloro lige kun la akiro de la sekureco povas libervole provizi al la Komisii la informojn postulatajn sub tiu subsekcio se la emisianto kredas ke estas sufiĉe verŝajne ke la emisianto fariĝos submetita al tiuj postuloj en la estonteco.
 
-"(f) Exemptions.—The Commission may, by order, exempt an ancillary asset from the specified periodic disclosure requirements under subsection (c) if the Commission determines that the public policy goals of disclosure and consumer protection are not satisfied by requiring disclosures relating to an ancillary asset.
+"(f) Sendevigoj.—La Komisiono povas, per ordo, sendevigi helpan aktivaĵon de la specifitaj periodaj malkaŝaj postuloj sub subsekcio (c) se la Komisiono determinas ke la publikpolitikaj celoj de malkaŝo kaj konsumanto-protekto ne estas kontentigitaj postulante malkaŝojn rilatajn. al kromvaloro.
 
-"(g) Rule of Construction.—If an issuer fails to comply with a provision of this section, an ancillary asset provided by the issuer shall not be presumed to be a security under a provision of law described in subsection (b)(4)(A)(ii), solely because of such failure.
+"(g) Regulo de Konstruo.-Se emisianto malsukcesas kun dispozicio de ĉi tiu sekcio, kromvaloro disponigita fare de la emisianto ne devas esti supozita esti sekureco sub kondiĉo de leĝo priskribita en subsekcio (b) (4). )(A)(ii), nur pro tia malsukceso.
 
-"(h) Rules.—The Commission may adopt rules and guidance to implement this section, consistent with the statutory intent of this section.".
+"(h) Reguloj.—La Komisiono povas adopti regulojn kaj gvidojn por efektivigi ĉi tiun sekcion, kongrue kun la laŭleĝa intenco de ĉi tiu sekcio.".
 
-&nbsp;
+ 
 
-SEC. 302. TERMINATION OF SPECIFIED PERIODIC DISCLOSURE REQUIREMENTS.
+SEC. 302. ĈESIO DE SPECIFITAJ PERIODIAJ RIVELKOPOSTOJ.
 
-Section 41 of the Securities Exchange Act of 1934, as added by section 301 of this Act, is amended by adding at the end the following:
+Sekcio 41 de la Sekureco-Interŝanĝa Leĝo de 1934, kiel aldonite per sekcio 301 de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"(i) Termination of Specified Periodic Disclosure Requirements.—
+"(i) Ĉesigo de Specifitaj Periodaj Diskonigo-Kondiĉoj.—
 
-"(1) In general.—The obligation of an issuer to furnish the information required under subsection (c) shall terminate on the date that is 90 days, or such shorter period as the Commission may determine, after the date on which the issuer files a certification described in paragraph (2).
+"(1) Ĝenerale.—La devontigo de emisianto provizi la informojn postulatajn sub subsekcio (c) finiĝas en la dato kiu estas 90 tagoj, aŭ tia pli mallonga periodo kiun la Komisiono povas determini, post la dato en kiu la emisianto. prezentas ateston priskribitan en paragrafo (2).
 
-"(2) Certification.—
+"(2) Atesto.—
 
-"(A) In general.—A certification filed under paragraph (1) shall be supported by reasonable evidence, based on the knowledge of the issuer filing the certification, after due inquiry, that—
+"(A) Ĝenerale.—Atestilo prezentita sub paragrafo (1) devas esti apogita per akceptebla indico, bazita sur la scio de la emisianto arkivanta la atestadon, post konvena enketo, ke—
 
-"(i) the average daily aggregate value of all trading in the applicable ancillary asset in all spot markets open to the public in the United States in the 12-month period preceding the date on which the certification is filed was not greater than $5,000,000; or
+"(i) la meza ĉiutaga entuta valoro de ĉiu komercado en la aplikebla kromvaloro en ĉiuj spotmerkatoj malfermitaj al publiko en Usono en la 12-monata periodo antaŭ la dato en kiu la atestado estas arkivita ne estis pli granda ol $ 5,000,000; aŭ
 
-"(ii) during the 12-month period preceding the date on which the certification is filed, neither the applicable issuer, nor any entity controlled by the applicable issuer, engaged in entrepreneurial or managerial efforts that primarily determined the value of the ancillary asset.
+"(ii) dum la 12-monata periodo antaŭ la dato en kiu la atestado estas arkivita, nek la aplikebla emisianto, nek iu unuo kontrolita de la aplikebla emisianto, okupiĝis pri entreprenaj aŭ administraj klopodoj kiuj ĉefe determinis la valoron de la kromvaloro.
 
-"(B) Denial.—
+"(B) Neo.—
 
-"(i) In general.—Subject to subparagraph (C)(ii), the Commission may, by majority vote and after notice and opportunity for hearing, deny a certification filed under paragraph (1) if the Commission finds that the certification is not supported by substantial evidence.
+"(i) Ĝenerale.—Subjekte al subparagrafo (C)(ii), la Komisiono povas, per plimulta voĉdono kaj post avizo kaj ŝanco por aŭdienco, nei atestilon prezentitan sub paragrafo (1) se la Komisiono trovas ke la atesto estas ne apogita per granda indico.
 
-"(ii) Effect.—The denial, under clause (i), of a certification filed under paragraph (1)—
+"(ii) Efiko.—La neo, sub klaŭzo (i), de atestado prezentita sub paragrafo (1)—
 
-"(I) shall terminate the certification so filed; and
+"(mi) ĉesigos la ateston tiel registritan; kaj
 
-"(II) shall not prevent the applicable issuer from filing another certification under paragraph (1), if the re-filed certification is filed not earlier than 180 days after the date on which the original certification is denied.
+"(II) ne malhelpas la aplikeblan emisiiston prezenti alian atestadon sub paragrafo (1), se la re-arkivita atesto estas arkivita ne pli frue ol 180 tagojn post la dato en kiu la origina atestado estas neita.
 
-"(C) Pending status.—
+"(C) Pritraktata statuso.—
 
-"(i) In general.—Termination of the disclosure requirements described in paragraph (1) applicable to an issuer that has filed a certification under that paragraph shall be deferred pending review by the Commission of the evidence supporting the certification.
+"(i) Ĝenerale.—Finigo de la malkaŝaj postuloj priskribitaj en paragrafo (1) aplikebla al emisianto kiu registris atestilon sub tiu paragrafo estos prokrastita ĝis revizio de la Komisiono de la indico subtenanta la atestadon.
 
-"(ii) Effect of delay.—If, as of the date that is 90 days after receiving a certification filed under paragraph (1), the Commission has not requested additional evidence with respect to the certification from the applicable issuer, the disclosure obligations that are the subject of the certification shall terminate.".
+"(ii) Efiko de prokrasto.—Se, en la dato kiu estas 90 tagojn post ricevado de atestilo arkivita sub paragrafo (1), la Komisiono ne petis kroman indicon kun respekto al la atestado de la aplikebla emisianto, la malkaŝodevontigoj kiuj estas la temo de la atestado finiĝos.".
 
-&nbsp;
+ 
 
-SEC. 303. GUIDANCE RELATING TO SATISFACTORY CONTROL LOCATION.
+SEC. 303. GVIDON RELATANTA AL KONTIGA KONTROLOKO.
 
-Not later than 180 days after the date of the enactment of this Act, the Securities and Exchange Commission (referred to in this title as the "Commission") shall issue guidance relating to section 240.15c3–3 of title 17, Code of Federal Regulations, or any successor regulation, providing that the requirement to designate a satisfactory control location for a digital asset that is, or may represent ownership of, a security may be satisfied by protecting the digital asset through commercially reasonable cybersecurity practices to maintain control of sufficient private key material to transfer control of the digital asset to another person, or to cause another person to obtain control of the digital asset, including by means of a smart contract that generates private key material without the involvement of a natural person.
+Ne pli malfrue ol 180 tagojn post la dato de la leĝigo de ĉi tiu Ago, la Komisiono pri Valorpaperoj kaj Interŝanĝoj (referita en ĉi tiu titolo kiel la "Komisiono") eligos gvidon rilate al sekcio 240.15c3-3 de titolo 17, Kodo de Federaciaj Regularoj. , aŭ ajna posteulregulo, kondiĉe ke la postulo indiki kontentigan kontrollokon por cifereca aktivaĵo kiu estas, aŭ povas reprezenti proprieton de, sekureco povas esti kontentigita protektante la ciferecan aktivaĵon per komerce akcepteblaj cibersekurecaj praktikoj por konservi kontrolon de sufiĉa privata. ŝlosila materialo por transdoni kontrolon de la cifereca valoraĵo al alia persono, aŭ por igi alian personon akiri kontrolon de la cifereca aktivaĵo, inkluzive per inteligenta kontrakto, kiu generas privatan ŝlosilan materialon sen la implikiĝo de natura persono.
 
-&nbsp;
+ 
 
-SEC. 304. CUSTODY AND CUSTOMER PROTECTION RULES.
+SEC. 304. REGULOJ DE GARADO KAJ KLIENTA PROTEKTO.
 
-(a) In General.—
+(a) Ĝenerale.—
 
-(1) Modernization of existing rules and adoption of new rules.—Not later than 18 months after the date of enactment of this Act, the Commission shall—
+(1) Modernigo de ekzistantaj reguloj kaj adopto de novaj reguloj.—Ne pli malfrue ol 18 monatojn post la dato de ekvalidiĝo de ĉi tiu Leĝo, la Komisiono devas—
 
-(A) complete the multi-year study of the Commission with respect to the modernization of the rules of the Commission relating to customer protection (section 240.15c3–3 of title 17, Code of Federal Regulations) and custody of securities, digital assets, and client funds (section 275.206(4)–2 of title 17, Code of Federal Regulations); and
+(A) kompletigu la plurjaran studon de la Komisiono koncerne la modernigon de la reguloj de la Komisiono rilate al klientprotekto (sekcio 240.15c3–3 de titolo 17, Kodo de Federaciaj Regularoj) kaj gardado de valorpaperoj, ciferecaj aktivoj, kaj klientfondusoj (sekcio 275.206 (4)-2 el titolo 17, Kodo de Federaciaj Regularoj); kaj
 
-(B) consistent with the results of the study described in subparagraph (A), adopt final rules relating to the issues described in paragraph (2).
+(B) konsekvence kun la rezultoj de la studo priskribita en subparagrafo (A), adopti finajn regulojn rilate al la aferoj priskribitaj en paragrafo (2).
 
-(2) Contents.—The final rules adopted under paragraph (1)(B) shall address the following concepts:
+(2) Enhavo.—La finaj reguloj adoptitaj sub paragrafo (1)(B) traktas la jenajn konceptojn:
 
-(A) Investor protection and education with respect to digital assets.
+(A) Protekto kaj edukado de investantoj rilate al ciferecaj aktivoj.
 
-(B) Digital assets, distributed ledger technology, and use of collaborative custody or multi-signature arrangements, including distribution of private key material and resulting obligations.
+(B) Ciferecaj aktivoj, distribua ĉeflibroteknologio, kaj uzo de kunlabora gardado aŭ plursubskribo-aranĝoj, inkluzive de distribuado de privata ŝlosila materialo kaj rezultaj devoj.
 
-(C) Changes in market structure and asset characteristics, including disuse of physical securities and assets and appropriate custodial methods for electronically native assets.
+(C) Ŝanĝoj en merkatstrukturo kaj aktivaĵkarakterizaĵoj, inkluzive de neuzado de fizikaj valorpaperoj kaj aktivoj kaj taŭgaj gardaj metodoj por elektronike indiĝenaj aktivaĵoj.
 
-(D) Reduction of regulatory burden.
+(D) Redukto de reguliga ŝarĝo.
 
-(E) Use of technology to facilitate regulatory compliance and risk management.
+(E) Uzo de teknologio por faciligi reguligan observon kaj riskan administradon.
 
-(F) Parity of State- and nationally-chartered banks, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)), with respect to asset custody in a manner consistent with that Act (15 U.S.C. 80b–1 et seq.) and other existing law.
+(F) Egaleco de Ŝtataj kaj nacie-luitaj bankoj, kiel difinite en sekcio 202 (a) de la Investo-Konsultistoj-Leĝo de 1940 (15 USC 80b-2 (a)), kun respekto al aktivgardado en maniero kongrua kun tio Akto (15 USC 80b-1 kaj sekvaj) kaj alia ekzistanta leĝo.
 
-(G) Standards under which an issuer of an unregistered digital asset that is, or may represent ownership of, a security is not required to utilize a registered transfer agent.
+(G) Normoj laŭ kiuj emisianto de neregistrita cifereca valoraĵo kiu estas aŭ povas reprezenti posedon de sekureco ne estas postulata por uzi registritan transigan agenton.
 
-(H) Specification of the digital assets which constitute client funds under section 275.206(4)–2 of title 17, Code of Federal Regulations.
+(H) Specifo de la ciferecaj aktivoj kiuj konsistigas klientajn fondusojn laŭ sekcio 275.206(4)–2 de titolo 17, Kodo de Federaciaj Regularoj.
 
-(b) Digital Assets and Securities.—Not later than 270 days after the date of enactment of this Act, the Commission shall adopt final guidance permitting, for the purposes of section 240.15c3–3(b) of title 17, Code of Federal Regulations, a broker or a dealer to perform, within the same legal entity, both trading and custodial activities relating to fully-paid and excess margin digital assets, including virtual currency and digital assets that are securities or may represent ownership of securities, in addition to traditional securities, client funds, and other assets permitted by the Commission to be within the control of a broker or dealer.
+(b) Ciferecaj Aktivoj kaj Valorpaperoj.—Ne pli malfrue ol 270 tagojn post la dato de ekvalidiĝo de ĉi tiu Ago, la Komisiono adoptos finan gvidadon permesante, por la celoj de sekcio 240.15c3–3(b) de titolo 17, Kodo de Federacia Regularoj, makleristo aŭ komercisto plenumi, ene de la sama jura ento, kaj komercajn kaj gardajn agadojn rilatajn al plene pagitaj kaj troaj marĝenaj ciferecaj aktivoj, inkluzive de virtuala valuto kaj ciferecaj aktivoj kiuj estas valorpaperoj aŭ povas reprezenti proprieton de valorpaperoj, krome. al tradiciaj valorpaperoj, klientfondusoj, kaj aliaj aktivaĵoj permesitaj fare de la Komisiono esti ene de la kontrolo de makleristo aŭ komercisto.
 
-&nbsp;
+ 
 
-# TITLE IV—RESPONSIBLE COMMODITIES INNOVATION
+# TITOLO IV — RESPONDECA NOVEDAĴOJ
 
-SEC. 401. DEFINITIONS.
+SEC. 401. DIFINOJ.
 
-Section 1a of the Commodity Exchange Act (7 U.S.C. 1a) is amended—
+Sekcio 1a de la Varo-Interŝanĝa Leĝo (7 USC 1a) estas ŝanĝita—
 
-(1) in paragraph (9), by striking "and frozen concentrated orange juice" and inserting “frozen concentrated orange juice, and a digital asset (consistent with section 2(c)(2)(F))”;
+(1) en paragrafo (9), per frapado "kaj frosta densa oranĝa suko" kaj enmetante "frostitan densan oranĝan sukon, kaj ciferecan valoraĵon (konsekvence kun sekcio 2(c)(2)(F))";
 
-(2) by inserting after paragraph (15) the following:
+(2) enmetante post paragrafo (15) la jenon:
 
-"(15A) Digital asset.—
+"(15A) Cifereca valoraĵo.—
 
-"(A) In general.—Except as provided in subparagraph (B), the term ‘digital asset’ has the meaning given the term in section 9801 of title 31, United States Code.
+"(A) Ĝenerale.—Krom kiel provizite en subparagrafo (B), la esprimo 'cifereca valoraĵo' havas la signifon donitan la esprimon en sekcio 9801 de titolo 31, Usono-Kodo.
 
-"(B) Exclusion.—The term ‘digital asset’ does not include an asset that provides the holder of the asset with any of the following rights in a business entity:
+"(B) Ekskludo.—La esprimo 'cifereca valoraĵo' ne inkluzivas aktivaĵon, kiu provizas la posedanton de la aktivaĵo per iu el la sekvaj rajtoj en komerca ento:
 
-"(i) A debt or equity interest in that entity.
+"(i) Ŝuldo aŭ akciintereso en tiu unuo.
 
-"(ii) Liquidation rights with respect to that entity.
+"(ii) Likvidrajtoj kun respekto al tiu unuo.
 
-"(iii) An entitlement to an interest or dividend payment from that entity.
+"(iii) Rajto al interezo aŭ dividendpago de tiu unuo.
 
-"(iv) A profit or revenue share in that entity derived solely from the entrepreneurial or managerial efforts of others.
+"(iv) Profito aŭ enspezparto en tiu unuo derivita sole de la entreprenaj aŭ manaĝeraj klopodoj de aliaj.
 
-"(v) Any other financial interest in that entity.
+"(v) Ajna alia financa intereso en tiu unuo.
 
-"(15B) Digital asset exchange.—The term ‘digital asset exchange’ means a trading facility that lists for trading at least 1 digital asset.";
+"(15B) Cifereca valoraĵo interŝanĝo.—La esprimo 'cifereca valoraĵo interŝanĝo' signifas komercan instalaĵon kiu listigas por komerco almenaŭ 1 cifereca valoraĵo.";
 
-(3) in paragraph (28)(A)(i)—
+(3) en paragrafo (28)(A)(i)—
 
-(A) in subclause (I)—
+(A) en subfrazo (I)—
 
-(i) in item (aa)—
+(i) en ero (aa)—
 
-(I) in subitem (EE), by striking "or" at the end; and
+(I) en subitemo (EE), per frapado "aŭ" ĉe la fino; kaj
 
-(II) by adding at the end the following:
+(II) aldonante ĉe la fino la jenon:
 
-"(GG) the purchase or sale of a digital asset that is traded on or subject to the rules of a registered entity;";
+"(GG) la aĉeto aŭ vendo de cifereca valoraĵo, kiu estas komercita aŭ submetita al la reguloj de registrita ento;";
 
-(ii) in item (bb), by striking "and" and inserting “or”; and
+(ii) en ero (bb), per frapado "kaj" kaj enmetado de "aŭ"; kaj
 
-(iii) by adding at the end the following:
+(iii) aldonante ĉe la fino la jenon:
 
-"(cc) acting as a counterparty to any cash or spot agreement, contract, or transaction involving a digital asset with a person who is not an eligible contract participant, unless the activity is—
+"(cc) agante kiel kontraŭpartio al iu kontanta aŭ spotinterkonsento, kontrakto aŭ transakcio implikanta ciferecan valoraĵon kun persono kiu ne estas elektebla kontraktpartoprenanto, krom se la agado estas—
 
-"(AA) conducted in compliance with the laws of the State in which the activity occurs;
+"(AA) farita konforme al la leĝoj de la Ŝtato en kiu la agado okazas;
 
-"(BB) subject to regulation by another Federal authority; or
+"(BB) kondiĉigita de reguligo de alia Federacia aŭtoritato; aŭ
 
-"(CC) separately regulated under this Act; and"; and
+"(CC) aparte reguligita sub ĉi tiu Ago; kaj"; kaj
 
-(B) in subclause (II), by striking "items (aa) or (bb)" and inserting “item (aa), (bb), or (cc)”;
+(B) en subfrazo (II), per frapado de "eroj (aa) aŭ (bb)" kaj enmetante "eron (aa), (bb), aŭ (cc)";
 
-(4) by inserting after paragraph (39) the following:
+(4) enmetante post paragrafo (39) la jenon:
 
-"(39A) Registered digital asset exchange.—The term ‘registered digital asset exchange’ means a digital asset exchange registered under section 5i."; and
+"(39A) Registrita interŝanĝo de ciferecaj aktivoj.—La esprimo 'registrita cifereca interŝanĝo' signifas interŝanĝon de ciferecaj aktivoj registritaj sub sekcio 5i. "; kaj
 
-(5) in paragraph (40)—
+(5) en paragrafo (40)—
 
-(A) in subparagraph (E), by striking "and" at the end;
+(A) en subparagrafo (E), per frapado "kaj" ĉe la fino;
 
-(B) by redesignating subparagraph (F) as subparagraph (G); and
+(B) redesignante subparagrafo (F) kiel subparagrafo (G); kaj
 
-(C) by inserting after subparagraph (E) the following:
+(C) enmetante post subalineo (E) la jenon:
 
-"(F) a registered digital asset exchange; and".
+"(F) registrita interŝanĝo de ciferecaj valoraĵoj; kaj".
 
-&nbsp;
+ 
 
-SEC. 402. REPORTING AND RECORDKEEPING.
+SEC. 402. RAPORTO KAJ REGISTRO.
 
-Section 4g of the Commodity Exchange Act (7 U.S.C. 6g) is amended—
+Sekcio 4g de la Varo-Interŝanĝa Leĝo (7 USC 6g) estas ŝanĝita—
 
-(1) in subsection (a), by inserting "digital assets or" before “commodities”; and
+(1) en subsekcio (a), enmetante "ciferecajn aktivojn aŭ" antaŭ "varoj"; kaj
 
-(2) in subsection (d), in the second sentence, by striking "commodity futures." and inserting “commodities.”.
+(2) en subsekcio (d), en la dua frazo, per frapado "varaj estontecoj". kaj enmetante "varojn.".
 
-&nbsp;
+ 
 
-SEC. 403. CFTC JURISDICTION OVER DIGITAL ASSET TRANSACTIONS.
+SEC. 403. CFTC-JURISDIKCIO PRI DIGITAJ ACTIVAJ TRANSAKCIOJ.
 
-(a) Commission Jurisdiction Over Retail Digital Asset Transactions.—
+(a) Komisiona Jurisdikcio Super Potalaj Ciferecaj Aktivaj Transakcioj.—
 
-(1) In general.—Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)) is amended—
+(1) Ĝenerale.—Sekcio 2(c)(2) de la Varo-Interŝanĝa Leĝo (7 USC 2(c)(2)) estas ŝanĝita—
 
-(A) in subparagraph (D)(ii)—
+(A) en subparagrafo (D)(ii)—
 
-(i) in subclause (III), in the matter preceding item (aa), by inserting "of a commodity, other than a digital asset," before “that”;
+(i) en subfrazo (III), en la afero antaŭanta eron (aa), per enmetado "de varo, krom cifereca valoraĵo", antaŭ "tio";
 
-(ii) by redesignating subclauses (IV) and (V) as subclauses (V) and (VI), respectively; and
+(ii) redesignante subfrazojn (IV) kaj (V) kiel subfrazojn (V) kaj (VI), respektive; kaj
 
-(iii) by inserting after subclause (III) the following:
+(iii) enmetante post subfrazo (III) la jenon:
 
-"(IV) a contract of sale of a digital asset that—
+"(IV) kontrakto de vendo de cifereca valoraĵo kiu—
 
-"(aa) results in actual delivery within 2 days or such other period as the Commission may determine by rule based upon the typical commercial practice in cash or spot markets for the digital asset involved; or
+"(aa) rezultigas realan liveron ene de 2 tagoj aŭ tia alia periodo, kiun la Komisiono povas determini per regulo bazita sur la tipa komerca praktiko en kontanta aŭ spotmerkatoj por la cifereca aktivaĵo engaĝita; aŭ
 
-"(bb) is executed on or subject to the rules of a registered digital asset exchange or with a registered futures commission merchant;"; and
+"(bb) estas ekzekutita aŭ submetita al la reguloj de registrita interŝanĝo de ciferecaj valoraĵoj aŭ kun registrita komercisto pri estontaj komisiono;"; kaj
 
-(B) by adding at the end the following:
+(B) aldonante ĉe la fino la jenon:
 
-"(F) Commission jurisdiction over digital asset transactions.—
+"(F) Komisiona jurisdikcio super ciferecaj aktivoj transakcioj.—
 
-"(i) In general.—
+"(i) Ĝenerale.—
 
-"(I) Jurisdiction.—Subject to sections 6d and 12(e) and section 403 of the Commodity Futures Modernization Act of 2000 (7 U.S.C. 27a), the Commission shall have exclusive jurisdiction over any agreement, contract, or transaction involving a contract of sale of a digital asset in interstate commerce, including ancillary assets (consistent with section 41(b)(4) of the Securities Exchange Act of 1934), except that specified periodic reporting requirements made by an issuer which provided the holder of the security with an ancillary asset under that section, and the security that constitutes an investment contract (within the meaning of section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1))), shall remain within the jurisdiction of the Securities and Exchange Commission.
+"(I) Jurisdikcio. - Kondiĉigita de sekcioj 6d kaj 12 (e) kaj sekcio 403 de la Varo-Estonteco-Modernigo-Leĝo de 2000 (7 USC 27a), la Komisiono devas havi ekskluzivan jurisdikcion super ajna interkonsento, kontrakto aŭ transakcio implikanta kontrakton. de vendo de cifereca aktivaĵo en interŝtata komerco, inkluzive de kromaktivaĵoj (kongruaj kun sekcio 41 (b) (4) de la Valorpapera Interŝanĝo-Leĝo de 1934), krom tio precizigis periodajn raportpostulojn faritajn fare de emisianto kiu disponigis la tenilon de la sekureco. kun kromvaloro sub tiu sekcio, kaj la sekureco kiu konsistigas investkontrakton (en la signifo de sekcio 2 (a) (1) de la Valorpaperleĝo de 1933 (15 USC 77b (a) (1))), restos ene de la jurisdikcio de la Valorpaperoj kaj Interŝanĝkomisiono.
 
-"(II) Fungibility requirement.—The Commission shall only exercise jurisdiction over an agreement, contract, or transaction involving a contract of sale of a digital asset that is fungible, which shall not include digital collectibles and other unique digital assets.
+"(II) Fungebleco-postulo.—La Komisiono nur ekzercas jurisdikcion super interkonsento, kontrakto aŭ transakcio implikanta kontrakton de vendo de cifereca aktivaĵo kiu estas fungebla, kiu ne inkluzivas ciferecajn kolektaĵojn kaj aliajn unikajn ciferecajn aktivaĵojn.
 
-"(ii) Withholding of rulemaking authority over certain transactions.—Notwithstanding clause (i), this subparagraph shall not be interpreted to permit the Commission to issue any rule regarding any agreement, contract, or transaction that is not offered, solicited, traded, facilitated, executed, cleared, reported, or otherwise dealt in—
+"(ii) Reteno de regulfaradaŭtoritato super certaj transakcioj.—Malgraŭ klaŭzo (i), ĉi tiu subalineo ne devas esti interpretita por permesi al la Komisiono eldoni ajnan regulon koncerne ajnan interkonsenton, kontrakton aŭ transakcion kiu ne estas ofertita, petita, komercita, faciligita, efektivigita, malbarita, raportita aŭ alimaniere traktita—
 
-"(I) on or subject to the rules of a registered entity; or
+"(mi) laŭ aŭ submetata al la reguloj de registrita ento; aŭ
 
-"(II) by any other entity registered by the Commission.
+"(II) de iu alia ento registrita de la Komisiono.
 
-"(iii) Limitation.—Clause (i) shall not apply to custodial activities with respect to a digital asset of an entity supervised or regulated by a State or other Federal regulatory agency.".
+"(iii) Limigo.—Clause (i) ne aplikiĝas al gardaj agadoj kun respekto al cifereca aktivaĵo de unuo kontrolita aŭ reguligita de Ŝtato aŭ alia Federacia reguliga agentejo.".
 
-(2) Conforming amendment.—Section 2(a)(1)(A) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)(A)) is amended, in the first sentence, by striking "section 19 of this Act" and inserting “subsection (c)(2)(F) or section 19”.
+(2) Konforma amendo.—Section 2(a)(1)(A) de la Varo-Interŝanĝa Leĝo (7 USC 2(a)(1)(A)) estas ŝanĝita, en la unua frazo, per frapado "sekcio 19 de ĉi tiu Ago" kaj enigante "subsekcion (c)(2)(F) aŭ sekcion 19".
 
-(b) Segregation of Digital Assets.—Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is amended by adding at the end the following:
+(b) Apartigo de Ciferecaj Aktivoj.—Section 4d de la Varo-Interŝanĝa Leĝo (7 USC 6d) estas ŝanĝita per aldonado ĉe la fino la sekvantan:
 
-"(i) Segregation of Digital Assets.—
+"(i) Apartigo de Ciferecaj Aktivoj.—
 
-"(1) Holding of customer assets.—
+"(1) Posedo de klientvaloraĵoj.—
 
-"(A) In general.—Each futures commission merchant shall hold customer money, assets, and property in a manner to minimize the customer’s risk of loss of, or unreasonable delay in the access to, the money, assets, and property.
+"(A) Ĝenerale.—Ĉiu estonta komisiona komercisto devas teni klientmonon, aktivaĵojn, kaj posedaĵon en maniero por minimumigi la riskon de la kliento je perdo de, aŭ neracia prokrasto en la aliro al la mono, aktivoj, kaj posedaĵo.
 
-"(B) Custodian.—A futures commission merchant shall hold the property of a customer of the futures commission merchant with a licensed, chartered, or registered entity subject to regulation by 1 of the following agencies:
+"(B) Gardisto.—Komercisto pri estontaj komisioj devas teni la posedaĵon de kliento de la komercisto de estontaj komisioj kun licencita, ĉartita aŭ registrita ento kondiĉigita de reguligo de 1 el la sekvaj agentejoj:
 
-"(i) The Commission.
+"(i) La Komisiono.
 
-"(ii) The Securities and Exchange Commission.
+"(ii) La Komisiono pri Valorpaperoj.
 
-"(iii) An appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)).
+"(iii) Taŭga Federacia banka agentejo (kiel difinite en sekcio 3 de la Federacia Deponaĵasekuro-Leĝo (12 USC 1813)).
 
-"(iv) A State bank supervisor (as defined in that section).
+"(iv) Ŝtata bankkontrolisto (kiel difinite en tiu sekcio).
 
-"(v) An appropriate foreign governmental authority in the home country of the custodian.
+"(v) Konvena eksterlanda registara aŭtoritato en la hejmlando de la gardanto.
 
-"(2) Segregation of funds.—
+"(2) Apartigo de financoj.—
 
-"(A) Definition of digital asset customer.—In this paragraph, the term ‘digital asset customer’ means a customer involved in a cash or spot, leveraged, margined, or financed digital asset transaction in which the futures commission merchant is acting as the counterparty.
+"(A) Difino de cifereca aktivo-kliento.—En ĉi tiu paragrafo, la esprimo "cifereca aktivo-kliento" signifas klienton implikita en kontantmono aŭ punkto, levilforta, marĝena, aŭ financita cifereca valoraĵo transakcio en kiu la futurkomisiona komercisto agas kiel la kontraŭpartio.
 
-"(B) Requirements.—
+"(B) Postuloj.—
 
-"(i) In general.—A futures commission merchant shall treat and deal with all money, assets, and property of any digital asset customer received as belonging to the customer.
+"(i) Ĝenerale.—Komercisto pri estontaj komisionoj traktos kaj traktos ĉiujn monojn, aktivaĵojn kaj posedaĵojn de iu ajn cifereca valoraĵo kliento ricevita kiel apartenante al la kliento.
 
-"(ii) Commingling prohibited.—Money, assets, and property of a digital asset customer described in clause (i)—
+"(ii) Intermiksiĝo malpermesita.—Mono, aktivoj, kaj posedaĵo de cifereca aktiva kliento priskribita en klaŭzo (i)—
 
-"(I) shall be separately accounted for; and
+"(mi) estu aparte kalkulita; kaj
 
-"(II) shall not be—
+"(II) ne estos—
 
-"(aa) commingled with the funds of the futures commission merchant; or
+"(aa) miksita kun la financo de la estonta komisiona komercisto; aŭ
 
-"(bb) used to margin, secure, or guarantee any trades or accounts of any customer or person other than the person for whom the money, assets, or property are held.
+"(bb) uzata por marĝeni, certigi aŭ garantii ajnajn komercojn aŭ kontojn de iu ajn kliento aŭ persono krom la persono por kiu la mono, valoraĵoj aŭ posedaĵoj estas tenitaj.
 
-"(C) Exceptions.—
+"(C) Esceptoj.—
 
-"(i) Use of funds.—
+"(i) Uzo de financo.—
 
-"(I) In general.—Notwithstanding subparagraph (B), money, assets, and property of a digital asset customer may, for convenience, be commingled and deposited in the same account or accounts with an entity described in paragraph (1)(B).
+"(I) Ĝenerale.—Malgraŭ subparagrafo (B), mono, aktivoj, kaj posedaĵo de cifereca aktiva kliento povas, por oportuno, esti miksitaj kaj deponitaj en la sama konto aŭ kontoj kun ento priskribita en paragrafo (1)( B).
 
-"(II) Withdrawal.—Notwithstanding subparagraph (B), the share of the money, assets, and property described in subclause (I) as in the normal course of business is necessary to margin, guarantee, secure, transfer, adjust, or settle a digital asset transaction with a registered entity may be withdrawn and applied to those purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with the digital asset transaction.
+"(II) Retiro.—Malgraŭ subparagrafo (B), la parto de la mono, aktivoj kaj posedaĵoj priskribitaj en subfrazo (I) kiel en la normala kurso de komerco estas necesa por marĝeni, garantii, certigi, translokigi, alĝustigi aŭ aranĝi ciferecan valoraĵon transakcion kun registrita ento povas esti retirita kaj aplikita al tiuj celoj, inkluzive de la pago de komisionoj, kurtaĝo, intereso, impostoj, stokado, kaj aliaj pagendaĵoj, laŭleĝe akumulanta lige kun la cifereca valoraĵo transakcio.
 
-"(ii) Commission action.—Notwithstanding subparagraph (B), in accordance with such terms and conditions as the Commission may prescribe by rule or order, any money, assets, or property of a digital asset customer may be commingled and deposited in customer accounts with any other money, assets, or property received by the futures commission merchant and required by the Commission to be separately accounted for and treated and dealt with as belonging to the digital asset customer.
+"(ii) Komisiona ago.—Malgraŭ subparagrafo (B), laŭ tiaj kondiĉoj kaj kondiĉoj kiujn la Komisiono povas preskribi per regulo aŭ ordo, ajna mono, aktivo aŭ posedaĵo de cifereca valoraĵo kliento povas esti miksita kaj deponita en kliento. kontoj kun iu ajn alia mono, valoraĵoj aŭ posedaĵoj ricevitaj de la estontaj komisionaj komercisto kaj postulataj de la Komisiono esti aparte kalkulitaj kaj traktitaj kaj traktitaj kiel apartenantaj al la kliento de ciferecaj valoraĵoj.
 
-"(D) Permitted investments.—Money of a digital asset customer may be invested—
+"(D) Permesitaj investoj.—Mono de cifereca aktiva kliento povas esti investita—
 
-"(i) in—
+"(i) en—
 
-"(I) obligations of the United States;
+"(I) obligacioj de Usono;
 
-"(II) general obligations of any State or of any political subdivision of a State;
+"(II) ĝeneralaj devoj de iu Ŝtato aŭ de iu politika subsekcio de Ŝtato;
 
-"(III) obligations fully guaranteed as to principal and interest by the United States; or
+"(III) devoj plene garantiitaj pri ĉefo kaj intereso fare de Usono; aŭ
 
-"(IV) any other investment that the Commission may by rule prescribe; and
+"(IV) ajna alia investo kiun la Komisiono povas per regulo preskribi; kaj
 
-"(ii) in accordance with such rules and subject to such conditions as the Commission may prescribe.
+"(ii) konforme al tiaj reguloj kaj kondiĉe de tiaj kondiĉoj kiujn la Komisiono povas preskribi.
 
-"(E) Prohibition.—It shall be unlawful for any person, including any derivatives clearing organization or depository institution, that has received any money, assets, or property for deposit in a separate account or accounts as required by subparagraph (B) to hold, dispose of, or use any of the money, assets, or property that belongs to the depositing futures commission merchant or any person other than the digital asset customer of the futures commission merchant.
+"(E) Malpermeso.—Estos kontraŭleĝe por iu ajn persono, inkluzive de iu ajn derivaĵa kompensa organizo aŭ deponeja institucio, kiu ricevis ajnan monon, aktivaĵon aŭ posedaĵon por deponado en aparta konto aŭ kontoj kiel postulas subparagrafo (B) al teni, disponi aŭ uzi iun ajn el la mono, valoraĵoj aŭ posedaĵoj, kiuj apartenas al la deponanta komisiona komercisto aŭ iu ajn alia ol la cifereca valoraĵo-kliento de la komercisto de estontaj komisionoj.
 
-"(3) Customer right to opt out.—
+"(3) Klienta rajto elekti for.—
 
-"(A) In general.—A customer shall have the right to waive any requirement under this subsection by affirmatively electing, in writing to the futures commission merchant, to waive the requirement.
+"(A) Ĝenerale.—Kliento rajtas rezigni pri ajna postulo sub ĉi tiu subsekcio jese elektante, skribe al la komercisto de la futuraj komisionoj, rezigni pri la postulo.
 
-"(B) Limitations.—The Commission may, by rule, establish notice and disclosure requirements, segregation requirements, investment limitations, and other rules relating to the waiving of any requirement under this subsection that are reasonably necessary to protect customers, including eligible contract participants, non-eligible contract participants, and any other class of customers.".
+"(B) Limigoj.—La Komisiono povas, laŭ regulo, establi postulojn pri avizo kaj malkaŝo, apartigpostuloj, investlimigoj kaj aliaj reguloj rilate al la rezigno de iu ajn postulo sub ĉi tiu subsekcio, kiuj estas racie necesaj por protekti klientojn, inkluzive de elektebla kontrakto. partoprenantoj, ne-elekteblaj kontraktpartoprenantoj, kaj ajna alia klaso de klientoj.".
 
-(c) Limitation on Futures Commission Merchants Acting as a Counterparty in Digital Asset Transactions.—Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) (as amended by subsection (b)) is amended by adding at the end the following:
+(c) Limigo al Komercistoj de Futures Commission Agantaj kiel Kontraŭpartio en Ciferecaj Aktivaj Transakcioj.—Section 4d de la Varo-Interŝanĝa Leĝo (7 USC 6d) (kiel ŝanĝite de subsekcio (b)) estas ŝanĝita aldonante ĉe la fino la jenon:
 
-"(j) Limitation on Futures Commission Merchants Acting as a Counterparty in Digital Asset Transactions.—A registered futures commission merchant shall not act as a counterparty in any agreement, contract, or transaction involving a digital asset that has not been listed for trading on a registered digital asset exchange.".
+"(j) Limigo de Futures Commission Merchants Agantaj kiel Kontraŭpartio en Ciferecaj Aktivaj Transakcioj.—Registrita futurkomisiona komercisto ne devas funkcii kiel kontraŭpartio en iu ajn interkonsento, kontrakto aŭ transakcio implikanta ciferecan valoraĵon kiu ne estis listigita por komerco sur registrita interŝanĝo de ciferecaj valoraĵoj.".
 
-(d) Common Provisions Applicable to Registered Entities.—Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–2) is amended—
+(d) Komunaj Dispozicioj Aplikeblaj al Registritaj Entoj.—Section 5c de la Varo-Interŝanĝa Leĝo (7 USC 7a–2) estas ŝanĝita—
 
-(1) in subsection (a)(1), by striking "5(d) and 5b(c)(2)" and inserting “5(d), 5b(c)(2), and 5i(c)”;
+(1) en subfako (a)(1), frapante "5(d) kaj 5b(c)(2)" kaj enmetante "5(d), 5b(c)(2) kaj 5i(c)" ;
 
-(2) in subsection (b), by inserting "registered digital asset exchange," before “derivatives” each place it appears; and
+(2) en subsekcio (b), enmetante "registrita cifereca valoraĵo interŝanĝo", antaŭ "derivaĵoj" ĉiu loko ĝi aperas; kaj
 
-(3) in subsection (c)—
+(3) en subsekcio (c)—
 
-(A) in paragraph (2), by inserting "or participants" before “(in a”;
+(A) en paragrafo (2), enmetante "aŭ partoprenantojn" antaŭ "(en a";
 
-(B) in paragraph (4)(B), by striking "1a(10)" and inserting “1a(9)”; and
+(B) en paragrafo (4)(B), per frapado "1a(10)" kaj enmetado "1a(9)"; kaj
 
-(C) in paragraph (5), by adding at the end the following:
+(C) en paragrafo (5), aldonante ĉe la fino la jenon:
 
-"(D) Special rules for the listing of certain digital assets.—
+"(D) Specialaj reguloj por la listo de certaj ciferecaj aktivoj.—
 
-"(i) In general.—In the case of listing for trading a digital asset that has not previously been listed for trading on another registered entity—
+"(i) Ĝenerale.—En la kazo de listigo por komercado de cifereca valoraĵo, kiu antaŭe ne estis listigita por komerco ĉe alia registrita ento—
 
-"(I) paragraphs (2) and (3) shall apply as if the listing were a rule; and
+"(I) alineoj (2) kaj (3) aplikiĝas kvazaŭ la listo estus regulo; kaj
 
-"(II) paragraph (2) shall be applied by substituting ‘20 business days’ for ‘10 business days’.
+"(II) paragrafo (2) estas aplikata anstataŭigante "20 labortagojn" por "10 labortagoj".
 
-"(ii) Transitional extension.—During the 1-year period beginning on the date of the registration of the first digital asset exchange, the Commission shall have an additional 20 business days to review any certification under clause (i).
+"(ii) Transira etendo.—Dum la 1-jara periodo komenciĝanta en la dato de la registrado de la unua cifereca interŝanĝo, la Komisiono havos pliajn 20 labortagojn por revizii ajnan ateston sub klaŭzo (i).
 
-"(iii) Consideration of comments.—In conducting a review under clause (i), the Commission shall consider any comments provided by the Securities and Exchange Commission with respect to the legal classification of a digital asset.".
+"(iii) Konsiderado de komentoj.—En farado de revizio sub klaŭzo (i), la Komisiono konsideros iujn ajn komentojn provizitajn de la Komisiono pri Valorpaperoj kaj Interŝanĝoj rilate la laŭleĝan klasifikon de cifereca valoraĵo.".
 
-&nbsp;
+ 
 
-SEC. 404. REGISTRATION OF DIGITAL ASSET EXCHANGES.
+SEC. 404. REGISTRO DE CIGITAJ VALVOJ HANDISKOJ.
 
-(a) In General.—The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 5h the following:
+(a) Ĝenerale.—La Leĝo pri Varo-Interŝanĝo (7 USC 1 kaj sekvaj) estas ŝanĝita per enigo post la sekcio 5h la jenon:
 
-"SEC. 5i. REGISTRATION OF DIGITAL ASSET EXCHANGES.
+"SEK. 5i. REGISTRO DE DIGITAJ VALVOJ-Interŝanĝoj.
 
-"(a) Definition of Customer.—In this section, the term ‘customer’ means any person that maintains an account for the trading of digital assets directly with a registered digital asset exchange (other than a person that is owned or controlled, directly or indirectly, by the registered digital asset exchange) on behalf of the person or any other person.
+"(a) Difino de Kliento.—En ĉi tiu sekcio, la esprimo "kliento" signifas ajnan personon kiu tenas konton por la komerco de ciferecaj aktivoj rekte kun registrita cifereca valoraĵo interŝanĝo (krom persono kiu estas posedata aŭ kontrolita, rekte). aŭ nerekte, per la registrita interŝanĝo de ciferecaj valoraĵoj) nome de la persono aŭ iu ajn alia persono.
 
-"(b) Registration.—
+"(b) Registrado.—
 
-"(1) In general.—Any trading facility that offers or seeks to offer a market in digital assets may register with the Commission as a digital asset exchange by submitting to the Commission an application in such form and containing such information as the Commission may require for the purpose of making the determinations required for approval under subsections (d) and (f).
+"(1) Ĝenerale.—Ĉiu komerca instalaĵo, kiu proponas aŭ serĉas oferti merkaton en ciferecaj aktivoj, povas registriĝi ĉe la Komisiono kiel cifereca interŝanĝo de ciferecaj aktivoj, prezentante al la Komisiono peton en tia formo kaj enhavante tiajn informojn, kiujn la Komisiono povas. postuli por fari la determinojn necesajn por aprobo sub subsekcioj (d) kaj (f).
 
-"(2) Deemed registration.—A registered designated contract market or registered swap execution facility that fulfills the requirements of this section may elect to be considered a registered digital asset exchange, in such form and manner as the Commission shall prescribe.
+"(2) Konsiderata registrado.—Registrita indikita kontraktomerkato aŭ registrita interŝanĝa ekzekutinstalaĵo, kiu plenumas la postulojn de ĉi tiu sekcio, povas elekti esti konsiderata kiel registrita cifereca interŝanĝo de valoraĵoj, en tia formo kaj maniero kiel la Komisiono preskribos.
 
-"(3) Additional registration.—A registered digital asset exchange shall be registered with the Secretary of the Treasury as a money services business.
+"(3) Kroma registrado.—Registrita interŝanĝo de ciferecaj valoraĵoj devas esti registrita ĉe la Sekretario de la Fisko kiel monservo-komerco.
 
-"(c) Trading.—
+"(c) Komerco.—
 
-"(1) In general.—A registered digital asset exchange may make available for trading any digital asset that is not readily susceptible to manipulation, subject to this subsection.
+"(1) Ĝenerale.—Registrita interŝanĝo de ciferecaj valoraĵoj povas disponigi por komercado ajnan ciferecan valoraĵon kiu ne estas facile susceptible al manipulado, kondiĉe de ĉi tiu subsekcio.
 
-"(2) Rules governing margined or leveraged trading.—The Commission may make, promulgate, and enforce such additional rules governing margined, leveraged, or financed transactions as are reasonably necessary to protect market participants and promote the orderly settlement of transactions with respect to—
+"(2) Reguloj regantaj marĝen aŭ leveligitan komercon.—La Komisiono povas fari, promulgi, kaj plenumi tiajn kromajn regulojn regante marĝenajn, levilfortajn, aŭ financitajn transakciojn, kiuj estas racie necesaj por protekti merkatpartoprenantojn kaj antaŭenigi la bonordan aranĝon de transakcioj rilate al. —
 
-"(A) disclosure;
+"(A) malkaŝo;
 
-"(B) recordkeeping;
+"(B) registrotenado;
 
-"(C) capital, margin, and other financial resources;
+"(C) kapitalo, marĝeno, kaj aliaj financaj rimedoj;
 
-"(D) reporting;
+"(D) raportado;
 
-"(E) business conduct;
+"(E) komerca konduto;
 
-"(F) documentation; and
+"(F) dokumentaro; kaj
 
-"(G) such other matters as the Commission determines to be necessary.
+"(G) tiaj aliaj aferoj kiujn la Komisiono determinas esti necesaj.
 
-"(3) Prohibition on trading derivatives products.—Registration as a digital asset exchange shall not permit a trading facility to offer any contract of sale of a commodity for future delivery, option, or swap for trading without also being registered as a designated contract market or swap execution facility.
+"(3) Malpermeso pri komercado de derivaĵoj.—Registrado kiel interŝanĝo de ciferecaj valoraĵoj ne permesos al komercinstalaĵo oferti ajnan kontrakton de vendo de varo por estonta liveraĵo, opcio aŭ interŝanĝo por komerco sen ankaŭ esti registrita kiel elektita kontrakto. merkato aŭ interŝanĝa ekzekutinstalaĵo.
 
-"(d) Core Principles for Digital Asset Exchanges.—
+"(d) Kernaj Principoj por Ciferecaj Aktivaj Interŝanĝoj.—
 
-"(1) Compliance with core principles.—
+"(1) Konformeco al kernaj principoj.—
 
-"(A) In general.—To be registered, and maintain registration, as a digital asset exchange, the registered digital asset exchange shall comply with—
+"(A) Ĝenerale.—Por esti registrita, kaj konservi registradon, kiel interŝanĝo de ciferecaj valoraĵoj, la interŝanĝo de ciferecaj aktivoj devas konformiĝi al—
 
-"(i) the core principles described in this subsection; and
+"(i) la kernaj principoj priskribitaj en ĉi tiu subsekcio; kaj
 
-"(ii) any requirement that the Commission may impose by rule pursuant to section 8a(5).
+"(ii) ajna postulo kiun la Komisiono povas trudi per regulo laŭ sekcio 8a(5).
 
-"(B) Reasonable discretion of digital asset exchange.—Unless otherwise determined by the Commission by rule, a registered digital asset exchange described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the registered digital asset exchange complies with the core principles described in this subsection.
+"(B) Akceptebla diskreteco de cifereca valoraĵo interŝanĝo.—Krom se alie determinita de la Komisiono per regulo, registrita cifereca valoraĵo interŝanĝo priskribita en subalineo (A) devas havi akcepteblan diskretecon establi la manieron en kiu la registrita cifereca valoraĵo interŝanĝo konformas kun la kernaj principoj priskribitaj en ĉi tiu subfako.
 
-"(2) Compliance with rules.—A registered digital asset exchange shall—
+"(2) Konformeco al reguloj.—Registrita interŝanĝo de ciferecaj valoraĵoj devas—
 
-"(A) establish and enforce compliance with 1 or more rules of the registered digital asset exchange, including—
+"(A) establi kaj devigi konformecon al unu aŭ pli da reguloj de la registrita interŝanĝo de ciferecaj valoraĵoj, inkluzive de—
 
-"(i) the terms and conditions of the trades traded or processed on or through the registered digital asset exchange; and
+"(i) la kondiĉoj kaj kondiĉoj de la komercoj komercitaj aŭ prilaboritaj sur aŭ per la registrita interŝanĝo de ciferecaj valoraĵoj; kaj
 
-"(ii) any limitation on access to the registered digital asset exchange;
+"(ii) ajna limigo pri aliro al la registrita interŝanĝo de ciferecaj valoraĵoj;
 
-"(B) establish and enforce compliance with trading, trade processing, and participation rules that will deter abuses and have the capacity to detect, investigate, and enforce violations of those rules, including means—
+"(B) establi kaj devigi observon kun komercado, komerca prilaborado, kaj partoprenreguloj kiuj malhelpas fitraktadojn kaj havos la kapablon detekti, esplori kaj devigi malobservojn de tiuj reguloj, inkluzive de rimedoj—
 
-"(i) to provide market participants with impartial access to the market; and
+"(i) provizi merkatpartoprenantojn per senpartia aliro al la merkato; kaj
 
-"(ii) to capture information that may be used in establishing whether rule violations have occurred; and
+"(ii) kapti informojn kiuj povas esti uzitaj por establi ĉu regulmalobservoj okazis; kaj
 
-"(C) establish rules governing the operation of the registered digital asset exchange, including rules specifying trading procedures to be used in entering and executing orders traded or posted on the registered digital asset exchange.
+"(C) starigu regulojn regantajn la funkciadon de la registrita interŝanĝo de ciferecaj valoraĵoj, inkluzive de reguloj specifantaj komercajn procedurojn por esti uzataj por enmeti kaj plenumi ordojn komercitaj aŭ afiŝitaj sur la registrita interŝanĝo de ciferecaj valoraĵoj.
 
-"(3) Digital assets not readily susceptible to manipulation.—
+"(3) Ciferecaj aktivoj ne facile susceptibles al manipulado.—
 
-"(A) In general.—A registered digital asset exchange shall permit trading only in assets that are not readily susceptible to manipulation.
+"(A) Ĝenerale.—Registrita interŝanĝo de ciferecaj valoraĵoj permesos komerci nur en aktivoj kiuj ne estas facile susceptibles al manipulado.
 
-"(B) Listing restrictions.—A registered digital asset exchange shall not permit trading in a digital asset if it is reasonably likely that—
+"(B) Listigo-limigoj.—Registrita interŝanĝo de ciferecaj valoraĵoj ne permesos komercon de cifereca valoraĵo se estas sufiĉe verŝajne ke—
 
-"(i) the transaction history of the digital asset can be fraudulently altered by any person or group of persons acting collectively; or
+"(i) la transakcia historio de la cifereca valoraĵo povas esti fraŭde ŝanĝita de iu ajn persono aŭ grupo de personoj agantaj kolektive; aŭ
 
-"(ii) the functionality or operation of the digital asset can be materially altered by any person or group of persons under common control.
+"(ii) la funkcieco aŭ operacio de la cifereca aktivaĵo povas esti materie ŝanĝita de iu ajn persono aŭ grupo de personoj sub komuna kontrolo.
 
-"(C) Considerations.—In assessing a digital asset under this paragraph, a registered digital asset exchange shall consider—
+"(C) Konsideroj.—En taksado de cifereca valoraĵo laŭ ĉi tiu paragrafo, registrita interŝanĝo de cifereca valoraĵo konsideros—
 
-"(i) the purpose and use of the digital asset;
+"(i) la celo kaj uzo de la cifereca valoraĵo;
 
-"(ii) the creation or release process of the digital asset;
+"(ii) la kreado aŭ liberigo de la cifereca valoraĵo;
 
-"(iii) the consensus mechanism of the digital asset;
+"(iii) la konsenta mekanismo de la cifereca valoraĵo;
 
-"(iv) the governance structure of the digital asset;
+"(iv) la regada strukturo de la cifereca valoraĵo;
 
-"(v) the participation and distribution of the digital asset;
+"(v) la partopreno kaj distribuado de la cifereca valoraĵo;
 
-"(vi) the current and proposed functionality of the digital asset;
+"(vi) la aktuala kaj proponita funkcieco de la cifereca aktivaĵo;
 
-"(vii) the legal classification of the digital asset; and
+"(vii) la laŭleĝa klasifiko de la cifereca aktivaĵo; kaj
 
-"(viii) any other factor required by the Commission.
+"(viii) ajna alia faktoro postulita de la Komisiono.
 
-"(4) Treatment of customer assets.—
+"(4) Traktado de klientvaloraĵoj.—
 
-"(A) Required standards and procedures.—A registered digital asset exchange shall establish standards and procedures that are designed to protect and ensure the safety of customer money, assets, and property.
+"(A) Bezonataj normoj kaj proceduroj.—Registrita interŝanĝo de ciferecaj aktivoj devas starigi normojn kaj procedurojn, kiuj estas dezajnitaj por protekti kaj certigi la sekurecon de klientmono, valoraĵoj kaj posedaĵoj.
 
-"(B) Holding of customer assets.—
+"(B) Posedo de klientvaloraĵoj.—
 
-"(i) In general.—A registered digital asset exchange shall hold customer money, assets, and property in a manner to minimize the customer’s risk of loss of, or unreasonable delay in the access to, the money, assets, and property.
+"(i) Ĝenerale.—Registrita interŝanĝo de ciferecaj aktivoj devas teni klientajn monon, aktivaĵojn kaj posedaĵojn en maniero por minimumigi la riskon de la kliento je perdo de, aŭ neracia prokrasto en la aliro al la mono, valoraĵoj kaj posedaĵo.
 
-"(ii) Segregation of funds.—
+"(ii) Apartigo de financo.—
 
-"(I) In general.—A registered digital asset exchange shall treat and deal with all money, assets, and property of any customer received as belonging to the customer.
+"(I) Ĝenerale.—Registrita interŝanĝo de ciferecaj valoraĵoj traktos kaj traktos ĉiun monon, aktivojn kaj posedaĵojn de iu ajn kliento ricevita kiel apartenante al la kliento.
 
-"(II) Commingling prohibited.—Money, assets, and property of a customer described in subclause (I)—
+"(II) Intermiksiĝo malpermesita.—Mono, valoraĵoj kaj posedaĵoj de kliento priskribitaj en subfrazo (I)—
 
-"(aa) shall be separately accounted for; and
+"(aa) devas esti aparte kalkulita; kaj
 
-"(bb) shall not be—
+"(bb) ne estos—
 
-"(AA) commingled with the funds of the registered digital asset exchange; or
+"(AA) miksita kun la fundoj de la registrita interŝanĝo de ciferecaj valoraĵoj; aŭ
 
-"(BB) used to margin, secure, or guarantee any trades or accounts of any customer or person other than the person for whom the money, assets, or property are held.
+"(BB) kutimis marĝeni, certigi aŭ garantii ajnajn komercojn aŭ kontojn de iu kliento aŭ persono krom la persono por kiu la mono, valoraĵoj aŭ posedaĵoj estas tenitaj.
 
-"(iii) Exceptions.—
+"(iii) Esceptoj.—
 
-"(I) Use of funds.—
+"(I) Uzo de financo.—
 
-"(aa) In general.—Notwithstanding clause (ii), money, assets, and property of customers of a registered digital asset exchange may, for convenience, be commingled and deposited with an entity described in section 4d(i)(1)(B).
+"(aa) Ĝenerale.—Malgraŭ klaŭzo (ii), mono, aktivoj, kaj posedaĵo de klientoj de registrita cifereca valoraĵo interŝanĝo povas, por oportuno, esti miksitaj kaj deponitaj kun unuo priskribita en sekcio 4d (i) (1) (B).
 
-"(bb) Withdrawal.—Notwithstanding clause (ii), the share of the money, assets, and property described in item (aa) as in the normal course of business is necessary to margin, guarantee, secure, transfer, adjust, or settle a digital asset transaction with a registered entity may be withdrawn and applied to those purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with the digital asset transaction.
+"(bb) Retiro.—Malgraŭ klaŭzo (ii), la parto de la mono, aktivaĵoj kaj posedaĵoj priskribitaj en ero (aa) kiel en la normala kurso de komerco estas necesa por marĝeni, garantii, certigi, translokigi, alĝustigi aŭ. aranĝi ciferecan valoraĵon transakcion kun registrita ento povas esti retirita kaj aplikita al tiuj celoj, inkluzive de la pago de komisionoj, kurtaĝo, intereso, impostoj, stokado, kaj aliaj pagendaĵoj, laŭleĝe akumulanta lige kun la cifereca valoraĵo transakcio.
 
-"(II) Commission action.—Notwithstanding clause (ii), in accordance with such terms and conditions as the Commission may prescribe by rule or order, any money, assets, or property of the customers of a registered digital asset exchange may be commingled and deposited in customer accounts with any other money, assets, or property received by the registered digital asset exchange and required by the Commission to be separately accounted for and treated and dealt with as belonging to the customer of the registered digital asset exchange.
+"(II) Agado de la Komisiono.—Malgraŭ klaŭzo (ii), laŭ tiaj kondiĉoj kaj kondiĉoj kiujn la Komisiono povas preskribi per regulo aŭ ordo, ajna mono, valoraĵo aŭ posedaĵo de la klientoj de registrita interŝanĝo de ciferecaj valoraĵoj povas esti miksitaj. kaj deponita en klientkontoj kun iu ajn alia mono, valoraĵo aŭ posedaĵo ricevita de la registrita cifereca valoraĵo interŝanĝo kaj postulita de la Komisiono esti aparte enkalkulita kaj traktita kaj traktita kiel apartenanta al la kliento de la registrita cifereca valoraĵo interŝanĝo.
 
-"(C) Permitted investments.—Money described in subparagraph (B)(ii)(I) may be invested—
+"(C) Permesitaj investoj.—Mono priskribita en subparagrafo (B)(ii)(I) povas esti investita—
 
-"(i) in—
+"(i) en—
 
-"(I) obligations of the United States;
+"(I) obligacioj de Usono;
 
-"(II) general obligations of any State or of any political subdivision of a State;
+"(II) ĝeneralaj devoj de iu Ŝtato aŭ de iu politika subsekcio de Ŝtato;
 
-"(III) obligations fully guaranteed as to principal and interest by the United States; or
+"(III) devoj plene garantiitaj pri ĉefo kaj intereso fare de Usono; aŭ
 
-"(IV) any other investment that the Commission may by rule prescribe; and
+"(IV) ajna alia investo kiun la Komisiono povas per regulo preskribi; kaj
 
-"(ii) in accordance with such rules and subject to such conditions as the Commission may prescribe.
+"(ii) konforme al tiaj reguloj kaj kondiĉe de tiaj kondiĉoj kiujn la Komisiono povas preskribi.
 
-"(D) Misuse of customer property.—It shall be unlawful—
+"(D) Misuzo de klienta posedaĵo.—Ĝi estos kontraŭleĝe—
 
-"(i) for any registered digital asset exchange that has received any customer money, assets, or property for custody to dispose of, or use any of the money, assets, or property as belonging to the registered digital asset exchange; or
+"(i) por iu registrita interŝanĝo de ciferecaj valoraĵoj, kiu ricevis ajnan klientan monon, aktivaĵojn aŭ posedaĵojn por gardado por forigi, aŭ uzi iun ajn el la mono, valoraĵoj aŭ posedaĵoj kiel apartenantaj al la registrita interŝanĝo de ciferecaj valoraĵoj; aŭ
 
-"(ii) for any other person, including any other registered digital asset exchange or custodian that has received any customer money, assets, or property for deposit, to hold, dispose of, or use any of the money, assets, or property as belonging to—
+"(ii) por iu ajn alia persono, inkluzive de iu ajn alia registrita interŝanĝo de ciferecaj aktivoj aŭ gardanto, kiu ricevis ajnan klientmonon, aktivaĵojn aŭ posedaĵojn por deponejo, por teni, disponi aŭ uzi iun ajn el la mono, valoraĵoj aŭ posedaĵoj kiel apartenanta al—
 
-"(I) the registered digital asset exchange that deposited the money, assets, or property; or
+"(I) la registrita interŝanĝo de ciferecaj valoraĵoj, kiu deponis la monon, aktivaĵojn aŭ posedaĵojn; aŭ
 
-"(II) any person other than the customers of the registered digital asset exchange.
+"(II) iu ajn krom la klientoj de la registrita interŝanĝo de ciferecaj valoraĵoj.
 
-"(E) Customer right to opt out.—
+"(E) Klienta rajto forigi.—
 
-"(i) In general.—A customer shall have the right to waive any requirement under subparagraph (B) by affirmatively electing, in writing to the registered digital asset exchange, to waive the requirement.
+"(i) Ĝenerale.—Kliento rajtas rezigni pri iu ajn postulo laŭ subalineo (B) jese elektante, skribe al la registrita interŝanĝo de ciferecaj valoraĵoj, rezigni pri la postulo.
 
-"(ii) Limitations.—The Commission may, by rule, establish notice and disclosure requirements, segregation requirements, investment limitations, and other rules relating to the waiving of any requirement under this paragraph that is reasonably necessary to protect customers, including eligible contract participants, non-eligible contract participants, or any other class of customers.
+"(ii) Limigoj.—La Komisiono povas, laŭ regulo, establi postulojn pri avizo kaj malkaŝo, apartigpostuloj, investlimigoj kaj aliaj reguloj rilate al la rezigno de iu ajn postulo laŭ ĉi tiu alineo kiu estas racie necesa por protekti klientojn, inkluzive de elektebla kontrakto. partoprenantoj, ne-elekteblaj kontraktpartoprenantoj, aŭ ajna alia klaso de klientoj.
 
-"(5) Monitoring of trading and trade processing.—
+"(5) Monitorado de komerco kaj komerca pretigo.—
 
-"(A) In general.—A registered digital asset exchange shall provide a competitive, open, and efficient market and mechanism for executing transactions that protects the price discovery process of trading on the registered digital asset exchange.
+"(A) Ĝenerale.—Registrita interŝanĝo de ciferecaj valoraĵoj disponigos konkurencivan, malferman kaj efikan merkaton kaj mekanismon por efektivigi transakciojn, kiuj protektas la prezon-malkovroprocezon de komerco sur la registrita cifereca interŝanĝo.
 
-"(B) Protection of markets and market participants.—A registered digital asset exchange shall establish and enforce compliance with rules—
+"(B) Protekto de merkatoj kaj merkatpartoprenantoj.—Registrita interŝanĝo de ciferecaj valoraĵoj devas establi kaj devigi konformecon al reguloj—
 
-"(i) to protect markets and market participants from abusive practices committed by any party, including abusive practices committed by a party acting as an agent for a participant; and
+"(i) protekti merkatojn kaj merkatpartoprenantojn de misuzaj praktikoj faritaj de iu ajn partio, inkluzive de misuzaj praktikoj faritaj de partio aganta kiel agento por partoprenanto; kaj
 
-"(ii) to promote fair and equitable trading on the registered digital asset exchange.
+"(ii) antaŭenigi justan kaj justan komercon sur la registrita interŝanĝo de ciferecaj valoraĵoj.
 
-"(C) Procedures and monitoring.—A registered digital asset exchange shall—
+"(C) Proceduroj kaj monitorado.—Registrita interŝanĝo de ciferecaj valoraĵoj devas—
 
-"(i) establish and enforce compliance with rules or terms and conditions defining, or specifications detailing—
+"(i) establi kaj devigi observon kun reguloj aŭ terminoj kaj kondiĉoj difinantaj, aŭ specifoj detaligantaj—
 
-"(I) trading procedures to be used in entering and executing orders traded on or through the facilities of the registered digital asset exchange; and
+"(I) komercaj proceduroj por esti uzataj por enmeti kaj plenumi ordojn komercitajn sur aŭ tra la instalaĵoj de la registrita interŝanĝo de ciferecaj valoraĵoj; kaj
 
-"(II) procedures for trade processing of digital assets on or through the facilities of the registered digital asset exchange; and
+"(II) proceduroj por komerca prilaborado de ciferecaj aktivoj sur aŭ tra la instalaĵoj de la registrita cifereca valoraĵo interŝanĝo; kaj
 
-"(ii) monitor trading in digital assets to prevent manipulation, price distortion, and disruptions of the delivery or cash settlement process through surveillance, and compliance, including methods for conducting real-time monitoring of trading and comprehensive and accurate trade reconstructions.
+"(ii) monitoru komercon de ciferecaj aktivoj por malhelpi manipuladon, prezmisprezenton kaj interrompojn de la liveraĵo aŭ kontantsolva procezo per gvatado kaj plenumado, inkluzive de metodoj por fari realtempan monitoradon de komerco kaj ampleksajn kaj precizajn komercajn rekonstruojn.
 
-"(6) Ability to obtain information.—A registered digital asset exchange shall—
+"(6) Kapablo akiri informojn.—Registrita interŝanĝo de ciferecaj valoraĵoj devas—
 
-"(A) establish and enforce rules that will allow the registered digital asset exchange to obtain any necessary information to perform any of the functions described in this section;
+"(A) establi kaj plenumi regulojn, kiuj permesos al la registrita cifereca interŝanĝo akiri ajnajn necesajn informojn por plenumi iujn ajn el la funkcioj priskribitaj en ĉi tiu sekcio;
 
-"(B) provide the information to the Commission on request; and
+"(B) provizi la informojn al la Komisiono laŭpeto; kaj
 
-"(C) have the capacity to carry out such international information-sharing agreements as the Commission may require.
+"(C) havas la kapablon plenumi tiajn internaciajn interkonsentojn pri interŝanĝo de informoj kiujn la Komisiono povas postuli.
 
-"(7) Emergency authority.—A registered digital asset exchange shall adopt rules to provide for the exercise of emergency authority, in consultation or cooperation with the Commission or a registered entity, as is necessary and appropriate, including the authority to facilitate the liquidation or transfer of open positions in any digital asset or to suspend or curtail trading in a digital asset.
+"(7) Krizaŭtoritato.—Registrita cifereca interŝanĝo alprenos regulojn por zorgi pri ekzercado de krizaŭtoritato, en konsulto aŭ kunlaboro kun la Komisiono aŭ registrita ento, kiel estas necese kaj konvene, inkluzive de la aŭtoritato por faciligi la likvidadon. aŭ translokigo de malfermaj pozicioj en iu ajn cifereca valoraĵo aŭ por suspendi aŭ limigi komercon en cifereca valoraĵo.
 
-"(8) Reporting requirements.—
+"(8) Raportaj postuloj.—
 
-"(A) In general.—A registered digital asset exchange shall provide to the Commission information that is determined by the Commission to be necessary to perform any responsibility of the Commission under this Act.
+"(A) Ĝenerale.—Registrita interŝanĝo de ciferecaj valoraĵoj liveras al la Komisiono informojn, kiujn la Komisiono determinis kiel necesaj por plenumi ajnan respondecon de la Komisiono laŭ ĉi tiu Ago.
 
-"(B) Timely publication of trading information.—
+"(B) Ĝustatempa publikigo de komercaj informoj.—
 
-"(i) In general.—
+"(i) Ĝenerale.—
 
-"(I) Publication.—A registered digital asset exchange shall make public timely information on price, trading volume, and other trading data on digital assets to the extent prescribed by the Commission.
+"(I) Publikigo.—Registrita interŝanĝo de ciferecaj aktivoj publikigos ĝustatempajn informojn pri prezo, komerca volumo kaj aliaj komercaj datumoj pri ciferecaj aktivoj laŭ la mezuro preskribita de la Komisiono.
 
-"(II) Accessibility.—A registered digital asset exchange may make trading data freely accessible to the public under rules established by the Commission.
+"(II) Alirebleco.—Registrita interŝanĝo de ciferecaj valoraĵoj povas fari komercajn datumojn libere alireblaj por la publiko laŭ reguloj establitaj de la Komisiono.
 
-"(ii) Capacity of digital asset exchange.—A registered digital asset exchange shall be required to have the capacity to electronically capture and transmit trade information with respect to transactions executed on the registered digital asset exchange.
+"(ii) Kapacito de interŝanĝo de ciferecaj valoraĵoj.—Registrita interŝanĝo de ciferecaj valoraĵoj devas havi la kapablon por elektronike kapti kaj transdoni komercajn informojn kun respekto al transakcioj efektivigitaj sur la registrita interŝanĝo de ciferecaj valoraĵoj.
 
-"(9) Recordkeeping and reporting.—
+"(9) Registrado kaj raportado.—
 
-"(A) In general.—A registered digital asset exchange shall—
+"(A) Ĝenerale.—Registrita interŝanĝo de ciferecaj valoraĵoj devas—
 
-"(i) maintain records of all activities relating to the business of the registered digital asset exchange, including a complete audit trail, in a form and manner acceptable to the Commission for a period of 5 years;
+"(i) konservi rekordojn pri ĉiuj agadoj rilataj al la komerco de la registrita interŝanĝo de ciferecaj aktivoj, inkluzive de kompleta revizia spuro, en formo kaj maniero akcepteblaj por la Komisiono dum periodo de 5 jaroj;
 
-"(ii) report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this Act; and
+"(ii) raportu al la Komisiono, en formo kaj maniero akceptebla por la Komisiono, tiajn informojn kiujn la Komisiono determinas esti necesaj aŭ taŭgaj por ke la Komisiono plenumu la devojn de la Komisiono laŭ ĉi tiu Ago; kaj
 
-"(iii) keep any records relating to ancillary assets open to inspection and examination by the Securities and Exchange Commission.
+"(iii) konservu iujn ajn rekordojn rilate al helpaj aktivoj malfermitaj al inspektado kaj ekzamenado de la Komisiono pri Valorpaperoj.
 
-"(B) Information-sharing.—Subject to section 8, and on request, the Commission shall share information collected under subparagraph (A) with—
+"(B) Kundivido de informoj.—Konjekte al sekcio 8, kaj laŭ peto, la Komisiono kundividas informojn kolektitajn laŭ subparagrafo (A) kun—
 
-"(i) a self-regulatory organization;
+"(i) memreguliga organizo;
 
-"(ii) the Securities and Exchange Commission;
+"(ii) la Komisiono pri Valorpaperoj;
 
-"(iii) an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813));
+"(iii) konvena Federacia banka agentejo (kiel difinite en sekcio 3 el la Federacia Deponejo-Asekuro-Leĝo (12 USC 1813));
 
-"(iv) a State bank supervisor (as defined in that section);
+"(iv) Ŝtata bankkontrolisto (kiel difinite en tiu sekcio);
 
-"(v) a State securities or commodities regulator;
+"(v) Ŝtata reguligisto pri valorpaperoj aŭ varoj;
 
-"(vi) the Financial Stability Oversight Council;
+"(vi) la Financial Stability Oversight Council;
 
-"(vii) the Department of Justice; and
+"(vii) la Justicministerio; kaj
 
-"(viii) any other person that the Commission determines to be appropriate, including—
+"(viii) ajna alia persono kiun la Komisiono determinas esti taŭga, inkluzive de—
 
-"(I) foreign financial supervisors (including foreign futures authorities);
+"(mi) eksterlandaj financaj kontrolistoj (inkluzive de eksterlandaj estontecaj aŭtoritatoj);
 
-"(II) foreign central banks; and
+"(II) eksterlandaj centraj bankoj; kaj
 
-"(III) foreign ministries.
+"(III) Eksterlandaj Ministerioj.
 
-"(C) Confidentiality agreement.—Before the Commission may share information with any entity described in subparagraph (B), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 8 relating to the information on digital asset transactions that is provided.
+"(C) Konfidenca interkonsento.—Antaŭ ol la Komisiono povas kunhavigi informojn kun iu unuo priskribita en subparagrafo (B), la Komisiono ricevos skriban interkonsenton de ĉiu unuo deklarante ke la unuo devas observi la konfidencajn postulojn priskribitajn en sekcio 8 rilate al. la informoj pri ciferecaj aktivoj transakcioj, kiuj estas provizitaj.
 
-"(D) Providing information.—Each registered digital asset exchange shall provide to the Commission (including any designee of the Commission) information under subparagraph (A) in such form and at such frequency as is required by the Commission.
+"(D) Disponigi informojn.—Ĉiu registrita interŝanĝo de ciferecaj aktivoj devas havigi al la Komisiono (inkluzive de ajna reprezentanto de la Komisiono) informojn sub subalineo (A) en tia formo kaj laŭ tia ofteco kiel estas postulita de la Komisiono.
 
-"(10) Antitrust considerations.—Unless necessary or appropriate to achieve the purposes of this Act, a registered digital asset exchange shall not—
+"(10) Antitrustaj konsideroj.—Krom se necese aŭ taŭga por atingi la celojn de ĉi tiu Ago, registrita interŝanĝo de ciferecaj valoraĵoj ne devas—
 
-"(A) adopt any rules or take any actions that result in any unreasonable restraint of trade; or
+"(A) adopti iujn ajn regulojn aŭ fari iujn ajn agojn, kiuj rezultigas iun senracia moderegado de komerco; aŭ
 
-"(B) impose any material anticompetitive burden on trading.
+"(B) trudu ajnan materialan kontraŭkonkuran ŝarĝon pri komerco.
 
-"(11) Conflicts of interest.—A registered digital asset exchange shall—
+"(11) Konfliktoj de intereso.—Registrita interŝanĝo de ciferecaj valoraĵoj devas—
 
-"(A) establish and enforce rules to minimize conflicts of interest in the decisionmaking process of the registered digital asset exchange; and
+"(A) establi kaj plenumi regulojn por minimumigi konfliktojn de intereso en la decida procezo de la registrita interŝanĝo de ciferecaj valoraĵoj; kaj
 
-"(B) establish a process for resolving conflicts of interest described in subparagraph (A).
+"(B) starigu procezon por solvi konfliktojn de intereso priskribitaj en subparagrafo (A).
 
-"(12) Financial resources.—
+"(12) Financaj rimedoj.—
 
-"(A) In general.—A registered digital asset exchange shall have adequate financial, operational, and managerial resources, as determined by the Commission, to discharge each responsibility of the registered digital asset exchange.
+"(A) Ĝenerale.—Registrita interŝanĝo de ciferecaj valoraĵoj havos taŭgajn financajn, operaciajn kaj administrajn rimedojn, kiel determinite de la Komisiono, por plenumi ĉiun respondecon de la registrita interŝanĝo de ciferecaj aktivoj.
 
-"(B) Minimum amount of financial resources.—A registered digital asset exchange shall possess financial resources that, at a minimum, exceed the total amount that would enable the registered digital asset exchange to conduct an orderly wind-down of the activities of the registered digital asset exchange.
+"(B) Minimuma kvanto de financaj rimedoj.—Registrita interŝanĝo de ciferecaj aktivoj devas posedi financajn rimedojn kiuj, minimume, superas la totalan kvanton, kiu ebligus al la registrita interŝanĝo de ciferecaj aktivoj fari bonordan finiĝon de la agadoj de la registrita interŝanĝo de ciferecaj valoraĵoj.
 
-"(C) Additional financial resources for leverage trading.—The Commission may require such additional financial resources as are necessary to enable a registered digital asset exchange that offers margined, leveraged, or financed transactions to fulfill the customer obligations of the registered digital asset exchange.
+"(C) Kromaj financaj rimedoj por levilkomerco.—La Komisiono povas postuli tiajn pliajn financajn rimedojn, kiuj estas necesaj por ebligi registritan interŝanĝon de ciferecaj valoraĵoj, kiu ofertas marĝenajn, levilfortajn aŭ financitajn transakciojn por plenumi la klientdevojn de la registrita interŝanĝo de ciferecaj valoraĵoj. .
 
-"(13) Governance fitness standards.—
+"(13) Normoj pri taŭgeco pri administrado.—
 
-"(A) Governance arrangements.—A registered digital asset exchange shall establish governance arrangements that are transparent to fulfill public interest requirements.
+"(A) Registaranĝoj.—Registrita interŝanĝo de ciferecaj aktivoj devas starigi administradaranĝojn kiuj estas travideblaj por plenumi publikinteresajn postulojn.
 
-"(B) Fitness standards.—A registered digital asset exchange shall establish and enforce appropriate fitness standards for—
+"(B) Taŭgeco-normoj.—Registrita cifereca interŝanĝo devas starigi kaj plenumi taŭgajn taŭgecajn normojn por—
 
-"(i) directors;
+"(i) direktoroj;
 
-"(ii) any individual or entity with direct access to the settlement activities of the registered digital asset exchange;
+"(ii) iu ajn individuo aŭ ento kun rekta aliro al la aranĝaj agadoj de la registrita interŝanĝo de ciferecaj valoraĵoj;
 
-"(iii) any individual or entity with direct access to any custodian affiliated with the registered digital asset exchange;
+"(iii) iu ajn individuo aŭ ento kun rekta aliro al iu ajn gardisto aligita al la registrita interŝanĝo de ciferecaj valoraĵoj;
 
-"(iv) any entity offering affiliated services for the registered digital asset exchange; and
+"(iv) iu ajn ento ofertanta filiigitajn servojn por la registrita interŝanĝo de ciferecaj valoraĵoj; kaj
 
-"(v) any party affiliated with any individual or entity described in clauses (i) through (iv).
+"(v) iu ajn partio aligita al iu ajn individuo aŭ ento priskribita en klaŭzoj (i) ĝis (iv).
 
-"(14) System safeguards.—A registered digital asset exchange shall—
+"(14) Sistemaj sekurigiloj.—Registrita interŝanĝo de ciferecaj valoraĵoj devas—
 
-"(A) establish and maintain a program of risk analysis and oversight to identify and minimize sources of operational and security risks, through the development of appropriate controls and procedures and automated systems that—
+"(A) establi kaj konservi programon de riska analizo kaj superrigardo por identigi kaj minimumigi fontojn de operaciaj kaj sekurecaj riskoj, per la evoluo de taŭgaj kontroloj kaj proceduroj kaj aŭtomatigitaj sistemoj kiuj—
 
-"(i) are reliable and secure; and
+"(i) estas fidindaj kaj sekuraj; kaj
 
-"(ii) have adequate scalable capacity;
+"(ii) havi adekvatan skaleblan kapablon;
 
-"(B) establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for—
+"(B) establi kaj konservi akutprocedurojn, rezervajn instalaĵojn, kaj planon por katastrofa reakiro, kiuj permesas—
 
-"(i) the timely recovery and resumption of operations; and
+"(i) la ĝustatempa reakiro kaj rekomenco de operacioj; kaj
 
-"(ii) the fulfillment of the responsibilities and obligations of the registered digital asset exchange; and
+"(ii) la plenumo de la respondecoj kaj devoj de la registrita interŝanĝo de ciferecaj valoraĵoj; kaj
 
-"(C) periodically conduct tests to verify that the backup resources of the registered digital asset exchange are sufficient to ensure continued—
+"(C) periode fari testojn por kontroli, ke la rezervaj rimedoj de la registrita cifereca interŝanĝo sufiĉas por certigi daŭran—
 
-"(i) order processing and trade matching;
+"(i) traktado de mendoj kaj komerca kongruo;
 
-"(ii) price reporting;
+"(ii) raportado pri prezoj;
 
-"(iii) market surveillance; and
+"(iii) merkata gvatado; kaj
 
-"(iv) maintenance of a comprehensive and accurate audit trail.
+"(iv) prizorgado de ampleksa kaj preciza reviziovojo.
 
-"(e) Appointment of Trustee.—
+"(e) Nomumo de Kuratoro.—
 
-"(1) In general.—If a proceeding under section 5e results in the suspension or revocation of the registration of a digital asset exchange, or if a digital asset exchange withdraws from registration, the Commission, after providing notice to the digital asset exchange, may apply to the district court of the United States for the judicial district in which the digital asset exchange is located for the appointment of a trustee.
+"(1) Ĝenerale.—Se procedo laŭ sekcio 5e rezultigas la suspendon aŭ revokon de la registrado de cifereca valoraĵo interŝanĝo, aŭ se cifereca valoraĵo interŝanĝo retiriĝas de registrado, la Komisiono, post sciigo al la cifereca valoraĵo interŝanĝo. , povas peti al la distriktjuĝejo de Usono por la juĝa distrikto en kiu la interŝanĝo de ciferecaj valoraĵoj situas por la nomumo de kuratoro.
 
-"(2) Assumption of jurisdiction.—If the Commission applies to a court for appointment of a trustee under paragraph (1)—
+"(2) Supozo de jurisdikcio.—Se la Komisiono petas al tribunalo por nomumo de kuratoro sub paragrafo (1)—
 
-"(A) the court may take exclusive jurisdiction over—
+"(A) la tribunalo povas preni ekskluzivan jurisdikcion pri—
 
-"(i) the digital asset exchange; and
+"(i) la interŝanĝo de ciferecaj valoraĵoj; kaj
 
-"(ii) the records and assets of the digital asset exchange, wherever those records and assets are located; and
+"(ii) la rekordoj kaj aktivaĵoj de la interŝanĝo de ciferecaj aktivoj, kie ajn troviĝas tiuj rekordoj kaj aktivaĵoj; kaj
 
-"(B) if the court takes jurisdiction under subparagraph (A), the court shall appoint the Commission, or a person designated by the Commission, as trustee with power to take possession and continue to operate or terminate the operations of the digital asset exchange in an orderly manner for the protection of customers, subject to such terms and conditions as the court may prescribe.
+"(B) se la tribunalo prenas jurisdikcion sub subalineo (A), la tribunalo nomumas la Komisionon, aŭ personon nomumitan de la Komisiono, kiel kuratoro kun potenco preni posedon kaj daŭrigi funkciigi aŭ ĉesigi la operaciojn de la interŝanĝo de ciferecaj valoraĵoj. en orda maniero por la protekto de klientoj, kondiĉe de tiaj terminoj kaj kondiĉoj kiujn la tribunalo povas preskribi.
 
-"(f) Custodian.—A registered digital asset exchange shall deposit with an entity described in section 4d(i)(1)(B) each digital asset that is—
+"(f) Gardisto.—Registrita interŝanĝo de ciferecaj valoraĵoj devas deponi ĉe ento priskribita en sekcio 4d(i)(1)(B) ĉiun ciferecan valoraĵon kiu estas—
 
-"(1) the property of a customer of the registered digital asset exchange;
+"(1) la posedaĵo de kliento de la registrita interŝanĝo de ciferecaj valoraĵoj;
 
-"(2) required to be held by the registered digital asset exchange under subsection (c)(2) or (d)(12); or
+"(2) postulata por esti tenita de la registrita cifereca valoraĵo interŝanĝo laŭ subsekcio (c)(2) aŭ (d)(12); aŭ
 
-"(3) otherwise required by the Commission to be so held to reasonably protect customers or promote the public interest.
+"(3) alie postulita de la Komisiono por esti tiel tenita por racie protekti klientojn aŭ antaŭenigi la publikan intereson.
 
-"(g) Exemptions.—
+"(g) Sendevigoj.—
 
-"(1) In general.—To promote responsible economic or financial innovation and fair competition, or protect customers, the Commission may exempt, either unconditionally or on stated terms or conditions or for stated periods, and retroactively, prospectively, or both, a registered digital asset exchange from the requirements of this section, if the Commission determines that—
+"(1) Ĝenerale.—Por antaŭenigi respondecan ekonomian aŭ financan novigon kaj justan konkurencon, aŭ protekti klientojn, la Komisiono povas sendevigi, aŭ senkondiĉe aŭ laŭ fiksitaj kondiĉoj aŭ por deklaritaj periodoj, kaj retroaktive, eventuale, aŭ ambaŭ, registrita interŝanĝo de ciferecaj valoraĵoj laŭ la postuloj de ĉi tiu sekcio, se la Komisiono determinas tion—
 
-"(A) the exemption—
+"(A) la sendevigo—
 
-"(i) will be consistent with the public interest and the purposes of this Act; and
+"(i) estos kongrua kun la publika intereso kaj la celoj de ĉi tiu Ago; kaj
 
-"(ii) will not have a material adverse effect on the ability of the Commission or the registered digital asset exchange to discharge duties under this Act; or
+"(ii) ne havos gravan malfavoran efikon al la kapablo de la Komisiono aŭ la registrita interŝanĝo de ciferecaj aktivoj plenumi devojn laŭ ĉi tiu Ago; aŭ
 
-"(B) the registered digital asset exchange is subject to comparable, comprehensive regulation by the appropriate government authorities in the home country of the registered digital asset exchange.
+"(B) la registrita interŝanĝo de ciferecaj valoraĵoj estas submetita al komparebla, ampleksa reguligo de la taŭgaj registaraj aŭtoritatoj en la hejmlando de la registrita interŝanĝo de ciferecaj aktivoj.
 
-"(2) Process.—The Commission may grant an exemption under paragraph (1)—
+"(2) Procezo.—La Komisiono povas doni sendevigon laŭ paragrafo (1)—
 
-"(A) on the initiative of the Commission; or
+"(A) laŭ iniciato de la Komisiono; aŭ
 
-"(B) after receiving an application for the exemption by the registered digital asset exchange.
+"(B) post ricevi peton por la sendevigo de la registrita interŝanĝo de ciferecaj valoraĵoj.
 
-"(h) Jurisdiction.—Notwithstanding any other provision of law, the Commission shall have exclusive jurisdiction over the regulation and all other activities of a registered digital asset exchange.
+"(h) Jurisdikcio.—Malgraŭ ajna alia dispozicio de leĝo, la Komisiono havos ekskluzivan jurisdikcion super la reguligo kaj ĉiuj aliaj agadoj de registrita interŝanĝo de ciferecaj valoraĵoj.
 
-"(i) Implementation.—The Commission may prescribe rules to implement this section.".
+"(i) Efektivigo.—La Komisiono povas preskribi regulojn por efektivigi ĉi tiun sekcion.".
 
-(b) Certain Digital Asset Exchange Functions Not Sufficient to Trigger Requirement to Register as Futures Commission Merchant.—Section 4f(c) of the Commodity Exchange Act (7 U.S.C. 6f(c)) is amended by adding at the end the following:
+(b) Certaj Ciferecaj Aktivaj Interŝanĝaj Funkcioj Ne Sufiĉas por Ekigi Postulon Registriĝi kiel Futures Commission Merchant.—Section 4f(c) de la Varo-Interŝanĝa Leĝo (7 USC 6f(c)) estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"(12) Clarification of Scope of Registration Requirement.—A registered digital asset exchange shall not be required to register as a futures commission merchant for any activity for which the registered digital asset exchange is regulated under section 5i.".
+"(12) Klarigo de Scope of Registration Requirement.—Registrita cifereca valoraĵo-interŝanĝo ne devas registriĝi kiel futurkomisiona komercisto por iu ajn agado por kiu la registrita cifereca valoraĵo interŝanĝo estas reguligita sub sekcio 5i.".
 
-&nbsp;
+ 
 
-SEC. 405. VIOLATIONS.
+SEC. 405. VIOLADOJ.
 
-Section 9 of the Commodity Exchange Act (7 U.S.C. 13) is amended—
+Sekcio 9 el la Varo-Interŝanĝa Leĝo (7 USC 13) estas ŝanĝita—
 
-(1) in subsection (a)(2), by striking "subsection 4c" and inserting “section 4c”; and
+(1) en subsekcio (a)(2), per frapado "subsekcio 4c" kaj enmetante "sekcio 4c"; kaj
 
-(2) in subsection (e)—
+(2) en subsekcio (e)—
 
-(A) in paragraph (1), by inserting "contracts for the sale of digital assets," after “options thereon,”; and
+(A) en alineo (1), enmetante "kontraktoj por la vendo de ciferecaj aktivoj", post "opcioj pri tio,"; kaj
 
-(B) in paragraph (2), by inserting "or contracts for the sale of digital assets" after “options thereon”.
+(B) en paragrafo (2), enmetante "aŭ kontraktojn por la vendo de ciferecaj aktivoj" post "opcioj pri tio".
 
-&nbsp;
+ 
 
-SEC. 406. MARKET REPORTS.
+SEC. 406. MERKAPORTOJ.
 
-Section 16(a) of the Commodity Exchange Act (7 U.S.C. 20(a)) is amended—
+Sekcio 16 (a) de la Varo-Interŝanĝa Leĝo (7 USC 20 (a)) estas ŝanĝita—
 
-(1) in the first sentence, by striking "which are the subject of futures contracts," and inserting “under the jurisdiction of the Commission,”; and
+(1) en la unua frazo, frapante "kiuj estas la temo de estontaj kontraktoj", kaj enmetante "sub la jurisdikcio de la Komisiono,"; kaj
 
-(2) in the second sentence, by striking "futures markets." and inserting “markets under the jurisdiction of the Commission.”.
+(2) en la dua frazo, per frapado de "estontaj merkatoj". kaj enmetante "merkatojn sub la jurisdikcio de la Komisiono.".
 
-&nbsp;
+ 
 
-SEC. 407. BANKRUPTCY TREATMENT OF DIGITAL ASSETS.
+SEC. 407. BANKROTO-TRAKATO DE DIGITAJ AKTIVOJ.
 
-(a) In General.—Section 20(a) of the Commodity Exchange Act (7 U.S.C. 24(a)) is amended in paragraphs (1) and (2) by inserting "digital assets," after “securities,” each place it appears.
+(a) Ĝenerale.—Section 20(a) de la Varo-Interŝanĝa Leĝo (7 USC 24(a)) estas ŝanĝita en alineoj (1) kaj (2) per enmetado de "ciferecaj aktivoj", post "valorpaperoj", ĉiu loko. ĝi aperas.
 
-(b) Commodity Broker Definition.—Section 101(6) of title 11, United States Code, is amended by inserting "registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," before “foreign”.
+(b) Varo-Makleristo-Difino.—Section 101(6) de titolo 11, Usono-Kodo, estas ŝanĝita per enmetado de "registrita cifereca valoraĵo interŝanĝo, kiel difinita en sekcio 1a de la Varo-Interŝanĝa Leĝo," antaŭ "fremda".
 
-(c) Commodities Contracts.—Section 556 of title 11, United States Code, is amended by inserting "a registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," before “a contract”.
+(c) Varoj-Kontraktoj.—Section 556 de titolo 11, Usono-Kodo, estas ŝanĝita per enmetado de "registrita cifereca valoraĵo interŝanĝo, kiel difinita en sekcio 1a de la Varo-Interŝanĝa Leĝo," antaŭ "kontrakto".
 
-(d) Contractual Rights.—Section 561 of title 11, United States Code, is amended by inserting "registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act," after “designated under the Commodity Exchange Act” each place it appears.
+(d) Kontraktaj Rajtoj.—Section 561 de titolo 11, Usono-Kodo, estas ŝanĝita per enmetado de "registrita cifereca valoraĵo interŝanĝo, kiel difinite en sekcio 1a de la Varo-Interŝanĝa Leĝo," post "nomumita sub la Varo-Interŝanĝa Leĝo" ĉiun lokon. ĝi aperas.
 
-(e) Definitions.—Section 761 of title 11, United States Code, is amended—
+(e) Difinoj.—Section 761 of title 11, United States Code, is modified—
 
-(1) in paragraph (4)—
+(1) en paragrafo (4)—
 
-(A) in subparagraph (A), by inserting "digital asset or a" before “commodity”;
+(A) en subparagrafo (A), enmetante "ciferecan valoraĵon aŭ a" antaŭ "varo";
 
-(B) in subparagraph (I), by striking "or" at the end;
+(B) en subparagrafo (I), per frapado "aŭ" ĉe la fino;
 
-(C) in subparagraph (J), by adding "or" at the end; and
+(C) en subparagrafo (J), aldonante "aŭ" ĉe la fino; kaj
 
-(D) by adding at the end the following:
+(D) aldonante ĉe la fino la jenon:
 
-"(K) a contract for the sale of a digital asset by a registered digital asset exchange;"; and
+"(K) kontrakto por la vendo de cifereca valoraĵo per registrita cifereca valoraĵo interŝanĝo;"; kaj
 
-(2) in paragraph (10)—
+(2) en paragrafo (10)—
 
-(A) in the matter preceding subparagraph (A)—
+(A) en la afero antaŭa subparagrafo (A)—
 
-(i) by inserting "a digital asset," after “a security,”; and
+(i) enmetante "ciferecan valoraĵon", post "sekureco,"; kaj
 
-(ii) by inserting "digital asset," after “cash, security,”;
+(ii) enmetante "ciferecan valoraĵon", post "kontantmono, sekureco,";
 
-(B) in subparagraph (A)—
+(B) en subparagrafo (A)—
 
-(i) in clause (vi), by inserting "a digital asset," after “a security,”; and
+(i) en klaŭzo (vi), enmetante "ciferecan valoraĵon", post "sekureco,"; kaj
 
-(ii) in clause (vii)—
+(ii) en klaŭzo (vii)—
 
-(I) by inserting "or a digital asset" before “held as property”;
+(I) enmetante "aŭ ciferecan valoraĵon" antaŭ "tenita kiel posedaĵo";
 
-(II) by inserting "or digital asset" after “such security”; and
+(II) enmetante "aŭ ciferecan valoraĵon" post "tian sekurecon"; kaj
 
-(III) by inserting "or digital asset" after “based on a security”; and
+(III) enmetante "aŭ ciferecan valoraĵon" post "bazita sur sekureco"; kaj
 
-(C) in subparagraph (B)—
+(C) en subparagrafo (B)—
 
-(i) by striking "not including property" and inserting “not including—
+(i) batante "ne inkluzivante posedaĵon" kaj enmetante "ne inkluzive de—
 
-"(i) property";
+"(i) posedaĵo";
 
-(ii) in clause (i), as so designated, by adding "and" at the end; and
+(ii) en klaŭzo (i), kiel tiel indikite, aldonante "kaj" ĉe la fino; kaj
 
-(iii) by adding at the end the following:
+(iii) aldonante ĉe la fino la jenon:
 
-"(ii) money, assets, or property with respect to which any requirement under subsection (i) of section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is waived pursuant to paragraph (3) of that subsection, or any requirement under subparagraph (B) of paragraph (4) of section 5i(d) of that Act is waived pursuant to subparagraph (E) of that paragraph;".
+"(ii) mono, aktivaĵoj, aŭ posedaĵo kun respekto al kiuj ajna postulo sub subfako (i) de sekcio 4d de la Varo-Interŝanĝa Leĝo (7 USC 6d) estas rezignita laŭ paragrafo (3) de tiu subfako, aŭ ajna postulo sub subparagrafo (B) de paragrafo (4) de sekcio 5i (d) de tiu Ago estas rezignita laŭ subparagrafo (E) de tiu paragrafo;".
 
-(f) Voidable Transfers.—Section 764(b)(1) of title 11, United States Code, is amended by inserting ", digital assets" before “, or other property”.
+(f) Nuleblaj Translokigoj.—Section 764(b)(1) de titolo 11, Usono-Kodo, estas ŝanĝita per enmetado de ", ciferecaj aktivoj" antaŭ ", aŭ alia posedaĵo".
 
-(g) Treatment of Customer Property.—Section 766 of title 11, United States Code, is amended—
+(g) Traktado de Klienta Propraĵo. — Sekcio 766 de titolo 11, Usona Kodo, estas ŝanĝita—
 
-(1) in subsection (b)(1), by striking "physical commodity underlying" and inserting “commodity underlying”;
+(1) en subsekcio (b)(1), per frapado "fizika varo subesta" kaj enmetado "krudvaro subesta";
 
-(2) in subsection (c), by inserting "digital asset," before “or commodity contract” each place the term appears;
+(2) en subsekcio (c), enmetante "ciferecan valoraĵon", antaŭ "aŭ varokontrakto" ĉiu loko la termino aperas;
 
-(3) in subsection (d), by inserting "digital asset," before “or commodity contract” each place the term appears;
+(3) en subsekcio (d), enmetante "ciferecan valoraĵon", antaŭ "aŭ varokontrakto" ĉiu loko la termino aperas;
 
-(4) in subsection (f)—
+(4) en subsekcio (f)—
 
-(A) in striking "and other property" and inserting “digital assets, and other property”; and
+(A) frapante "kaj aliaj posedaĵoj" kaj enmetante "ciferecajn aktivojn, kaj aliajn posedaĵojn"; kaj
 
-(B) by striking "or property" and inserting “, digital assets, or property”;
+(B) frapante "aŭ posedaĵon" kaj enmetante ", ciferecajn aktivaĵojn aŭ posedaĵon";
 
-(5) in subsection (g), by striking "security or property" and inserting “security, digital asset, or property”; and
+(5) en subsekcio (g), frapante "sekurecon aŭ posedaĵon" kaj enmetante "sekurecon, ciferecan valoraĵon aŭ posedaĵon"; kaj
 
-(6) in subsection (h)(2), by inserting "digital assets," after “customer securities,”.
+(6) en subsekcio (h)(2), enmetante "ciferecajn valoraĵojn," post "klientvalorpaperoj,".
 
-&nbsp;
+ 
 
-SEC. 408. IDENTIFIED BANKING PRODUCTS.
+SEC. 408. IDENTIFITAJ BANKAJ PRODUZOJ.
 
-Section 206(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended—
+Sekcio 206 (a) de la Gramm-Leach-Bliley-Leĝo (15 USC 78c noto) estas ŝanĝita—
 
-(1) in paragraph (5)(B)(ii), by striking "or" at the end;
+(1) en paragrafo (5)(B)(ii), per frapado "aŭ" ĉe la fino;
 
-(2) in paragraph (6), by striking the period at the end and inserting "; or"; and
+(2) en alineo (6), frapante la punkton ĉe la fino kaj enmetante "; aŭ"; kaj
 
-(3) by adding at the end the following:
+(3) aldonante ĉe la fino la jenon:
 
-"(7) a payment stablecoin issued by a depository institution under section 722A.".
+"(7) pagstabilmonero eldonita de deponeja institucio sub sekcio 722A.".
 
-&nbsp;
+ 
 
-SEC. 409. FINANCIAL INSTITUTIONS DEFINITION.
+SEC. 409. DIFINO DE FINANCAJ INSTITUTOJ.
 
-Section 5312(c)(1) of title 31, United States Code, is amended by adding at the end the following:
+Sekcio 5312 (c) (1) de titolo 31, Usono-Kodo, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"(B) A registered digital asset exchange, as defined in section 1a of the Commodity Exchange Act.".
+"(B) Registrita cifereca valoraĵinterŝanĝo, kiel difinite en sekcio 1a de la Varo-Interŝanĝa Leĝo.".
 
-&nbsp;
+ 
 
-SEC. 410. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
+SEC. 410. KOMPENSI LA KOSTOJ DE REGULADO DE DIGITAJ VALORIOJ.
 
-The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following:
+La Varo-Interŝanĝa Leĝo (7 USC 1 kaj sekvaj) estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"SEC. 24. OFFSETTING THE COSTS OF DIGITAL ASSET REGULATION.
+"SEK. 24. KOPENSO DE LA KOSTOJ DE REGULO DE DIGITAJ VALOJ.
 
-"(a) Recovery of Certain Costs of Annual Appropriation.—
+"(a) Reakiro de Certaj Kostoj de Jara Appropriado.—
 
-"(1) In general.—Effective beginning October 1, 2023, the Commission may, by rule, collect fees—
+"(1) Ĝenerale.—Efike ekde la 1-a de oktobro 2023, la Komisiono povas, laŭ regulo, kolekti kotizojn—
 
-"(A) to fund expenses relating to regulation of digital asset cash and spot markets; and
+"(A) financi elspezojn rilate al reguligo de kontantmono de ciferecaj aktivaĵoj kaj spotmerkatoj; kaj
 
-"(B) that are designed to recover the costs to the Federal Government of the annual appropriation to the Commission by Congress.
+"(B) kiuj estas dizajnitaj por reakiri la kostojn al la Federacia Registaro de la jara transpreno al la Komisiono fare de la Kongreso.
 
-"(2) Registered entities.—Fees under paragraph (1) shall only be imposed—
+"(2) Registritaj entoj.—Kotizoj laŭ paragrafo (1) estas nur truditaj—
 
-"(A) on registered entities engaged in cash or spot digital asset activities; and
+"(A) pri registritaj estaĵoj okupiĝantaj pri kontantmono aŭ ekvidaj ciferecaj aktivaĵoj; kaj
 
-"(B) in relation to the regulation of those activities under this Act.
+"(B) rilate al la reguligo de tiuj agadoj sub ĉi tiu Ago.
 
-"(3) Fee rates.—Fees under paragraph (1) shall—
+"(3) Kotizoj.—Kotizoj laŭ paragrafo (1) devas—
 
-"(A) be strictly related to the cost to the Commission of the regulation of digital asset cash and spot markets;
+"(A) estu strikte rilata al la kosto por la Komisiono de la reguligo de kontantmono de ciferecaj valoraĵoj kaj spotmerkatoj;
 
-"(B) be reduced for newly registered entities with less than $100,000,000 in daily trading volume; and
+"(B) estu reduktita por lastatempe registritaj entoj kun malpli ol $ 100,000,000 en ĉiutaga komerca volumo; kaj
 
-"(C)(i) minimize negative impacts on market liquidity; and
+"(C) (i) minimumigi negativajn efikojn al merkata likvideco; kaj
 
-"(ii) maintain the efficiency, competitiveness, and financial integrity of digital asset markets.
+"(ii) konservu la efikecon, konkurencivon kaj financan integrecon de ciferecaj aktivaĵmerkatoj.
 
-"(4) Collection of fees.—The Commission shall collect fees under this subsection in such manner and within such time as may be specified by the Commission by rule.
+"(4) Kolekto de kotizoj.—La Komisiono kolektas kotizojn laŭ ĉi tiu subsekcio en tia maniero kaj en tia tempo kiun la Komisiono povas specifi per regulo.
 
-"(b) Fee Rate Orders.—
+"(b) Ordoj pri Kotizo.—
 
-"(1) In general.—Not later than 60 days after the date on which a law providing a regular appropriation to the Commission for a fiscal year is enacted, the Commission shall adopt an order setting rates for fees to be collected under subsection (a) for that fiscal year.
+"(1) Ĝenerale.—Ne pli malfrue ol 60 tagojn post la dato, kiam leĝo disponiganta regulan transdonon al la Komisiono por fiska jaro estas promulgita, la Komisiono adoptos ordonon fiksantan tarifojn por kotizoj kolektotaj sub subsekcio ( a) por tiu fiska jaro.
 
-"(2) Publication.—The Commission shall publish in the Federal Register the order adopted under paragraph (1), including—
+"(2) Publikigo.—La Komisiono publikigas en la Federacia Registro la ordonon adoptitan sub paragrafo (1), inkluzive de—
 
-"(A) projections on which the fees are based; and
+"(A) projekcioj sur kiuj baziĝas la kotizoj; kaj
 
-"(B) an explanation of the method used for calculating applicable fee rates.
+"(B) klarigo pri la metodo uzata por kalkuli aplikeblajn kotizojn.
 
-"(c) Deposit of Fees.—
+"(c) Deponejo de Kotizoj.—
 
-"(1) Offsetting collections.—Fees collected under subsection (a) for any fiscal year—
+"(1) Kompensaj kolektoj.—Kotizoj kolektitaj sub subsekcio (a) por iu ajn fiska jaro—
 
-"(A) shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission; and
+"(A) estos deponita kaj kreditita kiel kompensaj kolektoj al la konto provizanta transprenojn al la Komisiono; kaj
 
-"(B) shall not be collected or available for obligation for any fiscal year except to the extent provided in advance in appropriation Acts.
+"(B) ne estos kolektitaj aŭ disponeblaj por devo por iu ajn fiska jaro krom laŭ la mezuro antaŭvidita en transprenaj Agoj.
 
-"(2) General revenues prohibited.—No fees collected under subsection (a) shall be deposited and credited as general revenue of the Treasury.
+"(2) Ĝeneralaj enspezoj malpermesitaj.—Neniaj kotizoj kolektitaj sub subsekcio (a) devas esti deponitaj kaj kredititaj kiel ĝenerala enspezo de la Fisko.
 
-"(d) Lapse of Appropriations.—If a regular appropriation to the Commission has not been enacted on the first day of a fiscal year, the Commission shall continue to collect fees under this section at the rates in effect on September 30 of the preceding fiscal year.
+"(d) Paso de Transprenoj.—Se regula alproprigo al la Komisiono ne estis realigita en la unua tago de fiska jaro, la Komisiono daŭre enspezas kotizojn laŭ ĉi tiu sekcio laŭ la tarifoj en efiko la 30-an de septembro de la antaŭa. fiska jaro.
 
-"(e) Limitations.—
+"(e) Limigoj.—
 
-"(1) Leveraged, margined, or financed transactions.—Nothing in this section authorizes the imposition of fees on a registered entity relating to leveraged, margined, or financed transactions under this Act, including those activities relating to digital assets.
+"(1) Levilfortaj, marĝenigitaj, aŭ financitaj transakcioj.—Nenio en ĉi tiu sekcio rajtigas la altrudon de kotizoj al registrita ento rilatanta al levilfortaj, marĝenitaj aŭ financitaj transakcioj sub ĉi tiu Ago, inkluzive de tiuj agadoj rilataj al ciferecaj aktivoj.
 
-"(2) Other appropriations.—Notwithstanding any other provision of law, the Commission may use appropriations otherwise made available by law to fund expenses relating to the regulation of digital asset cash and spot markets.
+"(2) Aliaj alproprigoj.—Malgraŭ ajna alia dispozicio de leĝo, la Komisiono povas uzi alimaniere disponeblaj perleĝe por financi elspezojn rilate al la reguligo de ciferecaj aktivoj kontantmerkatoj kaj spotmerkatoj.
 
-"(f) Ceiling on Fees.—Unless otherwise provided by law, fees collected under this section shall not exceed $30,000,000.
+"(f) Plafono de Kotizoj.—Krom se alie disponas per leĝo, kotizoj kolektitaj sub ĉi tiu sekcio ne devas superi $30,000,000.
 
-"(g) Authorization Required.—The authority under this section to impose and collect fees shall only be in effect during a period that a legislative authorization of the Commission is in effect, as otherwise provided by law.".
+"(g) Rajtigo Bezonata.—La aŭtoritato sub ĉi tiu sekcio trudi kaj kolekti kotizojn devas nur validi dum periodo kiam leĝdona rajtigo de la Komisiono estas en efiko, kiel alie disponigite per leĝo.".
 
-&nbsp;
+ 
 
-# TITLE V—RESPONSIBLE CONSUMER PROTECTION
+# TITOLO V—RESPONDECA KONSUMATANTA PROTEKTO
 
-SEC. 501. RESPONSIBLE CONSUMER PROTECTION.
+SEC. 501. RESPONDECA KONSUMATANTA PROTEKTO.
 
-Chapter 98 of title 31, United States Code, as added by section 101(a) of this Act, is amended by adding at the end the following:
+Ĉapitro 98 de titolo 31, Usono-Kodo, kiel aldonite per sekcio 101 (a) de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"9802. Consumer protection standards for digital assets
+"9802. Konsumantprotektonormoj por ciferecaj aktivoj
 
-"(a) In General.—A person or protocol that provides digital asset services shall ensure that the scope of permissible transactions that may be undertaken with customer digital assets is disclosed clearly in a customer agreement.
+"(a) Ĝenerale.—Persono aŭ protokolo kiu provizas servojn pri ciferecaj aktivoj devas certigi, ke la amplekso de permeseblaj transakcioj, kiuj povas esti faritaj kun klientaj ciferecaj aktivoj, estas malkaŝita klare en klienta interkonsento.
 
-"(b) Notice.—A person who provides digital asset services shall provide clear notice to each customer, and require acknowledgment, of the following:
+"(b) Avizo.—Persono kiu provizas ciferecajn valoraĵojn devas doni klaran avizon al ĉiu kliento, kaj postulas agnoskon, pri la sekvanta:
 
-"(1) Prior to the implementation of any updates, material source code version changes relating to digital assets, except in emergencies, which may include security vulnerabilities.
+"(1) Antaŭ la efektivigo de iuj ĝisdatigoj, materialaj fontkodaj versioj ŝanĝiĝas rilate al ciferecaj aktivoj, krom en krizoj, kiuj povas inkluzivi sekurecajn vundeblecojn.
 
-"(2) Whether customer digital assets are segregated from other customer assets and the manner of segregation.
+"(2) Ĉu klientaj ciferecaj aktivoj estas apartigitaj de aliaj klientaj aktivoj kaj la maniero de apartigo.
 
-"(3) How the assets of the customer would be treated in a bankruptcy or insolvency scenario and the risks of loss.
+"(3) Kiel la aktivoj de la kliento estus traktitaj en bankroto aŭ nepagivo-scenaro kaj la riskoj de perdo.
 
-"(4) The time period and manner in which the person is obligated to return the digital asset of the customer upon the request of the customer.
+"(4) La tempoperiodo kaj maniero kiel la persono estas devigata resendi la ciferecan valoraĵon de la kliento laŭ la peto de la kliento.
 
-"(5) Applicable fees.
+"(5) Aplikeblaj kotizoj.
 
-"(6) The dispute resolution process of the person.
+"(6) La disputsolva procezo de la persono.
 
-"(c) Subsidiary Proceeds.—
+"(c) Filaj Enspezoj.—
 
-"(1) Definitions.—In this subsection:
+"(1) Difinoj.—En ĉi tiu subsekcio:
 
-"(A) Subsidiary proceeds.—The term ‘subsidiary proceeds’ includes forks, airdrops, staking, and other gains that accrue to a digital asset through market transactions, use as a financial asset, or being held in custody or safekeeping by a person who provides digital asset services.
+"(A) Filaj enspezoj.—La esprimo 'subsiiaj enspezoj' inkluzivas forkojn, aerĵetojn, palizon kaj aliajn gajnojn, kiuj akiras al cifereca aktivaĵo per merkataj transakcioj, uzado kiel financa valoraĵo, aŭ estanta tenitaj en prizorgo aŭ konservado de persono. kiu provizas ciferecajn aktivojn servojn.
 
-"(B) Terms of service.—The term ‘agreement’ includes the standard terms of service of the person who provides digital asset services.
+"(B) Servokondiĉoj.—La termino "interkonsento" inkluzivas la normajn servokondiĉojn de la persono, kiu provizas ciferecajn valoraĵojn.
 
-"(2) Accrual to customer.—Except as otherwise specified by an agreement with a customer, all ancillary or subsidiary proceeds relating to digital asset services provided to a customer shall accrue to the benefit of the customer in accordance with paragraph (3).
+"(2) Akvualiĝo al kliento.—Krom kiel alie specifite per interkonsento kun kliento, ĉiuj helpaj aŭ subsidiariaj enspezoj rilataj al ciferecaj aktivaĵoj servoj provizitaj al kliento akumuliĝas al la avantaĝo de la kliento konforme al paragrafo (3).
 
-"(3) Election.—A person who provides digital asset services may elect not to collect certain subsidiary proceeds if the election is disclosed in an agreement with the customer.
+"(3) Elekto.—Persono, kiu provizas servojn pri ciferecaj aktivoj, povas elekti ne kolekti certajn filiajn enspezojn se la elekto estas malkaŝita en interkonsento kun la kliento.
 
-"(4) Withdrawal.—A customer may withdraw digital assets in a method that permits the collection of the subsidiary proceeds.
+"(4) Retiro.—Kliento povas retiri ciferecajn aktivojn en metodo kiu permesas la kolekton de la filiaj enspezoj.
 
-"(5) Agreement.—A person who provides digital asset services shall enter into an agreement with a customer, if desired by the customer, regarding the manner in which to invest subsidiary proceeds or other gains attributable to the digital assets of the customer.
+"(5) Interkonsento.—Persono, kiu provizas servojn pri ciferecaj aktivoj, devas fari interkonsenton kun kliento, se dezirite de la kliento, koncerne la manieron en kiu investi filiajn enspezojn aŭ aliajn gajnojn atribueblajn al la ciferecaj aktivoj de la kliento.
 
-"(d) Lending Arrangements.—A person who provides digital asset services shall ensure any lending arrangements relating to digital assets are—
+"(d) Pruntedonado.—Persono, kiu provizas ciferecajn aktivojn servojn, devas certigi, ke ajnaj pruntedonaj aranĝoj rilataj al ciferecaj aktivoj estas—
 
-"(1) clearly disclosed to customers before any lending services take place;
+"(1) klare malkaŝita al klientoj antaŭ ol iuj pruntservoj okazas;
 
-"(2) subject to the affirmative consent of the customer;
+"(2) kondiĉe de la jesa konsento de la kliento;
 
-"(3) fully enforceable as a matter of commercial law;
+"(3) plene devigebla kiel demando pri komerca juro;
 
-"(4) accompanied by full disclosures of applicable terms and risks, yield, and the manner in which the yield is calculated;
+"(4) akompanita de plenaj malkaŝoj de aplikeblaj kondiĉoj kaj riskoj, rendimento, kaj la maniero en kiu la rendimento estas kalkulita;
 
-"(5) accompanied by appropriate disclosures relating to collateral requirements and policies, including—
+"(5) akompanate de taŭgaj malkaŝoj rilate al kromaj postuloj kaj politikoj, inkluzive de—
 
-"(A) haircuts and overcollateralization requirements;
+"(A) tondadoj kaj trokolateraligpostuloj;
 
-"(B) collateral the person accepts when calling for additional collateral from a customer, including collateral substitution;
+"(B) garantiaĵo kiun la persono akceptas dum vokado por kroma garantiaĵo de kliento, inkluzive de kroma anstataŭigo;
 
-"(C) whether customer collateral is commingled with the collateral of other customers or of the person; and
+"(C) ĉu klientgarantio estas miksita kun la garantio de aliaj klientoj aŭ de la persono; kaj
 
-"(D) how customer collateral is invested, and whether the yield belongs to the customer or to the person;
+"(D) kiel klientgarantio estas investita, kaj ĉu la rendimento apartenas al la kliento aŭ al la persono;
 
-"(6) accompanied by disclosures of mark-to-market and monitoring arrangements, including—
+"(6) akompanate de malkaŝoj de merkata vendado kaj monitoraj aranĝoj, inkluzive de—
 
-"(A) the frequency of mark-to-market monitoring and how frequently the person will call for additional collateral from a customer;
+"(A) la ofteco de mark-al-merkata monitorado kaj kiom ofte la persono postulos kroman garantion de kliento;
 
-"(B) the time period in which the customer must supply additional collateral to the person after a collateral call; and
+"(B) la tempoperiodo en kiu la kliento devas liveri pliajn garantiojn al la persono post kroma voko; kaj
 
-"(C) whether the person permits failures to deliver such collateral, and in the event of a failure to deliver the period of time in which the customer must cure the failure to deliver before the customer’s position is closed; and
+"(C) ĉu la persono permesas malsukcesojn liveri tian garantiaĵon, kaj en la okazaĵo de malsukceso liveri la tempodaŭron en kiu la kliento devas kuraci la malsukceson liveri antaŭ ol la pozicio de la kliento estas fermita; kaj
 
-"(7) compliant with all applicable Federal and State laws.
+"(7) konforma al ĉiuj aplikeblaj Federaciaj kaj Ŝtataj leĝoj.
 
-"(e) Rehypothecation.—
+"(e) Rehipotekiĝo.—
 
-"(1) Definition.—In this subsection, the term ‘rehypothecation’ means the pledging of an asset as collateral for a financial transaction by a person after the pledging of the asset as collateral by a customer of that person.
+"(1) Difino.—En ĉi tiu subsekcio, la esprimo 'rehipotekiĝo' signifas la promeson de valoraĵo kiel garantio por financa transakcio de persono post la promeso de la valoraĵo kiel garantiaĵo de kliento de tiu persono.
 
-"(2) Rehypothecation.—Before rehypothecating a digital asset, a person who provides digital asset services to a customer shall clearly disclose policies on rehypothecation to customers, including a clear definition of rehypothecation that is accessible to consumers. The person who provides digital asset services to a customer shall obtain affirmative consent and consider the following factors to appropriately mitigate risk relating to rehypothecation:
+"(2) Rehipotekiĝo.—Antaŭ rehipoteki ciferecan valoraĵon, persono kiu provizas ciferecajn valoraĵojn al kliento devas klare malkaŝi politikojn pri rehipotekiĝo al klientoj, inkluzive de klara difino de rehipotekaĵo alirebla por konsumantoj. La persono kiu disponigas ciferecan valoraĵon. servoj al kliento devas akiri jesan konsenton kaj konsideri la sekvajn faktorojn por taŭge mildigi riskon rilate al rehipotekado:
 
-"(A) The liquidity and volatility of a digital asset.
+"(A) La likvideco kaj volatilo de cifereca aktivaĵo.
 
-"(B) Past failures to deliver a particular digital asset.
+"(B) Pasintaj malsukcesoj liveri specialan ciferecan valoraĵon.
 
-"(C) Concentration risk.
+"(C) Koncentra risko.
 
-"(D) Whether an issuer or lender of last resort relating to a digital asset exists, including for virtual currency with a finite supply.
+"(D) Ĉu eldonanto aŭ pruntedoninto de lasta eliro rilata al cifereca aktivaĵo ekzistas, inkluzive por virtuala valuto kun finhava provizo.
 
-"(E) The capital, leverage and market position of the person.
+"(E) La kapitalo, levilforto kaj merkata pozicio de la persono.
 
-"(F) The legal obligations of the person to customers and other persons in the market who provide digital asset services.".
+"(F) La laŭleĝaj devoj de la persono al klientoj kaj aliaj personoj en la merkato, kiuj disponigas ciferecajn aktivaĵservojn.".
 
-&nbsp;
+ 
 
-SEC. 502. SOURCE CODE VERSION OF DIGITAL ASSETS.
+SEC. 502. FONTKODO VERSIONO DE DIGITAJ VALORIOJ.
 
-Chapter 98 of title 31, United States Code, as amended by section 501 of this Act, is amended by adding at the end the following:
+Ĉapitro 98 de titolo 31, Usono-Kodo, kiel ŝanĝita de sekcio 501 de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"9803. Source code version of digital assets
+"9803. Fontkoda versio de ciferecaj aktivoj
 
-"(a) In General.—A customer and a person who provides digital asset services shall, at the initiation of a contractual relationship, agree in writing regarding the source code version the person will use for each digital asset and the treatment of each asset under the law, including securities and commodities laws and the Uniform Commercial Code applicable to the transaction.
+"(a) Ĝenerale.—Kliento kaj persono, kiu provizas servojn pri ciferecaj aktivoj, devas, ĉe la komenco de kontrakta rilato, konsenti skribe pri la fontkodversio kiun la persono uzos por ĉiu cifereca aktivaĵo kaj la traktado de ĉiu valoraĵo. sub la leĝo, inkluzive de valorpaperoj kaj krudvaraj leĝoj kaj la Uniforma Komerca Kodo aplikebla al la transakcio.
 
-"(b) Determination.—A person who provides digital asset services—
+"(b) Determino.—Persono kiu provizas servojn pri ciferecaj valoraĵoj—
 
-"(1) may periodically determine whether to implement a source code version that uses validation rules different than those of the source code version specified in a customer agreement, including in circumstances where it is not possible to predict in advance whether utilization of the different source code version will be in the best interests of the customer;
+"(1) povas periode determini ĉu efektivigi fontkodversion kiu uzas validumregulojn malsamajn ol tiuj de la fontkodversio specifita en klientinterkonsento, inkluzive en cirkonstancoj kie estas ne eble antaŭdiri ĉu utiligo de la malsama fonto. kodversio estos je la plej bona intereso de la kliento;
 
-"(2) shall consider the nature of proposed changes to source code versions with potential effects resulting from third-party actors that may create different source code versions resulting in new networks that could create economic value for customers;
+"(2) devas pripensi la naturon de proponitaj ŝanĝoj al fontkodversioj kun eblaj efikoj rezultiĝantaj el triapartaj aktoroj kiuj povas krei malsamajn fontkodversiojn rezultigantajn novajn retojn kiuj povus krei ekonomian valoron por klientoj;
 
-"(3) shall not be required to support digital assets and source code versions that the person has not entered into an agreement with customers to support; and
+"(3) ne devas subteni ciferecajn aktivaĵojn kaj fontkodversiojn, kiujn la persono ne faris interkonsenton kun klientoj por subteni; kaj
 
-"(4) shall not capriciously redefine a digital asset or the corresponding source code or alter customer agreements with respect to this subsection.
+"(4) ne kaprice redifinos ciferecan valoraĵon aŭ la respondan fontkodon aŭ ne ŝanĝas klientinterkonsentojn kun ĉi tiu subsekcio.
 
-"(c) Standards.— A person who provides digital asset services—
+"(c) Normoj.— Persono kiu provizas servojn pri ciferecaj valoraĵoj—
 
-"(1) shall adopt and maintain standards for changes to digital asset source code versions that use differing validation rules than those of the source code version specified in the customer agreement, which shall include customer notice and approval, as appropriate based on the circumstances; and
+"(1) devas adopti kaj konservi normojn por ŝanĝoj al ciferecaj aktivoj fontkodversioj kiuj uzas malsamajn validumregulojn ol tiuj de la fontkodversio specifita en la klientinterkonsento, kiu devas inkluzivi klientan avizon kaj aprobon, laŭ konvene surbaze de la cirkonstancoj; kaj
 
-"(2) may specify differing standards based on source code changes which occur as the result of emergencies, including security vulnerabilities.".
+"(2) povas specifi malsamajn normojn bazitajn sur fontkodŝanĝoj kiuj okazas kiel rezulto de krizoj, inkluzive de sekurecaj vundeblecoj.".
 
-&nbsp;
+ 
 
-SEC. 503. SETTLEMENT FINALITY.
+SEC. 503. KROMFINOFINO.
 
-Chapter 98 of title 31, United States Code, as amended by section 502 of this Act, is amended by adding at the end the following:
+Ĉapitro 98 de titolo 31, Usono-Kodo, kiel ŝanĝita de sekcio 502 de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"9804. Settlement finality
+"9804. Komprofina fino
 
-"To promote legal certainty and customer protection, a person who provides digital asset services and a customer shall agree on the terms of settlement finality for all transactions, including the following:
+"Por antaŭenigi juran certecon kaj klientprotekton, persono kiu provizas ciferecajn valoraĵservojn kaj kliento konsentas pri la kondiĉoj de kompromiso por ĉiuj transakcioj, inkluzive de la sekvanta:
 
-"(1) The conditions under which a digital asset may be deemed fully transferred, provided that these legal conditions may diverge from operational conditions under which digital assets are considered transferred, based on the distributed and probabilistic nature of digital assets.
+"(1) La kondiĉoj sub kiuj cifereca aktivo povas esti konsiderata plene transdonita, kondiĉe ke ĉi tiuj leĝaj kondiĉoj povas devii de funkciaj kondiĉoj sub kiuj ciferecaj aktivoj estas konsiderataj transdonitaj, surbaze de la distribuita kaj probabla naturo de ciferecaj aktivoj.
 
-"(2) The exact moment of transfer of a digital asset.
+"(2) La preciza momento de translokigo de cifereca valoraĵo.
 
-"(3) The discharge of any obligations upon transfer of a digital asset.
+"(3) La malŝarĝo de iuj devoj post translokigo de cifereca valoraĵo.
 
-"(4) Conformity to applicable provisions of the Uniform Commercial Code.".
+"(4) Konformeco al aplikeblaj dispozicioj de la Uniforma Komerca Kodo.".
 
-&nbsp;
+ 
 
-SEC. 504. NOTICE TO CUSTOMERS; ENFORCEMENT.
+SEC. 504. AVIZO AL KLIENTOJ; DEFOLIGO.
 
-Chapter 98 of title 31, United States Code, as amended by section 503 of this Act, is amended by adding at the end the following:
+Ĉapitro 98 de titolo 31, Usono-Kodo, kiel ŝanĝita de sekcio 503 de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"9805. Notice to customers; enforcement
+"9805. Avizo al klientoj; devigo
 
-"(a) In General.—In providing disclosures and carrying out other duties under this chapter, a person who provides digital asset services in or affecting interstate commerce shall have a duty to provide higher standards of customer notice and acknowledgment if there is likely to be a material impact on the economic value of the digital asset of a customer.
+"(a) Ĝenerale.—En disponigado de malkaŝoj kaj plenumado de aliaj devoj sub ĉi tiu ĉapitro, persono kiu disponigas ciferecajn aktivojn servojn en aŭ influas interŝtatan komercon devas havi la devon disponigi pli altajn normojn de kliento-avizo kaj agnosko se estas verŝajne esti materiala efiko sur la ekonomia valoro de la cifereca valoraĵo de kliento.
 
-"(b) Enforcement of Standards.—The standards under this chapter shall be enforced in an appropriate manner, commensurate with other customer protection standards—
+"(b) Devigo de Normoj.—La normoj sub ĉi tiu ĉapitro devas esti plenumitaj en taŭga maniero, konforma al aliaj normoj pri protekto de klientoj—
 
-"(1) in the case of a digital asset intermediary, by the Federal or State licensing, registration, or chartering authority of the intermediary; and
+"(1) en la kazo de peranto de ciferecaj aktivoj, de la Federacia aŭ Ŝtata licencado, registrado aŭ ĉarta aŭtoritato de la peranto; kaj
 
-"(2) in the case of a depository institution or other financial institution, by the appropriate State or Federal banking supervisor.".
+"(2) en la kazo de deponeja institucio aŭ alia financa institucio, de la konvena Ŝtata aŭ Federacia bankkontrolisto.".
 
-&nbsp;
+ 
 
-SEC. 505. RIGHT TO INDIVIDUAL MANAGEMENT OF DIGITAL ASSETS.
+SEC. 505. RAJTO AL INDIVIDUA GESTORADO DE DIGITAJ AKTIVO.
 
-Chapter 98 of title 31, United States Code, as amended by section 504 of this Act, is amended by adding at the end the following:
+Ĉapitro 98 de titolo 31, Usono-Kodo, kiel ŝanĝita de sekcio 504 de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"9806. Right to individual management of digital assets
+"9806. Rajto al individua administrado de ciferecaj aktivoj
 
-"(a) In General.—Except as otherwise required by law, no person shall be required to use an intermediary for the safekeeping of digital assets legally owned, and possessed or controlled, by that person.
+"(a) Ĝenerale.—Krom kiel alie postulas la leĝo, neniu persono devas uzi peranton por la konservado de ciferecaj aktivoj laŭleĝe posedataj, kaj posedataj aŭ kontrolitaj, de tiu persono.
 
-"(b) Rule of Construction.—This section shall not be construed to—
+"(b) Regulo de Konstruo.—Ĉi tiu sekcio ne devas esti interpretita kiel—
 
-"(1) permit a person to engage in market activity for which authorization is required under Federal or State law; or
+"(1) permesi personon okupiĝi pri merkatagado por kiu rajtigo estas postulata laŭ Federacia aŭ Ŝtata juro; aŭ
 
-"(2) restrict a person from freely entering into an agreement for digital asset services with a third party.".
+"(2) limigi personon de libere eniĝi en interkonsento por ciferecaj aktivaĵservoj kun tria partio.".
 
-SEC. 506. TECHNICAL AND CONFORMING AMENDMENTS.
+SEC. 506. TEKNIKAJ KAJ KONFORMAJ AMENDOJ.
 
-The table of sections of chapter 98, as added by section 101(a) of this Act, is amended by adding at the end the following:
+La tabelo de sekcioj de ĉapitro 98, kiel aldonite per sekcio 101 (a) de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"9802. Consumer protection standards for digital assets.
+"9802. Konsumantprotektonormoj por ciferecaj aktivoj.
 
-"9803. Source code version of digital assets.
+"9803. Fontkoda versio de ciferecaj aktivoj.
 
-"9804. Settlement finality.
+"9804. Komprofina fino.
 
-"9805. Notice to customers; enforcement.
+"9805. Avizo al klientoj; devigo.
 
-"9806. Right to individual management of digital assets.".
+" 9806. Rajto al individua administrado de ciferecaj aktivoj. " .
 
-&nbsp;
+ 
 
-# TITLE VI—RESPONSIBLE PAYMENTS INNOVATION
+# TITOLO VI — RESPONDECA PAGO NOVO
 
-SEC. 601. ISSUANCE OF PAYMENT STABLECOINS.
+SEC. 601. ELSENDO DE PAGAJ STABILOJN.
 
-Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470) is amended by adding at the end the following:
+Subtitolo C de titolo VII de la Gramm-Leach Bliley-Leĝo (Publika Juro 106-102; 113 Stat. 1470) estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"SEC. 722A. ISSUANCE OF PAYMENT STABLECOINS.
+"SEC. 722A. EMISO DE PAGAJ STABILOJN.
 
-"(a) In General.—A depository institution may issue, redeem, and conduct all incidental activities relating to payment stablecoins in accordance with this section.
+"(a) Ĝenerale.—Deponeja institucio povas eldoni, elaĉeti kaj fari ĉiujn hazardajn agadojn rilate al pagstabilaj moneroj konforme al ĉi tiu sekcio.
 
-"(b) Required Payment Stablecoin Assets.—A depository institution shall maintain high-quality liquid assets under this section equal to not less than 100 percent of the face amount of the liabilities of the institution on payment stablecoins issued by the institution. In the case of an insured depository institution described in subsection (m)(1)(A) that engages in on-balance sheet lending activities, assets under this subsection shall equal not less than 100 percent of the face amount of the liabilities of the institution on payment stablecoins issued by the institution, with the assets held in balances at a Federal Reserve bank (which may include a segregated balance account), or, in the case of foreign withdrawable reserves, at a foreign central bank, in a special, custodial, or trust account, other off-balance sheet account, or in another equivalent manner that ensures the segregation of the assets in the event of receivership. An insured depository institution may segregate the issuance and management of payment stablecoins into a separate depository institution affiliate under the same holding company structure. Eligible high-quality liquid assets under this section shall be comprised of the following:
+aŭ en alia ekvivalenta maniero, kiu certigas la apartigon de la aktivoj en la okazaĵo de restrukturigo. Asekurita deponeja institucio povas apartigi la emision kaj administradon de pagaj stalmoneroj en apartan deponejan institucion filion sub la sama holdinga strukturo. Elekteblaj altkvalitaj likvaj aktivoj sub ĉi tiu sekcio konsistos el la sekvanta:
 
-"(1) United States coins and currency and any other instrument that is legal tender, as defined in section 5103 of title 31, United States Code.
+"(1) Usonaj moneroj kaj valuto kaj ajna alia instrumento kiu estas laŭleĝa pagilo, kiel difinite en sekcio 5103 de titolo 31, Usono-Kodo.
 
-"(2) Demand deposits at a depository institution, except that deposits in an insured depository institution shall not exceed the limit of deposit or share insurance available for that account, which may include pass through insurance, or shall be maintained in a special, custodial, or trust account or other off-balance sheet account held by the insured depository institution.
+"(2) Postaj deponejoj ĉe deponeja institucio, krom ke enpagoj en asekurita deponeja institucio ne devas superi la limon de deponejo aŭ akciasekuro disponebla por tiu konto, kiu povas inkluzivi trapasi asekuron, aŭ devas esti konservitaj en speciala, gardanta. , aŭ fidinda konto aŭ alia ekster-bilanca konto tenita fare de la asekurita deponeja institucio.
 
-"(3) Balances held at a Federal Reserve bank, which may be held in a master account or segregated balance account.
+"(3) Saloj tenitaj ĉe Federacia Rezerva banko, kiu povas esti tenita en ĉefkonto aŭ apartigita saldokonto.
 
-"(4) Foreign withdrawable reserves, as defined in section 249.3 of title 12, Code of Federal Regulations, consistent with any foreign unit of account in which the payment stablecoin is denominated or pegged.
+"(4) Eksterlandaj retireblaj rezervoj, kiel difinite en sekcio 249.3 de titolo 12, Kodo de Federaciaj Regularoj, kongrua kun iu ajn eksterlanda kontunuo en kiu la pagstabilmonero estas nomita aŭ ligita.
 
-"(5) A security that is issued by, or unconditionally guaranteed as to the timely payment of principal and interest by, the Department of the Treasury, with an original maturity of 1 year or less.
+"(5) Sekureco kiu estas eldonita de, aŭ senkondiĉe garantiita pri la ĝustatempa pago de ĉefpago kaj interezo fare de la Sekcio de la Fisko, kun origina matureco de 1 jaro aŭ malpli.
 
-"(6) A reserve repurchase agreement relating to a security described in paragraph (5).
+"(6) Rezerva reaĉetinterkonsento rilatiganta al sekureco priskribita en paragrafo (5).
 
-"(7) Any other high-quality, liquid asset determined to be consistent with safe and sound banking practices, as determined by the appropriate Federal banking agency or State bank supervisor.
+"(7) Ajna alia altkvalita, likva valoraĵo determinita esti kongrua kun sekuraj kaj solidaj bankaj praktikoj, kiel determinite de la konvena Federacia banka agentejo aŭ Ŝtata bankkontrolisto.
 
-"(c) Disclosures.—Not later than 10 business days after the end of each month, a depository institution shall disclose, in a publicly accessible manner, a summary description of the assets backing the payment stablecoin, the value of the assets, and the number of outstanding payment stablecoins, as of the last day of the month. Such explanation shall be filed with the appropriate Federal banking agency or State bank supervisor under penalty of perjury by the chief financial officer of the institution. The depository institution shall also report on the summary description any instances in which the institution failed to comply with any requirement of subsection (b). As applicable, the appropriate Federal banking agency or State bank supervisor shall, as part of a regular examination of the depository institution, at the frequency otherwise required by law, verify the composition of the assets and the accuracy of the summary descriptions made under this subsection and reports under subsection (d).
+"(c) Riveloj.—Ne pli malfrue ol 10 labortagoj post la fino de ĉiu monato, deponeja institucio malkaŝos, en publike alirebla maniero, resuman priskribon de la aktivoj subtenantaj la pagstabilmonon, la valoron de la aktivoj, kaj la nombro de elstaraj pagstabilaj moneroj, ekde la lasta tago de la monato.Tia klarigo devas esti registrita ĉe la konvena Federacia banka agentejo aŭ ŝtata bankkontrolisto sub puno de falsĵuro de la ĉefa financa oficisto de la institucio.La deponeja institucio ankaŭ raportos pri la resuma priskribo iuj okazoj, en kiuj la institucio malsukcesis plenumi iun postulon de subsekcio (b) Kiel aplikeble, la konvena Federacia banka agentejo aŭ Ŝtata bankkontrolisto devas, kiel parto de regula ekzameno de la deponeja institucio,laŭ la ofteco alie postulata de leĝo, kontrolu la konsiston de la aktivoj kaj la precizecon de la resumaj priskriboj faritaj sub ĉi tiu subsekcio kaj raportoj sub subsekcio (d).
 
-"(d) Call Report.—As applicable, the appropriate Federal banking agency or State bank supervisor shall require a depository institution that issues a payment stablecoin to report, in detail, on the composition of the assets in each periodic report of condition, or in an alternative format approved by the Federal Financial Institutions Examination Council, at the frequency otherwise required by law.
+"(d) Voka Raporto.—Laŭ aplikebla, la konvena Federacia banka agentejo aŭ Ŝtata bankkontrolisto devas postuli deponejan institucion, kiu eldonas pagstabilmonon, raporti, detale, pri la konsisto de la aktivoj en ĉiu perioda raporto de kondiĉo, aŭ en alternativa formato aprobita de la Federacia Konsilantaro pri Ekzameno de Financaj Institucioj, laŭ la ofteco alie postulata de la leĝo.
 
-"(e) Permission.—A depository institution shall, as applicable, obtain permission from the appropriate Federal banking agency or State bank supervisor, with an application submitted not less than 6 months before intended issuance of the payment stablecoin, but which may be submitted as part of a charter application. As part of an application under this section, a depository institution shall develop a tailored recovery and resolution plan, consistent with the standards adopted under subsection (k)(1)(F), that would permit the orderly resumption of a safe and sound operation or the orderly wind-down of operations in the event of distress, including the redemption of all outstanding payment stablecoins. The application shall also contain a draft customer agreement, flow of funds explanation, a robust information technology plan and operational design of the payment stablecoin. As applicable, the appropriate Federal banking agency or State bank supervisor shall render a decision on the application within 4 months of the date of filing, and shall approve the application unless—
+fortika informteknologia plano kaj operacia dezajno de la paga stablecoin. Laŭeble, la konvena Federacia banka agentejo aŭ Ŝtata bankkontrolisto faros decidon pri la kandidatiĝo ene de 4 monatoj de la dato de arkivado, kaj aprobos la kandidatiĝon krom se:
 
-"(1) the payment stablecoin activities are not likely to be able to operate in a safe and sound manner;
+"(1) la pagstabilaj agadoj verŝajne ne povos funkcii en sekura kaj sana maniero;
 
-"(2) the depository institution does not have the required resources and expertise to manage the operation of the payment stablecoin, commensurate with the size and scale of projected operations; or
+"(2) la deponeja institucio ne havas la postulatajn rimedojn kaj kompetentecon por administri la operacion de la pagstabila monero, proporcia al la grandeco kaj skalo de projekciitaj operacioj; aŭ
 
-"(3) the depository institution does not have required policies and procedures relating to material areas of the operation of the payment stablecoin activities.
+"(3) la deponeja institucio ne havas postulatajn politikojn kaj procedurojn rilate al materialaj areoj de la operacio de la pagstabilaj agadoj.
 
-"(f) Redemption of Payment Stablecoins.—Upon the demand of a customer, a depository institution shall redeem an outstanding payment stablecoin at par in the coins, currency, or other instruments that are legal tender, as defined in section 5103 of title 31, United States Code, or the similar laws of the jurisdiction of the unit of account in which the payment stablecoin is denominated or to which the value of the payment stablecoin is pegged. A depository institution may redeem a payment stablecoin issued by another depository institution at par, upon demand. The Board of Governors of the Federal Reserve System, through the Federal Reserve banks, shall provide for the clearing and settlement of payment stablecoin liabilities among depository institutions under this section and shall ensure competitive equality in all clearing, settlement and related services. A depository institution shall also assess its ability to fulfill large redemptions without placing downward pressure on the market value of the payment stablecoin.
+setlejo kaj rilataj servoj. Deponeja institucio ankaŭ taksas sian kapablon plenumi grandajn elaĉetojn sen fari malsupreniĝan premon sur la merkatan valoron de la pagstabila monero.
 
-"(g) Collateral Availability in the Capital Markets.—The appropriate Federal banking agencies, in consultation with State bank supervisors, the Securities and Exchange Commission, and Commodity Futures Trading Commission, shall monitor use of the high-quality liquid assets authorized under subsection (b) and the impact on collateral availability and the efficient functioning of the capital markets.
+"(g) Kuna Havebleco en la Kapitalaj Merkatoj.—La konvenaj Federaciaj bankaj agentejoj, interkonsiliĝinte kun Ŝtataj bankkontrolistoj, la Komisiono pri Valorpaperoj kaj Interŝanĝaj Komisionoj, kaj Komisiono pri Komercaj Estontecoj pri Varoj, kontrolas uzon de la altkvalitaj likvaj aktivoj rajtigitaj sub subsekcio. (b) kaj la efiko al flanka havebleco kaj la efika funkciado de la kapitalmerkatoj.
 
-"(h) Receivership Priority.—In the event of the receivership of a depository institution that has issued a payment stablecoin under this section, a person that has a valid claim on a payment stablecoin issued by that institution shall have priority over all other claims on the institution with respect to any required payment stablecoin assets, including claims with respect to insured deposits, other than administrative costs incurred by the appropriate Federal banking agency or State bank supervisor, as applicable, relating to the receivership of the institution, if applicable. Consistent with subsection (f), a depository institution that redeems a payment stablecoin issued by a depository institution in receivership shall be considered to have a valid claim, with corresponding priority under this subsection, on a payment stablecoin issued by the institution in receivership.
+"(h) Recevership Priority.-Okaze de la rekuperacio de deponeja institucio kiu emisiis pagstabilmonon sub ĉi tiu sekcio, persono kiu havas validan postulon pri paga stalcoin eldonita de tiu institucio havos prioritaton super ĉiuj aliaj asertoj. pri la institucio rilate al ajnaj postulataj pagstabilaj aktivaĵoj, inkluzive de asertoj kun respekto al asekuritaj deponejoj, krom administraj kostoj faritaj de la konvena Federacia banka agentejo aŭ Ŝtata bankinspektisto, laŭeble, rilate al la administrado de la institucio, se aplikeble. Konsekvence kun subsekcio (f), deponeja institucio kiu elaĉetas pagstabilmonon eldonitan de deponeja institucio en akumulo devas esti konsiderata kiel valida aserto, kun ekvivalenta prioritato sub ĉi tiu subsekcio,sur pago stablecoin eldonita de la institucio en akuzaĵo.
 
-"(i) Incidental Activities.—A depository institution may conduct all incidental activities relating to the issuance and redemption of payment stablecoins, which shall include the following:
+"(i) Okazaĵoj.—Deponeja institucio povas fari ĉiujn hazardajn agadojn rilate al la emisio kaj elaĉeto de pagstabilaj moneroj, kiuj inkluzivas la jenajn:
 
-"(1) Management of required payment stablecoin assets in accordance with subsection (b).
+"(1) Administrado de postulataj pagstabilaj valoraĵoj laŭ subsekcio (b).
 
-"(2) Making a market in payment stablecoins.
+"(2) Farante merkaton en pagaj stabilaj moneroj.
 
-"(3) Custodial services.
+"(3) Prizorgaj servoj.
 
-"(4) Settlement and clearing.
+"(4) Kompromiso kaj malplenigo.
 
-"(5) Post-trade services.
+"(5) Postkomercaj servoj.
 
-"(6) All other activities consistent with a safe and sound operation, as determined by the appropriate Federal banking agency or State bank supervisor.
+"(6) Ĉiuj aliaj agadoj kongruaj kun sekura kaj solida operacio, kiel determinite de la konvena Federacia banka agentejo aŭ Ŝtata bankkontrolisto.
 
-"(j) Applicability of Gramm-leach-bliley Data Privacy Provisions.—Title V of the Gramm-Leach-Bliley Act (12 U.S.C. 6801 et seq.) shall apply to the payment stablecoin activities of a depository institution under this section.
+"(j) Aplikebleco de Gramm-leach-bliley Datumaj Privatecaj Dispozicioj.—Titolo V de la Gramm-Leach-Bliley-Leĝo (12 USC 6801 et seq.) aplikiĝos al la pagstabilaj agadoj de deponeja institucio sub ĉi tiu sekcio.
 
-"(k) Rules.—
+"(k) Reguloj.—
 
-"(1) In general.—The appropriate Federal banking agencies, in consultation with State bank supervisors, shall adopt rules to implement this section, including—
+"(1) Ĝenerale.—La taŭgaj Federaciaj bankaj agentejoj, interkonsiliĝinte kun Ŝtataj bankkontrolistoj, alprenos regulojn por efektivigi ĉi tiun sekcion, inkluzive de—
 
-"(A) capital treatment for depository institutions described in subsection (m)(1) in accordance with paragraph (2);
+"(A) kapitaltraktado por deponaj institucioj priskribitaj en subsekcio (m)(1) laŭ paragrafo (2);
 
-"(B) liquidity, leverage, and interest rate risk;
+"(B) likvideco, levilforto kaj interezprocentrisko;
 
-"(C) third-party service provider activities—
+"(C) aktivadoj de triaj provizanto de servoj—
 
-"(i) including custodial wallet providers; and
+"(i) inkluzive de gardaj monujo-provizantoj; kaj
 
-"(ii) not including licensing or capital requirements for third-party service providers;
+"(ii) ne inkluzivante licencajn aŭ kapitalpostulojn por triaj servaj provizantoj;
 
-"(D) management practices with respect to required payment stablecoin assets;
+"(D) administradpraktikoj rilate al postulataj pagstabilaj valoraĵoj;
 
-"(E) appropriate operational, compliance, and information technology risk management;
+"(E) taŭga operacia, observo, kaj informa teknologio riskadministrado;
 
-"(F) tailored recovery and resolution standards relating to payment stablecoins; and
+"(F) tajloritaj normoj pri reakiro kaj rezolucio rilate al pagstabilaj moneroj; kaj
 
-"(G) any other material topic.
+"(G) ajna alia materiala temo.
 
-"(2) Significant differences.—In accordance with section 5169(c)(3)(A) of the Revised Statutes, in determining capital and leverage requirements applicable to a depository institution that has no material assets other than required payment stablecoin assets under this section—
+"(2) Gravaj diferencoj.—Konforme al sekcio 5169(c)(3)(A) de la Reviziitaj Statutoj, en determinado de kapitalo kaj levilfortpostuloj aplikeblaj al deponeja institucio kiu havas neniujn materialajn aktivaĵojn krom postulataj pagstabilaj aktivaĵoj sub ĉi tiu sekcio—
 
-"(A) the depository institution shall not be subject to section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371); and
+"(A) la deponeja institucio ne devas esti kondiĉigita de sekcio 171 de la Financa Stabileco-Leĝo de 2010 (12 USC 5371); kaj
 
-"(B) the appropriate Federal banking agencies shall take into account the significant differences between the risks of the assets of the institution and those of depository institutions with assets that consist primarily of commercial or consumer loans.
+"(B) la konvenaj Federaciaj bankaj agentejoj konsideru la signifajn diferencojn inter la riskoj de la aktivoj de la institucio kaj tiuj de deponaj institucioj kun aktivoj kiuj konsistas ĉefe el komercaj aŭ konsumpruntoj.
 
-"(l) Non-depository Institution Payment Stablecoin Issuers.—Nothing in this section shall be construed to prohibit an entity operating under a state or Federal charter or license that is not a depository institution from issuing and redeeming a payment stablecoin and conducting all activities related to the management of such payment stablecoin consistent with a safe and sound operation, as determined by the appropriate regulator of the entity. The entity shall—
+"(l) Ne-deponeja Institucio Pago-Stalmonero-Eldonantoj.—Nenio en ĉi tiu sekcio devas esti interpretita por malpermesi al ento funkcianta sub ŝtata aŭ Federacia ĉarto aŭ licenco, kiu ne estas deponeja institucio, eldoni kaj elaĉeti pagan stalmoneron kaj fari ĉiujn agadojn. rilate al la administrado de tia paga stabila monero kongrua kun sekura kaj bona operacio, kiel determinite de la taŭga reguligisto de la ento. La ento devas—
 
-"(1) be subject to the requirements of subsections (b) and (c); and
+"(1) esti submetita al la postuloj de subsekcioj (b) kaj (c); kaj
 
-"(2) redeem an outstanding payment stablecoin at par in the coins, currency, or other instruments that are legal tender, as defined in section 5103, or the similar laws of the jurisdiction of the unit of account in which the payment stablecoin is denominated or to which the value of the payment stablecoin is pegged.
+"(2) elaĉeti elstaran pagstabilmonon egale en la moneroj, valuto aŭ aliaj instrumentoj kiuj estas laŭleĝa pagilo, kiel difinite en sekcio 5103, aŭ la similaj leĝoj de la jurisdikcio de la kontunuo en kiu la paga stalcoin estas nomita. aŭ al kiu la valoro de la pago stablecoin estas ligita.
 
-"(m) Definitions.—In this section:
+"(m) Difinoj.—En ĉi tiu sekcio:
 
-"(1) Depository institution.—The term ‘depository institution’ has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)) and includes—
+"(1) Deponeja institucio.-La esprimo "deponeja institucio" havas la signifon donitan la esprimon en sekcio 19 (b) (1) de la Federacia Rezerva Leĝo (12 USC 461 (b) (1)) kaj inkluzivas -
 
-"(A) an insured depository institution; or
+"(A) asekurita deponeja institucio; aŭ
 
-"(B) a depository institution operating under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), or a substantially similar State law, which is exclusively engaged in issuing payment stablecoins, providing safekeeping, trust or custodial services, or activities incidental to the foregoing.
+"(B) deponeja institucio funkcianta sub subsekcio (c) de sekcio 5169 de la Reviziitaj Statutoj (12 USC 27), aŭ sufiĉe simila Ŝtata leĝo, kiu estas ekskluzive engaĝita pri eldonado de pagstabilmoneroj, disponigante konservadon, fidon aŭ gardservojn, aŭ agadoj krome al la antaŭaj.
 
-"(2) Payment stablecoin.—The term ‘payment stablecoin’ has the meaning given the term in section 9801 of title 31, United States Code.
+"(2) Paga stablecoin.—La termino 'pago stableno' havas la signifon donitan la terminon en sekcio 9801 de titolo 31, Usono-Kodo.
 
-"(3) Segregated balance account.—The term ‘segregated balance account’ includes an account of a depository institution with a Federal Reserve bank or a foreign central bank to which only required payment stablecoin assets are credited.".
+"(3) Apartigita bilanco-konto.—La esprimo 'apartiga bilanco-konto' inkluzivas konton de deponeja institucio kun Federala Rezerva banko aŭ eksterlanda centra banko al kiu nur postulataj pagstabilaj aktivaĵoj estas kredititaj.".
 
-&nbsp;
+ 
 
-SEC. 602. SANCTIONS COMPLIANCE RESPONSIBILITIES OF PAYMENT STABLECOIN ISSUERS.
+SEC. 602. SANKCIOJ KONFORMO RESPONSECO DE PAGO STABLECOIN EMISANTOJ.
 
-Not later than 120 days after the date of the enactment of this Act, the Secretary of the Treasury shall adopt final guidance clarifying the sanctions compliance responsibilities and liability of an issuer of a payment stablecoin with respect to downstream transactions relating to the stablecoin that take place after the stablecoin is first provided to a customer of the issuer.
+Ne pli malfrue ol 120 tagojn post la dato de la leĝigo de ĉi tiu Ago, la Sekretario de la Fisko alprenos finan gvidadon klarigantan la respondecojn kaj respondecon de sankcioj de eldonanto de pagstabilo rilate al kontraŭfluaj transakcioj rilataj al la stableno kiu okazas. post kiam la stablecoin unue estas provizita al kliento de la emisianto.
 
-&nbsp;
+ 
 
-SEC. 603. USE OF THE OFFICIAL DIGITAL CURRENCY OF THE PEOPLE’S REPUBLIC OF CHINA ON GOVERNMENT DEVICES.
+SEC. 603. UZO DE LA OFICIALA DIGITALA VALUTO DE LA ĈINA POPOLOLA RESPUBLIKO ĈE registaraj aparatoj.
 
-(a) Definitions.—In this section—
+(a) Difinoj.—En ĉi tiu sekcio—
 
-(1) the term "digital yuan" means the official central bank digital currency of the People’s Republic of China;
+(1) la termino "cifereca juano" signifas la oficialan ciferecan valuton de la centra banko de la Ĉina Popola Respubliko;
 
-(2) the term "executive agency" has the meaning given that term in section 133 of title 41, United States Code; and
+(2) la esprimo "administra agentejo" havas la signifon donitan tiun esprimon en sekcio 133 de titolo 41, Usono-Kodo; kaj
 
-(3) the term "information technology" has the meaning given that term in section 11101 of title 40, United States Code.
+(3) la esprimo "informa teknologio" havas la signifon donitan tiun esprimon en sekcio 11101 de titolo 40, Usono-Kodo.
 
-(b) Use of Digital Yuan.—Not later than 60 days after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, the Director of the Cybersecurity and Infrastructure Security Agency, the Director of National Intelligence, and the Secretary of Defense, and consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code, shall develop standards and guidelines for executive agencies which require adequate security measures for use of the digital yuan on Government information technology devices.
+(b) Uzo de Cifereca Juano.—Ne pli malfrue ol 60 tagojn post la dato de enskribo de ĉi tiu Leĝo, la Direktoro de la Oficejo pri Administrado kaj Buĝeto, interkonsiliĝinte kun la Administranto de Ĝeneralaj Servoj, la Direktoro de la Cibersekureco kaj Infrastruktura Sekureco. Agentejo, la Direktoro de Nacia Inteligenteco, kaj la Sekretario de Defendo, kaj kongruaj kun la informsekurecaj postuloj sub subĉapitro II de ĉapitro 35 de titolo 44, Usono-Kodo, devas evoluigi normojn kaj gvidliniojn por administraj agentejoj kiuj postulas adekvatajn sekureciniciatojn por uzo. de la cifereca juano sur Registaraj informteknologiaj aparatoj.
 
-&nbsp;
+ 
 
-SEC. 604. CERTIFICATE OF AUTHORITY TO COMMENCE BANKING.
+SEC. 604. ATESTO DE AŬTORITATO KOMENCI BANKADOJ.
 
-Section 5169 of the Revised Statutes (12 U.S.C. 27) is amended—
+Sekcio 5169 de la Reviziitaj Statutoj (12 USC 27) estas ŝanĝita—
 
-(1) in subsection (a), in the third sentence, by striking "to those of a trust company and activities related thereto." and inserting the following: “to—
+(1) en subsekcio (a), en la tria frazo, per frapado "al tiuj de fidinda kompanio kaj agadoj rilataj al ĝi." kaj enmetante la jenon: "al—
 
-"(1) those of a trust company and fiduciary activities related thereto; or
+"(1) tiuj de fidinda kompanio kaj fidindaj agadoj rilataj al ĝi; aŭ
 
-"(2) those of a depository institution required to maintain assets valued at not less than 100 percent of the deposits of the institution, for the purposes of issuing a payment stablecoin (as defined in section 9801 of title 31, United States Code) and activities related thereto consistent with subsection (c) of this section and without the requirement to maintain deposit insurance under the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.)."; and
+"(2) tiuj de deponeja institucio postulata por konservi aktivaĵojn taksitajn je ne malpli ol 100 procentoj de la deponejoj de la institucio, por eldonado de pagstabilmonero (kiel difinite en sekcio 9801 de titolo 31, Usono-Kodo) kaj agadoj ligitaj al tio kongruaj kun subfako (c) de ĉi tiu sekcio kaj sen la postulo konservi deponasekuron sub la Federacia Deponaĵasekuro-Leĝo (12 USC 1811 kaj sekvaj)."; kaj
 
-(2) by adding at the end the following:
+(2) aldonante ĉe la fino la jenon:
 
-"(c)(1) Notwithstanding any other provision of law, a National Bank Association described in subsection (a) may not engage in maturity transformation or facilitate consumer lending through third parties.
+"(c)(1) Malgraŭ ajna alia dispozicio de leĝo, Nacia Banka Asocio priskribita en subsekcio (a) povas ne okupiĝi pri maturectransformo aŭ faciligi konsumantpruntedonadon per triaj partioj.
 
-"(2) Restrictions on affiliate transactions applicable for insured depository institutions shall apply to such depository institutions.
+"(2) Limigoj pri filiaj transakcioj aplikeblaj por asekuritaj deponaj institucioj aplikiĝas al tiaj deponejoj.
 
-"(3) The Comptroller of the Currency, in close consultation with the Board of Governors of the Federal Reserve System and State bank supervisors, shall develop the following:
+"(3) La Kontrolisto de la Valuto, en proksima interkonsiliĝo kun la Estraro de Guberniestroj de la Federacia Rezerva Sistemo kaj Ŝtataj bankkontrolistoj, disvolvas la jenon:
 
-"(A) A simplified capital framework based on the following:
+"(A) Simpligita kapitalkadro bazita sur la sekvanta:
 
-"(i) Payment system risk.
+"(i) Risko pri pagsistemo.
 
-"(ii) The greater of—
+"(ii) La pli granda el—
 
-"(I) all projected costs of receivership; or
+"(mi) ĉiuj projekciitaj kostoj de restrukturigo; aŭ
 
-"(II) 3 years of projected operating expenses.
+"(II) 3 jaroj da projekciitaj operaciaj elspezoj.
 
-"(B) Appropriate standards for the depository institution to develop a community contribution plan, which may include consumer education, financial literacy, charitable donations, volunteerism, job training and internships or similar involvement.
+"(B) Taŭgaj normoj por la deponeja institucio por evoluigi komunuman kontribuoplanon, kiu povas inkluzivi konsumantedukadon, financan legopovon, bonfarajn donacojn, volontuladon, labortrejnadon kaj interndeĵorojn aŭ similan implikiĝon.
 
-"(C) A tailored recovery and resolution plan that would permit the orderly resumption of a safe and sound operation or the orderly wind-down of operations relating to a payment stablecoin in the event of distress.
+"(C) tajlorita reakiro kaj rezolucioplano, kiu permesus la bonordan rekomencon de sekura kaj solida operacio aŭ la bonordan finiĝon de operacioj rilataj al pago-stabilmonero en kazo de mizero.
 
-"(D) Tailored holding company supervision, as specified by section 15 of the Bank Holding Company Act of 1956.
+"(D) Tajlita holdingo-inspektado, kiel specifite per sekcio 15 el la Bank Holding Company Act de 1956.
 
-"(4) In designing the simplified capital framework required by paragraph (3)(A), the Comptroller of the Currency—
+"(4) Dum dezajnado de la simpligita kapitalkadro postulita de paragrafo (3)(A), la Kontrolisto de la Valuto—
 
-"(A) shall not subject depository institutions to the standards of section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371); and
+"(A) ne submetu deponajn instituciojn al la normoj de sekcio 171 de la Financa Stabileco-Leĝo de 2010 (12 USC 5371); kaj
 
-"(B) shall take into account the significant differences between the risks of the assets of the institution and those of depository institutions with assets that consist primarily of commercial or consumer loans.
+"(B) konsideru la signifajn diferencojn inter la riskoj de la aktivoj de la institucio kaj tiuj de deponaj institucioj kun aktivoj kiuj konsistas ĉefe el komercaj aŭ konsumpruntoj.
 
-"(d) The Comptroller of the Currency may promulgate rules to carry out this section.".
+"(d) La Kontrolisto de la Monero povas promulgi regulojn por plenumi ĉi tiun sekcion.".
 
-&nbsp;
+ 
 
-SEC. 605. HOLDING COMPANY SUPERVISION OF COVERED DEPOSITORY INSTITUTIONS.
+SEC. 605. HOLDING COMPANY SUPERVISADO DE KOVRITITAJ DEPONAJ INSTITUCIOJ.
 
-The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended—
+La Bank Holding Company Act de 1956 (12 USC 1841 kaj sekvaj) estas ŝanĝita—
 
-(1) in section 2(c) (12 U.S.C. 1841(c)), strike paragraph (2) and insert the following:
+(1) en sekcio 2 (c) (12 USC 1841 (c)), frapu paragrafon (2) kaj enigu la sekvantan:
 
-"(2) Exceptions.—The term ‘bank’ does not include a covered depository institution subject to tailored holding company supervision under section 15."; and
+"(2) Esceptoj.—La termino 'banko' ne inkluzivas kovritan deponejan institucion submetitan al tajlorita holdingo-kontrolo laŭ sekcio 15."; kaj
 
-(2) by adding at the end the following:
+(2) aldonante ĉe la fino la jenon:
 
-"SEC. 15. TAILORED HOLDING COMPANY SUPERVISION FOR COVERED DEPOSITORY INSTITUTIONS.
+"SEK. 15. ADJITA HOLDING-KOMPANIO-CONTROLADO POR KOVERITAJ DEPONAJ INSTITUCIOJ.
 
-"(a) Definitions.—In this section:
+"(a) Difinoj.—En ĉi tiu sekcio:
 
-"(1) Appropriate banking supervisor.—The term ‘appropriate banking supervisor’ means the Comptroller of the Currency, a State bank supervisor, in the case of a State member bank, the Board, or in the case of an insured bank, the Federal Deposit Insurance Corporation, as applicable.
+"(1) Taŭga bankkontrolisto.—La esprimo 'taŭga bankkontrolisto' signifas la Kontroliston de la Valuto, Ŝtata bankkontrolisto, en la kazo de Ŝtata membrobanko, la Estraro, aŭ en la kazo de asekurita banko, la Federacia Korporacio pri Deponaj Asekuro, laŭeble.
 
-"(2) Controlling interest.—The term ‘controlling interest’ means a circumstance when a person, directly or indirectly, or acting through or in concert with 1 or more persons-
+"(2) Kontrolintereso.—La esprimo "kontrolintereso" signifas cirkonstancon, kiam persono, rekte aŭ nerekte, aŭ agante per aŭ en koncerto kun 1 aŭ pli da personoj-
 
-"(A) owns, controls, or has the power to vote 25 percent or more of any class of voting securities of a covered depository institution;
+"(A) posedas, kontrolas aŭ havas la potencon voĉdoni 25 procentojn aŭ pli de iu ajn klaso de voĉdonaj valorpaperoj de kovrita deponeja institucio;
 
-"(B) controls in any manner the election of a majority of the directors of the covered depository institution; or
+"(B) kontrolas iel la elekton de plimulto de la direktoroj de la kovrita deponeja institucio; aŭ
 
-"(C) has the power to exercise a controlling influence over the management or policies of the covered depository institution.
+"(C) havas la potencon ekzerci kontrolantan influon al la administrado aŭ politikoj de la kovrita deponeja institucio.
 
-"(3) Covered depository institution.—The term ‘covered depository institution’ means a depository institution operating under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), or a substantially similar State law, other than a bank, as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), or an insured depository institution, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), which is exclusively engaged in issuing payment stablecoins, providing safekeeping, trust or custodial services, or activities incidental to the foregoing.
+"(3) Kovrita deponeja institucio.-La esprimo "kovrita deponeja institucio" signifas deponejan institucion funkciantan sub subsekcio (c) de sekcio 5169 de la Reviziitaj Statutoj (12 USC 27), aŭ sufiĉe simila Ŝtata leĝo, krom banko. , kiel difinite en sekcio 2 el la Bank Holding Company Act de 1956 (12 USC 1841), aŭ asekurita deponeja institucio, kiel difinite en sekcio 3 el la Federacia Deponejo-Asekuro-Leĝo (12 USC 1813), kiu estas ekskluzive engaĝita pri emisiado de pago stalmoneroj, provizante konservadon, fidon aŭ gardajn servojn, aŭ agadojn hazarde al la antaŭe.
 
-"(b) Controlling Interest.—A person with a controlling interest in a covered depository institution shall—
+"(b) Kontrolintereso.—Persono kun akcimajoro en kovrita deponeja institucio devas—
 
-"(1) submit annual audited financial statements and other information as otherwise reasonably required by the appropriate banking supervisor; and
+"(1) sendi ĉiujarajn reviziitajn financajn deklarojn kaj aliajn informojn kiel alie racie postulite de la taŭga bankkontrolisto; kaj
 
-"(2) provide a description of all affiliated or parent entities and their relationships with the institution, including annual updates.
+"(2) provizu priskribon de ĉiuj filiaj aŭ gepatra entoj kaj iliaj rilatoj kun la institucio, inkluzive de ĉiujaraj ĝisdatigoj.
 
-"(c) Tax Allocation Agreement.—The appropriate banking supervisor may require a legal entity with a controlling interest in a covered depository institution to execute a tax allocation agreement with the institution that—
+"(c) Interkonsento pri Imposto-Asigno.—La konvena banka kontrolisto povas postuli juran enton kun akcimajoro en kovrita deponeja institucio plenumi impost-assignan interkonsenton kun la institucio kiu—
 
-"(1) expressly states that an agency relationship exists between the person and the institution with respect to tax assets generated by the institution, and that the assets are held in trust by the person for the benefit of the institution and will be promptly remitted to the institution; and
+"(1) eksplicite deklaras ke agentejrilato ekzistas inter la persono kaj la institucio kun respekto al impostaj aktivoj generitaj fare de la institucio, kaj ke la aktivaĵoj estas tenitaj en fido fare de la persono por la avantaĝo de la institucio kaj estos senprokraste resenditaj al la institucio; kaj
 
-"(2) may provide that the amount and timing of any payments or refunds to the institution by the person should be no less favorable than if the institution were a separate taxpayer.
+"(2) povas disponigi, ke la kvanto kaj tempo de iuj pagoj aŭ repagoj al la institucio de la persono estu ne malpli favoraj ol se la institucio estus aparta impostpaganto.
 
-"(d) Prohibition on Controlling Interests.—A person that is a commercial firm, as defined in section 602 of the Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010 (12 U.S.C. 1815 note), may not obtain a controlling interest in a covered depository institution.
+"(d) Malpermeso pri Kontrolaj Interesoj.—Persono kiu estas komerca firmao, kiel difinite en sekcio 602 de la Banko kaj Savings Association Holding Company kaj Depository Institution Regulatory Improvements Act de 2010 (12 USC 1815 noto), eble ne akiras kontrolintereso en kovrita deponeja institucio.
 
-"(e) Public Interest.—If the appropriate banking supervisor finds that it is in the public interest and has reasonable cause to believe it is necessary to protect the customers of a covered depository institution, the supervisor may—
+"(e) Publika Intereso.—Se la konvena bankkontrolisto trovas ke ĝi estas en la ĝenerala intereso kaj havas akcepteblan kialon kredi ke estas necese protekti la klientojn de kovrita deponeja institucio, la kontrolisto povas—
 
-"(1) conduct an examination of a legal entity with a controlling interest in a covered depository institution or otherwise require information from the person; and
+"(1) fari ekzamenon de jura unuo kun akcimajoro en kovrita deponeja institucio aŭ alie postulas informojn de la persono; kaj
 
-"(2) require a person with a controlling interest in a covered depository institution to divest or sever their relationship with the institution, if necessary to maintain safety and soundness.".
+"(2) postulas personon kun akcimajoro en kovrita deponeja institucio senigi aŭ interrompi ilian rilaton kun la institucio, se necese konservi sekurecon kaj solidecon. ".
 
-&nbsp;
+ 
 
-SEC. 606. IMPLEMENTATION RULES TO PRESERVE ADEQUATE COMPETITION IN PAYMENT STABLECOINS.
+SEC. 606. Efektivigaj reguloj por konservi adekvatan konkurencon en pagoj.
 
-(a) In General.—The application of a non-depository trust company or the holder of a State license that only persons engaged in digital asset activities may obtain, which was chartered or issued under the laws of a State or the National Bank Act before the date of enactment of this Act, to receive a charter as a depository institution and to operate under subsection (c) of section 5169 of the Revised Statutes (12 U.S.C. 27), as added by section 604 of this Act, shall be decided upon by the Comptroller of the Currency before an application for a charter to operate under that section from another entity that is filed on or after the date of enactment of this Act.
+(a) Ĝenerale.—La apliko de ne-deponeja fidinda kompanio aŭ la posedanto de Ŝtata licenco, kiun nur personoj okupiĝantaj pri ciferecaj aktivaĵoj povas akiri, kiu estis ĉartita aŭ eldonita laŭ la leĝoj de Ŝtato aŭ la Nacia Banka Leĝo. antaŭ la dato de leĝigo de ĉi tiu Ago, ricevi ĉarton kiel deponeja institucio kaj funkcii sub subsekcio (c) de sekcio 5169 el la Reviziitaj Statutoj (12 USC 27), kiel aldonite per sekcio 604 de ĉi tiu Ago, estos decidita. sur de la Kontrolisto de la Valuto antaŭ peto por ĉarto funkcii sub tiu sekcio de alia unuo kiu estas arkivita en aŭ post la dato de leĝigo de ĉi tiu Ago.
 
-(b) Application.—The application of a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1853(a)), chartered before the date of enactment of this Act to become a State member bank in the Federal Reserve System or for access to Federal Reserve services under section 11A of the Federal Reserve Act (12 U.S.C. 248a) shall be decided upon by the Board of Governors of the Federal Reserve System, or a Federal Reserve bank, as applicable, before any application to become a State member bank or for Federal Reserve services from any other entity which seeks to operate as a covered depository institution and which is filed on or after the date of enactment of this Act.
+(b) Apliko.—La apliko de kovrita deponeja institucio, kiel difinite en sekcio 15 (a) de la Bank Holding Company Act de 1956 (12 USC 1853 (a)), ĉartita antaŭ la dato de leĝigo de ĉi tiu Ago por iĝi Ŝtata membrobanko en la Federacia Rezerva Sistemo aŭ por aliro al Federacia Rezervservoj sub sekcio 11A de la Federacia Rezerva Leĝo (12 USC 248a) estos decidita fare de la Estraro de Guberniestroj de la Federacia Rezerva Sistemo, aŭ Federacia Rezerva banko, kiel aplikebla, antaŭ ajna peto iĝi Ŝtata membrobanko aŭ por Federal Reserve-servoj de iu alia unuo kiu celas funkcii kiel kovrita deponeja institucio kaj kiu estas arkivita en aŭ post la dato de leĝigo de ĉi tiu Ago.
 
-(c) Decision.—The applications described in subsections (a) and (b) of this section shall be decided upon by the appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) or Federal Reserve bank, as applicable, before an insured depository institution in operation before the enactment date of this Act may issue a payment stablecoin in accordance with section 722A of the Gramm-Leach Bliley Act, as added by section 601 of this Act.
+(c) Decido.—La aplikoj priskribitaj en subsekcioj (a) kaj (b) de ĉi tiu sekcio estos deciditaj de la konvena Federacia banka agentejo (kiel difinite en sekcio 3 de la Federala Deponaĵasekuro-Leĝo (12 USC 1813)) aŭ Banko de la Federacia Rezervo, kiel aplikebla, antaŭ asekurita deponeja institucio funkcianta antaŭ la eniĝo-dato de ĉi tiu Ago povas eldoni pagstabilmonon laŭ sekcio 722A de la Gramm-Leach Bliley-Leĝo, kiel aldonite de sekcio 601 de ĉi tiu Ago.
 
-&nbsp;
+ 
 
-SEC. 607. FINANCIAL CRIMES ENFORCEMENT NETWORK INNOVATION LABORATORY.
+SEC. 607. LABORATORIO DE INNOVAD RETO DE FINANCAJ KRIMOJ.
 
-Section 310 of title 31, United States Code, is amended by adding at the end the following:
+Sekcio 310 de titolo 31, Usona Kodo, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"(m) Innovation Laboratory.—
+"(m) Noviga Laboratorio.—
 
-"(1) In general.—There is established within the Financial Crimes Enforcement Network an Innovation Laboratory to promote regulatory dialogue, data sharing between the Financial Crimes Enforcement Network and financial companies, and an assessment of potential changes in law, rules, or policies to facilitate the appropriate supervision of financial technology and the laws under the jurisdiction of the agency.
+"(1) Ĝenerale.—Estas establita ene de la Reto pri Devigo de Financaj Krimoj, Laboratorio pri Novigado por antaŭenigi reguligan dialogon, kundividon de datumoj inter la Reto pri Devigo de Financaj Krimoj kaj financaj kompanioj, kaj taksado de eblaj ŝanĝoj en leĝo, reguloj aŭ politikoj. faciligi la taŭgan inspektadon de financa teknologio kaj la leĝojn sub la jurisdikcio de la agentejo.
 
-"(2) Chief innovation officer.—The innovation officer appointed under section 6208 of the Anti-Money Laundering Act of 2020 (31 U.S.C. 5311 note) by the Director of the Financial Crimes Enforcement Network shall manage the Innovation Laboratory.
+"(2) Ĉefo pri noviga oficiro.—La noviga oficiro nomumita laŭ sekcio 6208 de la Kontraŭ-Monlavado-Leĝo de 2020 (31 USC 5311 noto) fare de la Direktoro de la Financkrimoj-Devigo-Reto administros la Novigadon-Laboratorion.
 
-"(3) Duties.—The Innovation Laboratory, as appropriate, shall study changes in financial technology and make recommendations to Congress, the Secretary, and the Director for appropriate changes in laws, rules, or policies that can more effectively facilitate the supervision of financial technology with respect to the laws under the jurisdiction of the Financial Crimes Enforcement Network, including digital assets, distributed ledger technology and decentralized finance.
+"(3) Devoj.—La Laboratorio pri Novigado, laŭ konvene, studas ŝanĝojn en financa teknologio kaj faros rekomendojn al la Kongreso, la Sekretario kaj la Direktoro por taŭgaj ŝanĝoj en leĝoj, reguloj aŭ politikoj kiuj povas pli efike faciligi la superrigardon de financa teknologio kun respekto al la leĝoj sub la jurisdikcio de la Financial Crimes Enforcement Network, inkluzive de ciferecaj aktivoj, distribuita ĉeflibroteknologio kaj malcentralizita financo.
 
-"(4) Pilot projects.—The Innovation Laboratory, as appropriate, shall conduct pilot projects with financial companies to more effectively facilitate the supervision of financial technology, consistent with applicable law.".
+"(4) Pilotprojektoj.—La Innovation Laboratory, kiel konvene, faros pilotprojektojn kun financaj kompanioj por pli efike faciligi la inspektadon de financa teknologio, konforme kun aplikebla leĝo.".
 
-&nbsp;
+ 
 
-# TITLE VII—RESPONSIBLE BANKING INNOVATION
+# TITOLO VII — RESPONDECA BANKINNOVADO
 
-SEC. 701. STUDY ON USE OF DISTRIBUTED LEDGER TECHNOLOGY FOR REDUCTION OF RISK IN DEPOSITORY INSTITUTIONS.
+SEC. 701. TUDO PRI UZADO DE DISTRIBUITA LEDGER-TEKNOLOGIO POR RDUKTADO DE RISKO EN DEPONAJ INSTITUCIOJ.
 
-Not later than 180 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall complete a study and submit to the Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report regarding the manner in which distributed ledger technology may reduce risk for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), including settlement risk, operational risk and capital requirements.
+Ne pli malfrue ol 180 tagojn post la dato de enskribo de ĉi tiu Ago, la Estraro de Guberniestroj de la Federacia Rezerva Sistemo devas kompletigi studon kaj submeti al la Komitato pri Bankado, Loĝado kaj Urbaj Aferoj de la Senato kaj la Komitato pri Financaj Servoj de la Reprezentantĉambro raporto koncerne la manieron en kiu distribuita ĉeflibroteknologio povas redukti riskon por deponejoj, kiel difinite en sekcio 19 (b) (1) de la Federacia Rezerva Leĝo (12 USC 461 (b) (1)), inkluzive de kompromiso. risko, operacia risko kaj kapitalpostuloj.
 
-&nbsp;
+ 
 
-SEC. 702. ELIGIBILITY FOR FEDERAL RESERVE SERVICES TO DEPOSITORY INSTITUTIONS.
+SEC. 702. KELEGIBLECO POR FEDERALAJ RESERVOJ AL DEPONAJ INSTITUCIOJ.
 
-(a) Findings.—Congress finds the following:
+(a) Trovoj.—La Kongreso trovas la jenon:
 
-(1) Final settlement of transactions in central bank money reduces risk in the financial system, including through the reduction of counterparty exposure.
+(1) Fina aranĝo de transakcioj en centra banka mono reduktas riskon en la financa sistemo, inkluzive per la redukto de kontraŭpartia eksponiĝo.
 
-(2) Digital assets settle with finality in seconds or minutes, whereas traditional financial transactions may take days to settle.
+(2) Ciferecaj aktivoj aranĝas definitive en sekundoj aŭ minutoj, dum tradiciaj financaj transakcioj povas daŭri tagojn por aranĝi.
 
-(3) This mismatch in the settlement window of digital assets and traditional financial assets creates risk in the economy that may be reduced through the ability of depository institutions to simultaneously conduct digital asset transactions and settle, with finality, the United States dollar component of these transactions.
+(3) Ĉi tiu misagordo en la fiksa fenestro de ciferecaj aktivoj kaj tradiciaj financaj aktivoj kreas riskon en la ekonomio, kiu povas esti reduktita per la kapablo de deponejoj por samtempe fari transakciojn pri ciferecaj aktivoj kaj aranĝi, definitive, la usonan dolaran komponanton de ĉi tiuj. transakcioj.
 
-(4) The Federal Reserve Act specifies that a depository institution, as defined in section 19(b)(1) of that Act (12 U.S.C. 461(b)(1)), upon receiving a charter from the Office of the Comptroller of the Currency, National Credit Union Administration or State bank supervisor, is required to be made available services from Federal Reserve banks under section 11A of the Federal Reserve Act (12 U.S.C. 248a), including currency and coin services, wire transfer services, automated clearinghouse services and settlement services.
+(4) La Federacia Rezerva Leĝo precizigas ke deponeja institucio, kiel difinite en sekcio 19 (b) (1) de tiu Ago (12 USC 461 (b) (1)), post ricevado de ĉarto de la Oficejo de la Kontrolisto de la Valuto, National Credit Union Administration aŭ Ŝtata bankinspektisto, estas postulataj por esti disponigitaj servoj de Federacia Rezervbankoj sub sekcio 11A de la Federacia Rezerva Leĝo (12 USC 248a), inkluzive de valuto- kaj monerservoj, teletransiga servoj, aŭtomatigitaj klarigservoj. kaj setlejservoj.
 
-(5) Numerous Federal courts have found that the provision of services to depository institutions under section 11A of the Federal Reserve Act (12 U.S.C. 248a) is a ministerial duty imposed by Congress with respect to all depository institutions.
+(5) Multnombraj Federaciaj tribunaloj trovis, ke la liverado de servoj al deponejoj sub sekcio 11A de la Federacia Rezerva Leĝo (12 USC 248a) estas ministeria devo trudita de la Kongreso rilate al ĉiuj deponejoj.
 
-(6) The Board of Governors of the Federal Reserve System has long interpreted the Federal Reserve Act to mean that the Federal Reserve banks must provide services to all depository institutions, noting that it has a duty "to ensure the provision of payment services to all depository institutions on an equitable basis, and to do so in an atmosphere of competitive fairness".
+(6) La Estraro de Guberniestroj de la Federacia Rezerva Sistemo longe interpretis la Federacian Rezervan Leĝon por signifi, ke la Federalaj Rezervaj bankoj devas provizi servojn al ĉiuj deponejoj, rimarkante, ke ĝi havas la devon "certigi la provizon de pagaj servoj al ĉiuj. deponejoj sur justa bazo, kaj fari tion en atmosfero de konkurenciva justeco".
 
-(7) The Federal Reserve banks have, on occasion, provided services to non-depository, non-insured institutions without appropriate statutory authority.
+(7) La bankoj de la Federacia Rezervo foje provizis servojn al ne-deponaj, ne-asekuritaj institucioj sen taŭga laŭleĝa aŭtoritato.
 
-(8) Certain novel legal positions that conflict with or frustrate these precedents are not in the best traditions of the Federal Reserve Act, our dual banking system, and the imperatives of Congress.
+(8) Iuj novaj juraj pozicioj, kiuj konfliktas aŭ frustras ĉi tiujn precedencojn, ne estas en la plej bonaj tradicioj de la Federacia Rezerva Leĝo, nia duobla banka sistemo kaj la imperativoj de la Kongreso.
 
-(9) The statutory independence of the Board of Governors and the Federal Reserve banks under the Constitution of the United States is properly rooted in absolute fidelity to the laws enacted by Congress.
+(9) La laŭleĝa sendependeco de la Estraro de Guberniestroj kaj la Bankoj de la Federacia Rezervo sub la Konstitucio de Usono estas ĝuste radikita en absoluta fideleco al la leĝoj dekretitaj de la Kongreso.
 
-(10) It is appropriate for Congress to reaffirm its existing statutory intent to ensure that all depository institutions may access services under the Federal Reserve Act "on an equitable basis, and to do so in an atmosphere of competitive fairness".
+(10) Estas konvene ke la Kongreso reaserti sian ekzistantan laŭleĝan intencon certigi, ke ĉiuj deponejoj povas aliri servojn laŭ la Federacia Rezerva Leĝo "sur justa bazo, kaj fari tion en atmosfero de konkurenciva justeco".
 
-(b) Pricing of Services.—Section 11A of the Federal Reserve Act (12 U.S.C. 248a) is amended by adding at the end the following:
+(b) Prezoj de Servoj.—Section 11A de la Federacia Rezerva Leĝo (12 USC 248a) estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"(f) A Federal Reserve bank shall provide a segregated balance account to a depository institution upon the request of any institution that receives services under this section.".
+"(f) Banko de la Federacia Rezervo devas disponigi apartigitan bilanconton al deponeja institucio laŭ la peto de iu institucio kiu ricevas servojn sub ĉi tiu sekcio.".
 
-(c) Deposits; Exchange and Collection; Member and Nonmember Banks or Other Depository Institutions; Charges.—Section 13 of the Federal Reserve Act (12 U.S.C. 342) is amended to read as follows:
+(c) Deponejoj; Interŝanĝo kaj Kolekto; Membroj kaj Nemembraj Bankoj aŭ Aliaj Deponaj Institucioj; Akuzoj.—Section 13 de la Federal Reserve Act (12 USC 342) estas ŝanĝita por legi jene:
 
-"Any Federal Reserve bank shall receive from any of its member banks or other depository institutions, and from the United States, deposits of current funds in lawful money, national-bank notes, Federal reserve notes, or checks, and drafts, payable upon presentation or other items, and also, for collection, maturing notes and bills; or, solely for purposes of exchange or of collection, shall receive from other Federal Reserve banks deposits of current funds in lawful money, national-bank notes, or checks upon other Federal Reserve banks, and checks and drafts, payable upon presentation within its district or other items, and maturing notes and bills payable within its district; or, solely for the purposes of exchange or of collection, shall receive from any non-member bank or trust company or other depository institution deposits of current funds in lawful money, national-bank notes, Federal reserve notes, checks and drafts payable upon presentation or other items, or maturing notes and bills: Provided, Such nonmember bank or trust company or other depository institutions maintains with the Federal Reserve bank of its district a balance in such amount as the Board determines taking into account items in transit, services provided by the Federal Reserve bank, and other factors as the Board may deem appropriate: Provided further, That nothing in this or any other section of this Act shall be construed as prohibiting a member or nonmember bank or other depository institution from making reasonable charges, to be determined and regulated by the Board of Governors, but in no case to exceed 10 cents per $100 or fraction thereof, based on the total of checks and drafts presented at any one time, for collection or payment of checks and drafts and remission therefor by exchange or otherwise; but no such charges shall be made against the Federal Reserve banks.".
+sed en neniu kazo superi 10 cendojn per 100 USD aŭ frakcio de tio, surbaze de la totalo de ĉekoj kaj biletoj prezentitaj iam ajn, por kolektado aŭ pago de ĉekoj kaj biletoj kaj remisio por tio per interŝanĝo aŭ alie; sed neniuj tiaj akuzoj devas esti faritaj kontraŭ la Federal Reserve-bankoj. ".
 
-&nbsp;
+ 
 
-SEC. 703. ROUTING TRANSIT NUMBER ISSUANCE.
+SEC. 703. VOTIGA TRANSITA NUMERO-ELISO.
 
-Not later than 2 years after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall assume responsibility for issuing routing transit numbers to depository institutions for all purposes relating to the clearing of transactions and the services required to be made available to all depository institutions under section 11A of the Federal Reserve Act (12 U.S.C. 248a).
+Ne pli malfrue ol 2 jarojn post la dato de ekvalidiĝo de ĉi tiu Ago, la Estraro de Guberniestroj de la Federacia Rezerva Sistemo devas supozi respondecon por eldonado de vojaj transitnombroj al deponejoj por ĉiuj celoj rilate al la malplenigo de transakcioj kaj la servoj necesaj por esti faritaj. havebla al ĉiuj deponejoj sub sekcio 11A de la Federacia Rezerva Leĝo (12 USC 248a).
 
-&nbsp;
+ 
 
-SEC. 704. CLARIFYING APPLICATION REVIEW TIMES WITH RESPECT TO THE FEDERAL BANKING AGENCIES.
+SEC. 704. KLARIGO DE LA TEMPOJ DE RECAZO DE APLIKAĴOJ RIGUME AL LA FEDERALAJ BANKAJ GENIOJ.
 
-Section 343 of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4807) is amended by striking subsection (a) and inserting the following:
+Sekcio 343 el la Riegle Komunuma Disvolviĝo kaj Reguliga Plibonigo-Leĝo de 1994 (12 USC 4807) estas ŝanĝita frapante subfakon (a) kaj enigante la sekvantan:
 
-"(a) Final Action.—
+"(a) Fina Ago.—
 
-"(1) Definition.—In this subsection, the term ‘completed application’—
+"(1) Difino.—En ĉi tiu subsekcio, la esprimo 'kompletigita kandidatiĝo'—
 
-"(A) means the information requested by the Federal banking agency at the outset of an application through application forms or similar means; and
+"(A) signifas la informojn petitajn de la Federacia banka agentejo komence de kandidatiĝo per aliĝiloj aŭ similaj rimedoj; kaj
 
-"(B) does not include supplemental information requested by the agency after filing of an application.
+"(B) ne inkluzivas suplementajn informojn petitajn de la agentejo post prezento de kandidatiĝo.
 
-"(2) Action.—Each Federal banking agency, including Federal Reserve banks, shall take final action on any application to the agency before the end of the 1-year period beginning on the date on which a completed application is received by the agency.
+"(2) Ago.—Ĉiu Federacia banka agentejo, inkluzive de bankoj de la Federacia Rezervo, devas preni finan agon pri iu ajn kandidatiĝo al la agentejo antaŭ la fino de la 1-jara periodo komencanta en la dato, kiam kompleta kandidatiĝo estas ricevita de la agentejo. .
 
-"(b) Report.—Each Federal banking agency, including the Federal Reserve banks, shall annually report to Congress a list of the applications that have been pending for 9 months or longer since the date of the initial application filed by an applicant. Such list—
+"(b) Raporto.—Ĉiu Federacia banka agentejo, inkluzive de la bankoj de la Federacia Rezervo, devas ĉiujare raporti al la Kongreso liston de la petskriboj, kiuj atendis dum 9 monatoj aŭ pli longe ekde la dato de la komenca kandidatiĝo prezentita de kandidato. Tia listo-
 
-"(1) shall disclose the reason why the application has not yet been approved or denied by the Federal banking agency; and
+"(1) malkaŝos la kialon, kial la aplikaĵo ankoraŭ ne estis aprobita aŭ malaprobita de la Federacia banka agentejo; kaj
 
-"(2) shall not contain confidential supervisory information.".
+"(2) ne enhavas konfidencajn kontrolajn informojn.".
 
-&nbsp;
+ 
 
-SEC. 705. EXAMINATION STANDARDS FOR DIGITAL ASSET ACTIVITIES.
+SEC. 705. EKZAMENNORMOJ POR DIGITAJ ACTIVADOJ.
 
-(a) In General.—Not later than 18 months after the date of enactment of this Act, the Federal Financial Institutions Examination Council, in consultation with the Financial Crimes Enforcement Network, shall publish final guidance and examiner handbooks for depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), on the following topics related to digital assets:
+(a) Ĝenerale.—Ne pli malfrue ol 18 monatojn post la dato de ekvalidiĝo de ĉi tiu Leĝo, la Federaciaj Financaj Institucioj-Ekzamena Konsilio, interkonsiliĝinte kun la Financa Krima Devigo-Reto, publikigos finajn gvidajn kaj ekzamenajn manlibrojn por deponejoj, kiel estas difinitaj. en sekcio 19 (b) (1) de la Federacia Rezerva Leĝo (12 USC 461 (b) (1)), pri la sekvaj temoj ligitaj al ciferecaj aktivoj:
 
-(1) Anti-money laundering, customer identification, beneficial ownership, and sanctions compliance, including with respect to payment stablecoin activities and subsidiary value (as defined in section 9802(c) of title 31, United States Code).
+(1) Kontraŭ-monlavado, klientidentigo, profita proprieto, kaj sankciokonformeco, inkluzive de respekto al pagstabilaj agadoj kaj duavica valoro (kiel difinite en sekcio 9802 (c) de titolo 31, Usono-Kodo).
 
-(2) Custody.
+(2) Gardado.
 
-(3) Fiduciary and capital markets activities.
+(3) Fiduciaj kaj kapitalmerkataj agadoj.
 
-(4) Information technology standards.
+(4) Normoj pri informa teknologio.
 
-(5) Payment system risk.
+(5) Risko de pagsistemo.
 
-(6) Consumer protection.
+(6) Protekto de konsumantoj.
 
-(b) Final Guidance.—Not later than 18 months after the date of enactment of this Act, Securities and Exchange Commission and Commodity Futures Trading Commission, in consultation with the Financial Crimes Enforcement Network, shall publish final guidance and examiner handbooks relating to digital asset intermediaries regarding the topics described in paragraphs (1) and (4) of subsection (a).
+(b) Fina Gvidilo.—Ne pli malfrue ol 18 monatojn post la dato de promulgo de ĉi tiu Ago, Securities and Exchange Commission kaj Commodity Futures Trading Commission, interkonsiliĝinte kun la Financkrima Devigo-Reto, publikigos finajn gvidajn kaj ekzamenajn manlibrojn rilate al cifereca. valoraĵperantoj koncerne la temojn priskribitajn en alineoj (1) kaj (4) de subsekcio (a).
 
-&nbsp;
+ 
 
-SEC. 706. ASSET CUSTODY FOR DEPOSITORY INSTITUTIONS AND CERTAIN OTHER ENTITIES.
+SEC. 706. GARADO DE VALORIOJ POR DEPONAJ INSTITUCIOJ KAJ CERTAJ ALIAJ ENTIOJ.
 
-(a) Findings.—Congress finds the following:
+(a) Trovoj.—La Kongreso trovas la jenon:
 
-(1) The laws surrounding custody of financial assets is largely customary, uncodified, and poorly understood.
+(1) La leĝoj pri gardado de financaj havaĵoj estas plejparte kutimaj, nekodigitaj kaj malbone komprenataj.
 
-(2) Lack of uniformity amongst various jurisdictions’ laws relating to custody has largely not been addressed by regulators, can contribute to risk, and is producing uncertainty for innovators.
+(2) Manko de unuformeco inter la leĝoj de diversaj jurisdikcioj rilate al gardado plejparte ne estis traktita fare de reguligistoj, povas kontribui al risko, kaj produktas necertecon por novigantoj.
 
-(3) Codifying basic principles around custody of financial assets will reduce systemic risk, clearly define the rights and duties of both custodian and customer, and contribute to a more uniform and effective banking system.
+(3) Kodigado de bazaj principoj ĉirkaŭ gardado de financaj aktivoj reduktos ĉiean riskon, klare difinos la rajtojn kaj devojn de kaj gardisto kaj kliento, kaj kontribuos al pli unuforma kaj efika banka sistemo.
 
-(b) Definition.—In this section, the term "custody" means the safekeeping, servicing and management of customer financial assets, including currency, securities and commodities, on an off-balance sheet basis.
+(b) Difino.—En ĉi tiu sekcio, la esprimo "gardado" signifas la konservadon, servadon kaj administradon de klientaj financaj aktivoj, inkluzive de valuto, valorpaperoj kaj varoj, surbaze de ekster-bilanco.
 
-(c) Custody.—
+(c) Gardado.—
 
-(1) In general.—Except as provided in paragraph (2), custody of financial assets is accomplished by a bailment and established by a written customer agreement. Custody shall not be a fiduciary or trust activity unless the custodian is providing substantial discretionary services with respect to an account, including through investment advice or investment discretion, and the custodian owes a customer a higher standard of care or duty with respect to the customer of that account.
+(1) Ĝenerale.—Krom kiel antaŭvidite en paragrafo (2), gardado de financaj aktivoj estas plenumita per kaŭcio kaj establita per skriba klientinterkonsento. Gepatrorajto ne devas esti fidinda aŭ fidinda agado krom se la gardanto disponigas grandajn libervolajn servojn kun respekto al konto, inkluzive per investkonsilo aŭ investdiskreteco, kaj la gardanto ŝuldas al kliento pli altan normon de zorgo aŭ devo kun respekto al la kliento de. tiu konto.
 
-(2) Exception.—A custodian and customer may establish a legal relationship other than a bailment pursuant to a written customer agreement.
+(2) Escepto.—Gardanto kaj kliento povas establi juran rilaton krom kaŭcio laŭ skriba klientinterkonsento.
 
-(d) Proper Documentation.—A custodial account shall be properly documented in a customer agreement, with a clearly defined legal relationship between the custodian and customer. Custodial assets shall be properly identified and segregated from the assets of the custodian, with proper documentation of asset segregation.
+(d) Taŭga Dokumentado.—Kungardado devas esti konvene dokumentita en klienta interkonsento, kun klare difinita jura rilato inter la gardanto kaj kliento. Gardejaktivaĵoj devas esti konvene identigitaj kaj apartigitaj de la aktivoj de la gardanto, kun taŭga dokumentado de aktivaĵapartigo.
 
-(e) Not Assets or Liabilities.—Assets properly held in a custodial account under this section are not assets or liabilities of the custodian and shall be maintained on an off-balance sheet basis, including for the purpose of accounting treatment for the custodian and the customers of the custodian, notwithstanding the form in which the assets are maintained.
+(e) Ne Aktivoj aŭ Pasivoj.- Aktivoj konvene tenitaj en gardan konton sub ĉi tiu sekcio ne estas aktivoj aŭ pasivoj de la gardisto kaj devas esti konservitaj surbaze de eksterbilanco, inkluzive por la celo de kontada traktado por la gardisto kaj la klientoj de la gardisto, malgraŭ la formo en kiu la aktivoj estas konservitaj.
 
-(f) Applicability.—This section shall apply to depository institutions, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)), and non-depository trust companies chartered under section 5169 of the Revised Statutes (12 U.S.C. 27).
+(f) Aplikebleco.—Ĉi tiu sekcio aplikiĝos al deponaj institucioj, kiel difinite en sekcio 19 (b) (1) de la Federacia Rezerva Leĝo (12 USC 461 (b) (1)), kaj ne-deponaj fidindaj kompanioj ĉartitaj sub sekcio 5169 el la Reviziitaj Statutoj (12 USC 27).
 
-&nbsp;
+ 
 
-SEC. 707. REPUTATION RISK; REQUIREMENTS FOR ACCOUNT TERMINATION REQUESTS AND ORDERS.
+SEC. 707. REPUTACIA RISKO; POSTULOJ POR PETOJ KAJ MENDOJ DE KONTO TERMINO.
 
-(a) Reputation Risk.—An appropriate Federal banking agency may not formally or informally request or order a depository institution to terminate a specific customer account or group of customer accounts unless the agency has a valid reason for such request or order, consistent with subsections (b) and (c).
+(a) Reputacia Risko.—Taŭga Federacia banka agentejo ne rajtas formale aŭ neformale peti aŭ ordoni al deponeja institucio ĉesigi specifan klientkonton aŭ grupon de klientkontoj krom se la agentejo havas validan kialon por tia peto aŭ ordo, kongrua kun subsekcioj. (b) kaj (c).
 
-(b) No Restriction.—An appropriate Federal banking agency shall not restrict or discourage a depository institution from entering into or maintaining a banking relationship with a specific customer or group of customers based on reputation risk, including through the examinations and ratings of the depository institution.
+(b) Neniu Limigo.—Taŭga Federacia banka agentejo ne limigos aŭ malinstigas deponejan institucion eniri aŭ konservi bankan rilaton kun specifa kliento aŭ grupo de klientoj bazitaj sur reputaciorisko, inkluzive per la ekzamenoj kaj taksoj de la deponejo. institucio.
 
-(c) Treatment of National Security Threats.—If an appropriate Federal banking agency believes a specific customer or group of customers is, or acting as a conduit for, an entity which—
+(c) Traktado de Naciaj Sekurecaj Minacoj.—Se konvena Federacia banka agentejo opinias, ke specifa kliento aŭ grupo de klientoj estas, aŭ agas kiel kanalo por, ento kiu—
 
-(1) poses a threat to national security;
+(1) prezentas minacon al nacia sekureco;
 
-(2) is involved in terrorist financing;
+(2) estas implikita en terorista financado;
 
-(3) is an agency of the Government of Iran, North Korea, Syria, or any country listed from time to time on the State Sponsors of Terrorism list;
+(3) estas agentejo de la Registaro de Irano, Nord-Koreio, Sirio, aŭ iu ajn lando listigita de tempo al tempo en la listo de Ŝtataj Sponsoroj de Terorismo;
 
-(4) is located in, or is subject to the jurisdiction of, any country specified in paragraph (3); or
+(4) situas en, aŭ estas submetita al la jurisdikcio de iu ajn lando specifita en paragrafo (3); aŭ
 
-(5) does business with any entity described in paragraph (3) or (4), unless the appropriate Federal banking agency determines that the customer or group of customers has used due diligence to avoid doing business with that entity, such belief shall satisfy the requirement under subsection (a).
+(5) faras komercon kun iu ento priskribita en paragrafo (3) aŭ (4), krom se la konvena Federacia banka agentejo determinas ke la kliento aŭ grupo de klientoj uzis konvenan diligenton por eviti fari komercon kun tiu unuo, tia kredo kontentigos la postulo sub subsekcio (a).
 
-(d) Notice Requirement.—
+(d) Aviza Postulo.—
 
-(1) In general.—If an appropriate Federal banking agency formally requests or orders a depository institution to terminate a specific customer account or a group of customer accounts, the agency shall—
+(1) Ĝenerale.—Se taŭga Federacia banka agentejo formale petas aŭ ordonas al deponeja institucio ĉesigi specifan klientkonton aŭ grupon de klientkontoj, la agentejo devas—
 
-(A) provide such request or order to the institution in writing; and
+(A) skribe provizi tian peton aŭ ordon al la institucio; kaj
 
-(B) accompany such request or order with a written justification for why such termination is needed, including any specific laws or rules the agency believes are being violated by the customer or group of customers.
+(B) akompanu tian peton aŭ ordon kun skriba pravigo pri kial tia ĉesigo estas necesa, inkluzive de iuj specifaj leĝoj aŭ reguloj, kiujn la agentejo kredas, ke la kliento aŭ grupo de klientoj malobservas.
 
-(2) Justification requirement.—Consistent with subsection (b), the justification described in paragraph (1)(B) may not be based on reputation risk to the depository institution.
+(2) Pravigo-postulo.-Konsekvence kun subsekcio (b), la pravigo priskribita en paragrafo (1)(B) eble ne baziĝas sur reputaciorisko al la deponeja institucio.
 
-(e) Customer Notice.—
+(e) Klienta Avizo.—
 
-(1) Notice required.—Except as provided under paragraph (2) or as otherwise prohibited from being disclosed by law, if an appropriate Federal banking agency orders a depository institution to terminate a specific customer account or a group of customer accounts, the depository institution shall inform the specific customer or group of customers of the justification for the customer’s account termination described under subsection (b).
+(1) Avizo bezonata.—Krom kiel antaŭvidite sub paragrafo (2) aŭ kiel alie malpermesite esti malkaŝita perleĝe, se taŭga Federacia banka agentejo ordonas al deponeja institucio ĉesigi specifan klientkonton aŭ grupon de klientkontoj, la deponejo. institucio informas la specifan klienton aŭ grupon de klientoj pri la pravigo por la ĉesigo de la konto de la kliento priskribita sub subsekcio (b).
 
-(2) Notice prohibited.—
+(2) Avizo malpermesita.—
 
-(A) Notice prohibited in cases of national security.—If an appropriate Federal banking agency requests or orders a depository institution to terminate a specific customer account or a group of customer accounts based on a belief that the customer or customers pose a threat to national security, or are otherwise described under subsection (a)(2), neither the depository institution nor the appropriate Federal banking agency may inform the customer or customers of the justification for the customer’s account termination.
+(A) Avizo malpermesita en kazoj de nacia sekureco.—Se konvena Federacia banka agentejo petas aŭ ordonas al deponeja institucio ĉesigi specifan klientkonton aŭ grupon de klientkontoj surbaze de kredo, ke la kliento aŭ klientoj prezentas minacon al nacia. sekureco, aŭ estas alie priskribitaj sub subsekcio (a)(2), nek la deponeja institucio nek la konvena Federacia banka agentejo povas informi la klienton aŭ klientojn pri la pravigo por la konto-fino de la kliento.
 
-(B) Notice prohibited in other cases.—If an appropriate Federal banking agency determines that the notice required under paragraph (1) may interfere with an authorized criminal investigation, neither the depository institution nor the appropriate Federal banking agency may inform the specific customer or group of customers of the justification for the customer’s account termination.
+(B) Avizo malpermesita en aliaj kazoj.—Se konvena Federacia banka agentejo determinas, ke la avizo postulata sub paragrafo (1) povas malhelpi aprobitan kriman enketon, nek la deponeja institucio nek la konvena Federacia banka agentejo povas informi la specifan klienton aŭ grupo de klientoj de la pravigo por la konto de la kliento ĉesigo.
 
-(f) Reporting Requirement.—Each appropriate Federal banking agency shall issue an annual report to Congress stating—
+(f) Raporta Postulo.—Ĉiu konvena Federacia banka agentejo elsendos jaran raporton al la Kongreso deklarante—
 
-(1) the aggregate number of specific customer accounts that the agency requested or ordered a depository institution to terminate during the previous year; and
+(1) la entuta nombro da specifaj klientkontoj, kiujn la agentejo petis aŭ ordonis al deponeja institucio ĉesigi dum la antaŭa jaro; kaj
 
-(2) the legal authority on which the agency relied in making such requests and orders and the frequency on which the agency relied on each such authority.
+(2) la laŭleĝa aŭtoritato sur kiu la agentejo fidis en farado de tiaj petoj kaj ordoj kaj la ofteco sur kiu la agentejo fidis je ĉiu tia aŭtoritato.
 
-(g) Definitions.—In this section:
+(g) Difinoj.—En ĉi tiu sekcio:
 
-(1) Appropriate federal banking agency.—The term "appropriate Federal banking agency" means—
+(1) Taŭga federacia banka agentejo.—La esprimo "taŭga Federacia banka agentejo" signifas—
 
-(A) the appropriate Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); and
+(A) la konvena Federacia banka agentejo, kiel difinite en sekcio 3 de la Federacia Deponejo-Asekuro-Leĝo (12 USC 1813); kaj
 
-(B) the National Credit Union Administration, in the case of an insured credit union.
+(B) la National Credit Union Administration, en la kazo de asekurita kreditasocio.
 
-(2) Depository institution.—The term "depository institution" has the meaning given the term in section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)).
+(2) Deponeja institucio.—La esprimo "deponeja institucio" havas la signifon donitan la esprimon en sekcio 19 (b) (1) de la Federacia Rezerva Leĝo (12 USC 461 (b) (1) (A)).
 
-&nbsp;
+ 
 
-SEC. 708. CONFORMING AMENDMENTS.
+SEC. 708. KONFORMAJ AMENDOJ.
 
-(a) Federal Deposit Insurance Act.—Section 12 of the Federal Deposit Insurance Act (12 U.S.C. 1822) is amended by adding at the end the following:
+(a) Federacia Deponasekuro-Leĝo.—Section 12 de la Federacia Deponasekuro-Leĝo (12 USC 1822) estas ŝanĝita aldonante ĉe la fino la jenon:
 
-"(g) Appointment of Receiver.—
+"(g) Nomumo de Ricevanto.—
 
-"(1) Definition.—In this subsection, the term ‘covered depository institution’ has the meaning given the term in section 15(a) of the Bank Holding Company Act of 1956.
+"(1) Difino.—En ĉi tiu subsekcio, la esprimo "kovrita deponeja institucio" havas la signifon donitan la esprimon en sekcio 15 (a) de la Bank Holding Company Act de 1956.
 
-"(2) Appointment.—The Corporation may be appointed as receiver of a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956.
+"(2) Nomumo.—La Korporacio povas esti nomumita kiel ricevanto de kovrita deponeja institucio, kiel difinite en sekcio 15(a) de la Bank Holding Company Act de 1956.
 
-"(3) Premiums.—A covered depository institution may not be charged deposit insurance premiums for the purpose of this subsection, but the Corporation may use the capital of the covered depository institution to fund the costs of the receivership.
+"(3) Superpagoj.—Al kovrita deponeja institucio eble ne estas ŝargita deponeja asekuro por la celo de ĉi tiu subsekcio, sed la Korporacio povas uzi la kapitalon de la kovrita deponeja institucio por financi la kostojn de la restrukturigo.
 
-"(4) Rules.—The Corporation may promulgate rules to carry out this subsection, which shall—
+"(4) Reguloj.—La Korporacio povas promulgi regulojn por plenumi ĉi tiun subsekcion, kiu devas—
 
-"(A) be substantially consistent with the rules for receivership of an insured depository institution; and
+"(A) estu konsiderinde kongrua kun la reguloj por administrado de asekurita deponeja institucio; kaj
 
-"(B) account for the limited activities, capital, and the required tailored recovery and resolution plan of the covered depository institution.".
+"(B) respondecas pri la limigitaj agadoj, kapitalo, kaj la postulata tajlorita reakiro kaj rezolucioplano de la kovrita deponeja institucio.".
 
-(b) Federal Reserve Act.—The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended—
+(b) Federacia Rezerva Leĝo.—La Federacia Rezerva Leĝo (12 USC 221 kaj sekvaj) estas ŝanĝita—
 
-(1) in section 19(b)(1)(A) (12 U.S.C. 461(b)(1)(A))—
+(1) en sekcio 19 (b) (1) (A) (12 USC 461 (b) (1) (A))—
 
-(A) in clause (vi), by striking "and" at the end;
+(A) en klaŭzo (vi), per frapado "kaj" ĉe la fino;
 
-(B) in clause (vii), by striking the period at the end and inserting "; and"; and
+(B) en klaŭzo (vii), frapante la punkton ĉe la fino kaj enmetante "; kaj"; kaj
 
-(C) by adding at the end the following:
+(C) aldonante ĉe la fino la jenon:
 
-"(viii) a covered depository institution, as defined in section 15(a) of the Bank Holding Company Act of 1956."; and
+"(viii) kovrita deponeja institucio, kiel difinite en sekcio 15 (a) de la Bank Holding Company Act de 1956. "; kaj
 
-(2) in the first undesignated paragraph of section 9 (12 U.S.C. 321), in the first sentence, by inserting ", covered depository institutions, as defined in section 15(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1853(a))," after “Plan banks”.
+(2) en la unua nenomita paragrafo de sekcio 9 (12 USC 321), en la unua frazo, per enmetado ", kovritaj deponej institucioj, kiel difinite en sekcio 15 (a) de la Bank Holding Company Act de 1956 (12 USC 1853). (a))," post "Planbankoj".
 
-&nbsp;
+ 
 
-# TITLE VIII—RESPONSIBLE INTERAGENCY COORDINATION
+# TITOLO VIII — RESPONDECA INTERAGENTA KUNDADO
 
-SEC. 801. TIMELINE FOR INTERPRETIVE GUIDANCE ISSUED BY FEDERAL FINANCIAL AGENCIES.
+SEC. 801. TEMPOLINIO POR INTERPRETA GVIDIO ELEDONITA DE FEDERALAJ FINANCAJ INGENCIOJ.
 
-(a) In General.—Title 31, United States Code, is amended by adding after chapter 98, as added by section 101(a) of this Act, the following:
+(a) Ĝenerale.—Titolo 31, Usono-Kodo, estas ŝanĝita per aldonado post ĉapitro 98, kiel aldonite de sekcio 101(a) de ĉi tiu Ago, la jenon:
 
-"CHAPTER 99—RESPONSIBLE INTERAGENCY COORDINATION
+"ĈAPITRO 99 — RESPONDECA INTERAGENTA KORDINADO
 
-"Sec.
+"Sek.
 
-"9901. Timeline for interpretive guidance issues by Federal financial agencies.
+"9901. Templinio por interpretaj gvidaj aferoj de Federaciaj financaj agentejoj.
 
-"9902. Interstate sandbox activities.
+"9902. Interŝtataj sablokesto-agadoj.
 
-"9901. Timeline for interpretive guidance issues by Federal financial agencies
+"9901. Templinio por interpretaj gvidaj aferoj de Federaciaj financaj agentejoj
 
-"(a) In General.—In this section:
+"(a) Ĝenerale.—En ĉi tiu sekcio:
 
-"(1) Federal financial regulator.—The term ‘Federal financial regulator’ means—
+"(1) Federacia financa reguligisto.—La esprimo 'Federacia financa reguligisto' signifas—
 
-"(A) Board of Governors of the Federal Reserve System and the Federal Reserve banks;
+"(A) Estraro de Guberniestroj de la Federacia Rezerva Sistemo kaj la Bankoj de la Federacia Rezervo;
 
-"(B) Commodity Futures Trading Commission;
+"(B) Komisiono pri Komercaj Estontecoj pri Varo;
 
-"(C) Department of the Treasury;
+"(C) Sekcio de la Fisko;
 
 "(D) Federal Deposit Insurance Corporation;
 
 "(E) Federal Housing Finance Agency;
 
-"(F) National Credit Union Administration;
+"(F) Nacia Kredita Socio-Administracio;
 
-"(G) Office of the Comptroller of the Currency;
+"(G) Oficejo de la Kontrolisto de la Valuto;
 
-"(H) Consumer Financial Protection Bureau; and
+"(H) Konsumanta Financa Protekta Oficejo; kaj
 
-"(I) Securities and Exchange Commission.
+"(mi) Valorpaperoj kaj Interŝanĝkomisiono.
 
-"(2) Requesting person.—The term ‘requesting person’—
+"(2) Petantulo.—La termino 'petanta persono'—
 
-"(A) means any entity that is required to be chartered, licensed, supervised or registered by that agency; and
+"(A) signifas ajnan enton, kiu devas esti ĉartita, licencita, kontrolita aŭ registrita de tiu agentejo; kaj
 
-"(B) includes State agencies and self-regulatory organizations.
+"(B) inkluzivas ŝtatajn agentejojn kaj memreguligajn organizojn.
 
-"(b) Response.—Not later than 180 days after filing a written request for individualized interpretive guidance with respect to the application of a statute, rule or policy under the jurisdiction of a Federal financial regulator, the agency shall provide a final, complete and written response to the requesting person. This subsection shall not apply to requests for guidance that the Federal financial regulator determine lack substance.
+"(b) Respondo.—Ne pli malfrue ol 180 tagojn post arkivado de skribpeto por individuigita interpreta konsilado koncerne la aplikon de statuto, regulo aŭ politiko sub la jurisdikcio de Federacia financa reguligisto, la agentejo disponigu finan, kompletan. kaj skriba respondo al la petanta persono.Ĉi tiu subsekcio ne aplikiĝas al petoj por gvidado, kiujn la Federacia financa reguligisto determinas mankon de substanco.
 
-"(c) Other Matters.—With respect to matters delegated or otherwise under the jurisdiction of self-regulatory organizations, including national securities exchanges, boards of trade, and similar entities, the self-regulatory organization shall be subject to the same requirements as a Federal financial regulator under this section.".
+"(c) Aliaj Aferoj.—Koncerne aferojn delegitajn aŭ alie sub la jurisdikcio de memreguligaj organizaĵoj, inkluzive de naciaj valorpaperaj interŝanĝoj, komercaj estraroj kaj similaj entoj, la memreguliga organizo devas esti submetita al la samaj postuloj kiel Federacia financa reguligisto sub tiu sekcio.".
 
-&nbsp;
+ 
 
-SEC. 802. INTERSTATE SANDBOX ACTIVITIES.
+SEC. 802. INTERŜTATAJ SANDBOXOJ ACTIVADOJ.
 
-(a) In General.—Chapter 99 of title 31, United States Code, as added by section 701 of this Act, is amended by adding at the end the following:
+(a) Ĝenerale.—Ĉapitro 99 de titolo 31, Usono-Kodo, kiel aldonite de sekcio 701 de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la jenon:
 
-"9902. Interstate sandbox activities
+"9902. Interŝtataj sablokesto-agadoj
 
-"(a) Definitions.—In this section:
+"(a) Difinoj.—En ĉi tiu sekcio:
 
-"(1) Federal financial regulator.—The term ‘Federal financial regulator’ means the Federal agency described in section 9901(a)(1) that would typically exercise jurisdiction over the product or service made available in the State financial regulatory sandbox, or the Department of the Treasury, in the case of a matter only within the jurisdiction of a State.
+"(1) Federacia financa reguligisto.—La esprimo "Federacia financa reguligisto" signifas la Federacian agentejon priskribitan en sekcio 9901(a)(1) kiu tipe ekzercus jurisdikcion super la produkto aŭ servo disponigita en la Ŝtata financa reguliga sablokesto, aŭ la Departemento de la Fisko, en la kazo de afero nur ene de la jurisdikcio de Ŝtato.
 
-"(2) Financial company.—The term ‘financial company’ means a business entity primarily engaged in activities that are financial in nature, as described in section 4(k)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(4)).
+"(2) Financa firmao.-La esprimo "financa firmao" signifas komercan enton ĉefe okupiĝis pri agadoj kiuj estas financaj en naturo, kiel priskribite en sekcio 4 (k) (4) de la Bank Holding Company Act de 1956 (12 USC). 1843 (k) (4)).
 
-"(3) Host state.—The term ‘host State’ means a State in which a financial company is not operating in the State financial regulatory sandbox of that State.
+"(3) Gastiganta ŝtato.—La esprimo "gastiganto Ŝtato" signifas Ŝtaton en kiu financa kompanio ne funkcias en la Ŝtata financa reguliga sablokesto de tiu Ŝtato.
 
-"(4) Innovative.—The term ‘innovative’ means new or emerging technology, or new uses of existing technology, that—
+"(4) Noviga.—La esprimo 'noviga' signifas novan aŭ emerĝantan teknologion, aŭ novajn uzojn de ekzistanta teknologio, tio—
 
-"(A) provides a financial product, service, business model, or delivery mechanism to the public; and
+"(A) provizas financan produkton, servon, komercan modelon aŭ liveran mekanismon al publiko; kaj
 
-"(B) has no substantially comparable, widely available analogue in common use in the United States.
+"(B) havas neniun sufiĉe kompareblan, vaste haveblan analogon en ofta uzo en Usono.
 
-"(5) State financial regulator.—The term ‘State financial regulator’ includes State agencies that regulate, supervise, or license banks, trust companies, credit unions, consumer credit, consumer protection, money transmission, securities, commodities, and similar areas.
+"(5) Ŝtata financa reguligisto.—La esprimo "Ŝtata financa reguligisto" inkluzivas Ŝtatajn agentejojn kiuj reguligas, kontrolas aŭ licencas bankojn, fidindajn kompaniojn, kreditasociojn, konsuman krediton, konsumantprotekton, montransdonon, valorpaperojn, krudvarojn kaj similajn areojn. .
 
-"(6) State financial regulatory sandbox.—The term ‘State financial regulator sandbox’ means a program created under State law that allows a financial company to make an innovative financial product or service available to customers within that State during a defined period in order to permit regulatory dialogue, data sharing amongst regulators and financial companies, and to promote an assessment of potential changes in law, rule, or policy to facilitate the appropriate supervision of financial technology.
+"(6) Ŝtata financa reguliga sablokesto.—La esprimo 'Ŝtata financa reguligisto sablokesto' signifas programon kreitan sub Ŝtata juro kiu permesas al financa firmao disponigi novigan financan produkton aŭ servon al klientoj ene de tiu Ŝtato dum difinita periodo en ordo. permesi reguligan dialogon, kundividon de datumoj inter reguligistoj kaj financaj kompanioj, kaj antaŭenigi taksadon de eblaj ŝanĝoj en leĝo, regulo aŭ politiko por faciligi la taŭgan inspektadon de financa teknologio.
 
-"(b) Business Conducted.—Upon joint approval under subsection (d), a financial company in good standing in a State financial regulatory sandbox and operating for not less than 6 months in that sandbox program, may do business across State lines under the standards of this section. If approved, the state financial regulator and the Federal financial regulator may agree upon reasonable adjustments to the number of customers that may be served, increased bonding or collateral requirements, and similar conditions which may be appropriate for conducting business nationally.
+"(b) Komerco Farita.—Laŭ komuna aprobo sub subsekcio (d), financa firmao en bona stato en Ŝtata financa reguliga sablokesto kaj funkcianta dum ne malpli ol 6 monatoj en tiu sablokestoprogramo, povas fari komercon trans Ŝtataj linioj sub la normoj de ĉi tiu sekcio.Se aprobite, la ŝtata financa reguligisto kaj la Federacia financa reguligisto povas konsenti pri akcepteblaj alĝustigoj al la nombro da klientoj kiuj povas esti servitaj, pliigita ligo aŭ krompostuloj, kaj similaj kondiĉoj kiuj povas esti taŭgaj por farado de komerco nacie.
 
-"(c) State Sandbox Requirements.—A State financial regulatory sandbox shall contain the following components for financial companies to be eligible to do business across State lines under this section:
+"(c) Ŝtataj Sablokesto Postuloj.—Ŝtata financa reguliga sablokesto enhavas la sekvajn komponentojn por financaj kompanioj por povi fari komercon trans Ŝtataj linioj sub ĉi tiu sekcio:
 
-"(1) A limited sandbox period of not more than 24 months.
+"(1) Limigita sablokestoperiodo de ne pli ol 24 monatoj.
 
-"(2) Consumer protection requirements, which may include disclosures, bonding, insurance requirements, and financial literacy programs for specified consumers.
+"(2) Postuloj pri protekto de konsumantoj, kiuj povas inkluzivi malkaŝojn, ligon, asekurpostulojn kaj programojn pri financa legopovo por specifitaj konsumantoj.
 
-"(3) Authority to conduct examinations of the financial company.
+"(3) Aŭtoritato fari ekzamenojn de la financa kompanio.
 
-"(4) A background investigation of the financial company and its officers, directors, members, managers and key employees, prior to commencing business.
+"(4) Fona enketo de la financa firmao kaj ĝiaj oficiroj, direktoroj, membroj, manaĝeroj kaj ŝlosilaj dungitoj, antaŭ komenci komercon.
 
-"(d) Decision.—Upon submission of an application by a financial company to conduct business across State lines under subsection (b), the State financial regulator and Federal financial regulator shall jointly issue a decision within 120 days with respect to that application, irrespective of any supplemental information with respect to the application that may be requested after initial filing. The Federal financial regulator shall have the authority to conduct a joint examination of any financial company doing business under this section.
+"(d) Decido. - Post submetado de peto de financa kompanio por fari komercon trans Ŝtataj linioj sub subsekcio (b), la Ŝtata financa reguligisto kaj Federacia financa reguligisto kune eligos decidon ene de 120 tagoj kun respekto al tiu aplikaĵo, sendepende de ajna suplementa informo rilate al la kandidatiĝo kiu povas esti petita post komenca arkivado.La Federacia financa reguligisto havos la aŭtoritaton fari komunan ekzamenon de iu financa kompanio faranta komercon sub ĉi tiu sekcio.
 
-"(e) Factors.—The State financial regulator and Federal financial regulator shall consider the following factors in rendering a decision on the application:
+"(e) Faktoroj.—La Ŝtata financa reguligisto kaj Federacia financa reguligisto konsideros la sekvajn faktorojn por fari decidon pri la kandidatiĝo:
 
-"(1) Whether the product or service offered may be offered in a safe and sound manner across State lines.
+"(1) Ĉu la produkto aŭ servo ofertita povas esti ofertitaj en sekura kaj sana maniero trans Ŝtataj linioj.
 
-"(2) Whether the management and capital of the financial company is commensurate with the scale of the company.
+"(2) Ĉu la administrado kaj kapitalo de la financa kompanio kongruas kun la skalo de la kompanio.
 
-"(3) Risk management plans of the financial company.
+"(3) Planoj pri administrado de risko de la financa kompanio.
 
-"(4) Conduct of the financial company to date in the State regulatory sandbox, and any past regulatory actions, including actions against officers, directors, members, managers and key employees.
+"(4) Konduto de la financa kompanio ĝis nun en la Ŝtata reguliga sablokesto, kaj iuj pasintaj reguligaj agoj, inkluzive de agoj kontraŭ oficiroj, direktoroj, membroj, administrantoj kaj ŝlosilaj dungitoj.
 
-"(5) Plans for consumer education and financial literacy, including partnerships with local educational institutions and community colleges to provide financial literacy classes or resources.
+"(5) Planoj por konsumantedukado kaj financa legopovo, inkluzive de partnerecoj kun lokaj edukaj institucioj kaj regionaj altlernejoj por disponigi financajn legopovklasojn aŭ rimedojn.
 
-"(6) Other factors determined by the State and Federal financial regulators to be material.
+"(6) Aliaj faktoroj determinitaj de la Ŝtataj kaj Federaciaj financaj reguligistoj estas gravaj.
 
-"(f) Election.—A host State may elect not to permit financial companies operating under this section to do business in their State through issuance of an executive order by the Governor of that State.
+"(f) Elekto.—Gastigŝtato povas elekti ne permesi financajn kompaniojn funkciantajn sub ĉi tiu sekcio fari komercon en sia Ŝtato per emisio de plenuma ordono de la Guberniestro de tiu Ŝtato.
 
-"(g) Innovative.—A product or service made available under this section through a State financial regulatory sandbox shall be innovative.
+"(g) Noviga.—Produkto aŭ servo disponigita sub ĉi tiu sekcio per Ŝtata financa reguliga sablokesto devas esti noviga.
 
-"(h) Rules of Construction.—This section shall not be construed to extend to permit—
+"(h) Reguloj de Konstruo.—Ĉi tiu sekcio ne devas esti interpretita por etendi por permesi—
 
-"(1) a financial company to engage in any activities for which a charter, license, registration or for which permission would be required under Federal or State law but for the innovative financial product or service being offered by the company, except to the extent the financial company would be required to obtain a charter, license or other authorization required in a host State;
+"(1) financa firmao okupiĝi pri iuj agadoj por kiuj ĉarto, licenco, registrado aŭ por kiu permeso estus postulata laŭ Federacia aŭ Ŝtata juro krom por la noviga financa produkto aŭ servo ofertita de la firmao, krom laŭ la mezuro. la financa kompanio estus postulata por akiri ĉarton, licencon aŭ alian rajtigon postulatan en gastiga Ŝtato;
 
-"(2) failure to comply with any applicable portion of State law required by the State financial regulatory sandbox, or failure to comply with any applicable portion of Federal law, unless authorized on a limited basis by the Federal financial regulator to achieve the purposes of this section and the State financial regulatory sandbox; or
+"(2) malsukceso observi ajnan aplikeblan parton de Ŝtata juro postulita de la Ŝtata financa reguliga sablokesto, aŭ malsukceso observi ajnan aplikeblan parton de Federacia juro, krom se rajtigite sur limigita bazo de la Federacia financa reguligisto por atingi la celojn de ĉi tiu sekcio kaj la Ŝtata financa reguliga sablokesto; aŭ
 
-"(3) lending activities in excess of the maximum statutory rate of interest permissible in a State.".
+"(3) pruntedonado de agadoj pli ol la maksimuma laŭleĝa interezo permesebla en Ŝtato.".
 
-(b) Technical and Conforming Amendment.—The table of contents for subtitle VI of title 31, United States Code, as amended by section 101(b) of this Act, is amended by adding at the end the following:
+(b) Teknika kaj Konforma Amendo.—La enhavtabelo por subtitolo VI de titolo 31, Usono-Kodo, kiel ŝanĝita de sekcio 101(b) de ĉi tiu Ago, estas ŝanĝita aldonante ĉe la fino la jenon:
 
-"99.Responsible interagency coordination
+"99.Respondeca interinstanca kunordigo
 
 9901".
 
-&nbsp;
+ 
 
-SEC. 803. STATE MONEY TRANSMISSION COORDINATION RELATING TO DIGITAL ASSETS.
+SEC. 803. STATA MON-SENDKOORDINADO RELATANTA AL DIGITAJ AKTIVOJ.
 
-(a) In General.—In order to increase uniformity, reduce regulatory burden, and enhance consumer protection, the States, through the Conference of State Bank Supervisors and the Money Transmission Regulators Association, shall, not later than 2 years after the date of enactment of this Act, ensure uniform treatment of digital assets for the purposes of state money transmission laws on the following matters:
+(a) Ĝenerale.—Por pliigi unuformecon, redukti reguligan ŝarĝon kaj plifortigi protekton de konsumantoj, la Ŝtatoj, pere de la Konferenco de Ŝtataj Bankaj Kontrolistoj kaj la Asocio de Reguligistoj pri Montransdono, ne pli malfrue ol 2 jarojn post la dato de leĝigo de ĉi tiu Leĝo, certigi unuforman traktadon de ciferecaj aktivoj por la celoj de ŝtataj montransdono leĝoj pri la sekvaj aferoj:
 
-(1) Whether digital assets are subject to money transmission licensing requirements, as appropriate, which shall include the exchange of digital assets for legal tender.
+(1) Ĉu ciferecaj aktivoj estas submetitaj al licencaj postuloj de montranssendo, kiel konvene, kiuj inkluzivas la interŝanĝon de ciferecaj aktivoj kontraŭ leĝa pagilo.
 
-(2) Treatment of payment stablecoins.
+(2) Traktado de pagaj stabilaj moneroj.
 
-(3) Non-applicability to persons or software that engage in validation of transactions, non-custodial wallet providers, or software or hardware development.
+(3) Ne-aplikebleco al personoj aŭ programaroj kiuj okupiĝas pri validumado de transakcioj, ne-gardaj monujo-provizantoj aŭ programaro aŭ aparataro.
 
-(4) Tangible net worth and permissible investment requirements.
+(4) Perceptebla netvaloro kaj permeseblaj investpostuloj.
 
-(5) Disclosures, reporting, and recordkeeping.
+(5) Riveloj, raportado kaj registrotenado.
 
-(6) Common examination and examiner training standards, including common customer identification, anti-money laundering, and sanctions best practices developed in consultation with the Financial Crimes Enforcement Network and the Office of Foreign Assets Control.
+(6) Komunaj ekzamenaj kaj ekzamenantaj trejnadnormoj, inkluzive de komuna klientidentigo, kontraŭ-monlavado, kaj sankciaj plej bonaj praktikoj evoluigitaj en interkonsiliĝo kun la Financkrimoj-Devigo-Reto kaj la Oficejo de Eksterlandaj Aktivaĵoj.
 
-(b) Regulations.—If the Director of the Bureau of Consumer Financial Protection determines that a State does not have the requirements of subsection (a) in effect by law (including regulations) that are substantively consistent with the requirements of the several States on the date that is 2 years after the date of enactment of this section, the Director shall adopt rules applicable to that State that achieve the purposes of subsection (a) and that are consistent with the standards adopted in the States that have the requirements of subsection (a) in effect. The Director may extend the deadline under this section for not more than 1 year if a State has shown a good faith effort towards implementation. The Director may promulgate regulations to monitor State compliance with this subsection.
+(b) Regularoj.—Se la Direktoro de la Oficejo pri Financa Protekto de Konsumantoj determinas, ke Ŝtato ne havas la postulojn de subsekcio (a) efektive perleĝe (inkluzive de regularoj) kiuj estas substantive kongruaj kun la postuloj de la pluraj Ŝtatoj pri la dato kiu estas 2 jarojn post la dato de leĝigo de ĉi tiu sekcio, la Direktoro alprenos regulojn aplikeblajn al tiu Ŝtato kiuj atingas la celojn de subsekcio (a) kaj kiuj estas kongruaj kun la normoj adoptitaj en la ŝtatoj kiuj havas la postulojn de subsekcio. (a) efektive. La Direktoro povas plilongigi la limdaton sub ĉi tiu sekcio por ne pli ol 1 jaro se Ŝtato montris bonan kredan klopodon al efektivigo. La Direktoro povas promulgi regularojn por kontroli Ŝtatan plenumon de ĉi tiu subsekcio.
 
-&nbsp;
+ 
 
-SEC. 804. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
+SEC. 804. PARTO DE INFORMOJ INTER FEDERAJ KAJ ŜTAJ FINANCAJ REGULIGOJ.
 
-Subtitle C of title VII of the Gramm-Leach Bliley Act (Public Law 106–102; 113 Stat. 1470), as amended by section 601 of this Act, is amended by adding at the end the following:
+Subtitolo C de titolo VII de la Gramm-Leach Bliley-Leĝo (Publika Juro 106-102; 113 Stat. 1470), kiel ŝanĝite per parto 601 de tiu Ago, estas ŝanĝita aldonante ĉe la fino la sekvantan:
 
-"SEC. 722B. INFORMATION SHARING AMONG FEDERAL AND STATE FINANCIAL REGULATORS.
+"SEC. 722B. INFORMA PARTO INTER FEDERAJ KAJ ŜTAJ FINANCAJ REGULIGOJ.
 
-"(a) Confidentiality.—Notwithstanding any other provision of law, any requirement under Federal or State law regarding the privacy or confidentiality of any information or materials exchanged among financial regulators and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to any State or Federal financial regulator.
+"(a) Konfidenco.—Malgraŭ ajna alia dispozicio de leĝo, ajna postulo sub Federacia aŭ Ŝtata juro koncerne la privatecon aŭ konfidenco de ajnaj informoj aŭ materialoj interŝanĝitaj inter financaj reguligistoj kaj ajna privilegio ekestiĝanta sub Federacia aŭ Ŝtata juro (inkluzive de la reguloj de iu ajn Federacia aŭ Ŝtata tribunalo) rilate tiajn informojn aŭ materialon, daŭre aplikiĝas al tiaj informoj aŭ materialoj post kiam la informoj aŭ materialoj estis malkaŝitaj al iu ajn Ŝtata aŭ Federacia financa reguligisto.
 
-"(b) Non Applicability of Certain Requirements.—Information or material that is subject to privilege or confidentiality under subsection (a) shall not be subject to—
+"(b) Ne Aplikebleco de Certaj Postuloj.—Informoj aŭ materialoj kiuj estas submetitaj al privilegio aŭ konfidenco laŭ subsekcio (a) ne devas esti kondiĉigitaj de—
 
-"(1) disclosure under any Federal or State law governing the disclosure to the public of information held by an officer or an agency of the Federal Government or the respective State; or
+"(1) malkaŝo laŭ iu Federacia aŭ Ŝtata leĝo reganta la malkaŝon al publiko de informoj tenitaj fare de oficiro aŭ agentejo de la Federacia Registaro aŭ la respektiva Ŝtato; aŭ
 
-"(2) subpoena or discovery, or admission into evidence, in any private civil action or administrative process, unless with respect to any privilege held by the Nationwide Mortgage Licensing System and Registry or the Director with respect to such information or material, the person to whom such information or material pertains waives that privilege, in whole or in part, based on the discretion of such person.
+"(2) asigno aŭ malkovro, aŭ akcepto en indicon, en iu privata civila ago aŭ administra procezo, krom se kun respekto al iu privilegio tenita fare de la Tutlanda Hipoteka Licenca Sistemo kaj Registro aŭ la Direktoro rilate tiajn informojn aŭ materialon, la persono al kiu tia informo aŭ materialo apartenas, rezignas pri tiu privilegio, tute aŭ parte, surbaze de la bontrovo de tia persono.
 
-"(c) Coordination With Other Law.—Any State or Federal law, including any State open records law, relating to the disclosure of confidential supervisory information or any information or material described in subsection (a) that is inconsistent with subsection (a) shall be superseded by the requirements of such provision to the extent the State or Federal law provides less confidentiality or a weaker privilege.
+"(c) Kunordigo Kun Alia Juro.-Ajna Ŝtata aŭ Federacia leĝo, inkluzive de ajna Ŝtata malferma rekorda leĝo, rilatanta al la malkaŝo de konfidencaj kontrolaj informoj aŭ ajnaj informoj aŭ materialoj priskribitaj en subsekcio (a) kiu estas malkongrua kun subsekcio (a) estos anstataŭita de la postuloj de tia provizo laŭ la mezuro kiun la Ŝtata aŭ Federacia leĝo provizas malpli konfidencon aŭ pli malfortan privilegion.
 
-"(d) Conference of State Bank Supervisors.—The Conference of State Bank Supervisors shall be considered the agent of the State financial regulators for the purposes of sharing information under this provision.
+"(d) Konferenco de Ŝtataj Bankaj Kontrolistoj.—La Konferenco de Ŝtataj Bankaj Kontrolistoj devas esti konsiderata la agento de la Ŝtataj financaj reguligistoj por kunhavigi informojn laŭ ĉi tiu dispozicio.
 
-"(e) Definition.—In this section, the term ‘financial regulator’ means—
+"(e) Difino.—En ĉi tiu sekcio, la esprimo 'financa reguligisto' signifas—
 
-"(1) the Board of Governors of the Federal Reserve System and the Federal Reserve banks;
+"(1) la Estraro de Guberniestroj de la Federacia Rezerva Sistemo kaj la Federacia Rezervaj bankoj;
 
-"(2) the Commodity Futures Trading Commission;
+"(2) la Komisiono pri Komercaj Estontecoj pri Varo;
 
-"(3) the Department of the Treasury, including the Financial Crimes Enforcement Network and the Office of Foreign Assets Control;
+"(3) la Sekcio de la Fisko, inkluzive de la Financa Krimo-Devigo-Reto kaj la Oficejo de Eksterlandaj Aktivaĵoj;
 
-"(4) the Federal Deposit Insurance Corporation;
+"(4) la Federacia Deponeja Asekuro-Korporacio;
 
-"(5) the Federal Housing Finance Agency;
+"(5) la Federacia Loĝiga Financa Agentejo;
 
-"(6) the National Credit Union Administration;
+"(6) la National Credit Union Administration;
 
-"(7) the Office of the Comptroller of the Currency;
+"(7) la Oficejo de la Kontrolisto de la Valuto;
 
-"(8) the Bureau of Consumer Financial Protection;
+"(8) la Oficejo pri Financa Protekto de Konsumanto;
 
-"(9) the Securities and Exchange Commission; and
+"(9) la Komisiono pri Valorpaperoj; kaj
 
-"(10) State agencies that regulate, supervise, or license banks, trust companies, credit unions, consumer credit, consumer protection, money transmission, securities, commodities, and similar areas.".
+"(10) Ŝtataj agentejoj, kiuj reguligas, kontrolas aŭ licencas bankojn, fidindajn kompaniojn, kreditasociojn, konsuman krediton, konsumantprotekton, montransdonon, valorpaperojn, krudvarojn kaj similajn areojn.".
 
-&nbsp;
+ 
 
-SEC. 805. ANALYSIS OF DECENTRALIZED FINANCE MARKETS AND TECHNOLOGIES.
+SEC. 805. ANALIZO DE DECENTRALIZITAJ FINANCOMERKAĴOJ KAJ TEKNOLOGIOJ.
 
-Not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury, in consultation with the Commodity Futures Trading Commission, Securities and Exchange Commission, and private sector developers and participants in decentralized protocols, digital assets, and digital asset exchanges, shall—
+Ne pli malfrue ol 1 jaron post la dato de promulgo de ĉi tiu Ago, la Sekretario de la Fisko, interkonsiliĝante kun la Komisiono pri Komerco pri Varoj, Securities and Exchange Commission, kaj privatsektoraj programistoj kaj partoprenantoj en malcentralizitaj protokoloj, ciferecaj aktivoj kaj ciferecaj aktivoj. interŝanĝoj, devas—
 
-(1) analyze the market position of decentralized finance technologies with respect to digital assets; and
+(1) analizi la merkatan pozicion de malcentralizitaj financaj teknologioj rilate al ciferecaj aktivoj; kaj
 
-(2) submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives a report on—
+(2) submeti al la Komitato pri Bankado, Loĝado kaj Urbaj Aferoj kaj la Komitato pri Agrikulturo, Nutrado kaj Forstado de la Senato kaj la Komitato pri Financaj Servoj kaj la Komitato pri Agrikulturo de la Ĉambro de Reprezentantoj raporton pri—
 
-(A) current development and use of decentralized finance protocols in the United States and other countries;
+(A) aktuala disvolviĝo kaj uzo de malcentralizitaj financaj protokoloj en Usono kaj aliaj landoj;
 
-(B) opportunities, benefits, and challenges relating to decentralized finance protocols and self-custody of digital assets;
+(B) ŝancoj, avantaĝoj kaj defioj rilataj al malcentralizitaj financaj protokoloj kaj mem-gardado de ciferecaj aktivoj;
 
-(C) a comparison of operational friction, fees, liquidity and trading opportunities in decentralized finance protocols, digital asset markets, and traditional markets;
+(C) komparo de operacia frikcio, kotizoj, likvideco kaj komercaj ŝancoj en malcentralizitaj financaj protokoloj, ciferecaj valoraĵoj kaj tradiciaj merkatoj;
 
-(D) transparency, prevention of manipulation, and customer protection;
+(D) travidebleco, preventado de manipulado kaj protekto de klientoj;
 
-(E) cybersecurity and resiliency; and
+(E) cibersekureco kaj rezisteco; kaj
 
-(F) ensuring the accuracy of information regarding the underlying smart contracts of a decentralized finance protocol and the transactions facilitated by such contracts, as the information appears on a website or other similar means relating to the protocol.
+(F) certigi la precizecon de informoj pri la subaj inteligentaj kontraktoj de malcentralizita financa protokolo kaj la transakcioj faciligitaj de tiaj kontraktoj, ĉar la informoj aperas en retejo aŭ aliaj similaj rimedoj rilate al la protokolo.
 
-&nbsp;
+ 
 
-SEC. 806. ANALYSIS OF ENERGY CONSUMPTION IN DIGITAL ASSET MARKETS.
+SEC. 806. ANALIZO DE ENERGIA KONSUMO EN DIGITAJ VALORIOJ MERKAJ.
 
-(a) In General.—Each year, the Federal Energy Regulatory Commission, in consultation with the Commodity Futures Trading Commission and Securities and Exchange Commission, shall analyze the following topics with respect to digital asset markets:
+(a) Ĝenerale.—Ĉiu jaro, la Federacia Energio-Reguliga Komisiono, interkonsiliĝante kun la Komerca Komisiono pri Komercaj Estontecoj kaj Securities and Exchange Commission, analizos la sekvajn temojn rilate al ciferecaj valoraĵmerkatoj:
 
-(1) Energy consumption for mining and staking of digital asset transactions.
+(1) Energia konsumo por minado kaj staking de ciferecaj aktivoj transakcioj.
 
-(2) The effect of energy consumption described in paragraph (1) on national, regional, and local energy prices.
+(2) La efiko de energikonsumo priskribita en paragrafo (1) sur naciaj, regionaj kaj lokaj energiprezoj.
 
-(3) The effects of mining and staking of digital asset transactions on baseload power levels.
+(3) La efikoj de minado kaj staking de ciferecaj aktivoj transakcioj sur bazŝarĝaj potenconiveloj.
 
-(4) The use of renewable energy sources, including use of nonrenewable sources that would otherwise be wasted, and a comparison of digital asset market energy consumption with the financial services industry and economy as a whole.
+(4) La uzo de renovigeblaj energifontoj, inkluzive de uzo de nerenovigeblaj fontoj, kiuj alie malŝparus, kaj komparo de cifereca aktivaĵmerkata energikonsumo kun la financa servo industrio kaj ekonomio entute.
 
-(5) The sources and reliability of the data used under this subsection.
+(5) La fontoj kaj fidindeco de la datumoj uzataj sub ĉi tiu subsekcio.
 
-(6) A process for regulated entities to make information publicly available regarding energy consumption, including sources of energy and amount, and, if appropriate, recommendations to Congress to establish such a process.
+(6) Procezo por reguligitaj entoj por disponigi informojn publike pri energikonsumo, inkluzive de fontoj de energio kaj kvanto, kaj, se konvene, rekomendoj al la Kongreso por establi tian procezon.
 
-(b) Report.—Not later than December 31 of each year, the Federal Energy Regulatory Commission shall submit to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives a report containing the analysis required by subsection (a).
+(b) Raporto.—Ne pli malfrue ol la 31-an de decembro de ĉiu jaro, la Federacia Energio-Reguliga Komisiono submetos al la Komitato pri Energio kaj Naturaj Rimedoj kaj la Komisiono pri Medio kaj Publikaj Verkoj de la Senato kaj la Komitato pri Energio kaj Komerco kaj la Komisiono pri Naturaj Rimedoj de la Ĉambro de Reprezentantoj raporto enhavanta la analizon postulita de subsekcio (a).
 
-&nbsp;
+ 
 
-SEC. 807. ANALYSIS OF SELF-REGULATION AND REGISTERED DIGITAL ASSET ASSOCIATIONS.
+SEC. 807. ANALISO DE AUTOREGULAJ KAJ REGISTRAJ CIFERAJ ASOCIOJ.
 
-(a) In General.—Not later than 180 days after the date of enactment of this Act, the Commodity Futures Trading Commission and Securities and Exchange Commission, in consultation with digital asset intermediaries, as defined in section 9801 of title 31, United States Code, as added by section 101 of this Act, and standard-setting associations representing the digital asset industry, shall conduct a study and submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives a report setting forth principles for self-regulation for digital asset markets and a proposal for the establishment of registered digital asset associations for digital asset markets based on delegated authority from the Commodity Futures Trading Commission and Securities and Exchange Commission to facilitate innovative, efficient, and orderly markets for digital assets in accordance with this Act, and the amendments made by this Act, including—
+(a) Ĝenerale.—Ne pli malfrue ol 180 tagojn post la dato de ekvalidiĝo de ĉi tiu Ago, la Komisiono pri Komerco pri Varo-Estonteco kaj Komisiono pri Valorpaperoj kaj Interŝanĝoj, interkonsiliĝinte kun perantoj de ciferecaj valoraĵoj, kiel difinite en la sekcio 9801 de titolo 31, Usono. Kodo, kiel aldonite de sekcio 101 de ĉi tiu Leĝo, kaj norm-fiksaj asocioj reprezentantaj la industrion de ciferecaj aktivoj, devas fari studon kaj submeti al la Komitato pri Bankado, Loĝado kaj Urbaj Aferoj kaj la Komitato pri Agrikulturo, Nutrado,kaj Forstado de la Senato kaj la Komitato pri Financaj Servoj kaj la Komisiono pri Agrikulturo de la Ĉambro de Reprezentantoj raporto kiu prezentas principojn por memreguligo por ciferecaj valoraĵmerkatoj kaj proponon por la establado de registritaj ciferecaj aktivo-asocioj por ciferecaj valoraĵmerkatoj bazitaj. pri delegita aŭtoritato de la Komisiono pri Komerco de Varoj-Estonteco kaj la Komisiono pri Valorpaperoj por faciligi novigajn, efikajn kaj bonordajn merkatojn por ciferecaj aktivoj konforme al ĉi tiu Leĝo, kaj la amendoj faritaj de ĉi tiu Leĝo, inkluzive de—
 
-(1) standard setting, corporate transparency requirements, and rulemaking relating to digital asset market conduct;
+(1) norma agordo, kompania travidebleco postuloj, kaj regulfarado rilate al cifereca aktiva merkatkonduto;
 
-(2) regular consultation between the Commodity Futures Trading Commission and Securities and Exchange Commission with respect to rules governing digital asset market conduct and the governance of registered digital asset associations;
+(2) regula konsulto inter la Komerca Komisiono pri Komercaj Estontecoj kaj la Komisiono pri Valorpaperoj kaj Interŝanĝoj rilate al reguloj reganta merkatkonduton de ciferecaj valoraĵoj kaj la regado de registritaj asocioj pri ciferecaj valoraĵoj;
 
-(3) appropriate investigatory and disciplinary powers of registered digital asset associations and registered digital asset exchanges, respectively;
+(3) taŭgaj esploraj kaj disciplinaj potencoj de registritaj ciferecaj aktivoj asocioj kaj registritaj ciferecaj valoraĵoj interŝanĝoj, respektive;
 
-(4) the authority of digital asset intermediaries to conduct activities relating to traditional assets;
+(4) la aŭtoritato de ciferecaj aktivoj perantoj por fari agadojn rilatajn al tradiciaj aktivoj;
 
-(5) consumer education and financial literacy;
+(5) konsumanta edukado kaj financa legopovo;
 
-(6) professional accreditation and education;
+(6) profesia akredito kaj edukado;
 
-(7) market surveillance and oversight, including use of technology to facilitate shared trade practices and market surveillance;
+(7) merkatgvatado kaj superrigardo, inkluzive de uzado de teknologio por faciligi komunajn komercajn praktikojn kaj merkatan gvatadon;
 
-(8) risk-based examination authority;
+(8) risk-bazita ekzamena aŭtoritato;
 
-(9) dispute resolution and arbitration;
+(9) disputsolvado kaj arbitracio;
 
-(10) membership of registered digital asset association members in other self-regulatory organizations and mutual recognition and acceptance of rules and examination reports amongst self-regulatory organizations;
+(10) membreco de registritaj membroj de la asocio de ciferecaj valoraĵoj en aliaj memreguligaj organizoj kaj reciproka rekono kaj akcepto de reguloj kaj ekzamenraportoj inter memreguligaj organizoj;
 
-(11) voluntary and compulsory membership structures;
+(11) libervolaj kaj devigaj membrostrukturoj;
 
-(12) the initial determination of the legal classification of a digital asset by a registered digital asset association, subject to oversight by the Commodity Futures Trading Commission and Securities and Exchange Commission; and
+(12) la komenca determino de la laŭleĝa klasifiko de cifereca valoraĵo fare de registrita cifereca aktivaĵo-asocio, kondiĉigita de superrigardo de la Komisiono pri Komerco pri Estontaj Komercoj kaj Securities and Exchange Commission; kaj
 
-(13) the funding of registered digital asset associations based on fees.
+(13) la financado de registritaj ciferecaj aktivoj asocioj surbaze de kotizoj.
 
-(b) Interim Rule.—Not later than August 1, 2022, the Commodity Futures Trading Commission and Securities and Exchange Commission shall jointly adopt an interim final rule specifying the scope of the study under subsection (a), including topics of discussion and questions for digital asset intermediaries and associations representing the digital asset industry, and setting forth not fewer than 3 public meetings for staff of the Commodity Futures Trading Commission and the Securities and Exchange Commission to receive public comment. The interim final rule shall establish a comment period of not less than 120 days prior to publication of the report under subsection (a) and contain draft legislative text for the creation of registered digital asset associations by Congress.
+(b) Provizora Regulo.—Ne pli malfrue ol la 1-an de aŭgusto 2022, la Komisiono pri Komerco pri Varo-Estonteco kaj Komisiono pri Valorpaperoj kaj Interŝanĝoj kune adoptos provizoran finan regulon, kiu specifas la amplekson de la studo sub subsekcio (a), inkluzive de temoj de diskuto kaj demandoj. por perantoj de ciferecaj valoraĵoj kaj asocioj reprezentantaj la industrion de ciferecaj aktivoj, kaj aranĝante ne malpli ol 3 publikajn kunvenojn por dungitoj de la Komisiono pri Komerco pri Estontaj Varoj kaj la Komisiono pri Valorpaperoj por ricevi publikajn komentojn. La provizora fina regulo establos komentperiodon de ne malpli ol 120 tagoj antaŭ publikigo de la raporto sub subsekcio (a) kaj enhavas projekton de leĝdona teksto por la kreado de registritaj ciferecaj aktivoj asocioj fare de la Kongreso.
 
-&nbsp;
+ 
 
-SEC. 808. CYBERSECURITY STANDARDS FOR DIGITAL ASSET INTERMEDIARIES.
+SEC. 808. CIBERSEKURECO NORMON POR DIGITAJ VALOJ INTERMEDARIOJ.
 
-(a) Definition.—In this section, the term "digital asset intermediary" has the meaning given the term in section 9801 of title 31, United States Code, as added by section 101 of this Act.
+(a) Difino.—En ĉi tiu sekcio, la esprimo "cifereca valoraĵo peranto" havas la signifon donitan la esprimon en sekcio 9801 de titolo 31, Usono-Kodo, kiel aldonite per sekcio 101 de ĉi tiu Ago.
 
-(b) Requirement.—Not later than 18 months after the date of enactment of this Act, the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Secretary of the Treasury and the Director of the National Institute of Standards and Technology, shall develop comprehensive, principles-based guidance relating to cybersecurity for digital asset intermediaries that account for, with respect to such a digital asset intermediary—
+(b) Postulo.—Ne pli malfrue ol 18 monatojn post la dato de ekvalidiĝo de ĉi tiu Ago, la Komisiono pri Komerco pri Varoj-Estonteco kaj la Komisiono pri Valorpaperoj kaj Interŝanĝoj, interkonsiliĝinte kun la Sekretario de la Fisko kaj la Direktoro de la Nacia Instituto de Normoj kaj Teknologio, disvolvos ampleksan, princip-bazitan gvidadon rilate al cibersekureco por perantoj de ciferecaj valoraĵoj, kiuj respondecas pri tia peranto de ciferecaj valoraĵoj—
 
-(1) the internal governance, and organizational culture, of the cybersecurity program of the digital asset intermediary;
+(1) la interna regado, kaj organiza kulturo, de la cibersekureca programo de la peranto de ciferecaj valoraĵoj;
 
-(2) security operations of the digital asset intermediary, including threat identification, incident response, and mitigation;
+(2) sekurecaj operacioj de la peranto de ciferecaj aktivoj, inkluzive de minaco-identigo, incidenta respondo kaj mildigo;
 
-(3) risk identification and measurement by the digital asset intermediary;
+(3) risko-identigo kaj mezurado de la peranto de ciferecaj valoraĵoj;
 
-(4) the mitigation of risk by the digital asset intermediary, including policies of the digital asset intermediary, controls implemented by the digital asset intermediary, change management with respect to the digital asset intermediary, and the supply chain integrity of the digital asset intermediary;
+(4) la mildigo de risko de la peranto de ciferecaj valoraĵoj, inkluzive de politikoj de la peranto de ciferecaj valoraĵoj, kontroloj efektivigitaj de la peranto de ciferecaj valoraĵoj, ŝanĝadministrado rilate al la peranto de ciferecaj valoraĵoj, kaj la provizoĉenintegreco de la peranto de ciferecaj valoraĵoj;
 
-(5) assurance provided by, and testing conducted by, the digital asset intermediary, including penetration testing and independent audits so conducted; and
+(5) certigo provizita de, kaj testado farita de, la cifereca valoraĵo peranto, inkluzive de penetro-testado kaj sendependaj revizioj tiel faritaj; kaj
 
-(6) the potential for digital asset intermediaries to be used to facilitate illicit activities, including sanctions avoidance.
+(6) la potencialo por ciferecaj valoraĵperantoj esti uzataj por faciligi kontraŭleĝajn agadojn, inkluzive de evitado de sankcioj.
 
-&nbsp;
+ 
 
-SEC. 809. ADVISORY COMMITTEE ON FINANCIAL INNOVATION.
+SEC. 809. KONSILA KOMITATO PRI FINANCA NOVO.
 
-(a) Establishment.—There is established the Advisory Committee on Financial Innovation (in this section referred to as the "Committee").
+(a) Establo.—Estas establita la Konsila Komitato pri Financa Novigado (en ĉi tiu sekcio nomata "Komitato").
 
-(b) Membership.—
+(b) Membreco.—
 
-(1) Composition.—The Committee shall be composed of 10 members, as follows:
+(1) Komponado.—La Komitato estas kunmetita de 10 membroj, jene:
 
-(A) 2 members appointed by the President from the financial technology industry.
+(A) 2 membroj nomumitaj de la Prezidanto de la financa teknologio industrio.
 
-(B) 4 members appointed by the President with specializations in consumer protection, consumer education, financial literacy, or financial inclusion.
+(B) 4 membroj nomumitaj de la Prezidanto kun specialiĝo en konsumanto-protekto, konsumanto-edukado, financa legopovo aŭ financa inkludo.
 
-(C) A commissioner from the Securities and Exchange Commission, as designated by the Chair of the Commission.
+(C) Komisaro de la Komisiono pri Valorpaperoj kaj Interŝanĝo, kiel indikite de la Prezidanto de la Komisiono.
 
-(D) A commissioner from the Commodity Futures Trading Commission, as designated by the Chair of the Commission.
+(D) Komisaro de la Komerco-Komisiono pri Estontecoj, kiel indikite fare de la Prezidanto de la Komisiono.
 
-(E) A member of the Board of Governors of the Federal Reserve System, as designated by the Chair of the Board.
+(E) Membro de la Estraro de Guberniestroj de la Federacia Rezerva Sistemo, kiel indikite de la Prezidanto de la Estraro.
 
-(F) A State financial regulator, as jointly designated by the National Association of State Securities Administrators and the Conference of State Bank Supervisors.
+(F) Ŝtata financa reguligisto, kiel komune indikite fare de la Landa Asocio de Ŝtataj Valorpaperaj Administrantoj kaj la Konferenco de Ŝtataj Bankaj Kontrolistoj.
 
-(2) Political affiliation.—Not more than 4 of the members of the Committee shall be from the same political party.
+(2) Politika aparteno.—Ne pli ol 4 el la membroj de la Komitato estu el la sama politika partio.
 
-(3) Appointment date.—The appointments of the members of the Committee shall be made not later than 60 days after the date of enactment of this Act.
+(3) Nomumo-dato.—La nomumoj de la membroj de la Komitato devas esti faritaj ne pli malfrue ol 60 tagojn post la dato de ekvalidiĝo de ĉi tiu Akto.
 
-(4) Period of appointment; vacancies.—
+(4) Periodo de nomumo; vakantaĵoj.—
 
-(A) In general.—A member of the Committee shall be appointed for a term of 4 years.
+(A) Ĝenerale.—Membro de la Komitato estas nomumita por periodo de 4 jaroj.
 
-(B) Vacancies.—A vacancy in the Committee—
+(B) Vacantes.—Vakanto en la Komitato—
 
-(i) shall not affect the powers of the Committee; and
+(i) ne influas la povojn de la Komitato; kaj
 
-(ii) shall be filled in the same manner as the original appointment.
+(ii) devas esti plenigita en la sama maniero kiel la originala nomumo.
 
-(5) Meetings.—
+(5) Kunvenoj.—
 
-(A) Initial meeting.—Not later than 60 days after the date on which all members of the Committee have been appointed, the Committee shall hold its first meeting.
+(A) Komenca kunsido.—Ne pli malfrue ol 60 tagojn post la dato, en kiu ĉiuj membroj de la Komitato estis nomumitaj, la Komitato okazigos sian unuan kunsidon.
 
-(B) Frequency.—The Committee shall meet at the call of the Chair.
+(B) Ofteco.—La Komitato kunvenas je la voko de la Prezidanto.
 
-(C) Quorum.—A majority of the members of the Committee shall constitute a quorum, but a lesser number of members may hold hearings.
+(C) Kvorumo.—La plimulto de la membroj de la Komitato konsistigas kvorumon, sed malpli granda nombro da membroj povas okazigi aŭdojn.
 
-(6) Chairperson.—The members described in subparagraphs (C) and (D) of paragraph (1) shall alternate, on a yearly basis, as Chairperson of the Committee, with the member described in such subparagraph (D) serving as the Chair for the 1-year period following establishment of the Committee.
+(6) Prezidanto.—La membroj priskribitaj en subalineoj (C) kaj (D) de paragrafo (1) alterniĝas, ĉiujare, kiel Prezidanto de la Komitato, kun la membro priskribita en tia subparagrafo (D) funkcianta kiel la Prezidanto por la 1-jara periodo post starigo de la Komitato.
 
-(c) Duties.—
+(c) Devoj.—
 
-(1) Matters studied.—The matters studied by the Committee shall include—
+(1) Pristuditaj aferoj.—La aferoj pristuditaj de la Komitato inkluzivas—
 
-(A) digital assets;
+(A) ciferecaj aktivoj;
 
-(B) consumer education and financial literacy;
+(B) konsumanta edukado kaj financa legopovo;
 
-(C) market structure in the securities and commodities markets;
+(C) merkatstrukturo en la valorpaperoj kaj krudvaraj merkatoj;
 
-(D) banking, payments and settlement;
+(D) bankado, pagoj kaj setlado;
 
-(E) consumer credit;
+(E) konsuma kredito;
 
-(F) financial inclusion, including reducing the cost of financial services for all people of the United States and promoting access to those services;
+(F) financa inkludo, inkluzive de redukto de la kosto de financaj servoj por ĉiuj homoj de Usono kaj antaŭenigado de aliro al tiuj servoj;
 
-(G) efficiency in the financial system;
+(G) efikeco en la financa sistemo;
 
-(H) reduction of systemic risk;
+(H) redukto de ĉiea risko;
 
-(I) competition in financial services; and
+(I) konkurado en financaj servoj; kaj
 
-(J) the State-Federal partnership in financial services regulation.
+(J) la Ŝtata-Federacia partnereco en regulado pri financaj servoj.
 
-(2) Report.—On an annual basis, or as otherwise determined necessary by the Chair of the Committee, the Committee shall report to the President and to Congress on, and provide recommendations for legislation, regulation, and supervision relating to innovation in, the matters studied under paragraph (1).
+(2) Raporto.—Jare, aŭ kiel alie determinite necese de la Prezidanto de la Komitato, la Komitato devas raporti al la Prezidanto kaj al la Kongreso pri, kaj doni rekomendojn por leĝaro, reguligo, kaj superrigardo rilate al novigado en, la aferoj studitaj sub paragrafo (1).
 
-(d) Powers.—
+(d) Povoj.—
 
-(1) Hearings.—The Committee shall hold not less than 2 hearings per calendar year to hear from interested parties and to discuss the work of the Committee.
+(1) Aŭdioj.—La Komitato okazigos ne malpli ol 2 aŭdiencojn po kalendara jaro por aŭdi de interesitoj kaj diskuti la laboron de la Komitato.
 
-(2) Information from federal agencies.—
+(2) Informoj de federaciaj instancoj.—
 
-(A) In general.—The Committee may secure directly from a Federal department or agency such information as the Committee considers necessary to carry out this section.
+(A) Ĝenerale.—La Komitato povas akiri rekte de Federacia departemento aŭ agentejo tiajn informojn, kiujn la Komitato opinias necesaj por plenumi ĉi tiun sekcion.
 
-(B) Furnishing information.—On request of the Chair of the Committee, the head of the department or agency shall furnish the information to the Committee.
+(B) Furnigado de informoj.—Laŭ peto de la Prezidanto de la Komitato, la estro de la departemento aŭ agentejo liveras la informojn al la Komitato.
 
-(3) Postal services.—The Committee may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+(3) Poŝtaj servoj.—La Komitato povas uzi la usonajn poŝtojn en la sama maniero kaj sub la samaj kondiĉoj kiel aliaj departementoj kaj agentejoj de la Federacia Registaro.
 
-(e) Compensation.—
+(e) Kompenso.—
 
-(1) In general.—All members of the Committee shall serve without compensation in addition to that received for their services as officers or employees of the United States, and all other members of the Committee shall serve without compensation.
+(1) Ĝenerale.—Ĉiuj membroj de la Komitato servos sen kompenso krom tio ricevita pro siaj servoj kiel oficiroj aŭ dungitoj de Usono, kaj ĉiuj aliaj membroj de la Komitato servos sen kompenso.
 
-(2) Travel expenses.—Each member of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code, while away from their homes or regular places of business in performance of services for the Council.
+(2) Vojaĝkostoj.—Ĉiu membro de la Komitato povas esti permesita vojaĝkostoj, inkluzive de ĉiutagaj enspezoj anstataŭ vivtenado, konforme al sekcioj 5702 kaj 5703 de titolo 5, Usono-Kodo, dum for de siaj hejmoj aŭ regulaj lokoj de komerco en elfarado de servoj por la Konsilio.
 
-(f) Staff.—
+(f) Personaro.—
 
-(1) In general.—The Chair of the Committee may, without regard to the civil service laws (including regulations), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Committee to perform its duties, except that the employment of an executive director shall be subject to confirmation by the Committee.
+(1) Ĝenerale.—La Prezidanto de la Komitato povas, sen konsidero al la ŝtatservaj leĝoj (inkluzive de regularoj), nomumi kaj eksigi administran direktoron kaj tian alian kroman personaron, kiuj povas esti necesaj por ebligi al la Komitato plenumi siajn devojn, krom ke la dungado de plenuma direktoro estas kondiĉigita de konfirmo de la Komitato.
 
-(2) Compensation.—The Chair of the Committee may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of that title.
+(2) Kompenso.—La Prezidanto de la Komitato povas fiksi la kompenson de la plenuma direktoro kaj alia dungitaro sen konsidero al ĉapitro 51 kaj subĉapitro III de ĉapitro 53 de titolo 5, Usono Kodo, rilate al klasifiko de pozicioj kaj Ĝenerala Horaro salajro. tarifoj, krom ke la indico de salajro por la administra direktoro kaj alia personaro eble ne superas la indicon pageblan por nivelo V de la Administra Horaro sub sekcio 5316 de tiu titolo.
 
-(g) Detail of Government Employees.—A Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+(g) Detalo de Registaraj Oficistoj.—Oficisto de la Federacia Registaro povas esti detaligita al la Komitato sen repago, kaj tia detalo estos sen interrompo aŭ perdo de ŝtatserva statuso aŭ privilegio.
 
-(h) Procurement of Temporary and Intermittent Services.—The Chair of the Committee may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+(h) Akiro de Temporaj kaj Intermitaj Servoj.—La Prezidanto de la Komitato povas havigi provizorajn kaj intermitajn servojn laŭ sekcio 3109(b) de titolo 5, Usono-Kodo, ĉe tarifoj por individuoj kiuj ne superas la ĉiutagan ekvivalenton de la ĉiujara. indico de baza salajro preskribita por nivelo V de la Administra Horaro sub sekcio 5316 de tiu titolo.
 
-(i) Termination.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+(i) Finiĝo.—Section 14 de la Federal Advisory Committee Act (5 USC App.) ne aplikiĝas al la Komitato.
 
-(j) Authorization of Appropriations.—There is authorized to be appropriated to the Committee to carry out this section $2,000,000 for fiscal year 2023, to remain available through fiscal year 2024.
+(j) Rajtigo de Transprenoj.—Estas rajtigita esti alproprigita al la Komitato por plenumi ĉi tiun sekcion $2,000,000 por fiskjaro 2023, por resti disponebla ĝis fiskjaro 2024.
